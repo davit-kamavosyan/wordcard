@@ -1,0 +1,51 @@
+{
+  "wordcardslibs": {
+    "title": "libs",
+    "libs": [
+      {
+        "title": "ru_en",
+        "ruen": [
+          {
+            "Title": "существительные английского",
+            "URI": "http://wordcards.000webhostapp.com/ruseng/obroznie.txt",
+            "KEY": "sushestvitelnie eng"
+          },
+          {
+            "Title": "глаголы английского",
+            "URI": "http://wordcards.000webhostapp.com/ruseng/glagoli.txt",
+            "KEY": "glagoli eng"
+          },
+ 	{
+            "Title": "Уровень Starter",
+            "URI": "http://wordcards.000webhostapp.com/ruseng/starter.txt",
+            "KEY": "english starter"
+          }
+
+
+
+
+        ]
+      },
+      {
+        "title": "ru_en”,
+        "ruger": [
+          {
+            "Title": "существительные немецкого",
+            "URI": "https://api.myjson.com/bins/1fivn3",
+            "KEY": "sushestvitelnie eng"
+          },
+          {
+            "Title": "прилагательные немецкого",
+            "URI": "https://api.myjson.com/bins/ydlf3",
+            "KEY": "prilogatelnie eng"
+          },
+          {
+            "Title": "глаголы немецкого",
+            "URI": "https://api.myjson.com/bins/15rl1b",
+            "KEY": "glagoli eng"
+          }
+        ]
+      }
+    ]
+  }
+}

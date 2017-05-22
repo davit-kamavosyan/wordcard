@@ -1,0 +1,1913 @@
+﻿{
+  "english starter": {
+    "title": "Уровень Starter",
+    "items": [
+      {
+        "title": "Личные данные",
+        "items": [
+          {
+            "title": "Человек",
+            "words": [
+{"RUSTEXT":"Человек","ENGTEXT":"Person / human / man","TRANSCRIPT": "pəːsən / 'hju:mən / mæn"},
+{"RUSTEXT":"Люди","ENGTEXT":"People","TRANSCRIPT": "pi:p(ə)l"},
+{"RUSTEXT":"Мужчина (ы)","ENGTEXT":"Man (men)","TRANSCRIPT": "mæn (men)"},
+{"RUSTEXT":"Господин, джентльмен","ENGTEXT":"Gentleman (gentlemen)","TRANSCRIPT": "ʤentlmən ('ʤentlmen)"},
+{"RUSTEXT":"Сэр (обращение)","ENGTEXT":"Sir","TRANSCRIPT": "sə:r"},
+{"RUSTEXT":"Мистер, господин (не культурно, часто пренебрежительно)","ENGTEXT":"Mister","TRANSCRIPT": "mɪstə"},
+{"RUSTEXT":"Женщина","ENGTEXT":"Woman (women)","TRANSCRIPT": "wumən ('wɪmɪn)"},
+{"RUSTEXT":"Дама (обращение)","ENGTEXT":"Lady","TRANSCRIPT": "leɪdɪ"},
+{"RUSTEXT":"Мэм (обращение)","ENGTEXT":"Madam (чаще – ma’am)","TRANSCRIPT": "mædəm (mæm)"},
+{"RUSTEXT":"Мисс (обращение к незамужней даме)","ENGTEXT":"Miss","TRANSCRIPT": "mɪs"},
+{"RUSTEXT":"Миссис (обращение к замужней даме), также стоит перед фамилией замужней дамы","ENGTEXT":"Missis (Mrs)","TRANSCRIPT": "mɪsɪz"},
+{"RUSTEXT":"Обращение к даме, если не известно, замужем ли, дабы её не обидеть","ENGTEXT":"Ms","TRANSCRIPT": "mɪz"},
+{"RUSTEXT":"Имя и фамилия","ENGTEXT":"Name","TRANSCRIPT": "neɪm"},
+{"RUSTEXT":"Имя","ENGTEXT":"First name","TRANSCRIPT": "fə:st neɪm"},
+{"RUSTEXT":"Фамилия","ENGTEXT":"Last name/ surname / family name","TRANSCRIPT": "lɑ:st neɪm / 'sə:neɪm / 'fæm(ə)lɪ neɪm"},
+{"RUSTEXT":"Возраст","ENGTEXT":"Age","TRANSCRIPT": "eɪdʒ"},
+{"RUSTEXT":"Малыш, младенец","ENGTEXT":"Baby","TRANSCRIPT": "beɪbɪ"},
+{"RUSTEXT":"Подросток","ENGTEXT":"Teenager / adolescent","TRANSCRIPT": "ti:nˌeɪdʒə/ ædə'lesənt"},
+{"RUSTEXT":"Ребенок (нейтр.)","ENGTEXT":"Child","TRANSCRIPT": "tſaɪld"},
+{"RUSTEXT":"Взрослый","ENGTEXT":"Adult","TRANSCRIPT": "ædʌlt"},
+{"RUSTEXT":"Старый","ENGTEXT":"Old","TRANSCRIPT": "əʊld"},
+{"RUSTEXT":"Сколько Вам лет?","ENGTEXT":"How old are you?","TRANSCRIPT": "haʊ əʊld ɑ: ju:"},
+{"RUSTEXT":"Мне ... .(25)","ENGTEXT":"I am … (25)","TRANSCRIPT": "aɪ æm ..."},
+{"RUSTEXT":"Замужем","ENGTEXT":"Married","TRANSCRIPT": "mærɪd"},
+{"RUSTEXT":"В разводе","ENGTEXT":"Divorced","TRANSCRIPT": "dɪ'vɔ:st"},
+{"RUSTEXT":"Не замужем/ холост/ не встречается","ENGTEXT":"Single","TRANSCRIPT": "sɪŋg(ə)l"},
+{"RUSTEXT":"Овдовевший","ENGTEXT":"Widowed","TRANSCRIPT": "wɪdəud"},
+{"RUSTEXT":"Номер телефона","ENGTEXT":"Phone number","TRANSCRIPT": "fəʊn 'nʌmbə"}
+
+                
+                ]
+          }
+        ]
+      },
+      {
+        "title": "Xарактер",
+        "items": [
+          {
+            "title": "Нейтральные слова",
+            "words": [
+                {"RUSTEXT":"Голодный","ENGTEXT":"Hungry","TRANSCRIPT": "hʌŋgrɪ"},
+{"RUSTEXT":"Большой","ENGTEXT":"Big","TRANSCRIPT": "bɪg"},
+{"RUSTEXT":"Большой / крупный","ENGTEXT":"Large","TRANSCRIPT": "lɑːʤ"},
+{"RUSTEXT":"Маленький","ENGTEXT":"Little / small","TRANSCRIPT": "lɪtl / smɔːl"},
+{"RUSTEXT":"Горячий","ENGTEXT":"Hot","TRANSCRIPT": "hɔt"},
+{"RUSTEXT":"Занятой","ENGTEXT":"Busy","TRANSCRIPT": "bɪzɪ"},
+{"RUSTEXT":"Помешанный (на чем-л.)","ENGTEXT":"Crazy (about)","TRANSCRIPT": "kreɪzɪ"},
+{"RUSTEXT":"Настоящий","ENGTEXT":"Real","TRANSCRIPT": "rɪəl"},
+{"RUSTEXT":"Строгий","ENGTEXT":"Strict","TRANSCRIPT": "strɪkt"},
+{"RUSTEXT":"Настоящий","ENGTEXT":"True","TRANSCRIPT": "truː"},
+{"RUSTEXT":"Реалист","ENGTEXT":"Realist","TRANSCRIPT": "ˈrɪəlɪst"},
+{"RUSTEXT":"Патриотичный","ENGTEXT":"Patriotic","TRANSCRIPT": "ˌpætrɪ'ɔtɪk"}
+
+                
+                ]
+          },
+          {
+            "title": "Положительные черты",
+            "words": [
+                {"RUSTEXT":"Дружелюбный","ENGTEXT":"Friendly","TRANSCRIPT": "frendlɪ"},
+{"RUSTEXT":"Умный","ENGTEXT":"Clever","TRANSCRIPT": "ˈklevə(r)"},
+{"RUSTEXT":"Умный","ENGTEXT":"Smart","TRANSCRIPT": "smɑːt"},
+{"RUSTEXT":"Умный, разумный","ENGTEXT":"Intelligent","TRANSCRIPT": "ɪnˈtelɪdʒənt"},
+{"RUSTEXT":"Красивый","ENGTEXT":"Beautiful","TRANSCRIPT": "bjuːtɪf(ə)l"},
+{"RUSTEXT":"Хороший","ENGTEXT":"Good","TRANSCRIPT": "gud"},
+{"RUSTEXT":"Серьезный","ENGTEXT":"Serious","TRANSCRIPT": "ˈsɪərɪəs"},
+{"RUSTEXT":"Счастливый","ENGTEXT":"Happy","TRANSCRIPT": "hæpɪ"},
+{"RUSTEXT":"Честный","ENGTEXT":"Honest","TRANSCRIPT": "ɔnɪst"},
+{"RUSTEXT":"Идеальный","ENGTEXT":"Ideal / perfect","TRANSCRIPT": "aɪˈdiːəl / 'pɜːfɪkt"},
+{"RUSTEXT":"Важный","ENGTEXT":"Important","TRANSCRIPT": "ɪm'pɔːt(ə)nt"},
+{"RUSTEXT":"Добрый","ENGTEXT":"Kind","TRANSCRIPT": "kaɪnd"},
+{"RUSTEXT":"Позитивный","ENGTEXT":"Positive","TRANSCRIPT": "ˈpɒzɪtɪv"},
+{"RUSTEXT":"Терпеливый","ENGTEXT":"Patient","TRANSCRIPT": "ˈpeɪʃ(ə)nt"},
+{"RUSTEXT":"Организованный","ENGTEXT":"Organized","TRANSCRIPT": "ɔːg(ə)naɪzd"},
+{"RUSTEXT":"Активный","ENGTEXT":"Active","TRANSCRIPT": "ˈæktiv"},
+{"RUSTEXT":"Мудрый, рассудительный","ENGTEXT":"Wise","TRANSCRIPT": "waɪz"},
+{"RUSTEXT":"Общительный","ENGTEXT":"Sociable","TRANSCRIPT": "səuʃəb(ə)l"},
+{"RUSTEXT":"Веселый","ENGTEXT":"Cheerful / bright","TRANSCRIPT": "ʧɪəf(ə)l / braɪt"},
+{"RUSTEXT":"Оптимист","ENGTEXT":"Optimist","TRANSCRIPT": "ˈɒptɪmɪst"},
+{"RUSTEXT":"Внимательный, заботливый","ENGTEXT":"Attentive","TRANSCRIPT": "ə'tentɪv"},
+{"RUSTEXT":"Чуткий, чувствительный","ENGTEXT":"Sensitive","TRANSCRIPT": "sen(t)sɪtɪv"},
+{"RUSTEXT":"Трудолюбивый","ENGTEXT":"Hard-working","TRANSCRIPT": "hɑːdˌwɜːkɪŋ"},
+{"RUSTEXT":"Прекрасный","ENGTEXT":"Wonderful","TRANSCRIPT": "wʌndəf(ə)l"},
+{"RUSTEXT":"Ответственный","ENGTEXT":"Responsible","TRANSCRIPT": "rɪˈspɒnsɪb(ə)l"},
+{"RUSTEXT":"Независимый","ENGTEXT":"Independent","TRANSCRIPT": "ˌɪndɪ'pendənt"},
+{"RUSTEXT":"Привлекательный","ENGTEXT":"Attractive","TRANSCRIPT": "ə'træktɪv"},
+{"RUSTEXT":"Справедливый","ENGTEXT":"Fair","TRANSCRIPT": "feər"},
+{"RUSTEXT":"Амбициозный, честолюбивый","ENGTEXT":"Ambitious","TRANSCRIPT": "æm'bɪʃəs"},
+{"RUSTEXT":"Смелый","ENGTEXT":"Brave","TRANSCRIPT": "breɪv"},
+{"RUSTEXT":"Квалифицированный","ENGTEXT":"Efficient","TRANSCRIPT": "ɪ'fɪʃ(ə)nt"},
+{"RUSTEXT":"Заботливый, проявляющий заботу","ENGTEXT":"Careful","TRANSCRIPT": "keəf(ə)l"},
+{"RUSTEXT":"Тихий, спокойный","ENGTEXT":"Calm","TRANSCRIPT": "kɑːm"},
+{"RUSTEXT":"Гордый; обладающий чувством собственного достоинства","ENGTEXT":"Proud","TRANSCRIPT": "praud"}
+                
+                
+                ]
+          },
+          {
+            "title": "Отрицательные черты",
+            "words": [{"RUSTEXT":"Плохой","ENGTEXT":"Bad","TRANSCRIPT": "bæd"},
+{"RUSTEXT":"Холодный","ENGTEXT":"Cold","TRANSCRIPT": "kəuld"},
+{"RUSTEXT":"Глупый","ENGTEXT":"Silly","TRANSCRIPT": "'sɪlɪ"},
+{"RUSTEXT":"Злой","ENGTEXT":"Angry","TRANSCRIPT": "ˈæŋɡrɪ"},
+{"RUSTEXT":"Ленивый","ENGTEXT":"Lazy","TRANSCRIPT": "leɪzɪ"},
+{"RUSTEXT":"Скучный","ENGTEXT":"Boring / dull","TRANSCRIPT": "'bɔːrɪŋ / dʌl"},
+{"RUSTEXT":"Жадный","ENGTEXT":"Greedy","TRANSCRIPT": "ˈɡriːdɪ"},
+{"RUSTEXT":"Эгоистичный","ENGTEXT":"Selfish","TRANSCRIPT": "'selfɪʃ"}
+
+                
+                
+                
+                ]
+          }
+        ]
+      },
+      {
+        "title": "Профессия",
+        "items": [
+          
+          {
+            "title": "Управление",
+            "words": [{"RUSTEXT":"Управление","ENGTEXT":"Management","TRANSCRIPT": "'mænɪʤmənt"},
+{"RUSTEXT":"Президент","ENGTEXT":"President","TRANSCRIPT": "'prezɪd(ə)nt"},
+{"RUSTEXT":"Вице-президент","ENGTEXT":"Vice-president","TRANSCRIPT": "ˌvaɪs'prezɪd(ə)nt"},
+{"RUSTEXT":"Ответственное должностное лицо (исполнительное)","ENGTEXT":"Executive officer (CEO)","TRANSCRIPT": "ɪg'zekjutɪv  'ɔfɪsə (ˈsiːiːəʊ)"},
+{"RUSTEXT":"Директор, член совета директоров","ENGTEXT":"Director","TRANSCRIPT": "dɪ'rektə, daɪ-"},
+{"RUSTEXT":"Директор-распорядитель, управляющий / финансовый директор / маркетинговый директор","ENGTEXT":"Managing / financial / marketing director","TRANSCRIPT": "'mænɪʤɪŋ / faɪ'nænʃ(ə)l /'mɑːkɪtɪŋ dɪ'rektə"},
+{"RUSTEXT":"Заместитель управляющего","ENGTEXT":"Deputy","TRANSCRIPT": "'depjutɪ"},
+{"RUSTEXT":"Генеральный управляющий; директор предприятия","ENGTEXT":"General manager","TRANSCRIPT": "'ʤen(ə)r(ə)l 'mænɪʤə"},
+{"RUSTEXT":"Помощник заведующего","ENGTEXT":"Assistant manager","TRANSCRIPT": "ə'sɪst(ə)nt 'mænɪʤə"},
+{"RUSTEXT":"Начальник отдела кадров","ENGTEXT":"Personnel manager","TRANSCRIPT": "ˌpɜːs(ə)'nel 'mænɪʤə"},
+{"RUSTEXT":"Руководитель производства","ENGTEXT":"Production manager","TRANSCRIPT": "prə'dʌkʃ(ə)n 'mænɪʤə"},
+{"RUSTEXT":"Менеджер по маркетингу","ENGTEXT":"Marketing manager","TRANSCRIPT": "'mɑːkɪtɪŋ 'mænɪʤə"},
+{"RUSTEXT":"Агент по сбыту","ENGTEXT":"Sales manager","TRANSCRIPT": "seɪlz 'mænɪʤə"},
+{"RUSTEXT":"Руководитель проекта","ENGTEXT":"Project  manager","TRANSCRIPT": "'prɔʤekt 'mænɪʤə"},
+{"RUSTEXT":"Надсмотрщик, надзиратель; контролёр, смотритель","ENGTEXT":"Supervisor","TRANSCRIPT": "'s(j)uːpəvaɪzə"},
+{"RUSTEXT":"Инспектор, ревизор","ENGTEXT":"Inspector","TRANSCRIPT": "ɪn'spektə"}
+
+                
+                
+                ]
+          },
+          {
+            "title": "Офис",
+            "words": [
+                {"RUSTEXT":"Офис","ENGTEXT":"Office","TRANSCRIPT": "'ɔfɪs"},
+{"RUSTEXT":"Конторщик, заведующий канцелярии","ENGTEXT":"Office clerk","TRANSCRIPT": "'ɔfɪs klɑːk "},
+{"RUSTEXT":"Секретарь (в учреждении)","ENGTEXT":"Receptionist","TRANSCRIPT": "rɪ'sepʃ(ə)nɪst"},
+{"RUSTEXT":"Секретарь, помощник","ENGTEXT":"Secretary","TRANSCRIPT": "'sekrət(ə)rɪ"}
+                
+                
+                ]
+          },
+          {
+            "title": "Банк",
+            "words": [
+                {"RUSTEXT":"Банк","ENGTEXT":"Bank","TRANSCRIPT": "bæŋk"},
+{"RUSTEXT":"Банкир","ENGTEXT":"Banker","TRANSCRIPT": "'bæŋkə"},
+{"RUSTEXT":"Банковский служащий","ENGTEXT":"Bank officer","TRANSCRIPT": "bæŋk 'ɔfɪsə"},
+{"RUSTEXT":"Бухгалтер","ENGTEXT":"Accountant/ bookkeeper","TRANSCRIPT": "ə'kauntənt/ 'bukˌkiːpə"},
+{"RUSTEXT":"Экономист","ENGTEXT":"Economist","TRANSCRIPT": "ɪ'kɔnəmɪst"},
+{"RUSTEXT":"Кассир","ENGTEXT":"Cashier","TRANSCRIPT": "kæ'ʃɪə"},
+{"RUSTEXT":"Аудитор, бухгалтер-ревизор,","ENGTEXT":"Auditor","TRANSCRIPT": "'ɔːdɪtə"}
+
+                
+                
+                ]
+          },
+          {
+            "title": "Продажи и Магазины",
+            "words": [
+                
+                {"RUSTEXT":"Продажи и Магазины","ENGTEXT":"Sales & Stores","TRANSCRIPT": "seɪlz & stɔːz"},
+{"RUSTEXT":"Торговый представитель","ENGTEXT":"Sales representative","TRANSCRIPT": "seɪlz reprɪ'zentətɪv"},
+{"RUSTEXT":"Продавец, торговец","ENGTEXT":"Salesperson/salesman/ saleswoman/seller","TRANSCRIPT": "'seɪlzˌpɜːs(ə)n/ 'seɪlzmən/ 'seɪlzˌwumən/ 'selə"},
+{"RUSTEXT":"Покупатель","ENGTEXT":"Buyer","TRANSCRIPT": "'baɪə"}
+                
+                ]
+          },
+          {
+            "title": "Творческая работа",
+            "words": [
+                
+                {"RUSTEXT":"Творческая работа","ENGTEXT":"Art & Creative work","TRANSCRIPT": "ɑːt & krɪ'eɪtɪv wɜːk"},
+{"RUSTEXT":"Музыкант","ENGTEXT":"Musician","TRANSCRIPT": "mjuː'zɪʃ(ə)n"},
+{"RUSTEXT":"Композитор","ENGTEXT":"Composer","TRANSCRIPT": "kəm'pəuzə"},
+{"RUSTEXT":"Певец","ENGTEXT":"Singer","TRANSCRIPT": "'sɪŋə"},
+{"RUSTEXT":"Танцор","ENGTEXT":"Dancer","TRANSCRIPT": "'dɑːn(t)sə"},{"RUSTEXT":"Художник","ENGTEXT":"Artist","TRANSCRIPT": "'ɑːtɪst"},
+{"RUSTEXT":"Художник/маляр","ENGTEXT":"Painter","TRANSCRIPT": "'peɪntə"},
+{"RUSTEXT":"Скульптор","ENGTEXT":"Sculptor","TRANSCRIPT": "'skʌlptə"},
+{"RUSTEXT":"Архитектор","ENGTEXT":"Architect","TRANSCRIPT": "'ɑːkɪtekt"},
+{"RUSTEXT":"Режиссёр","ENGTEXT":"Film director","TRANSCRIPT": "fɪlm dɪ'rektə"},
+{"RUSTEXT":"Продюсер","ENGTEXT":"Producer","TRANSCRIPT": "prə'djuːsə"},
+{"RUSTEXT":"Художественный директор","ENGTEXT":"Art director","TRANSCRIPT": "ɑːt dɪ'rektə"},
+{"RUSTEXT":"Актёр/актриса","ENGTEXT":"Actor/actress","TRANSCRIPT": "'æktə / 'æktrəs"},
+{"RUSTEXT":"Оператор/фотограф","ENGTEXT":"Cameraman","TRANSCRIPT": "'kæm(ə)rəmæn"},
+{"RUSTEXT":"Журналист","ENGTEXT":"Journalist","TRANSCRIPT": "'ʤɜːn(ə)lɪst"},
+{"RUSTEXT":"Репортёр","ENGTEXT":"Reporter","TRANSCRIPT": "rɪ'pɔːtə"},
+{"RUSTEXT":"Корреспондент","ENGTEXT":"Correspondent","TRANSCRIPT": "ˌkɔrɪ'spɔnd(ə)nt"},
+{"RUSTEXT":"Фотограф","ENGTEXT":"Photographer","TRANSCRIPT": "fə'tɔgrəfə"}
+
+                
+                ]
+          },
+          {
+            "title": "Школа и Колледж",
+            "words": [
+                
+                {"RUSTEXT":"Школа и Колледж","ENGTEXT":"School & College","TRANSCRIPT": "skuːl & 'kɔlɪʤ"},
+{"RUSTEXT":"Директор (школы)/ ректор (университета)","ENGTEXT":"Principal","TRANSCRIPT": "'prɪn(t)səp(ə)l"},
+{"RUSTEXT":"Профессор","ENGTEXT":"Professor","TRANSCRIPT": "prə'fesə"},
+{"RUSTEXT":"Учитель","ENGTEXT":"Teacher","TRANSCRIPT": "'tiːʧə"},
+{"RUSTEXT":"Студент Ученик","ENGTEXT":"Student","TRANSCRIPT": "'st(j)uːd(ə)nt"}
+                
+                ]
+          },
+          {
+            "title": "Строительство",
+            "words": [
+                {"RUSTEXT":"Строительство","ENGTEXT":"Construction","TRANSCRIPT": "kən'strʌkʃ(ə)n"},
+{"RUSTEXT":"Инженер","ENGTEXT":"Engineer","TRANSCRIPT": "ˌenʤɪ'nɪə"},
+{"RUSTEXT":"Техник","ENGTEXT":"Technician","TRANSCRIPT": "tek'nɪʃ(ə)n"},
+{"RUSTEXT":"Механик","ENGTEXT":"Mechanic","TRANSCRIPT": "mɪ'kænɪk"},
+{"RUSTEXT":"Строитель","ENGTEXT":"Builder","TRANSCRIPT": "'bɪldə"},
+{"RUSTEXT":"Рабочий - строитель","ENGTEXT":"Construction worker","TRANSCRIPT": "kən'strʌkʃ(ə)n 'wɜːkə"},
+{"RUSTEXT":"Ремонтник","ENGTEXT":"Repairer","TRANSCRIPT": "rɪ'peərə"}
+                
+                
+                ]
+          },
+          {
+            "title": "Наука",
+            "words": [
+                {"RUSTEXT":"Наука","ENGTEXT":"Science","TRANSCRIPT": "'saɪən(t)s"},
+{"RUSTEXT":"Учёный","ENGTEXT":"Scientist","TRANSCRIPT": "'saɪəntɪst"},
+{"RUSTEXT":"Исследователь, научный работник","ENGTEXT":"Researcher, explorer","TRANSCRIPT": "rɪ'sɜːʧə, ɪk'splɔːrə"},
+{"RUSTEXT":"Математик","ENGTEXT":"Mathematician","TRANSCRIPT": "ˌmæθ(ə)mə'tɪʃ(ə)n"},
+{"RUSTEXT":"Физик","ENGTEXT":"Physicist","TRANSCRIPT": "'fɪzɪsɪst"},
+{"RUSTEXT":"Астроном","ENGTEXT":"Astronomer","TRANSCRIPT": "ə'strɔnəmə"},
+{"RUSTEXT":"Археолог","ENGTEXT":"Archaeologist","TRANSCRIPT": "ˌɑːkɪ'ɔləʤɪst"},
+{"RUSTEXT":"Психолог","ENGTEXT":"Psychologist","TRANSCRIPT": "saɪ'kɔləʤɪst"}
+                
+                
+                ]
+          },
+          {
+            "title": "Закон и Порядок",
+            "words": [
+                {"RUSTEXT":"Закон и Порядок","ENGTEXT":"Law and Order","TRANSCRIPT": "lɔː & 'ɔːdə"},
+{"RUSTEXT":"Судья","ENGTEXT":"Judge","TRANSCRIPT": "'ʤʌʤ"},
+{"RUSTEXT":"Адвокат / юрист","ENGTEXT":"Lawyer","TRANSCRIPT": "'lɔɪə, 'lɔːjə / ə'təːnɪ"},
+{"RUSTEXT":"Полицейский","ENGTEXT":"Police officer, policeman","TRANSCRIPT": "pə'liːs 'ɔfɪsə, pə'liːsmən"},
+{"RUSTEXT":"Сотрудник дорожной полиции","ENGTEXT":"Traffic officer","TRANSCRIPT" : "'træfɪk 'ɔfɪsə"}
+
+                
+                
+                ]
+          },
+          {
+            "title": "Другое",
+            "words": [
+                
+                {"RUSTEXT":"Другое","ENGTEXT":"Other","TRANSCRIPT": "'ʌðə"},
+{"RUSTEXT":"Водитель","ENGTEXT":"Driver","TRANSCRIPT": "'draɪvə"},
+{"RUSTEXT":"Пилот","ENGTEXT":"Pilot","TRANSCRIPT": "'paɪlət"},
+{"RUSTEXT":"Программист","ENGTEXT":"Computer programmer / operator","TRANSCRIPT": "kəm'pjuːtə 'prəugræmə / 'ɔp(ə)reɪtə"},
+{"RUSTEXT":"Специалист","ENGTEXT":"Specialist","TRANSCRIPT": "'speʃ(ə)lɪst"},
+{"RUSTEXT":"Автомеханик","ENGTEXT":"Car mechanic","TRANSCRIPT": "ka: mɪ'kænɪk"}
+
+                
+                
+                
+                
+                ]
+          }
+        ]
+      },
+      {
+        "title": "Части тела и внешний вид",
+        "items": [
+          {
+            "title": "Голова",
+            "words": [
+                
+                {"RUSTEXT":"Голова","ENGTEXT":"Head","TRANSCRIPT": " hed "},
+{"RUSTEXT":"Волосы","ENGTEXT":"Hair","TRANSCRIPT": " hɛə "},
+{"RUSTEXT":"Глаз","ENGTEXT":"Eye","TRANSCRIPT": " ai "},
+{"RUSTEXT":"Губы","ENGTEXT":"Lips","TRANSCRIPT": " lips "},
+{"RUSTEXT":"Зуб (зубы)","ENGTEXT":"Tooth (teeth)","TRANSCRIPT": " tu:θ  (tiːθ)"},
+{"RUSTEXT":"Лицо","ENGTEXT":"Face","TRANSCRIPT": " feis "},
+{"RUSTEXT":"Нос","ENGTEXT":"Nose","TRANSCRIPT": " nəuz "},
+{"RUSTEXT":"Рот","ENGTEXT":"Mouth","TRANSCRIPT": " mauθ "},
+{"RUSTEXT":"Ухо","ENGTEXT":"Ear","TRANSCRIPT": " iə "},
+{"RUSTEXT":"Язык","ENGTEXT":"Tongue","TRANSCRIPT": " tʌŋ "}
+
+                
+                
+                ]
+          },
+          {
+            "title": "Конечности",
+            "words": [
+                {"RUSTEXT":"Конечности","ENGTEXT":"Limbs / extremities","TRANSCRIPT": "lɪmz / ɪk'stremətɪz"},
+{"RUSTEXT":"Рука (от плеча до кисти)","ENGTEXT":"Arm","TRANSCRIPT": " ɑ:m "},
+{"RUSTEXT":"Кисть руки","ENGTEXT":"Hand","TRANSCRIPT": " hænd "},
+{"RUSTEXT":"Палец руки","ENGTEXT":"Finger","TRANSCRIPT": "fɪŋɡə(r) "},
+{"RUSTEXT":"Ладонь","ENGTEXT":"Palm","TRANSCRIPT": " pɑ:m "},
+{"RUSTEXT":"Плечо","ENGTEXT":"Shoulder","TRANSCRIPT": " 'ʃəuldə "},
+{"RUSTEXT":"Нога(до ступни)","ENGTEXT":"Leg","TRANSCRIPT": " leg "},
+{"RUSTEXT":"Нога (ступня)/ ноги (ступни)","ENGTEXT":"Foot / feet","TRANSCRIPT": " fut  /  fi:t "}
+
+                
+                
+                
+                ]
+          },
+          {
+            "title": "Тело 1",
+            "words": [
+                
+                {"RUSTEXT":"Тело","ENGTEXT":"Body","TRANSCRIPT": "'bɔdɪ"},
+{"RUSTEXT":"Грудь","ENGTEXT":"Breast","TRANSCRIPT": " brest "},
+{"RUSTEXT":"Живот(желудок)","ENGTEXT":"Stomach","TRANSCRIPT": " 'stʌmək "},
+{"RUSTEXT":"Живот","ENGTEXT":"Belly","TRANSCRIPT": "ˈbɛlɪ"},
+{"RUSTEXT":"Спина","ENGTEXT":"Back","TRANSCRIPT": " bæk "}
+                
+                ]
+          },
+          {
+            "title": "Тело 2",
+            "words": [
+                
+                {"RUSTEXT":"Хорошо сложенный (о мужчине)","ENGTEXT":"Well-built","TRANSCRIPT": "ˌwel'bɪlt"},
+{"RUSTEXT":"С хорошей фигурой (о женщине)","ENGTEXT":"Well-shaped","TRANSCRIPT": "‘welʃeɪpt"},
+{"RUSTEXT":"Худой, тощий","ENGTEXT":"Skinny / slender / thin / emaciated / frail","TRANSCRIPT": "‘skɪnɪ / 'slendə / θɪn / ɪ'meɪʃɪeɪtɪd / freɪl"},
+{"RUSTEXT":"Толстый, полный","ENGTEXT":"Overweight / plump (polite)/ stout (polite)/ thick/ obese (impolite)/ large (neutral)/ chubby (little bit overweight, polite)","TRANSCRIPT": "əuvə’weɪt / plʌmp/ staut/ θɪk / əu'biːs/lɑːʤ / ‘tʃʌbɪ"},
+{"RUSTEXT":"Низкий","ENGTEXT":"Short","TRANSCRIPT": "ʃɔ:t "},
+{"RUSTEXT":"Высокий","ENGTEXT":"Tall","TRANSCRIPT": "tɔ:l"},
+{"RUSTEXT":"Среднего роста","ENGTEXT":"Medium height","TRANSCRIPT": "‘mi:dɪəm haɪt"}
+                
+                
+                ]
+          },
+          {
+            "title": "Волосы",
+            "words": [
+                {"RUSTEXT":"Волосы","ENGTEXT":"Hair","TRANSCRIPT": "heə"},
+{"RUSTEXT":"Лысый","ENGTEXT":"Bald /  bald-headed","TRANSCRIPT": "bɔ:ld / 'bɔːld'hedɪd"},
+{"RUSTEXT":"Прямые","ENGTEXT":"Straight","TRANSCRIPT": "streɪt"},
+{"RUSTEXT":"Волнистые","ENGTEXT":"Wavy","TRANSCRIPT": "‘weɪvɪ"},
+{"RUSTEXT":"Кудрявые","ENGTEXT":"Curly","TRANSCRIPT": "'kɜːlɪ"},
+{"RUSTEXT":"Седые(с проседью)","ENGTEXT":"Gray","TRANSCRIPT": "greɪ"},
+{"RUSTEXT":"Седые (полностью)","ENGTEXT":"White","TRANSCRIPT": "wait"},
+{"RUSTEXT":"Блондинистые","ENGTEXT":"Blond","TRANSCRIPT": "blɔnd"},
+{"RUSTEXT":"Рыжие","ENGTEXT":"Ginger / red","TRANSCRIPT": "'ʤɪnʤə / red"},
+{"RUSTEXT":"Волосы средней длины, до плеч","ENGTEXT":"Shoulder-length","TRANSCRIPT": "ˌʃəuldə'leŋθ"},
+{"RUSTEXT":"Косы","ENGTEXT":"Braids / plaits","TRANSCRIPT": "breɪdz / plæts"},
+{"RUSTEXT":"Локон, завиток","ENGTEXT":"Lock / curl / ringlet","TRANSCRIPT": "lɔk / kɜːl / 'rɪŋlɪt"},
+{"RUSTEXT":"Челка","ENGTEXT":"Fringe / bangs","TRANSCRIPT": "frɪnʤ / bæŋz"},
+{"RUSTEXT":"Стрижка","ENGTEXT":"Haircut","TRANSCRIPT": "‘hɛəkʌt"},
+{"RUSTEXT":"Причёска","ENGTEXT":"Hairdo","TRANSCRIPT": "‘hɛədu:"},
+{"RUSTEXT":"Перманентная завивка","ENGTEXT":"Perm","TRANSCRIPT": "pə:m"},
+{"RUSTEXT":"Жидкие волосы","ENGTEXT":"Sparse hair","TRANSCRIPT": "spɑ:s heə"},
+{"RUSTEXT":"Редкие","ENGTEXT":"Scanty / thin","TRANSCRIPT": "'skæntɪ / θɪn"},
+{"RUSTEXT":"Густые","ENGTEXT":"Thick","TRANSCRIPT": "θɪk"},
+{"RUSTEXT":"Шелковистые","ENGTEXT":"Silky","TRANSCRIPT": "'sɪlkɪ"},
+{"RUSTEXT":"Крашеные","ENGTEXT":"Dyed","TRANSCRIPT": "daɪd"}
+
+                
+                
+                
+                ]
+          },
+          {
+            "title": "Лицо",
+            "words": [
+                
+                {"RUSTEXT":"Лицо","ENGTEXT":"Face","TRANSCRIPT": "feɪs"},
+{"RUSTEXT":"Бледная кожа","ENGTEXT":"Pale skin","TRANSCRIPT": "peɪl skɪn"},
+{"RUSTEXT":"Загорелый","ENGTEXT":"Sun-tanned","TRANSCRIPT": "sʌn- tænd"},
+{"RUSTEXT":"Морщины","ENGTEXT":"Wrinkles","TRANSCRIPT": "‘rɪŋklz"},
+{"RUSTEXT":"Родинка","ENGTEXT":"Mole","TRANSCRIPT": "məul"}
+
+                
+                
+                ]
+          },
+          {
+            "title": "Улыбка",
+            "words": [
+                
+                {"RUSTEXT":"Улыбка","ENGTEXT":"Smile","TRANSCRIPT": "smaɪl"}
+                
+                ]
+          },
+          {
+            "title": "Глаза",
+            "words": [
+                
+                {"RUSTEXT":"Глаза","ENGTEXT":"Eyes","TRANSCRIPT": "aɪz"},
+{"RUSTEXT":"Синяк под глазом","ENGTEXT":"Black eye","TRANSCRIPT": "blæk aɪ"},
+{"RUSTEXT":"Толстые / тонкие брови","ENGTEXT":"Thick / thin eyebrows","TRANSCRIPT": "θɪk / θɪn 'aɪbrauz"},
+{"RUSTEXT":"Длинные ресницы","ENGTEXT":"Long lashes","TRANSCRIPT": "lɔŋ læʃɪz"}
+                
+                
+                ]
+          },
+          {
+            "title": "Губы",
+            "words": [
+                
+               {"RUSTEXT":"Губы","ENGTEXT":"Lips","TRANSCRIPT": "lɪps"},
+{"RUSTEXT":"Полные / тонкие губы","ENGTEXT":"Full / thin lips","TRANSCRIPT": "ful / θɪn lɪps"},
+{"RUSTEXT":"Верхняя / нижняя губа","ENGTEXT":"Upper / lower lip","TRANSCRIPT": "'ʌpə / 'ləuə lɪp"} 
+                
+                
+                ]
+          },
+          {
+            "title": "Нос",
+            "words": [
+                
+                {"RUSTEXT":"Нос","ENGTEXT":"Nose","TRANSCRIPT": "nəuz"}
+                
+                ]
+          },
+          {
+            "title": "Подбородок",
+            "words": [
+                {"RUSTEXT":"Подбородок","ENGTEXT":"Chin","TRANSCRIPT": "ʧɪn"}
+                
+                
+                
+                ]
+          },
+          {
+            "title": "Зубы",
+            "words": [
+                
+                {"RUSTEXT":"Зубы","ENGTEXT":"Teeth","TRANSCRIPT": "tiːθ"}
+                
+                
+                
+                
+                
+                ]
+          }
+        ]
+      },
+      {
+        "title": "Oдежда",
+        "items": [
+          {
+            "title": "Верхняя одежда",
+            "words": [
+                {"RUSTEXT":"Верхняя одежда","ENGTEXT":"Outwear","TRANSCRIPT": "ˌaut'weə"},
+{"RUSTEXT":"Пальто, плащ","ENGTEXT":"Сoat","TRANSCRIPT": "kəʊt"},
+{"RUSTEXT":"Плащ","ENGTEXT":"Raincoat","TRANSCRIPT": "'reɪnkəut"},
+{"RUSTEXT":"Куртка","ENGTEXT":"Jacket","TRANSCRIPT": "‘dʒækɪt"},
+{"RUSTEXT":"Спортивная куртка","ENGTEXT":"Sport jacket","TRANSCRIPT": "spɔ:t ‘dʒækɪt"}
+                
+                
+                
+                ]
+          },
+          {
+            "title": "Головные уборы",
+            "words": [
+                
+                {"RUSTEXT":"Головные уборы","ENGTEXT":"Headwear","TRANSCRIPT": "'hedgɪə"},
+{"RUSTEXT":"Шапка, шляпа","ENGTEXT":"Hat","TRANSCRIPT": "hæt"},
+{"RUSTEXT":"Кепка","ENGTEXT":"Cap","TRANSCRIPT": "kæp"}
+
+                
+                
+                
+                
+                
+                ]
+          },
+          {
+            "title": "Верхняя часть тела",
+            "words": [
+                
+                
+                {"RUSTEXT":"Верхняя часть тела","ENGTEXT":"Upper body","TRANSCRIPT": "'ʌpə  'bɔdɪ"},
+{"RUSTEXT":"Рубашка","ENGTEXT":"Shirt","TRANSCRIPT": "ʃ3:t"},
+{"RUSTEXT":"Футболка","ENGTEXT":"T-shirt","TRANSCRIPT": "ti: - ʃ3:t"},
+{"RUSTEXT":"Свитер, джемпер","ENGTEXT":"Jumper","TRANSCRIPT": "‘dʒʌmpə"},
+{"RUSTEXT":"Свитер","ENGTEXT":"Sweater","TRANSCRIPT": "‘swetəʳ"},
+{"RUSTEXT":"Блузка","ENGTEXT":"Blouse","TRANSCRIPT": "blaʊz"}
+                
+                ]
+          },
+          {
+            "title": "Нижняя часть тела",
+            "words": [
+                
+                {"RUSTEXT":"Верхняя часть тела","ENGTEXT":"Upper body","TRANSCRIPT": "'ʌpə  'bɔdɪ"},
+{"RUSTEXT":"Рубашка","ENGTEXT":"Shirt","TRANSCRIPT": "ʃ3:t"},
+{"RUSTEXT":"Футболка","ENGTEXT":"T-shirt","TRANSCRIPT": "ti: - ʃ3:t"},
+{"RUSTEXT":"Свитер, джемпер","ENGTEXT":"Jumper","TRANSCRIPT": "‘dʒʌmpə"},
+{"RUSTEXT":"Свитер","ENGTEXT":"Sweater","TRANSCRIPT": "‘swetəʳ"},
+{"RUSTEXT":"Блузка","ENGTEXT":"Blouse","TRANSCRIPT": "blaʊz"}
+                ]
+          },
+          {
+            "title": "Все тело",
+            "words": [
+                
+                
+                {"RUSTEXT":"Все тело","ENGTEXT":"Whole body","TRANSCRIPT": "həul 'bɔdɪ"},
+{"RUSTEXT":"Платье","ENGTEXT":"Dress","TRANSCRIPT": "dres"},
+{"RUSTEXT":"Костюм","ENGTEXT":"Suit","TRANSCRIPT": "su:t"},
+{"RUSTEXT":"Комбинезон","ENGTEXT":"Overall / coveralls","TRANSCRIPT": "‘əʊvərɔ:l / 'kʌv(ə)rɔːlz"},
+{"RUSTEXT":"Брючный костюм","ENGTEXT":"Trouser suit, slack suit, pantsuit","TRANSCRIPT": "'trauzə su:t, slæk su:t, 'pænt s(j)uːt"},
+{"RUSTEXT":"Женский костюм (с юбкой)","ENGTEXT":"Skirt suit","TRANSCRIPT": "skɜːt su:t"},
+{"RUSTEXT":"Сарафан","ENGTEXT":"Pinafore dress  sundress","TRANSCRIPT": "'pɪnəfɔ: dres"},
+{"RUSTEXT":"Летнее платье","ENGTEXT":"Summer dress","TRANSCRIPT": "'sʌmə dres"},
+{"RUSTEXT":"Халат","ENGTEXT":"Robe","TRANSCRIPT": "rəʊb"}
+                
+                ]
+          },
+          {
+            "title": "Нижнее бельё",
+            "words": [
+                
+                {"RUSTEXT":"Нижнее бельё","ENGTEXT":"Underwear","TRANSCRIPT": "'ʌndəweə"},
+{"RUSTEXT":"Бюстгальтер","ENGTEXT":"Bra","TRANSCRIPT": "brɑ:"},
+{"RUSTEXT":"Трусы (мужские)","ENGTEXT":"Underpants","TRANSCRIPT": "'ʌndəpænts"},
+{"RUSTEXT":"Мужские широкие трусы","ENGTEXT":"Boxers","TRANSCRIPT": "'bɔksəz"},
+{"RUSTEXT":"Трусики (женские или детские)","ENGTEXT":"Panties","TRANSCRIPT": "'pæntɪz"},
+{"RUSTEXT":"Купальник","ENGTEXT":"Bikini / swimsuit","TRANSCRIPT": "bɪ'kiːnɪ / swɪms(j)uːt"}
+                
+                
+                
+                ]
+          },
+          {
+            "title": "Обувь",
+            "words": [
+                
+                
+                {"RUSTEXT":"Обувь","ENGTEXT":"Footwear","TRANSCRIPT": "'futweə"},
+{"RUSTEXT":"Туфли, ботинки","ENGTEXT":"Shoes","TRANSCRIPT": "ʃu:z"},
+{"RUSTEXT":"Ботинки, сапоги","ENGTEXT":"Boots","TRANSCRIPT": "bu:ts,"},
+{"RUSTEXT":"Туфли на высоком каблуке","ENGTEXT":"High heels","TRANSCRIPT": "haɪ hi:lz"},
+{"RUSTEXT":"Туфли на низком каблуке","ENGTEXT":"Low heels","TRANSCRIPT": "ləu hi:lz"},
+{"RUSTEXT":"Кроссовки","ENGTEXT":"Trainers (br.), sneakers (am.)","TRANSCRIPT": "'treɪnəz, 'sni:kəz"},
+{"RUSTEXT":"Обувь на низкой подошве","ENGTEXT":"Flats","TRANSCRIPT": "flæts"},
+{"RUSTEXT":"Сандалии","ENGTEXT":"Sandals","TRANSCRIPT": "‘sændlz"}
+                
+                
+                ]
+          },
+          {
+            "title": "Аксессуары",
+            "words": [
+                {"RUSTEXT":"Аксессуары","ENGTEXT":"Accessories","TRANSCRIPT": "ək'ses(ə)rɪz"},
+{"RUSTEXT":"Очки","ENGTEXT":"Glasses","TRANSCRIPT": "glɑ:sɪz"},
+{"RUSTEXT":"Шарф","ENGTEXT":"Scarf","TRANSCRIPT": "skɑ:f"},
+{"RUSTEXT":"Галстук","ENGTEXT":"Tie","TRANSCRIPT": "taɪ"}
+                
+                
+                ]
+          },
+          {
+            "title": "Стили",
+            "words": [
+                
+                
+                {"RUSTEXT":"Стили","ENGTEXT":"Styles","TRANSCRIPT": "staɪlz"},
+{"RUSTEXT":"Короткий / длинный рукав","ENGTEXT":"Short / long sleeve","TRANSCRIPT": "ʃɔ:t / lɔŋ sli:v"},
+{"RUSTEXT":"Принт / рисунок на одежде","ENGTEXT":"Print","TRANSCRIPT": "prɪnt"}
+                
+                
+                ]
+          },
+          {
+            "title": "Материал",
+            "words": [
+                
+                {"RUSTEXT":"Материал","ENGTEXT":"Fabric","TRANSCRIPT": "'fæbrɪk"},
+{"RUSTEXT":"Хлопок","ENGTEXT":"Cotton","TRANSCRIPT": "'kɔt(ə)n"},
+{"RUSTEXT":"Джинсовая ткань","ENGTEXT":"Denim","TRANSCRIPT": "'denɪm"},
+{"RUSTEXT":"Шерсть","ENGTEXT":"Wool","TRANSCRIPT": "wul"},
+{"RUSTEXT":"Кожа","ENGTEXT":"Leather","TRANSCRIPT": "‘leðəʳ"},
+{"RUSTEXT":"Мех","ENGTEXT":"Fur","TRANSCRIPT": "fə:r"},
+{"RUSTEXT":"Шелк","ENGTEXT":"Silk","TRANSCRIPT": "sɪlk"}
+                
+                
+                
+                
+                
+                ]
+          },
+          {
+            "title": "Цвета",
+            "words": [
+                {"RUSTEXT":"Цвета","ENGTEXT":"Colours","TRANSCRIPT": "'kʌləz"},
+{"RUSTEXT":"Красный","ENGTEXT":"Red","TRANSCRIPT": "rɛd"},
+{"RUSTEXT":"Оранжевый","ENGTEXT":"Orange","TRANSCRIPT": "‘ɒrɪndʒ"},
+{"RUSTEXT":"Желтый","ENGTEXT":"Yellow","TRANSCRIPT": "‘jeləʊ"},
+{"RUSTEXT":"Зеленый","ENGTEXT":"Green","TRANSCRIPT": "gri:n"},
+{"RUSTEXT":"Синий","ENGTEXT":"Blue","TRANSCRIPT": "blu:"},
+{"RUSTEXT":"Голубой","ENGTEXT":"Light blue","TRANSCRIPT": "laɪt blu:"},
+{"RUSTEXT":"Черный","ENGTEXT":"Black","TRANSCRIPT": "blæk"},
+{"RUSTEXT":"Коричневый","ENGTEXT":"Brown","TRANSCRIPT": "braʊn"},
+{"RUSTEXT":"Белый","ENGTEXT":"White","TRANSCRIPT": "waɪt"},
+{"RUSTEXT":"Темно-синий","ENGTEXT":"Navy","TRANSCRIPT": "‘neɪvɪ"},
+{"RUSTEXT":"Фиолетовый","ENGTEXT":"Purple","TRANSCRIPT": "‘p3:pl"},
+{"RUSTEXT":"Бежевый","ENGTEXT":"Beige","TRANSCRIPT": "beɪʒ"}
+                
+                
+                ]
+          },
+          {
+            "title": "Действия",
+            "words": [
+                
+                
+                {"RUSTEXT":"Действия","ENGTEXT":"Actions","TRANSCRIPT": "'ækʃ(ə)nz"},
+{"RUSTEXT":"Надевать что-то","ENGTEXT":"To put smth on","TRANSCRIPT": "pʊt <smth> ɒn"},
+{"RUSTEXT":"Снимать","ENGTEXT":"To take smth off","TRANSCRIPT": "teɪk <smth> ɒf"},
+{"RUSTEXT":"Носить (одежду, украшения)","ENGTEXT":"To wear","TRANSCRIPT": "wɛə"},
+{"RUSTEXT":"Примерять","ENGTEXT":"To try on","TRANSCRIPT": "ʹtraı ɒn"},
+{"RUSTEXT":"Переодеваться","ENGTEXT":"To change clothes","TRANSCRIPT": "ʧeɪnʤ kləuðz"},
+{"RUSTEXT":"Одеваться","ENGTEXT":"To dress, to get dressed","TRANSCRIPT": "dress, get dresst"}
+                
+                
+                
+                ]
+          },
+          {
+            "title": "Нарядная одежда",
+            "words": [
+                
+                
+                {"RUSTEXT":"Нарядная одежда","ENGTEXT":"Smart clothes","TRANSCRIPT": "smɑːt kləuðz"},
+{"RUSTEXT":"Вечернее платье","ENGTEXT":"Evening gown","TRANSCRIPT": "'i:vnɪŋ gaun"},
+{"RUSTEXT":"Смокинг","ENGTEXT":"Tux, tuxedo (am.), dinner jacket (br.)","TRANSCRIPT": "tʌks, tʌk'si:dəu, 'dɪnə 'ʤækɪt"}
+                
+                
+                
+                
+                
+                ]
+          },
+          {
+            "title": "Спортивная одежда",
+            "words": [
+                
+                
+                {"RUSTEXT":"Спортивная одежда","ENGTEXT":"Sportswear","TRANSCRIPT": "'spɔːtsweə"},
+{"RUSTEXT":"Тренировочные (штаны)","ENGTEXT":"Sweatpants","TRANSCRIPT": "'swetpænts"},
+{"RUSTEXT":"Спортивный костюм","ENGTEXT":"Tracksuit","TRANSCRIPT": "'træks(j)uːt"}
+                
+                ]
+          },
+          {
+            "title": "Домашняя одежда",
+            "words": [
+                {"RUSTEXT":"Домашняя одежда","ENGTEXT":"Home clothing","TRANSCRIPT": "həum 'kləuðɪŋ"},
+{"RUSTEXT":"Пижама","ENGTEXT":"Pyjamas","TRANSCRIPT": "pɪ'ʤɑ:məz"},
+{"RUSTEXT":"Халат","ENGTEXT":"Dressing-gown","TRANSCRIPT": "'dresɪŋ gaun"}
+
+                
+                
+                ]
+          },
+          {
+            "title": "Узор",
+            "words": [
+                
+                
+                {"RUSTEXT":"Узор","ENGTEXT":"Pattern","TRANSCRIPT": "'pæt(ə)n"},
+{"RUSTEXT":"В полоску","ENGTEXT":"Striped","TRANSCRIPT": "straɪpt"},
+{"RUSTEXT":"В клеточку","ENGTEXT":"Checked","TRANSCRIPT": "ʧekt"},
+{"RUSTEXT":"Цветастый","ENGTEXT":"Flowery, floral","TRANSCRIPT": "'flauərɪ, 'flɔ:r(ə)l"},
+{"RUSTEXT":"В горошек","ENGTEXT":"Polka dot","TRANSCRIPT": "'pɔlkə dɔt"},
+{"RUSTEXT":"Камуфляж","ENGTEXT":"Camouflage","TRANSCRIPT": "'kæməflɑ:ʒ"},
+{"RUSTEXT":"Без рисунка","ENGTEXT":"Plain","TRANSCRIPT": "pleɪn"},
+{"RUSTEXT":"Шотландская клетка","ENGTEXT":"Plaid","TRANSCRIPT": "plæd"}
+                
+                
+                ]
+          },
+          {
+            "title": "Описание",
+            "words": [
+                
+                {"RUSTEXT":"Описание","ENGTEXT":"Description","TRANSCRIPT": "dɪ'skrɪpʃ(ə)n"},
+{"RUSTEXT":"Элегантный","ENGTEXT":"Elegant","TRANSCRIPT": "'elɪg(ə)nt"},
+{"RUSTEXT":"Повседневный","ENGTEXT":"Casual","TRANSCRIPT": "'kæʒwəl"},
+{"RUSTEXT":"Плотно облегающий","ENGTEXT":"Tight","TRANSCRIPT": "taɪt"},
+{"RUSTEXT":"Мешковатый","ENGTEXT":"Baggy","TRANSCRIPT": "'bægɪ"},
+{"RUSTEXT":"Свободный","ENGTEXT":"Loose","TRANSCRIPT": "lu:s"},
+{"RUSTEXT":"Модный","ENGTEXT":"Fashionable","TRANSCRIPT": "'fæʃ(ə)nəb(ə)l"},
+{"RUSTEXT":"Пуговица","ENGTEXT":"Button","TRANSCRIPT": "‘bʌt (ə)n"},
+{"RUSTEXT":"Карман","ENGTEXT":"Pocket","TRANSCRIPT": "'pɔkɪt"},
+{"RUSTEXT":"Воротник","ENGTEXT":"Collar","TRANSCRIPT": "‘kɔlə"},
+{"RUSTEXT":"Ремень","ENGTEXT":"Belt","TRANSCRIPT": "belt"},
+{"RUSTEXT":"Перчатки","ENGTEXT":"Gloves","TRANSCRIPT": "glʌvz"},
+{"RUSTEXT":"Лента","ENGTEXT":"Ribbon","TRANSCRIPT": "'rɪb(ə)n"},
+{"RUSTEXT":"Капюшон","ENGTEXT":"Hood","TRANSCRIPT": "hud"},
+{"RUSTEXT":"Носовой платок","ENGTEXT":"Handkerchief","TRANSCRIPT": "'hæŋkəʧi:f"},
+{"RUSTEXT":"Молния","ENGTEXT":"Zip","TRANSCRIPT": "zɪp"}
+
+                
+                
+                
+                
+                ]
+          }
+        ]
+      },
+      {
+        "title": "Повседневные дела",
+        "items": [
+          {
+            "title": "Повседневные дела",
+            "words": [
+                
+                {"RUSTEXT":"Вставать","ENGTEXT":"To get up","TRANSCRIPT": " ‘ɡet ʌp "},
+{"RUSTEXT":"Мыть руки","ENGTEXT":"To wash hands","TRANSCRIPT": " wɒʃ hændz "},
+{"RUSTEXT":"Мыть лицо","ENGTEXT":"To wash face","TRANSCRIPT": " wɒʃ feɪs "},
+{"RUSTEXT":"Умываться","ENGTEXT":"To wash hands & face","TRANSCRIPT": " wɒʃ hændz & feɪs "},
+{"RUSTEXT":"Чистить зубы","ENGTEXT":"To clean (brush) teeth","TRANSCRIPT": " kliːn (brʌʃ) tiːθ "},
+{"RUSTEXT":"Идти в ванную","ENGTEXT":"To go to the bathroom","TRANSCRIPT": " ɡəʊ tə ðə ‘bɑːθruːm "},
+{"RUSTEXT":"Принимать душ","ENGTEXT":"To take a shower","TRANSCRIPT": " teɪk ə ‘ʃaʊə "},
+{"RUSTEXT":"Приниматьв анну","ENGTEXT":"To take a bath","TRANSCRIPT": " teɪk ə bɑːθ "},
+{"RUSTEXT":"Идти в кухню","ENGTEXT":"To go to the kitchen","TRANSCRIPT": " ɡəʊ tə ðə ‘kɪtʃɪn "},
+{"RUSTEXT":"Завтракать/обедать/ужинать","ENGTEXT":"To have breakfast /  lunch / dinner/supper","TRANSCRIPT": " həv ‘brekfəst /  lʌntʃ /  ‘dɪnə / ‘sʌpə "},
+{"RUSTEXT":"Уходить / оставлять / покидать","ENGTEXT":"To leave","TRANSCRIPT": " li:v "},
+{"RUSTEXT":"Уходить из дома","ENGTEXT":"To leave home","TRANSCRIPT": " li:v həʊm "},
+{"RUSTEXT":"Уходить с работы","ENGTEXT":"To leave work","TRANSCRIPT": " li:v ‘wɜːk "},
+{"RUSTEXT":"Уходить на работу","ENGTEXT":"To leave for work","TRANSCRIPT": " li:v fə ‘wɜːk "},
+{"RUSTEXT":"Уходить из дома на работу","ENGTEXT":"To leave home for work","TRANSCRIPT": " li:v həʊm fə ‘wɜ:k "},
+{"RUSTEXT":"Ходить за покупками / делать покупки","ENGTEXT":"To go shopping / do shopping","TRANSCRIPT": " ɡəʊ ‘ʃɒpɪŋ / du: ‘ʃɒpɪŋ "},
+{"RUSTEXT":"Смотреть ТВ","ENGTEXT":"To watch TV","TRANSCRIPT": " wɒtʃ ˌti:’vi: "},
+{"RUSTEXT":"Сидеть в интернете","ENGTEXT":"To surf the net","TRANSCRIPT": " sɜ:f ðə net "},
+{"RUSTEXT":"Пользоваться компьютером","ENGTEXT":"To use a computer","TRANSCRIPT": " ‘ju:z ə kəm’pju:tə "},
+{"RUSTEXT":"Слушать музыку","ENGTEXT":"To listen to music","TRANSCRIPT": " ‘lɪsn   tə ‘mju:zɪk "},
+{"RUSTEXT":"Ходить в гости к друзьям","ENGTEXT":"To visit friends","TRANSCRIPT": "‘vɪzɪt frendz "},
+{"RUSTEXT":"Принимать гостей","ENGTEXT":"To receive guests","TRANSCRIPT": "ri’si:v gests"},
+{"RUSTEXT":"Играть в игры / карты","ENGTEXT":"To play games / cards","TRANSCRIPT": "pleɪ ɡeɪmz / kɑ:dz "},
+{"RUSTEXT":"Иметь обеденный перерыв","ENGTEXT":"To have a lunch break","TRANSCRIPT": "həv ə lʌntʃbreɪk "},
+{"RUSTEXT":"Возвращаться","ENGTEXT":"To come back / to return","TRANSCRIPT": " kʌm ‘bæk / rɪ’tɜ:n "},
+{"RUSTEXT":"Перед тем, как ложиться спать","ENGTEXT":"Before going to bed","TRANSCRIPT": " bɪ’fɔ: ‘ɡəʊɪŋ tə bed "},
+{"RUSTEXT":"Читать перед сном","ENGTEXT":"To read before sleeping","TRANSCRIPT": " ri:d bɪ’fɔ: ‘sli:pɪŋ "},
+{"RUSTEXT":"Ложиться спать","ENGTEXT":"To go to bed","TRANSCRIPT": " ɡəʊ tə bed "},
+{"RUSTEXT":"Засыпать","ENGTEXT":"To fall asleep","TRANSCRIPT": " fɔ:l ə’sli:p "}
+                
+                
+                
+                
+                ]
+          },
+          {
+            "title": "Стирка",
+            "words": [
+                {"RUSTEXT":"Стирка","ENGTEXT":"Doing the Laundry","TRANSCRIPT": "ˈduːɪŋ ðə ˈlɔːndri"},
+{"RUSTEXT":"Стирать","ENGTEXT":"To do the washing","TRANSCRIPT": "duː ðə ˈwɒʃɪŋ"},
+{"RUSTEXT":"Стирать, мыть","ENGTEXT":"To wash","TRANSCRIPT": "wɒʃ"},
+{"RUSTEXT":"Бельё, предназначенное для стирки","ENGTEXT":"Laundry","TRANSCRIPT": "ˈlɔːndri"},
+{"RUSTEXT":"Гладить","ENGTEXT":"To iron / do the ironing","TRANSCRIPT": "ˈaɪən  / duː ðɪ ˈaɪənɪŋ"}
+
+                
+                
+                
+                ]
+          },
+          {
+            "title": "Домашние обязанности на кухне",
+            "words": [
+                {"RUSTEXT":"Домашние обязанности на кухне","ENGTEXT":"Chores in the Kitchen","TRANSCRIPT": "tʃɔːz in ðə  'kɪtʃɪn"},
+{"RUSTEXT":"Готовить","ENGTEXT":"To cook","TRANSCRIPT": "kʊk"},
+{"RUSTEXT":"Мыть посуду","ENGTEXT":"To do the dishes / to wash up","TRANSCRIPT": "duː ðə dɪʃɪz  / wɒʃ ʌp"}
+
+                
+                
+                
+                ]
+          },
+          {
+            "title": "Ведение домашнего хозяйства",
+            "words": [
+                {"RUSTEXT":"Ведение домашнего хозяйства","ENGTEXT":"Housekeeping","TRANSCRIPT": "ˈhaʊskiːpɪŋ"}
+                
+                
+                
+                
+                ]
+          },
+          {
+            "title": "Беспорядок",
+            "words": [
+                {"RUSTEXT":"Беспорядок","ENGTEXT":"Mess","TRANSCRIPT": "mes"},
+{"RUSTEXT":"Грязь","ENGTEXT":"Dirt","TRANSCRIPT": "dɜːt"},
+{"RUSTEXT":"Грязный","ENGTEXT":"Dirty","TRANSCRIPT": "ˈdɜːti"},
+{"RUSTEXT":"Пыль","ENGTEXT":"Dust","TRANSCRIPT": "dʌst "}
+                
+                
+                
+                
+                
+                ]
+          },
+          {
+            "title": "Уборка, порядок",
+            "words": [
+                {"RUSTEXT":"Уборка, порядок","ENGTEXT":"Cleaning","TRANSCRIPT": "ˈkliːnɪŋ "},
+{"RUSTEXT":"Чистить, прибирать; чистый","ENGTEXT":"To clean","TRANSCRIPT": "kliːn "},
+{"RUSTEXT":"Мыть пол","ENGTEXT":"To clean / wash the floor","TRANSCRIPT": "kliːn / wɒʃ ðə flɔː(r) "},
+{"RUSTEXT":"Делать уборку","ENGTEXT":"To do the cleaning","TRANSCRIPT": "duː ðə ˈkliːnɪŋ "},
+{"RUSTEXT":"Выносить мусор","ENGTEXT":"To take  the garbage(rubbish) out","TRANSCRIPT": "teɪk ðə ˈɡɑːbɪdʒ aʊt"},
+{"RUSTEXT":"Пылесосить","ENGTEXT":"To vacuum","TRANSCRIPT": "ˈvækjuəm"}
+                
+                
+                
+                ]
+          },
+          {
+            "title": "Глаголы состояния",
+            "words": [
+                
+                {"RUSTEXT":"Глаголы состояния","ENGTEXT":"Stative verbs","TRANSCRIPT": ""},
+{"RUSTEXT":"Любить","ENGTEXT":"Love","TRANSCRIPT": " lʌv "},
+{"RUSTEXT":"Обожать","ENGTEXT":"Adore","TRANSCRIPT": "ə'dɔː"},
+{"RUSTEXT":"Слышать","ENGTEXT":"Hear","TRANSCRIPT": " hiə "},
+{"RUSTEXT":"Смотреть","ENGTEXT":"See","TRANSCRIPT": " si: "},
+{"RUSTEXT":"Помнить","ENGTEXT":"Remember","TRANSCRIPT": " ri'membə "},
+{"RUSTEXT":"Нуждаться","ENGTEXT":"Need","TRANSCRIPT": " ni:d "},
+{"RUSTEXT":"Ненавидеть","ENGTEXT":"Hate","TRANSCRIPT": " heit "},
+{"RUSTEXT":"Знать","ENGTEXT":"Know","TRANSCRIPT": " nəu "},
+{"RUSTEXT":"Чувствовать","ENGTEXT":"Feel","TRANSCRIPT": " fi:l "},
+{"RUSTEXT":"Смотреть","ENGTEXT":"Look","TRANSCRIPT": " luk "},
+{"RUSTEXT":"Значить, означать","ENGTEXT":"Mean","TRANSCRIPT": " mi:n "}
+                
+                
+                
+                ]
+          },
+          {
+            "title": "Глаголы",
+            "words": [
+                
+                {"RUSTEXT":"Глаголы","ENGTEXT":"Verbs","TRANSCRIPT": ""},
+{"RUSTEXT":"Желать","ENGTEXT":"Wish","TRANSCRIPT": "wɪʃ"},
+{"RUSTEXT":"Выбирать","ENGTEXT":"Choose","TRANSCRIPT": "tʃuːz"},
+{"RUSTEXT":"Создавать","ENGTEXT":"Create","TRANSCRIPT": "krɪˈeɪt"},
+{"RUSTEXT":"Надеятся","ENGTEXT":"Hope","TRANSCRIPT": "həʊp"},
+{"RUSTEXT":"Ошибаться","ENGTEXT":"Be mistaken","TRANSCRIPT": "ˈbiː mɪˈsteɪkən"},
+{"RUSTEXT":"Опаздывать","ENGTEXT":"Be late","TRANSCRIPT": "‘biː leɪt"},
+{"RUSTEXT":"Быть занятым","ENGTEXT":"Be busy","TRANSCRIPT": "ˈbiː ˈbɪzɪ"},
+{"RUSTEXT":"Обсуждать","ENGTEXT":"Discuss","TRANSCRIPT": "dɪsˈkʌs"},
+{"RUSTEXT":"Запрещать","ENGTEXT":"Forbid","TRANSCRIPT": "fəˈbɪd"},
+{"RUSTEXT":"Считать","ENGTEXT":"Consider","TRANSCRIPT": "kənˈsɪdə"},
+{"RUSTEXT":"Расценивать, рассматривать","ENGTEXT":"Regard","TRANSCRIPT": "rɪˈɡɑːd"},
+{"RUSTEXT":"Полагаться","ENGTEXT":"Rely","TRANSCRIPT": "rɪˈlaɪ"},
+{"RUSTEXT":"Достигать","ENGTEXT":"Achieve","TRANSCRIPT": "əˈtʃiːv"}
+
+                
+                ]
+          }
+        ]
+      },
+      {
+        "title": "Дом",
+        "items": [
+          {
+            "title": "Мебель",
+            "words": [
+                
+                {"RUSTEXT":"Мебель","ENGTEXT":"Furniture","TRANSCRIPT": "'fɜːnɪʧə"},
+{"RUSTEXT":"Диван","ENGTEXT":"Sofa","TRANSCRIPT": "'səufə"},
+{"RUSTEXT":"Стул","ENGTEXT":"Chair","TRANSCRIPT": "'ʧeə"},
+{"RUSTEXT":"Табурет","ENGTEXT":"Stool","TRANSCRIPT": "stuːl"},
+{"RUSTEXT":"Стол","ENGTEXT":"Table","TRANSCRIPT": " ˈteɪbl "},
+{"RUSTEXT":"Письменный стол","ENGTEXT":"Desk","TRANSCRIPT": " desk "},
+{"RUSTEXT":"Журнальный столик","ENGTEXT":"Coffee table","TRANSCRIPT": "'kɔfɪ  'teɪbl"},
+{"RUSTEXT":"Телевизор","ENGTEXT":"Tv set","TRANSCRIPT": "ˌtiː'viː set"},
+{"RUSTEXT":"Кресло","ENGTEXT":"Armchair","TRANSCRIPT": "ˌɑːm'ʧeə"},
+{"RUSTEXT":"Шкаф","ENGTEXT":"Wardrobe","TRANSCRIPT": "'wɔːdrəub"},
+{"RUSTEXT":"Книжный шкаф","ENGTEXT":"Bookcase","TRANSCRIPT": "'bukkeɪs"},
+{"RUSTEXT":"Шкаф для посуды","ENGTEXT":"Cupboard","TRANSCRIPT": "'kʌbəd"},
+{"RUSTEXT":"Кровать","ENGTEXT":"Bed","TRANSCRIPT": " bed "},
+{"RUSTEXT":"Двуспальная кровать","ENGTEXT":"Double bed","TRANSCRIPT": "'dʌbl bed"},
+{"RUSTEXT":"Мягкая мебель","ENGTEXT":"Upholstered furniture","TRANSCRIPT": " ʌpˈhoʊlstəd ˈfɜːnɪtʃə(r) "}
+                
+                
+                ]
+          },
+          {
+            "title": "Домашняя утварь",
+            "words": [
+                
+                {"RUSTEXT":"Домашняя утварь","ENGTEXT":"Household Stuff","TRANSCRIPT": "'haushəuld stʌf"},
+{"RUSTEXT":"Раковина (на кухне)","ENGTEXT":"Sink","TRANSCRIPT": "sɪŋk"},
+{"RUSTEXT":"Ковёр","ENGTEXT":"Carpet","TRANSCRIPT": "'kɑːpɪt"},
+{"RUSTEXT":"Духовка","ENGTEXT":"Oven","TRANSCRIPT": "'ʌv(ə)n"},
+{"RUSTEXT":"Кран","ENGTEXT":"Tap","TRANSCRIPT": "tæp"},
+{"RUSTEXT":"Плита","ENGTEXT":"Cooker","TRANSCRIPT": "'kukə"},
+{"RUSTEXT":"Пылесос","ENGTEXT":"Vacuum cleaner","TRANSCRIPT": "'vækjuːm 'kliːnə"},
+{"RUSTEXT":"Стиральная машина","ENGTEXT":"Washing machine","TRANSCRIPT": "'wɔʃɪŋ mə'ʃiːn"},
+{"RUSTEXT":"Холодильник","ENGTEXT":"Fridge","TRANSCRIPT": "frɪʤ"},
+{"RUSTEXT":"Покрывало","ENGTEXT":"Cover","TRANSCRIPT": "'kʌvə"},
+{"RUSTEXT":"Занавеска","ENGTEXT":"Curtain","TRANSCRIPT": "'kɜːt(ə)n"}
+                
+                
+                
+                
+                ]
+          },
+          {
+            "title": "Части зданий",
+            "words": [
+                
+                {"RUSTEXT":"Части зданий","ENGTEXT":"Parts of Buildings","TRANSCRIPT": "pa:ts əv 'bɪldɪŋz"},
+{"RUSTEXT":"Лифт","ENGTEXT":"Lift","TRANSCRIPT": "lɪft"},
+{"RUSTEXT":"Потолок","ENGTEXT":"Ceiling","TRANSCRIPT": "'siːlɪŋ"},
+{"RUSTEXT":"Пол, этаж","ENGTEXT":"Floor","TRANSCRIPT": " flɔː(r) "},
+{"RUSTEXT":"Стена","ENGTEXT":"Wall","TRANSCRIPT": " wɔːl "},
+{"RUSTEXT":"Угол","ENGTEXT":"Corner","TRANSCRIPT": " ˈkɔːnə(r) "},
+{"RUSTEXT":"Крыша","ENGTEXT":"Roof","TRANSCRIPT": " ruːf "},
+{"RUSTEXT":"Вход","ENGTEXT":"Entrance","TRANSCRIPT": "ˈɛntr(ə)ns"},
+{"RUSTEXT":"Выход","ENGTEXT":"Exit","TRANSCRIPT": " ˈeksɪt "},
+{"RUSTEXT":"Коридор","ENGTEXT":"Corridor","TRANSCRIPT": "'kɔrɪdɔː"},
+{"RUSTEXT":"Ванная комната","ENGTEXT":"Bathroom","TRANSCRIPT": "'bɑːθruːm"},
+{"RUSTEXT":"Прихожая","ENGTEXT":"Hall","TRANSCRIPT": "hɔːl"},
+{"RUSTEXT":"Столовая","ENGTEXT":"Dining room","TRANSCRIPT": "daɪnɪŋ ruːm"},
+{"RUSTEXT":"Туалет","ENGTEXT":"Toilet","TRANSCRIPT": "'tɔɪlət"},
+{"RUSTEXT":"Балкон","ENGTEXT":"Balcony","TRANSCRIPT": "'bælkənɪ"},
+{"RUSTEXT":"Гостиная","ENGTEXT":"Living room / lounge / sitting room / drawing room","TRANSCRIPT": "ˈlɪvɪŋ ruːm, launʤ / 'sɪtɪŋ ruːm / 'drɔːɪŋ ruːm"},
+{"RUSTEXT":"Спальня","ENGTEXT":"Bedroom","TRANSCRIPT": "'bedruːm"},
+{"RUSTEXT":"Кухня","ENGTEXT":"Kitchen","TRANSCRIPT": "'kɪʧɪn"}
+                
+                
+                ]
+          },
+          {
+            "title": "Типы зданий",
+            "words": [
+                {"RUSTEXT":"Типы зданий","ENGTEXT":"Types of Buildings","TRANSCRIPT": "taɪps əv 'bɪldɪŋz"},
+{"RUSTEXT":"Гараж","ENGTEXT":"Garage","TRANSCRIPT": "'gærɑːʒ"},
+{"RUSTEXT":"Коттедж, домик","ENGTEXT":"Cottage","TRANSCRIPT": "'kɔtɪʤ"},
+{"RUSTEXT":"Дворец","ENGTEXT":"Palace","TRANSCRIPT": "'pælɪs"},
+{"RUSTEXT":"Особняк, большой дом","ENGTEXT":"Mansion","TRANSCRIPT": "'mæn(t)ʃ(ə)n"},
+{"RUSTEXT":"Студенческое общежитие","ENGTEXT":"Dormitory","TRANSCRIPT": "'dɔːmɪt(ə)rɪ"},
+{"RUSTEXT":"Многоквартирный дом","ENGTEXT":"Block of flats","TRANSCRIPT": "blɔk əv flæts"},
+{"RUSTEXT":"Одно/двух/... – комнатная квартира","ENGTEXT":"One/two/...-room flat","TRANSCRIPT": ". -ruːm flæt"},
+{"RUSTEXT":"Квартира","ENGTEXT":"Apartment","TRANSCRIPT": "ə'pɑːtmənt"},
+{"RUSTEXT":"Загородный дом","ENGTEXT":"Country-house","TRANSCRIPT": "ˌkʌntrɪ 'haus"},
+{"RUSTEXT":"Одно/двух/...этажныйдом","ENGTEXT":"One/two/...-storeyed house","TRANSCRIPT": "...-'stɔːrɪd haus"},
+{"RUSTEXT":"Недвижимое имущество","ENGTEXT":"Real estate","TRANSCRIPT": "ʹrıəl ı͵steıt"},
+{"RUSTEXT":"Один из двух домов под общей крышей","ENGTEXT":"Semi-detached house","TRANSCRIPT": "ˌsemɪ dɪ'tæʧt haus"},
+{"RUSTEXT":"Небоскрёб","ENGTEXT":"Sky-scraper","TRANSCRIPT": "skaɪ 'skreɪpə"},
+{"RUSTEXT":"Въезжать, переезжать","ENGTEXT":"Move in/to","TRANSCRIPT": " muːv ɪn/ tə"},
+{"RUSTEXT":"Передвигать мебель","ENGTEXT":"Move the furniture around","TRANSCRIPT": "muːv ðə 'fɜːnɪʧə ə'raund"},
+{"RUSTEXT":"Выходить на ... (об окнах)","ENGTEXT":"Look out onto","TRANSCRIPT": "luk aut 'ɔntuː"},
+{"RUSTEXT":"Передвигать","ENGTEXT":"Shift","TRANSCRIPT": "ʃɪft"},
+{"RUSTEXT":"Подновлять, ремонтировать, реконструировать","ENGTEXT":"Renovate","TRANSCRIPT": "'renəveɪt"},
+{"RUSTEXT":"Ремонт","ENGTEXT":"Repair","TRANSCRIPT": "rɪ'peə"},
+{"RUSTEXT":"Снимать квартиру","ENGTEXT":"Rent a flat","TRANSCRIPT": "rent ə flæt"},
+{"RUSTEXT":"Проживать в одной комнате с","ENGTEXT":"Share a room with smb","TRANSCRIPT": "ʃeə ə ru:m wɪð<smb>"},
+{"RUSTEXT":"кем-либо","ENGTEXT":"","TRANSCRIPT": ""},
+{"RUSTEXT":"Починить, исправить","ENGTEXT":"Put things right / fix","TRANSCRIPT": "put θɪŋz raɪt / fiks"},
+{"RUSTEXT":"Просторный","ENGTEXT":"Spacious","TRANSCRIPT": "'speɪʃəs"},
+{"RUSTEXT":"Побелка; белить, делать побелку","ENGTEXT":"Whitewash","TRANSCRIPT": "'waɪtwɔʃ"},
+{"RUSTEXT":"Новоселье","ENGTEXT":"Housewarming party","TRANSCRIPT": "'hausˌwɔːmɪŋ 'pɑːtɪ"}
+                
+                
+                ]
+          }
+        ]
+      },
+      {
+        "title": "Город",
+        "items": [
+          {
+            "title": "Места",
+            "words": [
+                
+                {"RUSTEXT":"Места","ENGTEXT":"Places","TRANSCRIPT": "ˈpleɪsɪz"},
+{"RUSTEXT":"Скорая помощь","ENGTEXT":"Ambulance","TRANSCRIPT": "ˈæmbjələns "},
+{"RUSTEXT":"Продуктовый магазин","ENGTEXT":"Grocery store","TRANSCRIPT": "ˈɡrəʊsəri stɔː "},
+{"RUSTEXT":"Билетная касса","ENGTEXT":"Ticket office","TRANSCRIPT": "ˈtɪkɪt ˈɒfɪs "},
+{"RUSTEXT":"Концертный зал","ENGTEXT":"Concert hall","TRANSCRIPT": "kənˈsɜːt hɔːl "},
+{"RUSTEXT":"Торговый центр","ENGTEXT":"Shopping mall","TRANSCRIPT": "ˈʃɒpɪŋ mɔːl "},
+{"RUSTEXT":"Международный аэропорт","ENGTEXT":"International airport","TRANSCRIPT": "ˌɪntəˈnæʃn  əl ˈeəpɔːt "},
+{"RUSTEXT":"Стадион","ENGTEXT":"Stadium","TRANSCRIPT": "ˈsteɪdɪəm "},
+{"RUSTEXT":"Вокзал","ENGTEXT":"Railway station","TRANSCRIPT": "ˈreɪlweɪ ˈsteɪʃn   "},
+{"RUSTEXT":"Собор","ENGTEXT":"Cathedral","TRANSCRIPT": "kəˈθiːdrəl"},
+{"RUSTEXT":"Зоопарк","ENGTEXT":"Zoo","TRANSCRIPT": "zuː "},
+{"RUSTEXT":"Банк","ENGTEXT":"Bank","TRANSCRIPT": "bæŋk "},
+{"RUSTEXT":"Рынок","ENGTEXT":"Market","TRANSCRIPT": "ˈmɑːkɪt "},
+{"RUSTEXT":"Полицейский участок","ENGTEXT":"Police station","TRANSCRIPT": " pəˈliːs ˈsteɪʃn   "},
+{"RUSTEXT":"Дом","ENGTEXT":"House","TRANSCRIPT": " haʊs "},
+{"RUSTEXT":"Школа","ENGTEXT":"School","TRANSCRIPT": " skuːl "},
+{"RUSTEXT":"Университет","ENGTEXT":"University","TRANSCRIPT": " ˌjuːnɪˈvɜːsəti "},
+{"RUSTEXT":"Церковь","ENGTEXT":"Church","TRANSCRIPT": " tʃɜːtʃ "},
+{"RUSTEXT":"Больница","ENGTEXT":"Hospital","TRANSCRIPT": " ˈhɒspɪtl "},
+{"RUSTEXT":"Музей","ENGTEXT":"Museum","TRANSCRIPT": " mjuˈziːəm "},
+{"RUSTEXT":"Театр","ENGTEXT":"Theater","TRANSCRIPT": " ˈθɪə.tər "},
+{"RUSTEXT":"Обменник","ENGTEXT":"Currency exchange","TRANSCRIPT": "ˈkʌrənsi ɪkˈstʃeɪndʒ "},
+{"RUSTEXT":"Банкомат","ENGTEXT":"ATM","TRANSCRIPT": "ˌeɪtiːˈem "},
+{"RUSTEXT":"Кино","ENGTEXT":"Cinema","TRANSCRIPT": " ˈsɪnəmə "},
+{"RUSTEXT":"Памятник","ENGTEXT":"Monument","TRANSCRIPT": "ˈmɒnjʊmənt"},
+{"RUSTEXT":"Мост","ENGTEXT":"Bridge","TRANSCRIPT": "brɪdʒ "}
+
+                
+                
+                ]
+          },
+          {
+            "title": "Передвижение по городу",
+            "words": [
+                
+                {"RUSTEXT":"Передвижение по городу","ENGTEXT":"Getting around","TRANSCRIPT": "ˈɡetɪŋ əˈraʊnd "},
+{"RUSTEXT":"Площадь","ENGTEXT":"Square","TRANSCRIPT": "skweə "},
+{"RUSTEXT":"Главная дорога","ENGTEXT":"Main road","TRANSCRIPT": "meɪn rəʊd "},
+{"RUSTEXT":"Светофор","ENGTEXT":"Traffic lights","TRANSCRIPT": "ˈtræfɪk laɪts "},
+{"RUSTEXT":"Пешеход","ENGTEXT":"Pedestrian","TRANSCRIPT": "pɪˈdestrɪən "},
+{"RUSTEXT":"Канал","ENGTEXT":"Canal","TRANSCRIPT": "kəˈnæl "},
+{"RUSTEXT":"Набережная","ENGTEXT":"Embankment","TRANSCRIPT": "en'bankment "},
+{"RUSTEXT":"Тротуар","ENGTEXT":"Pavement = sidewalk","TRANSCRIPT": "ˈpeɪvmənt = ˈsaɪdwɔːk "},
+{"RUSTEXT":"Пешеходный переход","ENGTEXT":"Crossing = zebra","TRANSCRIPT": "ˈkrɒsɪŋ = ˈzebrə "},
+{"RUSTEXT":"Подземный переход","ENGTEXT":"Underground crossing","TRANSCRIPT": "ˈʌndəɡraʊnd ˈkrɒsɪŋ "},
+{"RUSTEXT":"Перекресток","ENGTEXT":"Intersection = crossroads","TRANSCRIPT": "ˌɪntəˈsekʃn   = ˈkrɒsrəʊdz "},
+{"RUSTEXT":"Общественный транспорт","ENGTEXT":"Public transport","TRANSCRIPT": "ˈpʌblɪk ˈtrænspɔːt "}
+                
+                
+                ]
+          },
+          {
+            "title": "Тур по городу",
+            "words": [
+                
+                {"RUSTEXT":"Тур по городу","ENGTEXT":"City tour","TRANSCRIPT": "ˈsɪti tʊə "},
+{"RUSTEXT":"Экскурсия","ENGTEXT":"Excursion","TRANSCRIPT": "ɪkˈskɜːʃn   "},
+{"RUSTEXT":"Гид","ENGTEXT":"A guide","TRANSCRIPT": "ə ɡaɪd "},
+{"RUSTEXT":"Достопримечательности","ENGTEXT":"Sights","TRANSCRIPT": "saɪts "},
+{"RUSTEXT":"Туристы","ENGTEXT":"Visitors = tourists","TRANSCRIPT": "ˈvɪzɪtəz = ˈtʊərɪsts "}
+                
+                
+                ]
+          },
+          {
+            "title": "В городе за рулём",
+            "words": [
+                
+             {"RUSTEXT":"В городе за рулём","ENGTEXT":"Driving in the city","TRANSCRIPT": "ˈdraɪvɪŋ ɪn ðə ˈsɪti "},
+{"RUSTEXT":"Аренда машины","ENGTEXT":"Car hire = car rental","TRANSCRIPT": "kɑː ˈhaɪə = kɑː ˈrentl   "},
+{"RUSTEXT":"Мойка","ENGTEXT":"Car wash","TRANSCRIPT": "kɑː wɒʃ "},
+{"RUSTEXT":"Авторемонт","ENGTEXT":"Car repair","TRANSCRIPT": "kɑː rɪˈpeə "},
+{"RUSTEXT":"Пробка","ENGTEXT":"Traffic jam","TRANSCRIPT": "ˈtræfɪk dʒæm"}   
+                
+                
+                
+                
+                ]
+          }
+        ]
+      },
+      {
+        "title": "Поход по магазинам",
+        "items": [
+          {
+            "title": "Магазины",
+            "words": [
+                
+                {"RUSTEXT":"Магазины","ENGTEXT":"Shops","TRANSCRIPT": "ʃɔps"},
+{"RUSTEXT":"Книжный","ENGTEXT":"Bookstore","TRANSCRIPT": "bʊkstɔ:"},
+{"RUSTEXT":"Косметика","ENGTEXT":"Cosmetics shop","TRANSCRIPT": "kɒz'mɛtɪks ʃɒp"},
+{"RUSTEXT":"Аптека","ENGTEXT":"Drugstore / chemist's / pharmacy","TRANSCRIPT": "drʌgstɔ: / 'kemɪsts / 'fɑːməsɪ"},
+{"RUSTEXT":"Булочная","ENGTEXT":"Bakery","TRANSCRIPT": "beɪkəri"},
+{"RUSTEXT":"Кондитерская","ENGTEXT":"Candy shop","TRANSCRIPT": "kændɪ ʃɔp"},
+{"RUSTEXT":"Оптика","ENGTEXT":"Optometrist","TRANSCRIPT": "ɒpʹtɒmıtrıst"},
+{"RUSTEXT":"Бутик","ENGTEXT":"Boutique","TRANSCRIPT": "bu:'ti:k"},
+{"RUSTEXT":"Рынок","ENGTEXT":"Market","TRANSCRIPT": "ma:kɪt"},
+{"RUSTEXT":"Мясной м-н","ENGTEXT":"Butcher's","TRANSCRIPT": "bʊtʃəz"},
+{"RUSTEXT":"М-н обуви","ENGTEXT":"Footwear / shoe shop","TRANSCRIPT": "fʊtweə / ʃuː ʃɔp"},
+{"RUSTEXT":"Торговый центр","ENGTEXT":"Mall","TRANSCRIPT": "mɔ:l"},
+{"RUSTEXT":"Ювелирный м-н","ENGTEXT":"Jewellery store","TRANSCRIPT": "dʒu:əlri stɔ:"},
+{"RUSTEXT":"Электроника","ENGTEXT":"Electronics","TRANSCRIPT": "ɪlɛk'trɒnɪks"},
+{"RUSTEXT":"Мебель","ENGTEXT":"Furniture store","TRANSCRIPT": "fɜ:nɪtʃə stɔ:"},
+{"RUSTEXT":"Спортивные товары","ENGTEXT":"Sport goods / sports store","TRANSCRIPT": "spɔ:t gʊdz / spɔ:ts stɔ:"},
+{"RUSTEXT":"Канцелярия","ENGTEXT":"Stationer's","TRANSCRIPT": "steɪʃnəz"},
+{"RUSTEXT":"М-н игрушек","ENGTEXT":"Toy store","TRANSCRIPT": "tɔɪ stɔ:"},
+{"RUSTEXT":"Антикварный","ENGTEXT":"Antique shop","TRANSCRIPT": "æn'ti:k ʃɒp"},
+{"RUSTEXT":"Газетныйкиоск","ENGTEXT":"Newsagent's / news-stand","TRANSCRIPT": "nju:z 'eɪdʒənts / ʹnju:zstænd"},
+{"RUSTEXT":"Дисконт центр","ENGTEXT":"Discount store","TRANSCRIPT": "dɪskaʊnt stɔ:"},
+{"RUSTEXT":"М-н тканей","ENGTEXT":"Fabric store","TRANSCRIPT": "fæbrɪk stɔ:"},
+{"RUSTEXT":"Магазин посуды","ENGTEXT":"Crockery / cookware","TRANSCRIPT": "krɔk(ə)rɪ / 'kukweə"},
+{"RUSTEXT":"Цветочный магазин","ENGTEXT":"Florist","TRANSCRIPT": "flɔrɪst"},
+{"RUSTEXT":"Сеть стоковых магазинов","ENGTEXT":"Outlet mall","TRANSCRIPT": "autlet mɔːl"},
+{"RUSTEXT":"Ломбард","ENGTEXT":"Pawnshop","TRANSCRIPT": "pɔːnʃɔp"},
+{"RUSTEXT":"Винный магазин","ENGTEXT":"Liquor store","TRANSCRIPT": "lɪkə stɔː"},
+{"RUSTEXT":"Блошиный рынок","ENGTEXT":"Flea market","TRANSCRIPT": "fli: 'ma:kɪt"},
+{"RUSTEXT":"Галантерея","ENGTEXT":"Haberdashery","TRANSCRIPT": "hæbədæʃəri"},
+{"RUSTEXT":"Зоо магазин","ENGTEXT":"Pet shop","TRANSCRIPT": "pɛt ʃɒp"},
+{"RUSTEXT":"Бытовые приборы","ENGTEXT":"Appliance store","TRANSCRIPT": "ə'plaɪəns stɔ:"},
+{"RUSTEXT":"Сетевой м-н","ENGTEXT":"Chain store","TRANSCRIPT": "tʃeɪn stɔ:"},
+{"RUSTEXT":"Платить наличными","ENGTEXT":"To pay (in) cash","TRANSCRIPT": "peɪ (in) kæʃ"},
+{"RUSTEXT":"Платить кредиткой","ENGTEXT":"To pay by a credit card","TRANSCRIPT": "peɪ baɪ ə 'krɛdɪt ka:d"},
+{"RUSTEXT":"Покупать","ENGTEXT":"To purchase","TRANSCRIPT": "pɜ:tʃəs"}
+
+                
+                
+                ]
+          }
+        ]
+      },
+      {
+        "title": "Путешествие",
+        "items": [
+          {
+            "title": "Путешествие",
+            "words": [
+                {"RUSTEXT":"Путешествие","ENGTEXT":"Travelling","TRANSCRIPT": " 'trævliŋ "},
+{"RUSTEXT":"Отпуск","ENGTEXT":"Vacation, leave","TRANSCRIPT": "və'keɪʃn, liːv"},
+{"RUSTEXT":"Каникулы","ENGTEXT":"(school/university) vacation","TRANSCRIPT": "(skuːl / juːnɪ'vɜːsətɪ) və'keɪʃn"},
+{"RUSTEXT":"Иностранный","ENGTEXT":"Foreign","TRANSCRIPT": "fɔrɪn"},
+{"RUSTEXT":"Путешествие по туристической путевке","ENGTEXT":"Package tour","TRANSCRIPT": " 'pækiʤ tuə "},
+{"RUSTEXT":"Морской круиз","ENGTEXT":"Cruise","TRANSCRIPT": " kru:z "},
+{"RUSTEXT":"Тур","ENGTEXT":"Tour","TRANSCRIPT": "tuə"},
+{"RUSTEXT":"Туризм","ENGTEXT":"Tourism","TRANSCRIPT": "tuərɪzm"},
+{"RUSTEXT":"Путешествие, длительная поездка","ENGTEXT":"Journey","TRANSCRIPT": " ʤə:ni "},
+{"RUSTEXT":"Путешествие, короткая поездка","ENGTEXT":"Trip, short journey","TRANSCRIPT": " trip , ʃɔːt ʤə:ni "},
+{"RUSTEXT":"Бюро путешествий","ENGTEXT":"Travel agency, tourist agency","TRANSCRIPT": " trævl 'eiʤənsi,'tuərist 'eiʤənsi "},
+{"RUSTEXT":"Пешеходный поход, экскурсия","ENGTEXT":"Hike","TRANSCRIPT": " haik "},
+{"RUSTEXT":"Путешествовать","ENGTEXT":"To travel","TRANSCRIPT": " ˈtravəl"},
+{"RUSTEXT":"Ехать/поехать заграницу","ENGTEXT":"To go abroad","TRANSCRIPT": "  gəu ə'brɔːd"}
+
+                
+                ]
+          },
+          {
+            "title": "Билеты",
+            "words": [
+                {"RUSTEXT":"Билеты","ENGTEXT":"Tickets","TRANSCRIPT": "tɪkɪts"},
+{"RUSTEXT":"Билет на поезд, самолет","ENGTEXT":"A ticket for a train/ plane","TRANSCRIPT": "ə 'tikit fɔ:r ə trein /plein"},
+{"RUSTEXT":"Билетная касса","ENGTEXT":"Booking office","TRANSCRIPT": " 'bʋkɪŋ 'ɔfis "},
+{"RUSTEXT":"Забронировать билеты","ENGTEXT":"To book tickets","TRANSCRIPT": " buk 'tikits "}
+                
+                ]
+          },
+          {
+            "title": "Транспорт",
+            "words": [
+                {"RUSTEXT":"Транспорт","ENGTEXT":"Transport","TRANSCRIPT": "træn'spɔːt"},
+{"RUSTEXT":"Аэропорт","ENGTEXT":"Airport","TRANSCRIPT": "eəpɔːt"},
+{"RUSTEXT":"Корабль","ENGTEXT":"Ship","TRANSCRIPT": "ʃɪp"},
+{"RUSTEXT":"Такси","ENGTEXT":"Taxi","TRANSCRIPT": "tæksɪ"},
+{"RUSTEXT":"Самолёт","ENGTEXT":"(air)plane","TRANSCRIPT": "eəpleɪn"},
+{"RUSTEXT":"Поезд","ENGTEXT":"Train","TRANSCRIPT": "treɪn"},
+{"RUSTEXT":"Машина","ENGTEXT":"Car, automobile","TRANSCRIPT": "kɑː 'ɔːtəməubiːl"},
+{"RUSTEXT":"Багаж","ENGTEXT":"Luggage, baggage","TRANSCRIPT": " 'lʌgiʤ, 'bægiʤ "},
+{"RUSTEXT":"Паспорт","ENGTEXT":"Passport","TRANSCRIPT": "pɑːspɔːt"},
+{"RUSTEXT":"Автобусная остановка","ENGTEXT":"Bus stop","TRANSCRIPT": "bʌs stɔp"},
+{"RUSTEXT":"Посадка","ENGTEXT":"Boarding","TRANSCRIPT": " 'bɔ:rdɪŋ "},
+{"RUSTEXT":"Таможня","ENGTEXT":"Customs","TRANSCRIPT": "kʌstəms"},
+{"RUSTEXT":"Отправление","ENGTEXT":"Departure","TRANSCRIPT": " di'pɑ:ʧə "},
+{"RUSTEXT":"Вокзал","ENGTEXT":"(railroad/train) station","TRANSCRIPT": "reɪlrəud/treɪn 'steɪʃn"},
+{"RUSTEXT":"Прибытие","ENGTEXT":"Arrival","TRANSCRIPT": " ə'raivl "},
+{"RUSTEXT":"Багаж","ENGTEXT":"Luggage, baggage","TRANSCRIPT": " 'lʌgiʤ, 'bægiʤ "},
+{"RUSTEXT":"Ручной багаж","ENGTEXT":"Hand luggage","TRANSCRIPT": " hænd 'lʌgiʤ "},
+{"RUSTEXT":"Садиться/сесть (на что-то)","ENGTEXT":"To get on,","TRANSCRIPT": " get ɔn,"},
+{"RUSTEXT":"Багажный транспортер","ENGTEXT":"Baggage carousel","TRANSCRIPT": "bægɪʤ ˌkærə'sel"},
+{"RUSTEXT":"Зона получения багажа","ENGTEXT":"Baggage claim area","TRANSCRIPT": "bægɪʤ kleɪm 'eərɪə"},
+{"RUSTEXT":"Контрольно-пропускной пункт","ENGTEXT":"Security checkpoint","TRANSCRIPT": "sɪ'kjuərətɪ 'ʧekpɔɪnt"},
+{"RUSTEXT":"Металлоискатель","ENGTEXT":"Metal detector","TRANSCRIPT": "ˈmetl dɪ'tektə"}
+                
+                ]
+          },
+          {
+            "title": "Размещение, поселение",
+            "words": [
+                {"RUSTEXT":"Размещение, поселение","ENGTEXT":"Accommodation","TRANSCRIPT": "əˌkɔmə'deɪʃ(ə)n]"},
+{"RUSTEXT":"Гостиница, отель","ENGTEXT":"Hotel","TRANSCRIPT": "həu'tel]"},
+{"RUSTEXT":"Счет","ENGTEXT":"Bill","TRANSCRIPT": "bɪl]"},
+{"RUSTEXT":"Питание по программе «все включено»","ENGTEXT":"All inclusive","TRANSCRIPT": "ɔːl ɪn'kluːsɪv]"},
+{"RUSTEXT":"Курорт","ENGTEXT":"Resort","TRANSCRIPT": " ri'zɔ:t ]"},
+{"RUSTEXT":"Час, до которого необходимо освободить номер в день отъезда","ENGTEXT":"Check-out time","TRANSCRIPT": "ʧek aut taɪm]"},
+{"RUSTEXT":"Мотель","ENGTEXT":"Motel","TRANSCRIPT": "məu'tel]"},
+{"RUSTEXT":"Хостел","ENGTEXT":"Hostel","TRANSCRIPT": "'hɔst(ə)l]"},
+{"RUSTEXT":"Скидка","ENGTEXT":"Discount","TRANSCRIPT": "'dɪskaunt]"},
+{"RUSTEXT":"Питание: завтрак","ENGTEXT":"B&b — bed and breakfast","TRANSCRIPT": "ˌbiːən(d)'biː]"},
+{"RUSTEXT":"Полупансион (как правило, завтрак и ужин)","ENGTEXT":"Hb — half board","TRANSCRIPT": "ˌhɑːf'bɔːd]"},
+{"RUSTEXT":"Кемпинг","ENGTEXT":"Camp site","TRANSCRIPT": "kæmpsaɪt]"},
+{"RUSTEXT":"Гостиница для семейных","ENGTEXT":"Family hotel","TRANSCRIPT": "'fæməlɪ (h)ə(u)'tel]"},
+{"RUSTEXT":"Пятизвёздочный отель","ENGTEXT":"Luxury hotel","TRANSCRIPT": "'lʌkʃərɪ (h)ə(u)'tel]"},
+{"RUSTEXT":"Заранее","ENGTEXT":"In advance","TRANSCRIPT": "ɪn əd'vɑːn(t)s]"},
+{"RUSTEXT":"Стандартный номер","ENGTEXT":"Standard room","TRANSCRIPT": "'stændəd ruːm]"},
+{"RUSTEXT":"Номер «люкс»","ENGTEXT":"Suite room","TRANSCRIPT": "swiːt ruːm]"},
+{"RUSTEXT":"Двухместный номер с двумя кроватями","ENGTEXT":"Twin room","TRANSCRIPT": "twɪn ruːm]"},
+{"RUSTEXT":"Двухместный номер с одной двуспальной кроватью","ENGTEXT":"Double room","TRANSCRIPT": "'dʌbl ruːm]"},
+{"RUSTEXT":"Стойка администратора","ENGTEXT":"Reception desk","TRANSCRIPT": "rɪ'sepʃ(ə)n desk]"},
+{"RUSTEXT":"Забронировать гостиничный номер","ENGTEXT":"To make a reservation for a room","TRANSCRIPT": "meɪk ə ˌrezə'veɪʃn fɔːr ə ruːm]"},
+{"RUSTEXT":"Бронировать","ENGTEXT":"To book","TRANSCRIPT": "buk]"}
+                
+                
+                ]
+          },
+          {
+            "title": "Стойка регистрации",
+            "words": [
+                {"RUSTEXT":"Стойка регистрации","ENGTEXT":"Reception","TRANSCRIPT": "rɪ'sepʃ(ə)n"}
+                
+                
+                ]
+          },
+          {
+            "title": "Персонал отеля",
+            "words": [
+                
+                {"RUSTEXT":"Персонал отеля","ENGTEXT":"Hotel staff","TRANSCRIPT": "(h)ə(u)'telstʌf"},
+{"RUSTEXT":"Управляющий гостиницей","ENGTEXT":"Hotel manager","TRANSCRIPT": "(h)ə(u)'tel 'mænɪʤə"},
+{"RUSTEXT":"Администратор","ENGTEXT":"Receptionist","TRANSCRIPT": "rɪ'sepʃ(ə)nɪst"},
+{"RUSTEXT":"Дежурный администратор","ENGTEXT":"Desk clerk","TRANSCRIPT": "desk klɑːk"},
+{"RUSTEXT":"Горничная","ENGTEXT":"Chambermaid","TRANSCRIPT": "ʧeɪmbəmeɪd"},
+{"RUSTEXT":"Привратник, швейцар","ENGTEXT":"Doorman","TRANSCRIPT": "dɔːmən"},
+{"RUSTEXT":"Носильщик","ENGTEXT":"Porter","TRANSCRIPT": "pɔːtə"},
+{"RUSTEXT":"Коридорный, посыльный","ENGTEXT":"Bellboy","TRANSCRIPT": "belbɔɪ"},
+{"RUSTEXT":"Служащий гостиницы","ENGTEXT":"Valet","TRANSCRIPT": "vælɪt"}
+
+                ]
+          },
+          {
+            "title": "Комплекс услуг, предоставляемых гостиницей",
+            "words": [
+                {"RUSTEXT":"Комплекс услуг, предоставляемых гостиницей","ENGTEXT":"Hotel facilities","TRANSCRIPT": "(h)ə(u)'tel fəˈsɪlətɪz"},
+{"RUSTEXT":"Бар в лобби/вестибюле","ENGTEXT":"Lobby bar","TRANSCRIPT": "lɔbɪ bɑː"},
+{"RUSTEXT":"Ресторан","ENGTEXT":"Restaurant","TRANSCRIPT": "restərɔnt"},
+{"RUSTEXT":"Буфет","ENGTEXT":"Snack bar","TRANSCRIPT": "snæk bɑː"},
+{"RUSTEXT":"Прачечная","ENGTEXT":"Laundry","TRANSCRIPT": "lɔːndrɪ"},
+{"RUSTEXT":"Сейф","ENGTEXT":"Safe deposit box","TRANSCRIPT": "seɪf dɪ'pɔzɪt bɔks"}
+                
+                
+                ]
+          }
+        ]
+      },
+      {
+        "title": "Здоровье",
+        "items": [
+          {
+            "title": "Здоровый образ жизни",
+            "words": [
+                {"RUSTEXT":"Здоровый образ жизни","ENGTEXT":"Healthy life-style","TRANSCRIPT": "helθɪ 'laɪf staɪl"},
+{"RUSTEXT":"Здоровье","ENGTEXT":"Health","TRANSCRIPT": "helθ"},
+{"RUSTEXT":"Улучшать здоровье","ENGTEXT":"To improve one’s health","TRANSCRIPT": "ɪm'pruːv<one’s>helθ"},
+{"RUSTEXT":"Вредить здоровью","ENGTEXT":"To damage one’s health","TRANSCRIPT": "dæmɪʤ<one’s>helθ"},
+{"RUSTEXT":"Быть полезным для здоровья","ENGTEXT":"To be good for one’s health","TRANSCRIPT": "bi: gud fə<one’s>helθ"},
+{"RUSTEXT":"Быть вредным для здоровья","ENGTEXT":"To be bad for one’s health","TRANSCRIPT": "bi: bæd fə<one’s>helθ"},
+{"RUSTEXT":"Поддерживать хорошую физическую форму","ENGTEXT":"To stay fit","TRANSCRIPT": "stei fɪt"},
+{"RUSTEXT":"Упражняться","ENGTEXT":"To exercise","TRANSCRIPT": "eksəsaɪz"},
+{"RUSTEXT":"Заниматься спортом","ENGTEXT":"To play sports","TRANSCRIPT": "plei spɔːts"},
+{"RUSTEXT":"Здоровая пища","ENGTEXT":"Healthy food","TRANSCRIPT": "helθɪ fuːd"},
+{"RUSTEXT":"Соблюдатьдиету","ENGTEXT":"To be on a diet","TRANSCRIPT": "biː ɔn ə 'daɪət"},
+{"RUSTEXT":"Сесть надиету","ENGTEXT":"To go on a diet","TRANSCRIPT": "gəu ɔn ə 'daɪət"},
+{"RUSTEXT":"Сбалансированная диета","ENGTEXT":"Balanced diet","TRANSCRIPT": "bælən(t)st  'daɪət"}
+                
+                ]
+          },
+          {
+            "title": "Болезнь",
+            "words": [
+                {"RUSTEXT":"Болезнь","ENGTEXT":"Illness","TRANSCRIPT": "ˈɪlnəs"},
+{"RUSTEXT":"Болеть (бытьбольным)","ENGTEXT":"To be ill (br.) / to be sick (am.)","TRANSCRIPT": "biː ɪl / biː sɪk"},
+{"RUSTEXT":"Заболевать","ENGTEXT":"To fall / get  ill / sick","TRANSCRIPT": "fɔːl / get ɪl / sɪk"},
+{"RUSTEXT":"Заболеть чем-то","ENGTEXT":"To become sick with ……","TRANSCRIPT": "bɪ'kʌm sɪk wɪð"},
+{"RUSTEXT":"Чувствовать себя лучше","ENGTEXT":"To feel better","TRANSCRIPT": "fiːl 'betə"},
+{"RUSTEXT":"Чувствовать себя хуже","ENGTEXT":"To feel worse","TRANSCRIPT": "fiːl wɜ:s"},
+{"RUSTEXT":"Идти на поправку","ENGTEXT":"To get better","TRANSCRIPT": "get 'betə"},
+{"RUSTEXT":"Выздоравливать","ENGTEXT":"To recover","TRANSCRIPT": "rɪ'kʌvə"},
+{"RUSTEXT":"Грипп","ENGTEXT":"Flu","TRANSCRIPT": "fluː"},
+{"RUSTEXT":"Заразиться гриппом","ENGTEXT":"To catch the flu","TRANSCRIPT": "kæʧ ðə fluː"},
+{"RUSTEXT":"Простуда","ENGTEXT":"Cold","TRANSCRIPT": "kəuld"},
+{"RUSTEXT":"Простудиться","ENGTEXT":"To catch a cold","TRANSCRIPT": "kæʧ ə kəuld"},
+{"RUSTEXT":"Болеть простудой","ENGTEXT":"To have a cold","TRANSCRIPT": "həv ə kəuld"}
+                
+                ]
+          },
+          {
+            "title": "Боль",
+            "words": [
+                {"RUSTEXT":"Боль","ENGTEXT":"Pain","TRANSCRIPT": "peɪn"},
+{"RUSTEXT":"У меня болит горло.","ENGTEXT":"I have a sore throat.","TRANSCRIPT": "aɪ həv ə sɔː θrəut"},
+{"RUSTEXT":"У меня болит голова.","ENGTEXT":"I have a headache.","TRANSCRIPT": "aɪ həv ə 'hedeɪk"},
+{"RUSTEXT":"У меня болит печень.","ENGTEXT":"I have a pain in my liver.","TRANSCRIPT": "aɪ həv ə peɪn ɪn maɪ 'lɪvə"},
+{"RUSTEXT":"У меня болит поясница.","ENGTEXT":"I have a pain in the small of the","TRANSCRIPT": "aɪ həv ə peɪn ɪn ðə smɔːl əv"},
+{"RUSTEXT":"У меня болят глаза.","ENGTEXT":"I have sore eyes.","TRANSCRIPT": "aɪ həv sɔ:r aɪz"},
+{"RUSTEXT":"Болеть (о части тела)","ENGTEXT":"To hurt","TRANSCRIPT": "hɜ:t"},
+{"RUSTEXT":"У меня болит рука.","ENGTEXT":"My hand hurts.","TRANSCRIPT": "maɪ hænd hɜ:ts"},
+{"RUSTEXT":"Больно!","ENGTEXT":"It hurts!","TRANSCRIPT": "ɪt hɜ:ts"},
+{"RUSTEXT":"У меня болит зуб.","ENGTEXT":"I have a toothache.","TRANSCRIPT": "aɪ  həv ə 'tuːθeɪk"},
+{"RUSTEXT":"У меня сломался зуб.","ENGTEXT":"I have a broken tooth.","TRANSCRIPT": "aɪhəv ə 'brəuk(ə)n tuːθ"},
+{"RUSTEXT":"Пломба","ENGTEXT":"Filling","TRANSCRIPT": "fɪlɪŋ"},
+{"RUSTEXT":"У меня выпала пломба.","ENGTEXT":"I have lost a filling.","TRANSCRIPT": "aɪ həv lɔst ə 'fɪlɪŋ"},
+{"RUSTEXT":"Лечить зуб","ENGTEXT":"To treat a tooth","TRANSCRIPT": "triːt ə tuːθ"}
+                
+                ]
+          },
+          {
+            "title": "Травма",
+            "words": [
+                {"RUSTEXT":"Травма","ENGTEXT":"Injury","TRANSCRIPT": "ɪnʤ(ə)rɪ"},
+{"RUSTEXT":"Порез","ENGTEXT":"Cut","TRANSCRIPT": "kʌt"},
+{"RUSTEXT":"Нарыв","ENGTEXT":"Abscess","TRANSCRIPT": "æbsəs"},
+{"RUSTEXT":"Опухание","ENGTEXT":"Swelling","TRANSCRIPT": "swelɪŋ"},
+{"RUSTEXT":"Вывих","ENGTEXT":"Dislocation","TRANSCRIPT": "ˌdɪsləu'keɪʃ(ə)n"},
+{"RUSTEXT":"Вывихнуть","ENGTEXT":"To dislocate","TRANSCRIPT": "dɪsləukeɪt"},
+{"RUSTEXT":"Перелом","ENGTEXT":"Fracture","TRANSCRIPT": "frækʧə"},
+{"RUSTEXT":"Растяжение","ENGTEXT":"Strain","TRANSCRIPT": "streɪn"},
+{"RUSTEXT":"Ожог","ENGTEXT":"Burn","TRANSCRIPT": "bɜːn"},
+{"RUSTEXT":"Кровь","ENGTEXT":"Blood","TRANSCRIPT": "blʌd"},
+{"RUSTEXT":"Кровоточить","ENGTEXT":"To bleed","TRANSCRIPT": "bli:d"},
+{"RUSTEXT":"Кровотечение","ENGTEXT":"Bleeding","TRANSCRIPT": "bli:dɪŋ"}
+                
+                ]
+          },
+          {
+            "title": "Лечение",
+            "words": [
+                {"RUSTEXT":"Лечение","ENGTEXT":"Treatment","TRANSCRIPT": "triːtmənt"},
+{"RUSTEXT":"Лечить (применять лечение) от …","ENGTEXT":"To treat for …","TRANSCRIPT": "triːt fɔː"},
+{"RUSTEXT":"Лечить, исцелять (быть средством лечения)","ENGTEXT":"To cure","TRANSCRIPT": "kjuə"},
+{"RUSTEXT":"Лечить, заживлять","ENGTEXT":"To heal","TRANSCRIPT": "hiːl"},
+{"RUSTEXT":"Традиционная медицина","ENGTEXT":"Traditional medicine","TRANSCRIPT": "trə'dɪʃ(ə)n(ə)l 'medɪsɪn"},
+{"RUSTEXT":"Анализ","ENGTEXT":"Test","TRANSCRIPT": "test"},
+{"RUSTEXT":"Анализ крови","ENGTEXT":"Blood test","TRANSCRIPT": "blʌd test"},
+{"RUSTEXT":"Делать анализ","ENGTEXT":"To do a test","TRANSCRIPT": "du ə test"},
+{"RUSTEXT":"Делать рентген","ENGTEXT":"To do an X-ray","TRANSCRIPT": "du ən 'eksreɪ "},
+{"RUSTEXT":"Делать укол","ENGTEXT":"To give an injection","TRANSCRIPT": "gɪv ən ɪn'ʤekʃ(ə)n"},
+{"RUSTEXT":"Измерять давление","ENGTEXT":"To take one's blood pressure","TRANSCRIPT": "teɪk<one's>blʌd 'preʃə"},
+{"RUSTEXT":"Измерять температуру","ENGTEXT":"To take <one's> temperature","TRANSCRIPT": "teɪk<one's> 'temp(ə)rəʧə"},
+{"RUSTEXT":"Измерять пульс","ENGTEXT":"To take a pulse","TRANSCRIPT": "teɪk ə pʌls"},
+{"RUSTEXT":"Побочныйэффект","ENGTEXT":"Side effect","TRANSCRIPT": "saɪd ɪ'fekt]"},
+{"RUSTEXT":"Вправлять вывих","ENGTEXT":"To set a bone","TRANSCRIPT": "set ə bəun]"}
+                
+                ]
+          },
+          {
+            "title": "В аптеке",
+            "words": [
+                
+                {"RUSTEXT":"В аптеке","ENGTEXT":"At the chemist’s (Br.) / At the drugstore (Am.)","TRANSCRIPT": "ət ðə 'kemɪsts / ət ðə 'drʌgstɔː"},
+{"RUSTEXT":"Лекарство от …","ENGTEXT":"Medicine for …","TRANSCRIPT": "medɪsɪn fɔː"},
+{"RUSTEXT":"Таблетки","ENGTEXT":"Pills","TRANSCRIPT": "pilz"},
+{"RUSTEXT":"Вата","ENGTEXT":"Cotton","TRANSCRIPT": "kɔt(ə)n"},
+{"RUSTEXT":"Йод","ENGTEXT":"Iodine","TRANSCRIPT": "aɪədiːn"},
+{"RUSTEXT":"Пластырь","ENGTEXT":"Plaster (br.) /band-aid(am.)","TRANSCRIPT": "plɑːstə / 'bænd eɪd"},
+{"RUSTEXT":"Аспирин","ENGTEXT":"Aspirin","TRANSCRIPT": "æsp(ə)rɪn"},
+{"RUSTEXT":"Бинт","ENGTEXT":"Bandage","TRANSCRIPT": "bændɪʤ"},
+{"RUSTEXT":"Обезболивающее средство","ENGTEXT":"Pain killer","TRANSCRIPT": "peɪn 'kɪlə"},
+{"RUSTEXT":"Рецепт","ENGTEXT":"Prescription","TRANSCRIPT": "prɪs'krɪpʃ(ə)n"},
+{"RUSTEXT":"Слабительное","ENGTEXT":"Laxative","TRANSCRIPT": "læksətɪv"},
+{"RUSTEXT":"Лекарство для полоскания горла","ENGTEXT":"Throat gargle","TRANSCRIPT": "θrəut 'gɑːgl"},
+{"RUSTEXT":"Дезинфицирующее","ENGTEXT":"Antiseptic","TRANSCRIPT": "ˌæntɪ'septɪk"},
+{"RUSTEXT":"Обезболивающее","ENGTEXT":"Anaesthetic","TRANSCRIPT": "ˌænəs'θetɪk"}
+                
+                ]
+          },
+          {
+            "title": "Медицинская помощь",
+            "words": [
+                {"RUSTEXT":"Медицинская помощь","ENGTEXT":"Medical aid","TRANSCRIPT": "medɪk(ə)l eɪd"},
+{"RUSTEXT":"Поликлиника","ENGTEXT":"Medical center","TRANSCRIPT": "medɪk(ə)l 'sentə"},
+{"RUSTEXT":"Больница","ENGTEXT":"Hospital","TRANSCRIPT": "hɔspɪt(ə)l"},
+{"RUSTEXT":"Скорая помощь","ENGTEXT":"Ambulance","TRANSCRIPT": "æmbjələn(t)s"},
+{"RUSTEXT":"Пациент","ENGTEXT":"Patient","TRANSCRIPT": "peɪʃ(ə)nt"},
+{"RUSTEXT":"Врач","ENGTEXT":"Doctor","TRANSCRIPT": "dɔktə"},
+{"RUSTEXT":"Лечь в больницу","ENGTEXT":"To go to hospital","TRANSCRIPT": "gəu tə 'hɔspɪt(ə)l"},
+{"RUSTEXT":"Лежать в больнице","ENGTEXT":"To be in hospital","TRANSCRIPT": "biː ɪn 'hɔspɪt(ə)l"},
+{"RUSTEXT":"Вызвать врача","ENGTEXT":"To call the doctor","TRANSCRIPT": "kɔːl ðə 'dɔktə"},
+{"RUSTEXT":"Записаться на прием к врачу","ENGTEXT":"To make an appointment with a doctor","TRANSCRIPT": "meɪk ən ə'pɔɪntmənt wɪð ə 'dɔktə"}
+                
+                ]
+          },
+          {
+            "title": "Фразы о здоровье",
+            "words": [
+                {"RUSTEXT":"Фразы о здоровье","ENGTEXT":"Health phrases","TRANSCRIPT": " helθ freɪziz "},
+{"RUSTEXT":"Грех жаловаться","ENGTEXT":"Can’t complain","TRANSCRIPT": "kɑːnt kəm'pleɪn"},
+{"RUSTEXT":"Испытывать стресс","ENGTEXT":"To be stressed out","TRANSCRIPT": "bi: strest aut"},
+{"RUSTEXT":"Воплощение здоровья","ENGTEXT":"The picture of health","TRANSCRIPT": "ðə 'pɪkʧər əv 'helθ"},
+{"RUSTEXT":"Снова встать на ноги","ENGTEXT":"To be back on one’s feet","TRANSCRIPT": "bi: bæk ɔn<one's>fi:t"},
+{"RUSTEXT":"Сильная головная боль","ENGTEXT":"A splitting headache","TRANSCRIPT": "ə 'splɪtɪŋ 'hedeɪk"},
+{"RUSTEXT":"Распространяться, ходить (о заболевании)","ENGTEXT":"To go round","TRANSCRIPT": "gəu raund"}
+                
+                ]
+          }
+        ]
+      },
+      {
+        "title": "Пища",
+        "items": [
+          {
+            "title": "Фрукты",
+            "words": [
+                {"RUSTEXT":"Фрукты","ENGTEXT":"Fruit","TRANSCRIPT": "fruːt"},
+{"RUSTEXT":"Яблоко","ENGTEXT":"Apple","TRANSCRIPT": "æpl"},
+{"RUSTEXT":"Лимон","ENGTEXT":"Lemon","TRANSCRIPT": "lemən"},
+{"RUSTEXT":"Манго","ENGTEXT":"Mango","TRANSCRIPT": "mæŋgəu"},
+{"RUSTEXT":"Лайм","ENGTEXT":"Lime","TRANSCRIPT": "laɪm"},
+{"RUSTEXT":"Слива","ENGTEXT":"Plum","TRANSCRIPT": "plʌm"},
+{"RUSTEXT":"Груша","ENGTEXT":"Pear","TRANSCRIPT": "peə"},
+{"RUSTEXT":"Киви","ENGTEXT":"Kiwi","TRANSCRIPT": "kiːwiː"},
+{"RUSTEXT":"Апельсин","ENGTEXT":"Orange","TRANSCRIPT": "ɔrɪnʤ"},
+{"RUSTEXT":"Дыня","ENGTEXT":"Melon","TRANSCRIPT": "melən"},
+{"RUSTEXT":"Банан","ENGTEXT":"Banana","TRANSCRIPT": "bə'nɑːnə"},
+{"RUSTEXT":"Ягода","ENGTEXT":"Berry","TRANSCRIPT": "berɪ"},
+{"RUSTEXT":"Вишня","ENGTEXT":"Cherry","TRANSCRIPT": "ʧerɪ"},
+{"RUSTEXT":"Дыня","ENGTEXT":"Melon","TRANSCRIPT": "melən"},
+{"RUSTEXT":"Смородина","ENGTEXT":"Currant","TRANSCRIPT": "kʌr(ə)nt"},
+{"RUSTEXT":"Виноградина","ENGTEXT":"Grape","TRANSCRIPT": "greɪp"},
+{"RUSTEXT":"Ананас","ENGTEXT":"Pineapple","TRANSCRIPT": "paɪnæpl"},
+{"RUSTEXT":"Кокос","ENGTEXT":"Coconut","TRANSCRIPT": "kəukənʌt"},
+{"RUSTEXT":"Гранат","ENGTEXT":"Pomegranate","TRANSCRIPT": "pɔmɪˌgrænɪt"},
+{"RUSTEXT":"Абрикос","ENGTEXT":"Apricot","TRANSCRIPT": "eɪprɪkɔt"},
+{"RUSTEXT":"Смородина","ENGTEXT":"Currant","TRANSCRIPT": "kʌr(ə)nt"},
+{"RUSTEXT":"Малина","ENGTEXT":"Raspberry","TRANSCRIPT": "rɑːzb(ə)rɪ"},
+{"RUSTEXT":"Клубника","ENGTEXT":"Strawberry","TRANSCRIPT": "strɔːb(ə)rɪ"},
+{"RUSTEXT":"Мандарин","ENGTEXT":"Tangerine","TRANSCRIPT": "ˌtænʤ(ə)'riːn"},
+{"RUSTEXT":"Арбуз","ENGTEXT":"Watermelon","TRANSCRIPT": "wɔːtəˌmelən"},
+{"RUSTEXT":"Персик","ENGTEXT":"Peach","TRANSCRIPT": "piːʧ"},
+{"RUSTEXT":"Папайя","ENGTEXT":"Papaya","TRANSCRIPT": "pə'paɪə"},
+{"RUSTEXT":"Клюква","ENGTEXT":"Cranberry","TRANSCRIPT": "krænb(ə)rɪ"},
+{"RUSTEXT":"Нектарин","ENGTEXT":"Nectarine","TRANSCRIPT": "nekt(ə)riːn"},
+{"RUSTEXT":"Грейпфрут","ENGTEXT":"Grapefruit","TRANSCRIPT": "greɪpfruːt"},
+{"RUSTEXT":"Ежевика","ENGTEXT":"Blackberry","TRANSCRIPT": "blækb(ə)rɪ"},
+{"RUSTEXT":"Черника, голубика","ENGTEXT":"Blueberry","TRANSCRIPT": "bluːbərɪ"},
+{"RUSTEXT":"Изюм","ENGTEXT":"Raisin","TRANSCRIPT": "reɪz(ə)n"},
+{"RUSTEXT":"Финик","ENGTEXT":"Date","TRANSCRIPT": "deɪt"},
+{"RUSTEXT":"Маракуя","ENGTEXT":"Passion fruit","TRANSCRIPT": "pæʃ(ə)n fru:t"}
+                
+                ]
+          },
+          {
+            "title": "Овощи",
+            "words": [
+           {"RUSTEXT":"Овощи","ENGTEXT":"Vegetables","TRANSCRIPT": "veʤ(ə)təblz"},
+{"RUSTEXT":"Картофель","ENGTEXT":"Potato","TRANSCRIPT": "pə'teɪtəu"},
+{"RUSTEXT":"Свекла","ENGTEXT":"Beet","TRANSCRIPT": "biːt"},
+{"RUSTEXT":"Капуста","ENGTEXT":"Cabbage","TRANSCRIPT": "kæbɪʤ"},
+{"RUSTEXT":"Морковь","ENGTEXT":"Carrot","TRANSCRIPT": "kærət"},
+{"RUSTEXT":"Боб, фасоль","ENGTEXT":"Bean","TRANSCRIPT": "biːn"},
+{"RUSTEXT":"Чеснок","ENGTEXT":"Garlic","TRANSCRIPT": "gɑːlɪk"},
+{"RUSTEXT":"Оливка","ENGTEXT":"Olive","TRANSCRIPT": "ɔlɪv"},
+{"RUSTEXT":"Перец","ENGTEXT":"Pepper","TRANSCRIPT": "pepə"},
+{"RUSTEXT":"Помидор","ENGTEXT":"Tomato","TRANSCRIPT": "tə'mɑːtəu"},
+{"RUSTEXT":"Огурец","ENGTEXT":"Cucumber","TRANSCRIPT": "kjuːkʌmbə"},
+{"RUSTEXT":"Баклажан","ENGTEXT":"Eggplant (am.) / aubergine(br.)","TRANSCRIPT": "egplɑːnt / 'əubəʤiːn"},
+{"RUSTEXT":"Гриб","ENGTEXT":"Mushroom","TRANSCRIPT": "mʌʃrum"},
+{"RUSTEXT":"Репчатый лук","ENGTEXT":"Onion","TRANSCRIPT": "ʌnjən"},
+{"RUSTEXT":"Авокадо","ENGTEXT":"Avocado","TRANSCRIPT": "ˌævə'kɑːdəu"},
+{"RUSTEXT":"Зелень","ENGTEXT":"Greens","TRANSCRIPT": "gri:nz"},
+{"RUSTEXT":"Редис","ENGTEXT":"Radish","TRANSCRIPT": "rædɪʃ"},
+{"RUSTEXT":"Артишок","ENGTEXT":"Artichoke","TRANSCRIPT": "ɑːtɪʧəuk"},
+{"RUSTEXT":"Спаржа","ENGTEXT":"Asparagus","TRANSCRIPT": "əs'pærəgəs"},
+{"RUSTEXT":"Цветная капуста","ENGTEXT":"Cauliflower","TRANSCRIPT": "kɔlɪˌflauə"},
+{"RUSTEXT":"Сельдерей","ENGTEXT":"Celery","TRANSCRIPT": "sel(ə)rɪ"},
+{"RUSTEXT":"Имбирь","ENGTEXT":"Ginger","TRANSCRIPT": "ʤɪnʤə"},
+{"RUSTEXT":"Салат-латук","ENGTEXT":"Lettuce","TRANSCRIPT": "letɪs"},
+{"RUSTEXT":"Укроп","ENGTEXT":"Dill","TRANSCRIPT": "dɪl"},
+{"RUSTEXT":"Петрушка","ENGTEXT":"Parsley","TRANSCRIPT": "pɑːslɪ"},
+{"RUSTEXT":"Зеленый горошек (горошина)","ENGTEXT":"Pea","TRANSCRIPT": "piː]"},
+{"RUSTEXT":"Тыква","ENGTEXT":"Pumpkin","TRANSCRIPT": "'pʌmpkɪn]"},
+{"RUSTEXT":"Шпинат","ENGTEXT":"Spinach","TRANSCRIPT": "'spɪnɪʧ], -ʤ]"},
+{"RUSTEXT":"Репа","ENGTEXT":"Turnip","TRANSCRIPT": "'tɜːnɪp]"},
+{"RUSTEXT":"Кабачок","ENGTEXT":"Zucchini","TRANSCRIPT": "zu'kiːnɪ]"}
+     
+                
+                ]
+          },
+          {
+            "title": "Мясо",
+            "words": [
+                
+                {"RUSTEXT":"Мясо","ENGTEXT":"Meat","TRANSCRIPT": "mi:t]"},
+{"RUSTEXT":"Курица","ENGTEXT":"Chicken","TRANSCRIPT": "'ʧɪkɪn]"},
+{"RUSTEXT":"Свинина","ENGTEXT":"Pork","TRANSCRIPT": "pɔːk]"},
+{"RUSTEXT":"Индейка","ENGTEXT":"Turkey","TRANSCRIPT": "'tɜːkɪ]"},
+{"RUSTEXT":"Говядина","ENGTEXT":"Beef","TRANSCRIPT": "bi:f]"},
+{"RUSTEXT":"Баранина","ENGTEXT":"Mutton","TRANSCRIPT": "'mʌt(ə)n]"},
+{"RUSTEXT":"Колбаса","ENGTEXT":"Sausage","TRANSCRIPT": "'sɔsɪʤ]"},
+{"RUSTEXT":"Бекон","ENGTEXT":"Bacon","TRANSCRIPT": "'beɪk(ə)n]"},
+{"RUSTEXT":"Ветчина","ENGTEXT":"Ham","TRANSCRIPT": "hæm]"},
+{"RUSTEXT":"Сосиска","ENGTEXT":"A sausage","TRANSCRIPT": "ə 'sɔsɪʤ]"},
+{"RUSTEXT":"Молодая баранина, ягненок","ENGTEXT":"Lamb","TRANSCRIPT": "læm]"},
+{"RUSTEXT":"Телятина","ENGTEXT":"Veal","TRANSCRIPT": "vi:l]"},
+{"RUSTEXT":"Домашняя птица","ENGTEXT":"Poultry","TRANSCRIPT": "'pəultrɪ]"},
+{"RUSTEXT":"Фарш","ENGTEXT":"Minced meat","TRANSCRIPT": "mɪn(t)st mi:t]"}
+                
+                ]
+          },
+          {
+            "title": "Рыба",
+            "words": [
+                {"RUSTEXT":"Рыба","ENGTEXT":"Fish","TRANSCRIPT": "fɪʃ]"},
+{"RUSTEXT":"Тунец","ENGTEXT":"Tuna","TRANSCRIPT": "'tjuːnə]"},
+{"RUSTEXT":"Лосось, семга","ENGTEXT":"Salmon","TRANSCRIPT": "'sæmən]"},
+{"RUSTEXT":"Треска","ENGTEXT":"Cod","TRANSCRIPT": "kɔd]"},
+{"RUSTEXT":"Осетр","ENGTEXT":"Sturgeon","TRANSCRIPT": "'stɜːʤ(ə)n]"},
+{"RUSTEXT":"Форель","ENGTEXT":"Trout","TRANSCRIPT": "traut]"},
+{"RUSTEXT":"Сельдь","ENGTEXT":"Herring","TRANSCRIPT": "'herɪŋ]"},
+{"RUSTEXT":"Камбала","ENGTEXT":"Plaice","TRANSCRIPT": "pleɪs]"},
+{"RUSTEXT":"Пикша","ENGTEXT":"Haddock","TRANSCRIPT": "'hædək]"},
+{"RUSTEXT":"Щука","ENGTEXT":"Pike","TRANSCRIPT": "paɪk]"},
+{"RUSTEXT":"Угорь","ENGTEXT":"Eel","TRANSCRIPT": "i:l]"},
+{"RUSTEXT":"Палтус","ENGTEXT":"Sole","TRANSCRIPT": "səul]"},
+{"RUSTEXT":"Окунь","ENGTEXT":"Bass","TRANSCRIPT": "bæs]"}
+                
+                ]
+          },
+          {
+            "title": "Морепродукты",
+            "words": [
+                {"RUSTEXT":"Морепродукты","ENGTEXT":"Seafood","TRANSCRIPT": "si: fu:d]"},
+{"RUSTEXT":"Икра","ENGTEXT":"Caviar","TRANSCRIPT": "'kævɪɑː]"},
+{"RUSTEXT":"Краб","ENGTEXT":"Crab","TRANSCRIPT": "kræb]"},
+{"RUSTEXT":"Осьминог","ENGTEXT":"Octopus","TRANSCRIPT": "'ɔktəpəs]"},
+{"RUSTEXT":"Мидия","ENGTEXT":"Mussel","TRANSCRIPT": "'mʌs(ə)l]"},
+{"RUSTEXT":"Моллюск","ENGTEXT":"Clam","TRANSCRIPT": "klæm]"},
+{"RUSTEXT":"Устрица","ENGTEXT":"Oyster","TRANSCRIPT": "'ɔɪstə]"},
+{"RUSTEXT":"Лобстер","ENGTEXT":"Lobster","TRANSCRIPT": "'lɔbstə]"},
+{"RUSTEXT":"Креветка (большая)","ENGTEXT":"Prawn","TRANSCRIPT": "prɔːn]"},
+{"RUSTEXT":"Креветка","ENGTEXT":"Shrimp","TRANSCRIPT": "ʃrɪmp]"},
+{"RUSTEXT":"Кальмар","ENGTEXT":"Squid","TRANSCRIPT": "skwɪd]"},
+{"RUSTEXT":"Анчоус","ENGTEXT":"Anchovy","TRANSCRIPT": "'ænʧəvɪ]"}
+                
+                
+                ]
+          },
+          {
+            "title": "Крупы, зерновые",
+            "words": [
+                
+                {"RUSTEXT":"Крупы, зерновые","ENGTEXT":"Grains","TRANSCRIPT": "greɪnz]"},
+{"RUSTEXT":"Рис","ENGTEXT":"Rice","TRANSCRIPT": "raɪs]"},
+{"RUSTEXT":"Макароны","ENGTEXT":"Pasta","TRANSCRIPT": "'pæstə]"},
+{"RUSTEXT":"Овсяная каша","ENGTEXT":"Porridge","TRANSCRIPT": "'pɔrɪʤ]"},
+{"RUSTEXT":"Лапша","ENGTEXT":"Noodle","TRANSCRIPT": "'nuːdl]"},
+{"RUSTEXT":"Кукуруза","ENGTEXT":"Corn","TRANSCRIPT": "kɔːn]"},
+{"RUSTEXT":"Пшеница","ENGTEXT":"Wheat","TRANSCRIPT": "(h)wiːt]"},
+{"RUSTEXT":"Рожь","ENGTEXT":"Rye","TRANSCRIPT": "raɪ]"},
+{"RUSTEXT":"Греча","ENGTEXT":"Buckwheat","TRANSCRIPT": "'bʌkwiːt]"},
+{"RUSTEXT":"Крупы, злаки","ENGTEXT":"Cereals","TRANSCRIPT": "'sɪərɪəlz]"},
+{"RUSTEXT":"Овсяная крупа","ENGTEXT":"Oatmeal","TRANSCRIPT": "'əutmiːl]"},
+{"RUSTEXT":"Манная крупа","ENGTEXT":"Semolina","TRANSCRIPT": "ˌsem(ə)'liːnə]"}
+                
+                
+                ]
+          },
+          {
+            "title": "Мучные продукты",
+            "words": [{"RUSTEXT":"Мучные продукты","ENGTEXT":"Flour products","TRANSCRIPT": "'flauə 'prɔdʌkts]"},
+{"RUSTEXT":"Кекс, пирожное, торт","ENGTEXT":"Cake","TRANSCRIPT": "keɪk]"},
+{"RUSTEXT":"Хлеб","ENGTEXT":"Bread","TRANSCRIPT": "bred]"},
+{"RUSTEXT":"Печенье","ENGTEXT":"Cookie = biscuit","TRANSCRIPT": "'kukɪ] = 'bɪskɪt]"},
+{"RUSTEXT":"Блин, оладья","ENGTEXT":"Pancake","TRANSCRIPT": "'pænkeɪk]"},
+{"RUSTEXT":"Пирог, пирожок","ENGTEXT":"Pie","TRANSCRIPT": "paɪ]"},
+{"RUSTEXT":"Мука","ENGTEXT":"Flour","TRANSCRIPT": "'flauə]"},
+{"RUSTEXT":"Белый хлеб = пшеничный хлеб","ENGTEXT":"White bread = wheat bread","TRANSCRIPT": "(h)waɪt bred] = (h)wi:t bred]"},
+{"RUSTEXT":"Черный хлеб = ржаной хлеб","ENGTEXT":"Black bread = rye bread","TRANSCRIPT": "blæk bred] = raɪ bred]"},
+{"RUSTEXT":"Пирог (с фруктами, ягодами или вареньем), домашний торт","ENGTEXT":"Tart","TRANSCRIPT": "tɑːt]"},
+{"RUSTEXT":"Пирожок с начинкой","ENGTEXT":"Pasty","TRANSCRIPT": "'pæstɪ]"},
+{"RUSTEXT":"Кекс","ENGTEXT":"Muffin","TRANSCRIPT": "'mʌfɪn]"},
+{"RUSTEXT":"Выпечка, мучные кондитерские изделия","ENGTEXT":"Pastry","TRANSCRIPT": "'peɪstrɪ]"},
+{"RUSTEXT":"Тесто (густое)","ENGTEXT":"Dough","TRANSCRIPT": "dəu]"},
+{"RUSTEXT":"Тесто (жидкое)","ENGTEXT":"Batter","TRANSCRIPT": "'bætə]"},
+{"RUSTEXT":"Сдобная булочка","ENGTEXT":"Bun","TRANSCRIPT": "bʌn]"}
+
+                ]
+          },
+          {
+            "title": "Разное",
+            "words": [
+                {"RUSTEXT":"Разное","ENGTEXT":"Miscellaneous","TRANSCRIPT": "ˌmɪs(ə)'leɪnɪəs]"},
+{"RUSTEXT":"Яйцо","ENGTEXT":"Egg","TRANSCRIPT": "eg]"},
+{"RUSTEXT":"Сахар","ENGTEXT":"Sugar","TRANSCRIPT": "'ʃugə]"},
+{"RUSTEXT":"Подсолнечное масло","ENGTEXT":"Oil","TRANSCRIPT": "ɔɪl]"},
+{"RUSTEXT":"Шоколад","ENGTEXT":"Chocolate","TRANSCRIPT": "'ʧɔklət]"},
+{"RUSTEXT":"Соль","ENGTEXT":"Salt","TRANSCRIPT": "sɔːlt]"},
+{"RUSTEXT":"Черный перец","ENGTEXT":"Black pepper","TRANSCRIPT": "blæk 'pepə]"},
+{"RUSTEXT":"Конфета","ENGTEXT":"Candy = sweet","TRANSCRIPT": "'kændɪ] = swi:t]"},
+{"RUSTEXT":"Варенье","ENGTEXT":"Jam","TRANSCRIPT": "ʤæm]"},
+{"RUSTEXT":"Джем, повидло","ENGTEXT":"Marmalade","TRANSCRIPT": "'mɑːm(ə)leɪd]"},
+{"RUSTEXT":"Мед","ENGTEXT":"Honey","TRANSCRIPT": "'hʌnɪ]"},
+{"RUSTEXT":"Специя, пряность","ENGTEXT":"Spice","TRANSCRIPT": "spaɪs]"},
+{"RUSTEXT":"Приправа","ENGTEXT":"Seasoning","TRANSCRIPT": "'siːz(ə)nɪŋ]"},
+{"RUSTEXT":"Горчица","ENGTEXT":"Mustard","TRANSCRIPT": "mʌstəd"},
+{"RUSTEXT":"Консервы","ENGTEXT":"Canned food = tinned food","TRANSCRIPT": "kændfu:d = tɪndfu:d"}
+                
+                ]
+          },
+          {
+            "title": "Описание еды",
+            "words": [
+                {"RUSTEXT":"Описание еды","ENGTEXT":"Describing food","TRANSCRIPT": "dɪ'skraɪbɪŋ fu:d"},
+{"RUSTEXT":"Сладкий","ENGTEXT":"Sweet","TRANSCRIPT": "swiːt"},
+{"RUSTEXT":"Соленый","ENGTEXT":"Salty","TRANSCRIPT": "sɔːltɪ"},
+{"RUSTEXT":"Вкусный","ENGTEXT":"Delicious = tasty = yummy","TRANSCRIPT": "dɪ'lɪʃəs='teɪstɪ='jʌmɪ"},
+{"RUSTEXT":"Свежий","ENGTEXT":"Fresh","TRANSCRIPT": "freʃ"},
+{"RUSTEXT":"Не содержащий сахара","ENGTEXT":"Sugar-free","TRANSCRIPT": "ʃugəfri:"},
+{"RUSTEXT":"Горячий; острый","ENGTEXT":"Hot","TRANSCRIPT": "hɔt"},
+{"RUSTEXT":"Горький","ENGTEXT":"Bitter","TRANSCRIPT": "bɪtə"},
+{"RUSTEXT":"Полезный","ENGTEXT":"Healthy","TRANSCRIPT": "helθɪ"},
+{"RUSTEXT":"Кислый","ENGTEXT":"Sour","TRANSCRIPT": "sauə"},
+{"RUSTEXT":"Острый","ENGTEXT":"Spicy","TRANSCRIPT": "spaɪsɪ"},
+{"RUSTEXT":"Маслянистый","ENGTEXT":"Oily","TRANSCRIPT": "ɔɪlɪ"},
+{"RUSTEXT":"Сырой","ENGTEXT":"Raw","TRANSCRIPT": "rɔː"},
+{"RUSTEXT":"Зрелый, спелый","ENGTEXT":"Ripe","TRANSCRIPT": "raɪp"},
+{"RUSTEXT":"Неспелый","ENGTEXT":"Unripe","TRANSCRIPT": "ʌn'raɪp"},
+{"RUSTEXT":"Гнилой, испорченный","ENGTEXT":"Rotten","TRANSCRIPT": "rɔt(ə)n"},
+{"RUSTEXT":"Прокисший, тухлый","ENGTEXT":"Spoiled","TRANSCRIPT": "spɔɪld"},
+{"RUSTEXT":"Жесткий","ENGTEXT":"Tough","TRANSCRIPT": "tʌf"},
+{"RUSTEXT":"Мягкий","ENGTEXT":"Soft","TRANSCRIPT": "sɔft"},
+{"RUSTEXT":"Черствый, несвежий","ENGTEXT":"Stale","TRANSCRIPT": "steɪl"},
+{"RUSTEXT":"Нежный, тонкий (о вкусе)","ENGTEXT":"Delicate","TRANSCRIPT": "delɪkət"},
+{"RUSTEXT":"Терпкий, вяжущий","ENGTEXT":"Acerbic","TRANSCRIPT": "ə'sɜːb(ɪk)"},
+{"RUSTEXT":"Недоваренный","ENGTEXT":"Undercooked","TRANSCRIPT": "ʌndəkukt"},
+{"RUSTEXT":"Переваренный","ENGTEXT":"Overcooked","TRANSCRIPT": "əuvəkukt"},
+{"RUSTEXT":"Горький","ENGTEXT":"Bitter","TRANSCRIPT": "bɪtə"},
+{"RUSTEXT":"Пресный, неострый, безвкусный","ENGTEXT":"Bland","TRANSCRIPT": "blænd"},
+{"RUSTEXT":"Нежный, густой, сметанообразный","ENGTEXT":"Creamy","TRANSCRIPT": "kriːmɪ"},
+{"RUSTEXT":"Хрустящий","ENGTEXT":"Crispy = crunchy","TRANSCRIPT": "krɪspɪ = krʌnʧi"},
+{"RUSTEXT":"Пикантный, пряный","ENGTEXT":"Savoury","TRANSCRIPT": "seɪv(ə)rɪ"},
+{"RUSTEXT":"Густой","ENGTEXT":"Stodgy","TRANSCRIPT": "stɔʤɪ"},
+{"RUSTEXT":"Безвкусный","ENGTEXT":"Tasteless","TRANSCRIPT": "teɪstləs"},
+{"RUSTEXT":"Вредный, нездоровый","ENGTEXT":"Unhealthy","TRANSCRIPT": "ʌn'helθɪ"},
+{"RUSTEXT":"Калорийный","ENGTEXT":"High-caloric","TRANSCRIPT": "haɪkə'lɔrɪk"},
+{"RUSTEXT":"Жирный, содержащий много жира","ENGTEXT":"Greasy = fatty","TRANSCRIPT": "griːsɪ =  'fætɪ"},
+{"RUSTEXT":"Питательный","ENGTEXT":"Nutritious","TRANSCRIPT": "njuː'trɪʃəs"},
+{"RUSTEXT":"Сытный","ENGTEXT":"Substantial","TRANSCRIPT": "səb'stæn(t)ʃ(ə)l"},
+{"RUSTEXT":"Постный, содержащий мало жиров","ENGTEXT":"Lean","TRANSCRIPT": "li:n"},
+{"RUSTEXT":"Непрожаренный, с кровью","ENGTEXT":"Rare","TRANSCRIPT": "reə"},
+{"RUSTEXT":"Хорошо прожаренный","ENGTEXT":"Well-done","TRANSCRIPT": "ˌwel'dʌn"}
+                
+                ]
+          },
+          {
+            "title": "Приготовление пищи",
+            "words": [
+                
+                {"RUSTEXT":"Приготовление пищи","ENGTEXT":"Cooking","TRANSCRIPT": "kukɪŋ"},
+{"RUSTEXT":"Смешивать","ENGTEXT":"To mix","TRANSCRIPT": "mɪks"},
+{"RUSTEXT":"Резать","ENGTEXT":"To cut","TRANSCRIPT": "kʌt"},
+{"RUSTEXT":"Варить","ENGTEXT":"To boil","TRANSCRIPT": "bɔɪl"},
+{"RUSTEXT":"Жарить","ENGTEXT":"To fry","TRANSCRIPT": "fraɪ"},
+{"RUSTEXT":"Охлаждать","ENGTEXT":"To cool","TRANSCRIPT": "ku:l"}
+                ]
+          },
+          {
+            "title": "Кухонная утварь и приспособления",
+            "words": [
+                {"RUSTEXT":"Кухонная утварь и приспособления","ENGTEXT":"Kitchen utensils & devices","TRANSCRIPT": "kɪʧɪn juː'tens(ə)lz & dɪ'vaɪsiz"},
+{"RUSTEXT":"Плита","ENGTEXT":"Cooker = stove","TRANSCRIPT": "kukə = stəuv"},
+{"RUSTEXT":"Духовка","ENGTEXT":"Oven","TRANSCRIPT": "ʌv(ə)n"},
+{"RUSTEXT":"Ложка","ENGTEXT":"Spoon","TRANSCRIPT": "spu:n"},
+{"RUSTEXT":"Чашка","ENGTEXT":"Cup","TRANSCRIPT": "kʌp"},
+{"RUSTEXT":"Тарелка","ENGTEXT":"Plate","TRANSCRIPT": "pleɪt"},
+{"RUSTEXT":"Стакан, бокал","ENGTEXT":"Glass","TRANSCRIPT": "gla:s"},
+{"RUSTEXT":"Чайник","ENGTEXT":"Kettle","TRANSCRIPT": "ketl"},
+{"RUSTEXT":"Нож","ENGTEXT":"Knife","TRANSCRIPT": "naɪf"},
+{"RUSTEXT":"Холодильник","ENGTEXT":"Fridge","TRANSCRIPT": "frɪʤ"},
+{"RUSTEXT":"Банка","ENGTEXT":"Jar","TRANSCRIPT": "ʤɑː"},
+{"RUSTEXT":"Миска","ENGTEXT":"Bowl","TRANSCRIPT": "bəul"},
+{"RUSTEXT":"Кружка","ENGTEXT":"Mug","TRANSCRIPT": "mʌg"},
+{"RUSTEXT":"Вилка","ENGTEXT":"Fork","TRANSCRIPT": "fɔːk"},
+{"RUSTEXT":"Чайная ложка","ENGTEXT":"Tea spoon","TRANSCRIPT": "ti: spu:n"},
+{"RUSTEXT":"Кастрюля","ENGTEXT":"Pan = saucepan","TRANSCRIPT": "pæn = 'sɔːspən"},
+{"RUSTEXT":"Сковородка","ENGTEXT":"Frying pan","TRANSCRIPT": "fraɪɪŋˌpæn"}
+                
+                
+                ]
+          },
+          {
+            "title": "В ресторане",
+            "words": [
+                {"RUSTEXT":"В ресторане","ENGTEXT":"At a restaurant","TRANSCRIPT": "ət ə 'restərɔnt"},
+{"RUSTEXT":"Завтрак","ENGTEXT":"Breakfast","TRANSCRIPT": "brekfəst"},
+{"RUSTEXT":"Обед","ENGTEXT":"Lunch","TRANSCRIPT": "lʌnʧ"},
+{"RUSTEXT":"Ужин","ENGTEXT":"Dinner","TRANSCRIPT": "dɪnə"},
+{"RUSTEXT":"Кафе","ENGTEXT":"Cafe","TRANSCRIPT": "kæfeɪ, kæ'feɪ"},
+{"RUSTEXT":"Десерт","ENGTEXT":"Dessert","TRANSCRIPT": "dɪ'zɜːt"},
+{"RUSTEXT":"Официант","ENGTEXT":"Waiter","TRANSCRIPT": "weɪtə"},
+{"RUSTEXT":"Шеф-повар","ENGTEXT":"Chef","TRANSCRIPT": "ʃef"},
+{"RUSTEXT":"Заказ (ывать)","ENGTEXT":"(to) order","TRANSCRIPT": "ɔːdə"},
+{"RUSTEXT":"Обслуживание","ENGTEXT":"Service","TRANSCRIPT": "sɜːvɪs"},
+{"RUSTEXT":"Счет","ENGTEXT":"Bill","TRANSCRIPT": "bɪl"},
+{"RUSTEXT":"Чаевые","ENGTEXT":"Tips","TRANSCRIPT": "tɪps"},
+{"RUSTEXT":"Меню","ENGTEXT":"Menu","TRANSCRIPT": "menjuː"},
+{"RUSTEXT":"Напитки","ENGTEXT":"Beverages = drinks","TRANSCRIPT": "bevərɪʤiz = drɪŋks"},
+{"RUSTEXT":"Кухня национальная","ENGTEXT":"Cuisine","TRANSCRIPT": "kwɪ'ziːn"},
+{"RUSTEXT":"Фирменное блюдо","ENGTEXT":"Speciality","TRANSCRIPT": "ˌspeʃɪ'ælətɪ"},
+{"RUSTEXT":"Прием пищи, еда","ENGTEXT":"Meal","TRANSCRIPT": "mi:l"}
+                
+                
+                
+                ]
+          }
+        ]
+      },
+      {
+        "title": "Абстрактные существительные",
+        "words": [
+            {"RUSTEXT":"Воля","ENGTEXT":"Will","TRANSCRIPT": "wɪl"},
+{"RUSTEXT":"Сила воли","ENGTEXT":"Willpower","TRANSCRIPT": "ˈwɪlˌpaʊə"},
+{"RUSTEXT":"Намерение","ENGTEXT":"Intention","TRANSCRIPT": "ɪnˈtɛnʃ(ə)n"},
+{"RUSTEXT":"Страсть","ENGTEXT":"Desire","TRANSCRIPT": "dɪˈzaɪə"},
+{"RUSTEXT":"Усилие","ENGTEXT":"Effort","TRANSCRIPT": "ˈɛfət"},
+{"RUSTEXT":"Цель","ENGTEXT":"Purpose","TRANSCRIPT": "ˈpɜːpəs"},
+{"RUSTEXT":"Выбор","ENGTEXT":"Choice","TRANSCRIPT": "tʃɔɪs"},
+{"RUSTEXT":"Предпочтение","ENGTEXT":"Preference","TRANSCRIPT": "ˈprɛf(ə)rəns"},
+{"RUSTEXT":"Возможность","ENGTEXT":"Possibility","TRANSCRIPT": "ˌpɒsəˈbɪlɪtɪ"},
+{"RUSTEXT":"Требование","ENGTEXT":"Requirement","TRANSCRIPT": "rɪˈkwaɪəmənt"},
+{"RUSTEXT":"Причина","ENGTEXT":"Cause","TRANSCRIPT": "kɔːz"},
+{"RUSTEXT":"Разрешение","ENGTEXT":"Permission","TRANSCRIPT": "pəˈmɪʃ(ə)n"},
+{"RUSTEXT":"Уважительная причина","ENGTEXT":"Good reason","TRANSCRIPT": "ɡʊd ˈriːz(ə)n"},
+{"RUSTEXT":"Давление","ENGTEXT":"Pressure","TRANSCRIPT": "ˈprɛʃə"},
+{"RUSTEXT":"Чувство","ENGTEXT":"Feeling","TRANSCRIPT": "ˈfiːlɪŋ"},
+{"RUSTEXT":"Чувство стыда","ENGTEXT":"Sense of shame","TRANSCRIPT": "sɛns əv ʃeɪm"},
+{"RUSTEXT":"Взгляды","ENGTEXT":"Views","TRANSCRIPT": "vjuːz"},
+{"RUSTEXT":"Убеждения","ENGTEXT":"Convictions","TRANSCRIPT": "kənˈvɪkʃ(ə)ns"},
+{"RUSTEXT":"Последователь","ENGTEXT":"Follower","TRANSCRIPT": ""},
+{"RUSTEXT":"Направление, тенденция","ENGTEXT":"Trend","TRANSCRIPT": "ˈfɒləʊə"},
+{"RUSTEXT":"Сторонник, помощник","ENGTEXT":"Supporter","TRANSCRIPT": "trɛnd"},
+{"RUSTEXT":"Единомышленник","ENGTEXT":"Like-minded person","TRANSCRIPT": "səˈpɔːtə"},
+{"RUSTEXT":"Воображение","ENGTEXT":"Imagination","TRANSCRIPT": "ˌlaɪkˈmaɪndɪd ˈpɜːs(ə)n"},
+{"RUSTEXT":"Навык","ENGTEXT":"Skill","TRANSCRIPT": "ɪˌmædʒɪˈneɪʃ(ə)n"},
+{"RUSTEXT":"Важные вопросы, повестки","ENGTEXT":"Issue","TRANSCRIPT": "skɪl"},
+{"RUSTEXT":"Напряжение","ENGTEXT":"Strain","TRANSCRIPT": "ˈɪsjuː, ˈɪʃu"},
+{"RUSTEXT":"Соревнование, конкуренция","ENGTEXT":"Competition","TRANSCRIPT": "streɪn"},
+{"RUSTEXT":"Испытание","ENGTEXT":"Challenge","TRANSCRIPT": "ˌkɒmpɪˈtɪʃ(ə)n"},
+{"RUSTEXT":"Дальновидность","ENGTEXT":"Foresight","TRANSCRIPT": "ˈtʃælɪndʒ"},
+{"RUSTEXT":"Проницательность","ENGTEXT":"Insight","TRANSCRIPT": "ˈfɔːsaɪt"},
+{"RUSTEXT":"Мнение","ENGTEXT":"Opinion","TRANSCRIPT": "ˈɪnsaɪt"},
+{"RUSTEXT":"Опыт","ENGTEXT":"Experience","TRANSCRIPT": "əˈpɪnjən"}
+            
+            
+            ]
+      },
+      {
+        "title": "Прилагательные",
+        "words": [
+            {"RUSTEXT":"Настойчивый","ENGTEXT":"Insistent","TRANSCRIPT": "ɪnˈsɪst(ə)nt"},
+{"RUSTEXT":"Упрямый","ENGTEXT":"Stubborn","TRANSCRIPT": "ˈstʌbən"},
+{"RUSTEXT":"Целеустремлённый","ENGTEXT":"Determined","TRANSCRIPT": "dɪˈtɜːmɪnd"},
+{"RUSTEXT":"Сомневающийся","ENGTEXT":"Doubtful","TRANSCRIPT": "ˈdaʊtf(ə)l"},
+{"RUSTEXT":"Необходимый","ENGTEXT":"Necessary","TRANSCRIPT": "ˈnɛsɪs(ə)rɪ"},
+{"RUSTEXT":"Обязательный","ENGTEXT":"Obligatory","TRANSCRIPT": "əbˈlɪɡət(ə)rɪ"},
+{"RUSTEXT":"Независимый","ENGTEXT":"Independent","TRANSCRIPT": "ˌɪndɪˈpɛndənt"},
+{"RUSTEXT":"Дисциплинированный","ENGTEXT":"Organize","TRANSCRIPT": "ˈɔːɡənaɪzd"},
+{"RUSTEXT":"Умелый","ENGTEXT":"Efficient","TRANSCRIPT": "ɪˈfɪʃ(ə)nt"},
+{"RUSTEXT":"Нерешительный","ENGTEXT":"Indecisive","TRANSCRIPT": "ˌɪndɪˈsaɪsɪv"},
+{"RUSTEXT":"Смущённый","ENGTEXT":"Confused ","TRANSCRIPT": "kənˈfjuːzd"},
+{"RUSTEXT":"Бесцельный","ENGTEXT":"Aimless","TRANSCRIPT": "ˈeɪmlɪs"},
+{"RUSTEXT":"Беспомощный","ENGTEXT":"Helpless","TRANSCRIPT": "ˈhɛlplɪs"},
+{"RUSTEXT":"Слабовольный","ENGTEXT":"Weak-willed","TRANSCRIPT": "ˌwiːkˈwɪld"},
+{"RUSTEXT":"Обязательный","ENGTEXT":"Essential","TRANSCRIPT": "ɪˈsɛnʃ(ə)l"},
+{"RUSTEXT":"Напряжённый","ENGTEXT":"Stressful","TRANSCRIPT": "ˈstrɛsf(ə)l"},
+{"RUSTEXT":"Ключевой","ENGTEXT":"Crutial","TRANSCRIPT": "ˈkruːʃ(ə)l"},
+{"RUSTEXT":"Общепринятый, часто встречающийся","ENGTEXT":"Common","TRANSCRIPT": "ˈkɒmən"},
+{"RUSTEXT":"Удовлетворённый","ENGTEXT":"Satisfied","TRANSCRIPT": "ˈsætɪsfaɪd"},
+{"RUSTEXT":"Отдельный","ENGTEXT":"Separate","TRANSCRIPT": "ˈsɛpəreɪt"},
+{"RUSTEXT":"Особенный","ENGTEXT":"Particular","TRANSCRIPT": "pəˈtɪkjʊlə"},
+{"RUSTEXT":"Главный","ENGTEXT":"Main","TRANSCRIPT": "meɪn"},
+{"RUSTEXT":"Основной","ENGTEXT":"Basic","TRANSCRIPT": "ˈbeɪsɪk"},
+{"RUSTEXT":"Второстепенный","ENGTEXT":"Secondary","TRANSCRIPT": "ˈsɛkənd(ə)rɪ"},
+{"RUSTEXT":"Сложный","ENGTEXT":"Complex","TRANSCRIPT": "ˈkɒmplɛks"},
+{"RUSTEXT":"Простой","ENGTEXT":"Simple","TRANSCRIPT": "ˈsɪmp(ə)l"},
+{"RUSTEXT":"Типичный","ENGTEXT":"Typical","TRANSCRIPT": "ˈtɪpɪk(ə)l"},
+{"RUSTEXT":"Равный","ENGTEXT":"Equal","TRANSCRIPT": "ˈiːkwəl"},
+{"RUSTEXT":"Разный","ENGTEXT":"Different","TRANSCRIPT": "ˈdɪf(ə)rənt"},
+{"RUSTEXT":"Одинаковый","ENGTEXT":"Similar","TRANSCRIPT": "ˈsɪmɪlə"},
+{"RUSTEXT":"Важный","ENGTEXT":"Important","TRANSCRIPT": "ɪmˈpɔːt(ə)nt"},
+{"RUSTEXT":"Значительный","ENGTEXT":"Significant","TRANSCRIPT": "sɪɡˈnɪfɪkənt"},
+{"RUSTEXT":"Высококачественный","ENGTEXT":"High-quality","TRANSCRIPT": "ˌhaɪˈkwɒlɪtɪ"},
+{"RUSTEXT":"Изощрённый,сложный","ENGTEXT":"Sophisticated","TRANSCRIPT": "səˈfɪstɪkeɪtɪd"},
+{"RUSTEXT":"Передовой","ENGTEXT":"Advanced","TRANSCRIPT": "ədˈvɑːnst"},
+{"RUSTEXT":"Испорченный","ENGTEXT":"Spoiled","TRANSCRIPT": "spɔɪld"},
+{"RUSTEXT":"Естественный","ENGTEXT":"Natural","TRANSCRIPT": "ˈnætʃ(ə)rəl"},
+{"RUSTEXT":"Искусственный","ENGTEXT":"Artificial","TRANSCRIPT": "ˌɑːtɪˈfɪʃ(ə)l"},
+{"RUSTEXT":"Фактический","ENGTEXT":"Actual","TRANSCRIPT": "ˈæktʃʊəl"},
+{"RUSTEXT":"Воображаемый","ENGTEXT":"Imaginary","TRANSCRIPT": "ɪˈmædʒ(ə)n(ə)rɪ"},
+{"RUSTEXT":"Обычный","ENGTEXT":"Regular","TRANSCRIPT": "ˈrɛɡjʊlə"},
+{"RUSTEXT":"Случайный","ENGTEXT":"Occasional","TRANSCRIPT": "əˈkeɪʒ(ə)nəl"},
+{"RUSTEXT":"Неизбежный","ENGTEXT":"Inevitable","TRANSCRIPT": "ɪˈnɛvɪtəb(ə)l"},
+{"RUSTEXT":"Правильный","ENGTEXT":"Correct","TRANSCRIPT": "kəˈrɛkt"},
+{"RUSTEXT":"Правдивый","ENGTEXT":"True","TRANSCRIPT": "truː"},
+{"RUSTEXT":"Точный","ENGTEXT":"Precise","TRANSCRIPT": "prɪˈsaɪs"},
+{"RUSTEXT":"Логичый","ENGTEXT":"Logical","TRANSCRIPT": "ˈlɒdʒɪk(ə)l"},
+{"RUSTEXT":"Подходящий","ENGTEXT":"Appropriate","TRANSCRIPT": "əˈprəʊprɪeɪt"},
+{"RUSTEXT":"Неверный","ENGTEXT":"Wrong","TRANSCRIPT": "rɒŋ"},
+{"RUSTEXT":"Выгодный","ENGTEXT":"Advantageous","TRANSCRIPT": "ˌædvənˈteɪdʒəs"},
+{"RUSTEXT":"Действительный","ENGTEXT":"Valid","TRANSCRIPT": "ˈvælɪd"},
+{"RUSTEXT":"Полезный","ENGTEXT":"Useful","TRANSCRIPT": "ˈjuːsf(ə)l"},
+{"RUSTEXT":"Бесполезный","ENGTEXT":"Useless","TRANSCRIPT": "ˈjuːslɪs"},
+{"RUSTEXT":"Вредный","ENGTEXT":"Harmful","TRANSCRIPT": "ˈhɑːmf(ə)l"},
+{"RUSTEXT":"Бесценный","ENGTEXT":"Priceless","TRANSCRIPT": "ˈpraɪslɪs"}
+            
+            ]
+      },
+      {
+        "title": "Наречия",
+        "words": [
+            {"RUSTEXT":"Иногда","ENGTEXT":"Sometimes","TRANSCRIPT": " ˈsʌmtaɪmz "},
+{"RUSTEXT":"Никогда","ENGTEXT":"Never","TRANSCRIPT": " ˈnevə(r) "},
+{"RUSTEXT":"Редко","ENGTEXT":"Seldom","TRANSCRIPT": " ˈseldəm "},
+{"RUSTEXT":"Обычно","ENGTEXT":"Usually","TRANSCRIPT": " ˈjuːʒuəli "},
+{"RUSTEXT":"Часто","ENGTEXT":"Often","TRANSCRIPT": " ˈɒfn "},
+{"RUSTEXT":"Всегда","ENGTEXT":"Always","TRANSCRIPT": " ˈɔːlweɪz "},
+{"RUSTEXT":"Скоро","ENGTEXT":"Soon","TRANSCRIPT": " suːn "},
+{"RUSTEXT":"Недавно","ENGTEXT":"Recently","TRANSCRIPT": " ˈriːsntli "},
+{"RUSTEXT":"Хорошо","ENGTEXT":"Well","TRANSCRIPT": " wel "},
+{"RUSTEXT":"Далеко","ENGTEXT":"Far","TRANSCRIPT": " fɑː(r) "},
+{"RUSTEXT":"Точно","ENGTEXT":"Exactly","TRANSCRIPT": " ɪɡˈzæktli "},
+{"RUSTEXT":"Вероятно","ENGTEXT":"Probably","TRANSCRIPT": " ˈprɒbəbli "},
+{"RUSTEXT":"Может быть","ENGTEXT":"Maybe","TRANSCRIPT": " ˈmeɪbi "},
+{"RUSTEXT":"Возможно","ENGTEXT":"Perhaps","TRANSCRIPT": " pəˈhæps "},
+{"RUSTEXT":"Реально","ENGTEXT":"Really","TRANSCRIPT": " ˈriːəli "},
+{"RUSTEXT":"Несколько; Немного; Некоторое количество (В утверждениях)","ENGTEXT":"Some","TRANSCRIPT": " sʌm "},
+{"RUSTEXT":"Несколько; Немного; Некоторое Количество; Какой-нибудь (В Вопросах); Никакой (в отрицаниях);","ENGTEXT":"Any","TRANSCRIPT": " ˈeni "},
+{"RUSTEXT":"Любой (в утверждениях)","ENGTEXT":"Somebody","TRANSCRIPT": " ˈsʌmbədi "},
+{"RUSTEXT":"Кто-то","ENGTEXT":"Anybody","TRANSCRIPT": " ˈenibɒdi "},
+{"RUSTEXT":"Никто","ENGTEXT":"Nobody","TRANSCRIPT": " ˈnəʊbədi "},
+{"RUSTEXT":"Что-то","ENGTEXT":"Something","TRANSCRIPT": " ˈsʌmθɪŋ "},
+{"RUSTEXT":"Что-то","ENGTEXT":"Anything","TRANSCRIPT": " ˈeniθɪŋ "},
+{"RUSTEXT":"Ничто","ENGTEXT":"Nothing","TRANSCRIPT": " ˈnʌθɪŋ "},
+{"RUSTEXT":"Здесь","ENGTEXT":"Here","TRANSCRIPT": " hɪə(r) "},
+{"RUSTEXT":"Там","ENGTEXT":"There","TRANSCRIPT": " ðeə(r) "},
+{"RUSTEXT":"Сейчас","ENGTEXT":"Now","TRANSCRIPT": " naʊ "},
+{"RUSTEXT":"Снова","ENGTEXT":"Again","TRANSCRIPT": " əˈɡen "},
+{"RUSTEXT":"Потом","ENGTEXT":"Then","TRANSCRIPT": " ðen "},
+{"RUSTEXT":"Чем (сравнение)","ENGTEXT":"Than","TRANSCRIPT": " ðən "},
+{"RUSTEXT":"Уже","ENGTEXT":"Already","TRANSCRIPT": " ɔːlˈredi "},
+{"RUSTEXT":"Только, лишь","ENGTEXT":"Just","TRANSCRIPT": " dʒʌst "},
+{"RUSTEXT":"Все еще","ENGTEXT":"Still","TRANSCRIPT": " stɪl "},
+{"RUSTEXT":"Еще (не)","ENGTEXT":"Yet","TRANSCRIPT": " jet "},
+{"RUSTEXT":"Почти","ENGTEXT":"Almost","TRANSCRIPT": " ˈɔːlməʊst "},
+{"RUSTEXT":"Несколько","ENGTEXT":"Several","TRANSCRIPT": " ˈsevrəl "},
+{"RUSTEXT":"Очень","ENGTEXT":"Very","TRANSCRIPT": " ˈveri "},
+{"RUSTEXT":"Каждый","ENGTEXT":"Every","TRANSCRIPT": " ˈevri "},
+{"RUSTEXT":"Каждый","ENGTEXT":"Each","TRANSCRIPT": " iːtʃ "},
+{"RUSTEXT":"Другой","ENGTEXT":"Other","TRANSCRIPT": " ˈʌðə(r) "},
+{"RUSTEXT":"Такой","ENGTEXT":"Such","TRANSCRIPT": " sʌtʃ "}
+            
+            ]
+      },
+      {
+        "title": "Предлоги",
+        "words": [
+            
+            {"RUSTEXT":"Вверх","ENGTEXT":"Up","TRANSCRIPT": "ʌp "},
+{"RUSTEXT":"Вниз","ENGTEXT":"Down","TRANSCRIPT": " daʊn "},
+{"RUSTEXT":"Так, таким образом","ENGTEXT":"So","TRANSCRIPT": "səʊ "},
+{"RUSTEXT":"Все","ENGTEXT":"All","TRANSCRIPT": " ɔːl "},
+{"RUSTEXT":"Вместе","ENGTEXT":"Together","TRANSCRIPT": " təˈɡeðə(r) "},
+{"RUSTEXT":"Впереди","ENGTEXT":"Forward","TRANSCRIPT": " ˈfɔːwəd "},
+{"RUSTEXT":"Даже","ENGTEXT":"Even","TRANSCRIPT": " ˈiːvn "},
+{"RUSTEXT":"Достаточно","ENGTEXT":"Enough","TRANSCRIPT": " ɪˈnʌf "},
+{"RUSTEXT":"Также","ENGTEXT":"Also","TRANSCRIPT": " ˈɔːlsəʊ "},
+{"RUSTEXT":"Тоже","ENGTEXT":"Too","TRANSCRIPT": " tuː "},
+{"RUSTEXT":"Только","ENGTEXT":"Only","TRANSCRIPT": " ˈəʊnli "},
+{"RUSTEXT":"И","ENGTEXT":"And","TRANSCRIPT": " ənd "},
+{"RUSTEXT":"Или","ENGTEXT":"Or","TRANSCRIPT": " ɔː(r) "},
+{"RUSTEXT":"Но","ENGTEXT":"But","TRANSCRIPT": " bət "},
+{"RUSTEXT":"Однако","ENGTEXT":"However","TRANSCRIPT": " haʊˈevə(r) "},
+{"RUSTEXT":"Потому что","ENGTEXT":"Because","TRANSCRIPT": " bɪˈkɒz "},
+{"RUSTEXT":"Если","ENGTEXT":"If","TRANSCRIPT": " ɪf "},
+{"RUSTEXT":"От","ENGTEXT":"From","TRANSCRIPT": " frəm "},
+{"RUSTEXT":"Под","ENGTEXT":"Under","TRANSCRIPT": " ˈʌndə(r) "},
+{"RUSTEXT":"Позади","ENGTEXT":"Behind","TRANSCRIPT": " bɪˈhaɪnd "},
+{"RUSTEXT":"С","ENGTEXT":"With","TRANSCRIPT": " wɪð "},
+{"RUSTEXT":"Без","ENGTEXT":"Without","TRANSCRIPT": " wɪˈðaʊt "},
+{"RUSTEXT":"Перед","ENGTEXT":"In front of","TRANSCRIPT": " ɪn "},
+{"RUSTEXT":"Перед","ENGTEXT":"Before","TRANSCRIPT": " bɪˈfɔː(r) "},
+{"RUSTEXT":"После","ENGTEXT":"After","TRANSCRIPT": " ˈɑːftə(r) "},
+{"RUSTEXT":"Между","ENGTEXT":"Between","TRANSCRIPT": " bɪˈtwiːn "},
+{"RUSTEXT":"Рядом","ENGTEXT":"Near","TRANSCRIPT": ""},
+{"RUSTEXT":"Для","ENGTEXT":"For","TRANSCRIPT": ""},
+{"RUSTEXT":"С (каких-то пор)","ENGTEXT":"Since","TRANSCRIPT": " sɪns "},
+{"RUSTEXT":"Во время","ENGTEXT":"During","TRANSCRIPT": " ˈdjʊərɪŋ "},
+{"RUSTEXT":"Вокруг","ENGTEXT":"Around","TRANSCRIPT": " əˈraʊnd "},
+{"RUSTEXT":"Из-за (причина)","ENGTEXT":"Because of","TRANSCRIPT": " bɪˈkɒz  əv "},
+{"RUSTEXT":"Про","ENGTEXT":"About","TRANSCRIPT": " əˈbaʊt "},
+{"RUSTEXT":"Против","ENGTEXT":"Against","TRANSCRIPT": " əˈɡenst "},
+{"RUSTEXT":"Среди","ENGTEXT":"Among","TRANSCRIPT": " əˈmʌŋ "},
+{"RUSTEXT":"Через","ENGTEXT":"Through","TRANSCRIPT": " θruː "},
+{"RUSTEXT":"(Километров) в (час)","ENGTEXT":"Per","TRANSCRIPT": " pə(r) "},
+{"RUSTEXT":"Выше","ENGTEXT":"Above","TRANSCRIPT": " əˈbʌv "},
+{"RUSTEXT":"Ниже","ENGTEXT":"Below","TRANSCRIPT": " bɪˈləʊ "}
+
+
+            
+            
+            ]
+      }
+    ]
+  }
+}
