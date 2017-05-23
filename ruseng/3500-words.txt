@@ -7945,49 +7945,143 @@
             "items": [
               {
                 "title": "Начало",
-                "items": [
-                    
-                    {"ENGTEXT": "start","RUSTEXT":"Начинать(ся)","TRANSCRIPT" : "stɑːt"},
-{"ENGTEXT": "begin","RUSTEXT":"Начинать(ся)","TRANSCRIPT" : "bɪ'gɪn"},
-{"ENGTEXT": "appear","RUSTEXT":"Появляться","TRANSCRIPT" : "ə'pɪə"},
-{"ENGTEXT": "grow","RUSTEXT":"Становиться","TRANSCRIPT" : "grəu"},
-{"ENGTEXT": "become","RUSTEXT":"Становиться","TRANSCRIPT" : "bɪ'kʌm"},
-{"ENGTEXT": "get","RUSTEXT":"Становиться","TRANSCRIPT" : "get"},
-{"ENGTEXT": "prepare","RUSTEXT":" Готовиться","TRANSCRIPT" : "prɪ'peə"},
-{"ENGTEXT": "be late","RUSTEXT":"Опаздывать","TRANSCRIPT" : "biː leɪt"}
-                    
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "start",
+                    "RUSTEXT": "Начинать(ся)",
+                    "TRANSCRIPT": "stɑːt"
+                  },
+                  {
+                    "ENGTEXT": "begin",
+                    "RUSTEXT": "Начинать(ся)",
+                    "TRANSCRIPT": "bɪ'gɪn"
+                  },
+                  {
+                    "ENGTEXT": "appear",
+                    "RUSTEXT": "Появляться",
+                    "TRANSCRIPT": "ə'pɪə"
+                  },
+                  {
+                    "ENGTEXT": "grow",
+                    "RUSTEXT": "Становиться",
+                    "TRANSCRIPT": "grəu"
+                  },
+                  {
+                    "ENGTEXT": "become",
+                    "RUSTEXT": "Становиться",
+                    "TRANSCRIPT": "bɪ'kʌm"
+                  },
+                  {
+                    "ENGTEXT": "get",
+                    "RUSTEXT": "Становиться",
+                    "TRANSCRIPT": "get"
+                  },
+                  {
+                    "ENGTEXT": "prepare",
+                    "RUSTEXT": " Готовиться",
+                    "TRANSCRIPT": "prɪ'peə"
+                  },
+                  {
+                    "ENGTEXT": "be late",
+                    "RUSTEXT": "Опаздывать",
+                    "TRANSCRIPT": "biː leɪt"
+                  }
+                ]
               },
               {
                 "title": "Продолжение",
-                "items": [
-                    
-                    {"ENGTEXT": "continue","RUSTEXT":"Продолжать(ся)","TRANSCRIPT" : "kən'tɪnjuː"},
-{"ENGTEXT": "go on","RUSTEXT":"Продолжать","TRANSCRIPT" : "gəu ɔn"},
-{"ENGTEXT": "last","RUSTEXT":"Длиться","TRANSCRIPT" : "lɑːst"},
-{"ENGTEXT": "take","RUSTEXT":"Занимать (время)","TRANSCRIPT" : "teɪk"},
-{"ENGTEXT": "delay","RUSTEXT":"Задерживать","TRANSCRIPT" : "dɪ'leɪ"},
-{"ENGTEXT": "postpone","RUSTEXT":"Откладывать","TRANSCRIPT" : "ˌpəust'pəun"},
-{"ENGTEXT": "put off","RUSTEXT":"Откладывать","TRANSCRIPT" : "put ɔf"},
-{"ENGTEXT": "repeat","RUSTEXT":"Повторять","TRANSCRIPT" : "rɪ'piːt"},
-{"ENGTEXT": "resume","RUSTEXT":"Возобновлять","TRANSCRIPT" : "rɪ'zjuːm"}
-                    
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "continue",
+                    "RUSTEXT": "Продолжать(ся)",
+                    "TRANSCRIPT": "kən'tɪnjuː"
+                  },
+                  {
+                    "ENGTEXT": "go on",
+                    "RUSTEXT": "Продолжать",
+                    "TRANSCRIPT": "gəu ɔn"
+                  },
+                  {
+                    "ENGTEXT": "last",
+                    "RUSTEXT": "Длиться",
+                    "TRANSCRIPT": "lɑːst"
+                  },
+                  {
+                    "ENGTEXT": "take",
+                    "RUSTEXT": "Занимать (время)",
+                    "TRANSCRIPT": "teɪk"
+                  },
+                  {
+                    "ENGTEXT": "delay",
+                    "RUSTEXT": "Задерживать",
+                    "TRANSCRIPT": "dɪ'leɪ"
+                  },
+                  {
+                    "ENGTEXT": "postpone",
+                    "RUSTEXT": "Откладывать",
+                    "TRANSCRIPT": "ˌpəust'pəun"
+                  },
+                  {
+                    "ENGTEXT": "put off",
+                    "RUSTEXT": "Откладывать",
+                    "TRANSCRIPT": "put ɔf"
+                  },
+                  {
+                    "ENGTEXT": "repeat",
+                    "RUSTEXT": "Повторять",
+                    "TRANSCRIPT": "rɪ'piːt"
+                  },
+                  {
+                    "ENGTEXT": "resume",
+                    "RUSTEXT": "Возобновлять",
+                    "TRANSCRIPT": "rɪ'zjuːm"
+                  }
+                ]
               },
               {
                 "title": "Завершение",
                 "items": [
-                    
-                    {"ENGTEXT": "finish","RUSTEXT":"Завершать(ся)","TRANSCRIPT" : "fɪnɪʃ"},
-{"ENGTEXT": "end","RUSTEXT":"Завершать(ся)","TRANSCRIPT" : "ˈend"},
-{"ENGTEXT": "complete","RUSTEXT":"Завершать","TRANSCRIPT" : "kəm'pliːt"},
-{"ENGTEXT": "break","RUSTEXT":"Прерывать","TRANSCRIPT" : "breɪk"},
-{"ENGTEXT": "interrupt","RUSTEXT":"Прерывать","TRANSCRIPT" : "ˌɪntə'rʌpt"},
-{"ENGTEXT": "suspend","RUSTEXT":"Приостанавливать","TRANSCRIPT" : "sə'spend"},
-{"ENGTEXT": "stop","RUSTEXT":"Прекращать","TRANSCRIPT" : "stɔp"},
-{"ENGTEXT": "cease","RUSTEXT":"Переставать","TRANSCRIPT" : "siːs"}
-                    
-                    ]
+                  {
+                    "ENGTEXT": "finish",
+                    "RUSTEXT": "Завершать(ся)",
+                    "TRANSCRIPT": "fɪnɪʃ"
+                  },
+                  {
+                    "ENGTEXT": "end",
+                    "RUSTEXT": "Завершать(ся)",
+                    "TRANSCRIPT": "ˈend"
+                  },
+                  {
+                    "ENGTEXT": "complete",
+                    "RUSTEXT": "Завершать",
+                    "TRANSCRIPT": "kəm'pliːt"
+                  },
+                  {
+                    "ENGTEXT": "break",
+                    "RUSTEXT": "Прерывать",
+                    "TRANSCRIPT": "breɪk"
+                  },
+                  {
+                    "ENGTEXT": "interrupt",
+                    "RUSTEXT": "Прерывать",
+                    "TRANSCRIPT": "ˌɪntə'rʌpt"
+                  },
+                  {
+                    "ENGTEXT": "suspend",
+                    "RUSTEXT": "Приостанавливать",
+                    "TRANSCRIPT": "sə'spend"
+                  },
+                  {
+                    "ENGTEXT": "stop",
+                    "RUSTEXT": "Прекращать",
+                    "TRANSCRIPT": "stɔp"
+                  },
+                  {
+                    "ENGTEXT": "cease",
+                    "RUSTEXT": "Переставать",
+                    "TRANSCRIPT": "siːs"
+                  }
+                ]
               }
             ]
           },
@@ -7996,119 +8090,413 @@
             "items": [
               {
                 "title": "Виды движений",
-                "items": [
-                    {"ENGTEXT": "move","RUSTEXT":" Двигать(ся)","TRANSCRIPT" : "muːv"},
-{"ENGTEXT": "stop","RUSTEXT":"  останавливать(ся)","TRANSCRIPT" : "stɔp"},
-{"ENGTEXT": "go","RUSTEXT":"  идти / ехать","TRANSCRIPT" : "gəu"},
-{"ENGTEXT": "roll","RUSTEXT":"  катить(ся)","TRANSCRIPT" : "rəul"},
-{"ENGTEXT": "slide","RUSTEXT":"  скользить","TRANSCRIPT" : "slaɪd"},
-{"ENGTEXT": "turn","RUSTEXT":"Поворачивать(ся)","TRANSCRIPT" : "tɜːn"},
-{"ENGTEXT": "bend","RUSTEXT":"Гнуть","TRANSCRIPT" : "bend"},
-{"ENGTEXT": "wave","RUSTEXT":"Махать рукой","TRANSCRIPT" : "weɪv"},
-{"ENGTEXT": "shake","RUSTEXT":"Трясти(сь)","TRANSCRIPT" : "ʃeɪk"},
-{"ENGTEXT": "swing","RUSTEXT":"  Раскачиваться","TRANSCRIPT" : "swɪŋ"},
-{"ENGTEXT": "fly","RUSTEXT":"  Лететь","TRANSCRIPT" : "flaɪ"},
-{"ENGTEXT": "creep","RUSTEXT":"  Ползти","TRANSCRIPT" : "kriːp"},
-{"ENGTEXT": "swim","RUSTEXT":"  Плыть","TRANSCRIPT" : "swɪm"},
-{"ENGTEXT": "rotate","RUSTEXT":"  Вращаться","TRANSCRIPT" : "rəu'teɪt"},
-{"ENGTEXT": "ski","RUSTEXT":"  Кататься на лыжах","TRANSCRIPT" : "skiː"},
-{"ENGTEXT": "skate","RUSTEXT":"  Кататься на коньках","TRANSCRIPT" : "skeɪt"}
-                    
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "move",
+                    "RUSTEXT": " Двигать(ся)",
+                    "TRANSCRIPT": "muːv"
+                  },
+                  {
+                    "ENGTEXT": "stop",
+                    "RUSTEXT": "  останавливать(ся)",
+                    "TRANSCRIPT": "stɔp"
+                  },
+                  {
+                    "ENGTEXT": "go",
+                    "RUSTEXT": "  идти / ехать",
+                    "TRANSCRIPT": "gəu"
+                  },
+                  {
+                    "ENGTEXT": "roll",
+                    "RUSTEXT": "  катить(ся)",
+                    "TRANSCRIPT": "rəul"
+                  },
+                  {
+                    "ENGTEXT": "slide",
+                    "RUSTEXT": "  скользить",
+                    "TRANSCRIPT": "slaɪd"
+                  },
+                  {
+                    "ENGTEXT": "turn",
+                    "RUSTEXT": "Поворачивать(ся)",
+                    "TRANSCRIPT": "tɜːn"
+                  },
+                  {
+                    "ENGTEXT": "bend",
+                    "RUSTEXT": "Гнуть",
+                    "TRANSCRIPT": "bend"
+                  },
+                  {
+                    "ENGTEXT": "wave",
+                    "RUSTEXT": "Махать рукой",
+                    "TRANSCRIPT": "weɪv"
+                  },
+                  {
+                    "ENGTEXT": "shake",
+                    "RUSTEXT": "Трясти(сь)",
+                    "TRANSCRIPT": "ʃeɪk"
+                  },
+                  {
+                    "ENGTEXT": "swing",
+                    "RUSTEXT": "  Раскачиваться",
+                    "TRANSCRIPT": "swɪŋ"
+                  },
+                  {
+                    "ENGTEXT": "fly",
+                    "RUSTEXT": "  Лететь",
+                    "TRANSCRIPT": "flaɪ"
+                  },
+                  {
+                    "ENGTEXT": "creep",
+                    "RUSTEXT": "  Ползти",
+                    "TRANSCRIPT": "kriːp"
+                  },
+                  {
+                    "ENGTEXT": "swim",
+                    "RUSTEXT": "  Плыть",
+                    "TRANSCRIPT": "swɪm"
+                  },
+                  {
+                    "ENGTEXT": "rotate",
+                    "RUSTEXT": "  Вращаться",
+                    "TRANSCRIPT": "rəu'teɪt"
+                  },
+                  {
+                    "ENGTEXT": "ski",
+                    "RUSTEXT": "  Кататься на лыжах",
+                    "TRANSCRIPT": "skiː"
+                  },
+                  {
+                    "ENGTEXT": "skate",
+                    "RUSTEXT": "  Кататься на коньках",
+                    "TRANSCRIPT": "skeɪt"
+                  }
+                ]
               },
               {
                 "title": "Движение вверх/вниз",
-                "items": [
-                    {"ENGTEXT": "lift","RUSTEXT":"Поднимать","TRANSCRIPT" : "lɪft"},
-{"ENGTEXT": "raise","RUSTEXT":"Поднимать","TRANSCRIPT" : "reɪz"},
-{"ENGTEXT": "rise","RUSTEXT":"Подниматься","TRANSCRIPT" : "    ˈraɪz"},
-{"ENGTEXT": "climb","RUSTEXT":"Взбираться","TRANSCRIPT" : "klaɪm"},
-{"ENGTEXT": "ascend","RUSTEXT":"Восходить","TRANSCRIPT" : "ə'send"},
-{"ENGTEXT": "lower","RUSTEXT":"Опускать","TRANSCRIPT" : "ləuə"},
-{"ENGTEXT": "sink","RUSTEXT":"Опускаться","TRANSCRIPT" : "sɪŋk"},
-{"ENGTEXT": "drop","RUSTEXT":"Ронять/падать","TRANSCRIPT" : "drɔp"},
-{"ENGTEXT": "fall","RUSTEXT":"Падать","TRANSCRIPT" : "fɔːl"},
-{"ENGTEXT": "descend","RUSTEXT":" Спускаться","TRANSCRIPT" : "dɪ'send"}
-                    
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "lift",
+                    "RUSTEXT": "Поднимать",
+                    "TRANSCRIPT": "lɪft"
+                  },
+                  {
+                    "ENGTEXT": "raise",
+                    "RUSTEXT": "Поднимать",
+                    "TRANSCRIPT": "reɪz"
+                  },
+                  {
+                    "ENGTEXT": "rise",
+                    "RUSTEXT": "Подниматься",
+                    "TRANSCRIPT": "    ˈraɪz"
+                  },
+                  {
+                    "ENGTEXT": "climb",
+                    "RUSTEXT": "Взбираться",
+                    "TRANSCRIPT": "klaɪm"
+                  },
+                  {
+                    "ENGTEXT": "ascend",
+                    "RUSTEXT": "Восходить",
+                    "TRANSCRIPT": "ə'send"
+                  },
+                  {
+                    "ENGTEXT": "lower",
+                    "RUSTEXT": "Опускать",
+                    "TRANSCRIPT": "ləuə"
+                  },
+                  {
+                    "ENGTEXT": "sink",
+                    "RUSTEXT": "Опускаться",
+                    "TRANSCRIPT": "sɪŋk"
+                  },
+                  {
+                    "ENGTEXT": "drop",
+                    "RUSTEXT": "Ронять/падать",
+                    "TRANSCRIPT": "drɔp"
+                  },
+                  {
+                    "ENGTEXT": "fall",
+                    "RUSTEXT": "Падать",
+                    "TRANSCRIPT": "fɔːl"
+                  },
+                  {
+                    "ENGTEXT": "descend",
+                    "RUSTEXT": " Спускаться",
+                    "TRANSCRIPT": "dɪ'send"
+                  }
+                ]
               },
               {
                 "title": "Скорость",
-                "items": [
-                    {"ENGTEXT": "hurry","RUSTEXT":"Спешить","TRANSCRIPT" : "ˈhəriː"},
-{"ENGTEXT": "fly","RUSTEXT":"Лететь","TRANSCRIPT" : "flaɪ"},
-{"ENGTEXT": "ride","RUSTEXT":"Скакать / ехать","TRANSCRIPT" : "ˈraɪd"},
-{"ENGTEXT": "run","RUSTEXT":"Бежать","TRANSCRIPT" : "rʌn"},
-{"ENGTEXT": "crawl","RUSTEXT":"Ползти","TRANSCRIPT" : "krɔːl"},
-{"ENGTEXT": "go","RUSTEXT":"Идти / ехать","TRANSCRIPT" : "gəu"},
-{"ENGTEXT": "walk","RUSTEXT":"Идти / гулять","TRANSCRIPT" : "wɔːk"},
-{"ENGTEXT": "speed up","RUSTEXT":"Ускорять","TRANSCRIPT" : "spiːd ʌp"},
-{"ENGTEXT": "brake","RUSTEXT":"Тормозить","TRANSCRIPT" : "ˈbreɪk"},
-{"ENGTEXT": "slow down","RUSTEXT":"  Замедлять","TRANSCRIPT" : "sləu daun"},
-{"ENGTEXT": "creep","RUSTEXT":"  Ползти","TRANSCRIPT" : "ˈkriːp"}
-                    
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "hurry",
+                    "RUSTEXT": "Спешить",
+                    "TRANSCRIPT": "ˈhəriː"
+                  },
+                  {
+                    "ENGTEXT": "fly",
+                    "RUSTEXT": "Лететь",
+                    "TRANSCRIPT": "flaɪ"
+                  },
+                  {
+                    "ENGTEXT": "ride",
+                    "RUSTEXT": "Скакать / ехать",
+                    "TRANSCRIPT": "ˈraɪd"
+                  },
+                  {
+                    "ENGTEXT": "run",
+                    "RUSTEXT": "Бежать",
+                    "TRANSCRIPT": "rʌn"
+                  },
+                  {
+                    "ENGTEXT": "crawl",
+                    "RUSTEXT": "Ползти",
+                    "TRANSCRIPT": "krɔːl"
+                  },
+                  {
+                    "ENGTEXT": "go",
+                    "RUSTEXT": "Идти / ехать",
+                    "TRANSCRIPT": "gəu"
+                  },
+                  {
+                    "ENGTEXT": "walk",
+                    "RUSTEXT": "Идти / гулять",
+                    "TRANSCRIPT": "wɔːk"
+                  },
+                  {
+                    "ENGTEXT": "speed up",
+                    "RUSTEXT": "Ускорять",
+                    "TRANSCRIPT": "spiːd ʌp"
+                  },
+                  {
+                    "ENGTEXT": "brake",
+                    "RUSTEXT": "Тормозить",
+                    "TRANSCRIPT": "ˈbreɪk"
+                  },
+                  {
+                    "ENGTEXT": "slow down",
+                    "RUSTEXT": "  Замедлять",
+                    "TRANSCRIPT": "sləu daun"
+                  },
+                  {
+                    "ENGTEXT": "creep",
+                    "RUSTEXT": "  Ползти",
+                    "TRANSCRIPT": "ˈkriːp"
+                  }
+                ]
               },
               {
                 "title": "Преследование",
-                "items": [
-                    
-                    {"ENGTEXT": "drive","RUSTEXT":"Гнать","TRANSCRIPT" : "draɪv"},
-{"ENGTEXT": "pursue","RUSTEXT":"Преследовать","TRANSCRIPT" : "pərˈsuː"},
-{"ENGTEXT": "catch up","RUSTEXT":"Догонять","TRANSCRIPT" : "kæʧ ʌp"},
-{"ENGTEXT": "surpass","RUSTEXT":"Перегонять","TRANSCRIPT" : "sə'pɑːs"},
-{"ENGTEXT": "leave behind","RUSTEXT":"Оставлять позади","TRANSCRIPT" : "liːv bɪ'haɪnd"},
-{"ENGTEXT": "escape","RUSTEXT":"Убежать","TRANSCRIPT" : "ɪs'keɪp, es-"},
-{"ENGTEXT": "flee","RUSTEXT":"Спасаться бегством","TRANSCRIPT" : "fliː"},
-{"ENGTEXT": "catch","RUSTEXT":"Схватить","TRANSCRIPT" : "kæʧ"},
-{"ENGTEXT": "avoid","RUSTEXT":"Избегать","TRANSCRIPT" : "ə'vɔɪd"}
-                    
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "drive",
+                    "RUSTEXT": "Гнать",
+                    "TRANSCRIPT": "draɪv"
+                  },
+                  {
+                    "ENGTEXT": "pursue",
+                    "RUSTEXT": "Преследовать",
+                    "TRANSCRIPT": "pərˈsuː"
+                  },
+                  {
+                    "ENGTEXT": "catch up",
+                    "RUSTEXT": "Догонять",
+                    "TRANSCRIPT": "kæʧ ʌp"
+                  },
+                  {
+                    "ENGTEXT": "surpass",
+                    "RUSTEXT": "Перегонять",
+                    "TRANSCRIPT": "sə'pɑːs"
+                  },
+                  {
+                    "ENGTEXT": "leave behind",
+                    "RUSTEXT": "Оставлять позади",
+                    "TRANSCRIPT": "liːv bɪ'haɪnd"
+                  },
+                  {
+                    "ENGTEXT": "escape",
+                    "RUSTEXT": "Убежать",
+                    "TRANSCRIPT": "ɪs'keɪp, es-"
+                  },
+                  {
+                    "ENGTEXT": "flee",
+                    "RUSTEXT": "Спасаться бегством",
+                    "TRANSCRIPT": "fliː"
+                  },
+                  {
+                    "ENGTEXT": "catch",
+                    "RUSTEXT": "Схватить",
+                    "TRANSCRIPT": "kæʧ"
+                  },
+                  {
+                    "ENGTEXT": "avoid",
+                    "RUSTEXT": "Избегать",
+                    "TRANSCRIPT": "ə'vɔɪd"
+                  }
+                ]
               },
               {
                 "title": "Цикл движений от выхода до входа",
-                "items": [
-                    {"ENGTEXT": "start","RUSTEXT":"Отправляться","TRANSCRIPT" : "ˈstɑrt"},
-{"ENGTEXT": "leave","RUSTEXT":"Отправляться","TRANSCRIPT" : "ˈliːv"},
-{"ENGTEXT": "depart","RUSTEXT":" Отправляться","TRANSCRIPT" : "dɪˈpɑrt"},
-{"ENGTEXT": "go out","RUSTEXT":"Выходить","TRANSCRIPT" : "gəu aut"},
-{"ENGTEXT": "advance","RUSTEXT":"Продвигаться","TRANSCRIPT" : "əd'vɑːn(t)s"},
-{"ENGTEXT": "meet","RUSTEXT":"Встречаться","TRANSCRIPT" : "ˈmiːt"},
-{"ENGTEXT": "come across","RUSTEXT":"Встречаться","TRANSCRIPT" : "kʌm ə'krɔs"},
-{"ENGTEXT": "follow","RUSTEXT":"Следовать","TRANSCRIPT" : "fɔləu"},
-{"ENGTEXT": "go (along)","RUSTEXT":"Идти (вдоль)","TRANSCRIPT" : "gəu ə'lɔŋ"},
-{"ENGTEXT": "cross","RUSTEXT":"  Пересекать","TRANSCRIPT" : "krɔs"},
-{"ENGTEXT": "run (into)","RUSTEXT":"  Врезаться (в)","TRANSCRIPT" : "ˈrən (ˈɪntuː)"},
-{"ENGTEXT": "come","RUSTEXT":"  Приходить","TRANSCRIPT" : "ˈkəm"},
-{"ENGTEXT": "arrive","RUSTEXT":"  Прибывать","TRANSCRIPT" : "ə'raɪv"},
-{"ENGTEXT": "return","RUSTEXT":"  Возвращаться","TRANSCRIPT" : "rɪˈtərn"},
-{"ENGTEXT": "go in","RUSTEXT":"  Входить","TRANSCRIPT" : "gəu ˈɪn"},
-{"ENGTEXT": "enter","RUSTEXT":"  Входить / вводить","TRANSCRIPT" : "ˈentər"},
-{"ENGTEXT": "pass","RUSTEXT":"  Проходить мимо / передавать –","TRANSCRIPT" : "pɑːs"},
-{"ENGTEXT": "turn (left)","RUSTEXT":"  Повернуть (налево)","TRANSCRIPT" : "tɜːn left"},
-{"ENGTEXT": "reach","RUSTEXT":"  Достигать","TRANSCRIPT" : "riːʧ"},
-{"ENGTEXT": "attain","RUSTEXT":"  Достигать","TRANSCRIPT" : "ə'teɪn"}
-                    
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "start",
+                    "RUSTEXT": "Отправляться",
+                    "TRANSCRIPT": "ˈstɑrt"
+                  },
+                  {
+                    "ENGTEXT": "leave",
+                    "RUSTEXT": "Отправляться",
+                    "TRANSCRIPT": "ˈliːv"
+                  },
+                  {
+                    "ENGTEXT": "depart",
+                    "RUSTEXT": " Отправляться",
+                    "TRANSCRIPT": "dɪˈpɑrt"
+                  },
+                  {
+                    "ENGTEXT": "go out",
+                    "RUSTEXT": "Выходить",
+                    "TRANSCRIPT": "gəu aut"
+                  },
+                  {
+                    "ENGTEXT": "advance",
+                    "RUSTEXT": "Продвигаться",
+                    "TRANSCRIPT": "əd'vɑːn(t)s"
+                  },
+                  {
+                    "ENGTEXT": "meet",
+                    "RUSTEXT": "Встречаться",
+                    "TRANSCRIPT": "ˈmiːt"
+                  },
+                  {
+                    "ENGTEXT": "come across",
+                    "RUSTEXT": "Встречаться",
+                    "TRANSCRIPT": "kʌm ə'krɔs"
+                  },
+                  {
+                    "ENGTEXT": "follow",
+                    "RUSTEXT": "Следовать",
+                    "TRANSCRIPT": "fɔləu"
+                  },
+                  {
+                    "ENGTEXT": "go (along)",
+                    "RUSTEXT": "Идти (вдоль)",
+                    "TRANSCRIPT": "gəu ə'lɔŋ"
+                  },
+                  {
+                    "ENGTEXT": "cross",
+                    "RUSTEXT": "  Пересекать",
+                    "TRANSCRIPT": "krɔs"
+                  },
+                  {
+                    "ENGTEXT": "run (into)",
+                    "RUSTEXT": "  Врезаться (в)",
+                    "TRANSCRIPT": "ˈrən (ˈɪntuː)"
+                  },
+                  {
+                    "ENGTEXT": "come",
+                    "RUSTEXT": "  Приходить",
+                    "TRANSCRIPT": "ˈkəm"
+                  },
+                  {
+                    "ENGTEXT": "arrive",
+                    "RUSTEXT": "  Прибывать",
+                    "TRANSCRIPT": "ə'raɪv"
+                  },
+                  {
+                    "ENGTEXT": "return",
+                    "RUSTEXT": "  Возвращаться",
+                    "TRANSCRIPT": "rɪˈtərn"
+                  },
+                  {
+                    "ENGTEXT": "go in",
+                    "RUSTEXT": "  Входить",
+                    "TRANSCRIPT": "gəu ˈɪn"
+                  },
+                  {
+                    "ENGTEXT": "enter",
+                    "RUSTEXT": "  Входить / вводить",
+                    "TRANSCRIPT": "ˈentər"
+                  },
+                  {
+                    "ENGTEXT": "pass",
+                    "RUSTEXT": "  Проходить мимо / передавать –",
+                    "TRANSCRIPT": "pɑːs"
+                  },
+                  {
+                    "ENGTEXT": "turn (left)",
+                    "RUSTEXT": "  Повернуть (налево)",
+                    "TRANSCRIPT": "tɜːn left"
+                  },
+                  {
+                    "ENGTEXT": "reach",
+                    "RUSTEXT": "  Достигать",
+                    "TRANSCRIPT": "riːʧ"
+                  },
+                  {
+                    "ENGTEXT": "attain",
+                    "RUSTEXT": "  Достигать",
+                    "TRANSCRIPT": "ə'teɪn"
+                  }
+                ]
               },
               {
                 "title": "Движение  в воде",
-                "items": [
-                    
-                    {"ENGTEXT": "flow","RUSTEXT":"Течь","TRANSCRIPT" : "fləu"},
-{"ENGTEXT": "float","RUSTEXT":"Не тонуть","TRANSCRIPT" : "fləut"},
-{"ENGTEXT": "swim","RUSTEXT":"Плавать","TRANSCRIPT" : "ˈswɪm"},
-{"ENGTEXT": "dive","RUSTEXT":"Нырять","TRANSCRIPT" : "ˈdaɪv"},
-{"ENGTEXT": "plunge","RUSTEXT":"Нырять","TRANSCRIPT" : "plʌnʤ"},
-{"ENGTEXT": "sink","RUSTEXT":"Погружаться","TRANSCRIPT" : "ˈsɪŋk"},
-{"ENGTEXT": "drown","RUSTEXT":"Тонуть","TRANSCRIPT" : "draun"},
-{"ENGTEXT": "row","RUSTEXT":"Грести","TRANSCRIPT" : "rəu"},
-{"ENGTEXT": "sail","RUSTEXT":"Идти под парусом","TRANSCRIPT" : "ˈseɪl"},
-{"ENGTEXT": "emerge","RUSTEXT":"  Всплывать","TRANSCRIPT" : "ɪ'mɜːʤ, iː-"}
-                    
-                    
-                    
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "flow",
+                    "RUSTEXT": "Течь",
+                    "TRANSCRIPT": "fləu"
+                  },
+                  {
+                    "ENGTEXT": "float",
+                    "RUSTEXT": "Не тонуть",
+                    "TRANSCRIPT": "fləut"
+                  },
+                  {
+                    "ENGTEXT": "swim",
+                    "RUSTEXT": "Плавать",
+                    "TRANSCRIPT": "ˈswɪm"
+                  },
+                  {
+                    "ENGTEXT": "dive",
+                    "RUSTEXT": "Нырять",
+                    "TRANSCRIPT": "ˈdaɪv"
+                  },
+                  {
+                    "ENGTEXT": "plunge",
+                    "RUSTEXT": "Нырять",
+                    "TRANSCRIPT": "plʌnʤ"
+                  },
+                  {
+                    "ENGTEXT": "sink",
+                    "RUSTEXT": "Погружаться",
+                    "TRANSCRIPT": "ˈsɪŋk"
+                  },
+                  {
+                    "ENGTEXT": "drown",
+                    "RUSTEXT": "Тонуть",
+                    "TRANSCRIPT": "draun"
+                  },
+                  {
+                    "ENGTEXT": "row",
+                    "RUSTEXT": "Грести",
+                    "TRANSCRIPT": "rəu"
+                  },
+                  {
+                    "ENGTEXT": "sail",
+                    "RUSTEXT": "Идти под парусом",
+                    "TRANSCRIPT": "ˈseɪl"
+                  },
+                  {
+                    "ENGTEXT": "emerge",
+                    "RUSTEXT": "  Всплывать",
+                    "TRANSCRIPT": "ɪ'mɜːʤ, iː-"
+                  }
+                ]
               }
             ]
           },
@@ -8117,219 +8505,753 @@
             "items": [
               {
                 "title": "Наличие / принадлежность",
-                "items": [
-                    
-                    {"ENGTEXT": "be","RUSTEXT":"Быть","TRANSCRIPT" : "biː"},
-{"ENGTEXT": "have","RUSTEXT":"Иметь","TRANSCRIPT" : "hæv"},
-{"ENGTEXT": "there is","RUSTEXT":"Имеется","TRANSCRIPT" : "ðeə ɪz"},
-{"ENGTEXT": "exist","RUSTEXT":"Существовать","TRANSCRIPT" : "ɪg'zɪst"},
-{"ENGTEXT": "be available","RUSTEXT":"Быть в наличии","TRANSCRIPT" : "biː ə'veɪləbl"},
-{"ENGTEXT": "possess","RUSTEXT":" Владеть","TRANSCRIPT" : "pə'zes"},
-{"ENGTEXT": "be sufficient","RUSTEXT":" Быть достаточным","TRANSCRIPT" : "biː sə'fɪʃ(ə)nt"},
-{"ENGTEXT": "ве have enough","RUSTEXT":" Иметь в достаточном кол","TRANSCRIPT" : "biː hæv ɪ'nʌf"},
-{"ENGTEXT": "that will do","RUSTEXT":"Хватит","TRANSCRIPT" : "ðæt wɪl  duː"},
-{"ENGTEXT": "be present","RUSTEXT":" Присутствовать","TRANSCRIPT" : "biː'prez(ə)nt"},
-{"ENGTEXT": "include","RUSTEXT":" Включать","TRANSCRIPT" : "ɪnˈkluːd"},
-{"ENGTEXT": "belong","RUSTEXT":" Принадлежать","TRANSCRIPT" : "bɪ'lɔŋ"},
-{"ENGTEXT": "contain","RUSTEXT":" Содержать","TRANSCRIPT" : "kənˈteɪn"}
-                    
-                    
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "be",
+                    "RUSTEXT": "Быть",
+                    "TRANSCRIPT": "biː"
+                  },
+                  {
+                    "ENGTEXT": "have",
+                    "RUSTEXT": "Иметь",
+                    "TRANSCRIPT": "hæv"
+                  },
+                  {
+                    "ENGTEXT": "there is",
+                    "RUSTEXT": "Имеется",
+                    "TRANSCRIPT": "ðeə ɪz"
+                  },
+                  {
+                    "ENGTEXT": "exist",
+                    "RUSTEXT": "Существовать",
+                    "TRANSCRIPT": "ɪg'zɪst"
+                  },
+                  {
+                    "ENGTEXT": "be available",
+                    "RUSTEXT": "Быть в наличии",
+                    "TRANSCRIPT": "biː ə'veɪləbl"
+                  },
+                  {
+                    "ENGTEXT": "possess",
+                    "RUSTEXT": " Владеть",
+                    "TRANSCRIPT": "pə'zes"
+                  },
+                  {
+                    "ENGTEXT": "be sufficient",
+                    "RUSTEXT": " Быть достаточным",
+                    "TRANSCRIPT": "biː sə'fɪʃ(ə)nt"
+                  },
+                  {
+                    "ENGTEXT": "ве have enough",
+                    "RUSTEXT": " Иметь в достаточном кол",
+                    "TRANSCRIPT": "biː hæv ɪ'nʌf"
+                  },
+                  {
+                    "ENGTEXT": "that will do",
+                    "RUSTEXT": "Хватит",
+                    "TRANSCRIPT": "ðæt wɪl  duː"
+                  },
+                  {
+                    "ENGTEXT": "be present",
+                    "RUSTEXT": " Присутствовать",
+                    "TRANSCRIPT": "biː'prez(ə)nt"
+                  },
+                  {
+                    "ENGTEXT": "include",
+                    "RUSTEXT": " Включать",
+                    "TRANSCRIPT": "ɪnˈkluːd"
+                  },
+                  {
+                    "ENGTEXT": "belong",
+                    "RUSTEXT": " Принадлежать",
+                    "TRANSCRIPT": "bɪ'lɔŋ"
+                  },
+                  {
+                    "ENGTEXT": "contain",
+                    "RUSTEXT": " Содержать",
+                    "TRANSCRIPT": "kənˈteɪn"
+                  }
+                ]
               },
               {
                 "title": "Нехватка",
-                "items": [
-                    {"ENGTEXT": "need","RUSTEXT":"Нуждаться","TRANSCRIPT" : "ˈniːd"},
-{"ENGTEXT": "require","RUSTEXT":"Требовать","TRANSCRIPT" : "rɪˈkwaɪr"},
-{"ENGTEXT": "be necessary","RUSTEXT":"Быть необходимым","TRANSCRIPT" : "biː 'nesəs(ə)rɪ"},
-{"ENGTEXT": "lack","RUSTEXT":"Не хватать","TRANSCRIPT" : "læk"},
-{"ENGTEXT": "be absent","RUSTEXT":"Отсутствовать","TRANSCRIPT" : "biː'æbs(ə)nt"},
-{"ENGTEXT": "empty","RUSTEXT":"Опорожнять","TRANSCRIPT" : "emptɪ"},
-{"ENGTEXT": "be empty","RUSTEXT":"Быть пустым","TRANSCRIPT" : "biː'emptɪ"}
-                    
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "need",
+                    "RUSTEXT": "Нуждаться",
+                    "TRANSCRIPT": "ˈniːd"
+                  },
+                  {
+                    "ENGTEXT": "require",
+                    "RUSTEXT": "Требовать",
+                    "TRANSCRIPT": "rɪˈkwaɪr"
+                  },
+                  {
+                    "ENGTEXT": "be necessary",
+                    "RUSTEXT": "Быть необходимым",
+                    "TRANSCRIPT": "biː 'nesəs(ə)rɪ"
+                  },
+                  {
+                    "ENGTEXT": "lack",
+                    "RUSTEXT": "Не хватать",
+                    "TRANSCRIPT": "læk"
+                  },
+                  {
+                    "ENGTEXT": "be absent",
+                    "RUSTEXT": "Отсутствовать",
+                    "TRANSCRIPT": "biː'æbs(ə)nt"
+                  },
+                  {
+                    "ENGTEXT": "empty",
+                    "RUSTEXT": "Опорожнять",
+                    "TRANSCRIPT": "emptɪ"
+                  },
+                  {
+                    "ENGTEXT": "be empty",
+                    "RUSTEXT": "Быть пустым",
+                    "TRANSCRIPT": "biː'emptɪ"
+                  }
+                ]
               },
               {
                 "title": "Добавление / потребление",
-                "items": [
-                    {"ENGTEXT": "add","RUSTEXT":"Добавлять","TRANSCRIPT" : "ˈæd"},
-{"ENGTEXT": "gather","RUSTEXT":"Собирать(ся)","TRANSCRIPT" : "gæðə"},
-{"ENGTEXT": "collect","RUSTEXT":"Собирать","TRANSCRIPT" : "ˈkɑlɪkt"},
-{"ENGTEXT": "be full","RUSTEXT":"Быть полным","TRANSCRIPT" : "ˈbiː  ful"},
-{"ENGTEXT": "fill","RUSTEXT":"Наполнять","TRANSCRIPT" : "ˈfɪl"},
-{"ENGTEXT": "accumulate","RUSTEXT":"Накапливать","TRANSCRIPT" : "ə'kjuːmjəleɪt"},
-{"ENGTEXT": "be in surplus","RUSTEXT":"Быть в избытке","TRANSCRIPT" : "ˈbiː ˈɪn 'sɜːpləs"},
-{"ENGTEXT": "be in excess","RUSTEXT":"Бытьвизбытке","TRANSCRIPT" : "ˈbiː ˈɪn  ɪk'ses"}
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "add",
+                    "RUSTEXT": "Добавлять",
+                    "TRANSCRIPT": "ˈæd"
+                  },
+                  {
+                    "ENGTEXT": "gather",
+                    "RUSTEXT": "Собирать(ся)",
+                    "TRANSCRIPT": "gæðə"
+                  },
+                  {
+                    "ENGTEXT": "collect",
+                    "RUSTEXT": "Собирать",
+                    "TRANSCRIPT": "ˈkɑlɪkt"
+                  },
+                  {
+                    "ENGTEXT": "be full",
+                    "RUSTEXT": "Быть полным",
+                    "TRANSCRIPT": "ˈbiː  ful"
+                  },
+                  {
+                    "ENGTEXT": "fill",
+                    "RUSTEXT": "Наполнять",
+                    "TRANSCRIPT": "ˈfɪl"
+                  },
+                  {
+                    "ENGTEXT": "accumulate",
+                    "RUSTEXT": "Накапливать",
+                    "TRANSCRIPT": "ə'kjuːmjəleɪt"
+                  },
+                  {
+                    "ENGTEXT": "be in surplus",
+                    "RUSTEXT": "Быть в избытке",
+                    "TRANSCRIPT": "ˈbiː ˈɪn 'sɜːpləs"
+                  },
+                  {
+                    "ENGTEXT": "be in excess",
+                    "RUSTEXT": "Бытьвизбытке",
+                    "TRANSCRIPT": "ˈbiː ˈɪn  ɪk'ses"
+                  }
+                ]
               },
               {
                 "title": "Сокращение / остаток",
-                "items": [
-                    {"ENGTEXT": "reduce","RUSTEXT":" Сокращать","TRANSCRIPT" : "rɪˈduːs"},
-{"ENGTEXT": "exclude","RUSTEXT":" Исключать","TRANSCRIPT" : "ɪks'kluːd"},
-{"ENGTEXT": "eliminate","RUSTEXT":" Устранять","TRANSCRIPT" : "ɪ'lɪmɪneɪt"},
-{"ENGTEXT": "do without","RUSTEXT":" Обходиться (без)","TRANSCRIPT" : "duː wɪ'ðaut"},
-{"ENGTEXT": "spend","RUSTEXT":"  Тратить","TRANSCRIPT" : "ˈspend"},
-{"ENGTEXT": "consume","RUSTEXT":"  Потреблять","TRANSCRIPT" : "kən'sjuːm"},
-{"ENGTEXT": "lose","RUSTEXT":"  Терять","TRANSCRIPT" : "ˈluːz"},
-{"ENGTEXT": "spoil","RUSTEXT":"  Портить","TRANSCRIPT" : "spɔɪl"},
-{"ENGTEXT": "damage","RUSTEXT":"  Повреждать","TRANSCRIPT" : "dæmɪʤ"}
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "reduce",
+                    "RUSTEXT": " Сокращать",
+                    "TRANSCRIPT": "rɪˈduːs"
+                  },
+                  {
+                    "ENGTEXT": "exclude",
+                    "RUSTEXT": " Исключать",
+                    "TRANSCRIPT": "ɪks'kluːd"
+                  },
+                  {
+                    "ENGTEXT": "eliminate",
+                    "RUSTEXT": " Устранять",
+                    "TRANSCRIPT": "ɪ'lɪmɪneɪt"
+                  },
+                  {
+                    "ENGTEXT": "do without",
+                    "RUSTEXT": " Обходиться (без)",
+                    "TRANSCRIPT": "duː wɪ'ðaut"
+                  },
+                  {
+                    "ENGTEXT": "spend",
+                    "RUSTEXT": "  Тратить",
+                    "TRANSCRIPT": "ˈspend"
+                  },
+                  {
+                    "ENGTEXT": "consume",
+                    "RUSTEXT": "  Потреблять",
+                    "TRANSCRIPT": "kən'sjuːm"
+                  },
+                  {
+                    "ENGTEXT": "lose",
+                    "RUSTEXT": "  Терять",
+                    "TRANSCRIPT": "ˈluːz"
+                  },
+                  {
+                    "ENGTEXT": "spoil",
+                    "RUSTEXT": "  Портить",
+                    "TRANSCRIPT": "spɔɪl"
+                  },
+                  {
+                    "ENGTEXT": "damage",
+                    "RUSTEXT": "  Повреждать",
+                    "TRANSCRIPT": "dæmɪʤ"
+                  }
+                ]
               },
               {
                 "title": "Сохранение",
-                "items": [
-                    {"ENGTEXT": "be left","RUSTEXT":"Оставаться","TRANSCRIPT" : "ˈbiːˈleft"},
-{"ENGTEXT": "remain","RUSTEXT":"Оставаться","TRANSCRIPT" : "rɪ'meɪn"},
-{"ENGTEXT": "retain","RUSTEXT":"Сохранять за собой","TRANSCRIPT" : "rɪˈteɪn"},
-{"ENGTEXT": "keep","RUSTEXT":"Удерживать","TRANSCRIPT" : "ˈkiːp"},
-{"ENGTEXT": "maintain","RUSTEXT":"Поддерживать","TRANSCRIPT" : "meɪnˈteɪn"},
-{"ENGTEXT": "preserve","RUSTEXT":"Сохранять","TRANSCRIPT" : "prɪ'zɜːv"},
-{"ENGTEXT": "store","RUSTEXT":"Хранить","TRANSCRIPT" : "stɔː"}
-                    
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "be left",
+                    "RUSTEXT": "Оставаться",
+                    "TRANSCRIPT": "ˈbiːˈleft"
+                  },
+                  {
+                    "ENGTEXT": "remain",
+                    "RUSTEXT": "Оставаться",
+                    "TRANSCRIPT": "rɪ'meɪn"
+                  },
+                  {
+                    "ENGTEXT": "retain",
+                    "RUSTEXT": "Сохранять за собой",
+                    "TRANSCRIPT": "rɪˈteɪn"
+                  },
+                  {
+                    "ENGTEXT": "keep",
+                    "RUSTEXT": "Удерживать",
+                    "TRANSCRIPT": "ˈkiːp"
+                  },
+                  {
+                    "ENGTEXT": "maintain",
+                    "RUSTEXT": "Поддерживать",
+                    "TRANSCRIPT": "meɪnˈteɪn"
+                  },
+                  {
+                    "ENGTEXT": "preserve",
+                    "RUSTEXT": "Сохранять",
+                    "TRANSCRIPT": "prɪ'zɜːv"
+                  },
+                  {
+                    "ENGTEXT": "store",
+                    "RUSTEXT": "Хранить",
+                    "TRANSCRIPT": "stɔː"
+                  }
+                ]
               }
             ]
           },
           {
             "title": "Глаголы положения",
-            "items": [
-                {"ENGTEXT": "place","RUSTEXT":"Помешать","TRANSCRIPT" : "ˈpleɪs"},
-{"ENGTEXT": "put","RUSTEXT":" Класть","TRANSCRIPT" : "put"},
-{"ENGTEXT": "set","RUSTEXT":" Класть","TRANSCRIPT" : "ˈset"},
-{"ENGTEXT": "lay","RUSTEXT":" Положить","TRANSCRIPT" : "ˈleɪ"},
-{"ENGTEXT": "be situated","RUSTEXT":" Находиться","TRANSCRIPT" : "ˈbiː 'sɪtjueɪtɪd"},
-{"ENGTEXT": "be located","RUSTEXT":" Находиться","TRANSCRIPT" : "ˈbiː ləu'keɪt"},
-{"ENGTEXT": "locate","RUSTEXT":" Определять местонахождение","TRANSCRIPT" : "ləu'keɪt"},
-{"ENGTEXT": "lie","RUSTEXT":"  Лежать","TRANSCRIPT" : "ˈlaɪ"},
-{"ENGTEXT": "lie down","RUSTEXT":"  Ложиться","TRANSCRIPT" : "ˈlaɪ daun"},
-{"ENGTEXT": "stand","RUSTEXT":" Стоять / ставить","TRANSCRIPT" : "ˈstænd"},
-{"ENGTEXT": "stand up","RUSTEXT":" Вставать","TRANSCRIPT" : "stænd ʌp"},
-{"ENGTEXT": "sit","RUSTEXT":" Сидеть","TRANSCRIPT" : "ˈsɪt"},
-{"ENGTEXT": "seat","RUSTEXT":" Посадить","TRANSCRIPT" : "ˈsiːt"},
-{"ENGTEXT": "sit down","RUSTEXT":" Садиться","TRANSCRIPT" : "ˈsɪtdaun"},
-{"ENGTEXT": "seat oneself","RUSTEXT":" Садиться","TRANSCRIPT" : "ˈsiːt wʌn'self"},
-{"ENGTEXT": "hang","RUSTEXT":" Висеть / вешать","TRANSCRIPT" : "hæŋ"},
-{"ENGTEXT": "stay","RUSTEXT":" Пребывать","TRANSCRIPT" : "steɪ"}
-                
-                ]
+            "words": [
+              {
+                "ENGTEXT": "place",
+                "RUSTEXT": "Помешать",
+                "TRANSCRIPT": "ˈpleɪs"
+              },
+              {
+                "ENGTEXT": "put",
+                "RUSTEXT": " Класть",
+                "TRANSCRIPT": "put"
+              },
+              {
+                "ENGTEXT": "set",
+                "RUSTEXT": " Класть",
+                "TRANSCRIPT": "ˈset"
+              },
+              {
+                "ENGTEXT": "lay",
+                "RUSTEXT": " Положить",
+                "TRANSCRIPT": "ˈleɪ"
+              },
+              {
+                "ENGTEXT": "be situated",
+                "RUSTEXT": " Находиться",
+                "TRANSCRIPT": "ˈbiː 'sɪtjueɪtɪd"
+              },
+              {
+                "ENGTEXT": "be located",
+                "RUSTEXT": " Находиться",
+                "TRANSCRIPT": "ˈbiː ləu'keɪt"
+              },
+              {
+                "ENGTEXT": "locate",
+                "RUSTEXT": " Определять местонахождение",
+                "TRANSCRIPT": "ləu'keɪt"
+              },
+              {
+                "ENGTEXT": "lie",
+                "RUSTEXT": "  Лежать",
+                "TRANSCRIPT": "ˈlaɪ"
+              },
+              {
+                "ENGTEXT": "lie down",
+                "RUSTEXT": "  Ложиться",
+                "TRANSCRIPT": "ˈlaɪ daun"
+              },
+              {
+                "ENGTEXT": "stand",
+                "RUSTEXT": " Стоять / ставить",
+                "TRANSCRIPT": "ˈstænd"
+              },
+              {
+                "ENGTEXT": "stand up",
+                "RUSTEXT": " Вставать",
+                "TRANSCRIPT": "stænd ʌp"
+              },
+              {
+                "ENGTEXT": "sit",
+                "RUSTEXT": " Сидеть",
+                "TRANSCRIPT": "ˈsɪt"
+              },
+              {
+                "ENGTEXT": "seat",
+                "RUSTEXT": " Посадить",
+                "TRANSCRIPT": "ˈsiːt"
+              },
+              {
+                "ENGTEXT": "sit down",
+                "RUSTEXT": " Садиться",
+                "TRANSCRIPT": "ˈsɪtdaun"
+              },
+              {
+                "ENGTEXT": "seat oneself",
+                "RUSTEXT": " Садиться",
+                "TRANSCRIPT": "ˈsiːt wʌn'self"
+              },
+              {
+                "ENGTEXT": "hang",
+                "RUSTEXT": " Висеть / вешать",
+                "TRANSCRIPT": "hæŋ"
+              },
+              {
+                "ENGTEXT": "stay",
+                "RUSTEXT": " Пребывать",
+                "TRANSCRIPT": "steɪ"
+              }
+            ]
           },
           {
             "title": "Бытовые глаголы",
             "items": [
               {
                 "title": "Жить",
-                "items": [
-                    
-                    {"ENGTEXT": "bear","RUSTEXT":"Родить","TRANSCRIPT" : "ˈber"},
-{"ENGTEXT": "give birth","RUSTEXT":"Родить","TRANSCRIPT" : "ˈgɪv bɜːθ"},
-{"ENGTEXT": "be born","RUSTEXT":"Родиться","TRANSCRIPT" : "ˈbiː bɔːn"},
-{"ENGTEXT": "live","RUSTEXT":"Жить","TRANSCRIPT" : "ˈlɪv"},
-{"ENGTEXT": "be alive","RUSTEXT":"Быть живым","TRANSCRIPT" : "ˈbiː ə'laɪv"},
-{"ENGTEXT": "dwell","RUSTEXT":" Проживать","TRANSCRIPT" : "ˈdwel"},
-{"ENGTEXT": "breathe","RUSTEXT":" Дышать","TRANSCRIPT" : "briːð"},
-{"ENGTEXT": "name","RUSTEXT":" Называть","TRANSCRIPT" : "ˈneɪm"},
-{"ENGTEXT": "marry","RUSTEXT":" Жениться","TRANSCRIPT" : "ˈmeriː"}
-                    
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "bear",
+                    "RUSTEXT": "Родить",
+                    "TRANSCRIPT": "ˈber"
+                  },
+                  {
+                    "ENGTEXT": "give birth",
+                    "RUSTEXT": "Родить",
+                    "TRANSCRIPT": "ˈgɪv bɜːθ"
+                  },
+                  {
+                    "ENGTEXT": "be born",
+                    "RUSTEXT": "Родиться",
+                    "TRANSCRIPT": "ˈbiː bɔːn"
+                  },
+                  {
+                    "ENGTEXT": "live",
+                    "RUSTEXT": "Жить",
+                    "TRANSCRIPT": "ˈlɪv"
+                  },
+                  {
+                    "ENGTEXT": "be alive",
+                    "RUSTEXT": "Быть живым",
+                    "TRANSCRIPT": "ˈbiː ə'laɪv"
+                  },
+                  {
+                    "ENGTEXT": "dwell",
+                    "RUSTEXT": " Проживать",
+                    "TRANSCRIPT": "ˈdwel"
+                  },
+                  {
+                    "ENGTEXT": "breathe",
+                    "RUSTEXT": " Дышать",
+                    "TRANSCRIPT": "briːð"
+                  },
+                  {
+                    "ENGTEXT": "name",
+                    "RUSTEXT": " Называть",
+                    "TRANSCRIPT": "ˈneɪm"
+                  },
+                  {
+                    "ENGTEXT": "marry",
+                    "RUSTEXT": " Жениться",
+                    "TRANSCRIPT": "ˈmeriː"
+                  }
+                ]
               },
               {
                 "title": "Работать",
-                "items": [
-                    {"ENGTEXT": "work","RUSTEXT":"Работать","TRANSCRIPT" : "wɜːk"},
-{"ENGTEXT": "take a job","RUSTEXT":"Поступать на работу","TRANSCRIPT" : "teɪk ʤɔb"},
-{"ENGTEXT": "employ","RUSTEXT":"Принимать","TRANSCRIPT" : "ɪm'plɔɪ"},
-{"ENGTEXT": "dismiss","RUSTEXT":"Увольнять","TRANSCRIPT" : "dɪsˈmɪs"},
-{"ENGTEXT": "earn","RUSTEXT":"Зарабатывать","TRANSCRIPT" : "ɜːn"},
-{"ENGTEXT": "pay","RUSTEXT":" Платить","TRANSCRIPT" : "ˈpeɪ"},
-{"ENGTEXT": "spend","RUSTEXT":"Тратить","TRANSCRIPT" : "ˈspend"},
-{"ENGTEXT": "economize","RUSTEXT":"Экономить","TRANSCRIPT" : "ɪ'kɔnəmaɪz"},
-{"ENGTEXT": "save","RUSTEXT":"Сберегать / копить","TRANSCRIPT" : "ˈseɪv"},
-{"ENGTEXT": "be thrifty","RUSTEXT":" Быть бережливым","TRANSCRIPT" : "ˈbiː'θrɪftɪ"},
-{"ENGTEXT": "waste","RUSTEXT":" Тратить непроизводительно","TRANSCRIPT" : "ˈweɪst"},
-{"ENGTEXT": "rest","RUSTEXT":" Отдыхать","TRANSCRIPT" : "ˈrest"}
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "work",
+                    "RUSTEXT": "Работать",
+                    "TRANSCRIPT": "wɜːk"
+                  },
+                  {
+                    "ENGTEXT": "take a job",
+                    "RUSTEXT": "Поступать на работу",
+                    "TRANSCRIPT": "teɪk ʤɔb"
+                  },
+                  {
+                    "ENGTEXT": "employ",
+                    "RUSTEXT": "Принимать",
+                    "TRANSCRIPT": "ɪm'plɔɪ"
+                  },
+                  {
+                    "ENGTEXT": "dismiss",
+                    "RUSTEXT": "Увольнять",
+                    "TRANSCRIPT": "dɪsˈmɪs"
+                  },
+                  {
+                    "ENGTEXT": "earn",
+                    "RUSTEXT": "Зарабатывать",
+                    "TRANSCRIPT": "ɜːn"
+                  },
+                  {
+                    "ENGTEXT": "pay",
+                    "RUSTEXT": " Платить",
+                    "TRANSCRIPT": "ˈpeɪ"
+                  },
+                  {
+                    "ENGTEXT": "spend",
+                    "RUSTEXT": "Тратить",
+                    "TRANSCRIPT": "ˈspend"
+                  },
+                  {
+                    "ENGTEXT": "economize",
+                    "RUSTEXT": "Экономить",
+                    "TRANSCRIPT": "ɪ'kɔnəmaɪz"
+                  },
+                  {
+                    "ENGTEXT": "save",
+                    "RUSTEXT": "Сберегать / копить",
+                    "TRANSCRIPT": "ˈseɪv"
+                  },
+                  {
+                    "ENGTEXT": "be thrifty",
+                    "RUSTEXT": " Быть бережливым",
+                    "TRANSCRIPT": "ˈbiː'θrɪftɪ"
+                  },
+                  {
+                    "ENGTEXT": "waste",
+                    "RUSTEXT": " Тратить непроизводительно",
+                    "TRANSCRIPT": "ˈweɪst"
+                  },
+                  {
+                    "ENGTEXT": "rest",
+                    "RUSTEXT": " Отдыхать",
+                    "TRANSCRIPT": "ˈrest"
+                  }
+                ]
               },
               {
                 "title": "Есть",
-                "items": [
-                    {"ENGTEXT": "be hungry","RUSTEXT":"Быть голодным","TRANSCRIPT" : "ˈbiː 'hʌŋgrɪ"},
-{"ENGTEXT": "feed","RUSTEXT":"Кормить","TRANSCRIPT" : "fiːd"},
-{"ENGTEXT": "eat","RUSTEXT":"Есть","TRANSCRIPT" : "iːt"},
-{"ENGTEXT": "bite","RUSTEXT":"Кусать","TRANSCRIPT" : "ˈbaɪt"},
-{"ENGTEXT": "swallow","RUSTEXT":"Глотать","TRANSCRIPT" : "swɔləu"},
-{"ENGTEXT": "drink","RUSTEXT":"Пить","TRANSCRIPT" : "ˈdrɪŋk"},
-{"ENGTEXT": "cook","RUSTEXT":"Готовить (пищу)","TRANSCRIPT" : "kuk"},
-{"ENGTEXT": "bake","RUSTEXT":"Печь","TRANSCRIPT" : "ˈbeɪk"},
-{"ENGTEXT": "fry","RUSTEXT":"Жарить","TRANSCRIPT" : "ˈfraɪ"},
-{"ENGTEXT": "boil","RUSTEXT":"  Кипятить / кипеть","TRANSCRIPT" : "bɔɪl"},
-{"ENGTEXT": "stew","RUSTEXT":"  Тушить (овощи, мясо)","TRANSCRIPT" : "ˈstuː"},
-{"ENGTEXT": "chew","RUSTEXT":"  Жевать","TRANSCRIPT" : "ˈtʃuː"},
-{"ENGTEXT": "be thirsty","RUSTEXT":"  Хотеть пить","TRANSCRIPT" : "ˈbiː'θɜːstɪ"}
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "be hungry",
+                    "RUSTEXT": "Быть голодным",
+                    "TRANSCRIPT": "ˈbiː 'hʌŋgrɪ"
+                  },
+                  {
+                    "ENGTEXT": "feed",
+                    "RUSTEXT": "Кормить",
+                    "TRANSCRIPT": "fiːd"
+                  },
+                  {
+                    "ENGTEXT": "eat",
+                    "RUSTEXT": "Есть",
+                    "TRANSCRIPT": "iːt"
+                  },
+                  {
+                    "ENGTEXT": "bite",
+                    "RUSTEXT": "Кусать",
+                    "TRANSCRIPT": "ˈbaɪt"
+                  },
+                  {
+                    "ENGTEXT": "swallow",
+                    "RUSTEXT": "Глотать",
+                    "TRANSCRIPT": "swɔləu"
+                  },
+                  {
+                    "ENGTEXT": "drink",
+                    "RUSTEXT": "Пить",
+                    "TRANSCRIPT": "ˈdrɪŋk"
+                  },
+                  {
+                    "ENGTEXT": "cook",
+                    "RUSTEXT": "Готовить (пищу)",
+                    "TRANSCRIPT": "kuk"
+                  },
+                  {
+                    "ENGTEXT": "bake",
+                    "RUSTEXT": "Печь",
+                    "TRANSCRIPT": "ˈbeɪk"
+                  },
+                  {
+                    "ENGTEXT": "fry",
+                    "RUSTEXT": "Жарить",
+                    "TRANSCRIPT": "ˈfraɪ"
+                  },
+                  {
+                    "ENGTEXT": "boil",
+                    "RUSTEXT": "  Кипятить / кипеть",
+                    "TRANSCRIPT": "bɔɪl"
+                  },
+                  {
+                    "ENGTEXT": "stew",
+                    "RUSTEXT": "  Тушить (овощи, мясо)",
+                    "TRANSCRIPT": "ˈstuː"
+                  },
+                  {
+                    "ENGTEXT": "chew",
+                    "RUSTEXT": "  Жевать",
+                    "TRANSCRIPT": "ˈtʃuː"
+                  },
+                  {
+                    "ENGTEXT": "be thirsty",
+                    "RUSTEXT": "  Хотеть пить",
+                    "TRANSCRIPT": "ˈbiː'θɜːstɪ"
+                  }
+                ]
               },
               {
                 "title": "Одеваться",
-                "items": [
-                    
-                    {"ENGTEXT": "wear","RUSTEXT":"Носить","TRANSCRIPT" : "ˈwer"},
-{"ENGTEXT": "dress","RUSTEXT":"Одевать","TRANSCRIPT" : "ˈdres"},
-{"ENGTEXT": "put on","RUSTEXT":"Одевать","TRANSCRIPT" : "put ɔn"},
-{"ENGTEXT": "take off","RUSTEXT":"Снимать","TRANSCRIPT" : "teɪk ɔf"},
-{"ENGTEXT": "wash","RUSTEXT":"Стирать","TRANSCRIPT" : "wɔʃ"},
-{"ENGTEXT": "launder","RUSTEXT":" Стирать","TRANSCRIPT" : "lɔːndə"},
-{"ENGTEXT": "iron","RUSTEXT":"Гладить","TRANSCRIPT" : "aɪən"},
-{"ENGTEXT": "order","RUSTEXT":"Заказывать","TRANSCRIPT" : "ɔːdə"},
-{"ENGTEXT": "sew","RUSTEXT":"Шить","TRANSCRIPT" : "səu"},
-{"ENGTEXT": "cut out","RUSTEXT":"  Кроить","TRANSCRIPT" : "kʌt aut"},
-{"ENGTEXT": "fit","RUSTEXT":"  Сидеть (хорошо)","TRANSCRIPT" : "ˈfɪt"},
-{"ENGTEXT": "suit","RUSTEXT":"  Идти (об одежде)","TRANSCRIPT" : "ˈsuːt"},
-{"ENGTEXT": "be in fashion","RUSTEXT":"  Быть в моде","TRANSCRIPT" : "ˈbiːˈɪn'fæʃ(ə)n"},
-{"ENGTEXT": "be out of fashion","RUSTEXT":"  Выйти из моды","TRANSCRIPT" : "ˈbiː  aut 'fæʃ(ə)n"}
-                    
-                    
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "wear",
+                    "RUSTEXT": "Носить",
+                    "TRANSCRIPT": "ˈwer"
+                  },
+                  {
+                    "ENGTEXT": "dress",
+                    "RUSTEXT": "Одевать",
+                    "TRANSCRIPT": "ˈdres"
+                  },
+                  {
+                    "ENGTEXT": "put on",
+                    "RUSTEXT": "Одевать",
+                    "TRANSCRIPT": "put ɔn"
+                  },
+                  {
+                    "ENGTEXT": "take off",
+                    "RUSTEXT": "Снимать",
+                    "TRANSCRIPT": "teɪk ɔf"
+                  },
+                  {
+                    "ENGTEXT": "wash",
+                    "RUSTEXT": "Стирать",
+                    "TRANSCRIPT": "wɔʃ"
+                  },
+                  {
+                    "ENGTEXT": "launder",
+                    "RUSTEXT": " Стирать",
+                    "TRANSCRIPT": "lɔːndə"
+                  },
+                  {
+                    "ENGTEXT": "iron",
+                    "RUSTEXT": "Гладить",
+                    "TRANSCRIPT": "aɪən"
+                  },
+                  {
+                    "ENGTEXT": "order",
+                    "RUSTEXT": "Заказывать",
+                    "TRANSCRIPT": "ɔːdə"
+                  },
+                  {
+                    "ENGTEXT": "sew",
+                    "RUSTEXT": "Шить",
+                    "TRANSCRIPT": "səu"
+                  },
+                  {
+                    "ENGTEXT": "cut out",
+                    "RUSTEXT": "  Кроить",
+                    "TRANSCRIPT": "kʌt aut"
+                  },
+                  {
+                    "ENGTEXT": "fit",
+                    "RUSTEXT": "  Сидеть (хорошо)",
+                    "TRANSCRIPT": "ˈfɪt"
+                  },
+                  {
+                    "ENGTEXT": "suit",
+                    "RUSTEXT": "  Идти (об одежде)",
+                    "TRANSCRIPT": "ˈsuːt"
+                  },
+                  {
+                    "ENGTEXT": "be in fashion",
+                    "RUSTEXT": "  Быть в моде",
+                    "TRANSCRIPT": "ˈbiːˈɪn'fæʃ(ə)n"
+                  },
+                  {
+                    "ENGTEXT": "be out of fashion",
+                    "RUSTEXT": "  Выйти из моды",
+                    "TRANSCRIPT": "ˈbiː  aut 'fæʃ(ə)n"
+                  }
+                ]
               },
               {
                 "title": "Спать / умываться",
-                "items": [
-                    {"ENGTEXT": "sleep","RUSTEXT":"Спать","TRANSCRIPT" : "ˈsliːp"},
-{"ENGTEXT": "fall asleep","RUSTEXT":"Уснуть","TRANSCRIPT" : "fɔːl ə'sliːp"},
-{"ENGTEXT": "go to bed","RUSTEXT":"Ложиться спать","TRANSCRIPT" : "gəu tuː bed"},
-{"ENGTEXT": "awake","RUSTEXT":"Будить / просыпаться","TRANSCRIPT" : "ə'weɪk"},
-{"ENGTEXT": "wake","RUSTEXT":"Будить / просыпаться","TRANSCRIPT" : "ˈweɪk"},
-{"ENGTEXT": "get up","RUSTEXT":"Вставать","TRANSCRIPT" : "ˈget  ʌp"},
-{"ENGTEXT": "get out of bed","RUSTEXT":"Вставать из постели","TRANSCRIPT" : "ˈget aut ɔv bed"},
-{"ENGTEXT": "brush teeth","RUSTEXT":"Чистить зубы","TRANSCRIPT" : "brʌʃ tiːθ"},
-{"ENGTEXT": "comb one’s hair","RUSTEXT":"Причесываться","TRANSCRIPT" : "kəum wʌn heə"},
-{"ENGTEXT": "wash oneself","RUSTEXT":"  Умываться","TRANSCRIPT" : "wɔʃ wʌn'self"},
-{"ENGTEXT": "dry oneself","RUSTEXT":"  Вытираться","TRANSCRIPT" : "draɪ wʌn'self"},
-{"ENGTEXT": "shave","RUSTEXT":"  Бриться","TRANSCRIPT" : "ʃeɪv"},
-{"ENGTEXT": "make up","RUSTEXT":"  Прикрашиваться","TRANSCRIPT" : "meɪk ʌp"},
-{"ENGTEXT": "do one's hair","RUSTEXT":"  Делать прическу","TRANSCRIPT" : "ˈduː wʌn heə"},
-{"ENGTEXT": "perm","RUSTEXT":"  Делать завивку","TRANSCRIPT" : "pɜːm"}
-                    
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "sleep",
+                    "RUSTEXT": "Спать",
+                    "TRANSCRIPT": "ˈsliːp"
+                  },
+                  {
+                    "ENGTEXT": "fall asleep",
+                    "RUSTEXT": "Уснуть",
+                    "TRANSCRIPT": "fɔːl ə'sliːp"
+                  },
+                  {
+                    "ENGTEXT": "go to bed",
+                    "RUSTEXT": "Ложиться спать",
+                    "TRANSCRIPT": "gəu tuː bed"
+                  },
+                  {
+                    "ENGTEXT": "awake",
+                    "RUSTEXT": "Будить / просыпаться",
+                    "TRANSCRIPT": "ə'weɪk"
+                  },
+                  {
+                    "ENGTEXT": "wake",
+                    "RUSTEXT": "Будить / просыпаться",
+                    "TRANSCRIPT": "ˈweɪk"
+                  },
+                  {
+                    "ENGTEXT": "get up",
+                    "RUSTEXT": "Вставать",
+                    "TRANSCRIPT": "ˈget  ʌp"
+                  },
+                  {
+                    "ENGTEXT": "get out of bed",
+                    "RUSTEXT": "Вставать из постели",
+                    "TRANSCRIPT": "ˈget aut ɔv bed"
+                  },
+                  {
+                    "ENGTEXT": "brush teeth",
+                    "RUSTEXT": "Чистить зубы",
+                    "TRANSCRIPT": "brʌʃ tiːθ"
+                  },
+                  {
+                    "ENGTEXT": "comb one’s hair",
+                    "RUSTEXT": "Причесываться",
+                    "TRANSCRIPT": "kəum wʌn heə"
+                  },
+                  {
+                    "ENGTEXT": "wash oneself",
+                    "RUSTEXT": "  Умываться",
+                    "TRANSCRIPT": "wɔʃ wʌn'self"
+                  },
+                  {
+                    "ENGTEXT": "dry oneself",
+                    "RUSTEXT": "  Вытираться",
+                    "TRANSCRIPT": "draɪ wʌn'self"
+                  },
+                  {
+                    "ENGTEXT": "shave",
+                    "RUSTEXT": "  Бриться",
+                    "TRANSCRIPT": "ʃeɪv"
+                  },
+                  {
+                    "ENGTEXT": "make up",
+                    "RUSTEXT": "  Прикрашиваться",
+                    "TRANSCRIPT": "meɪk ʌp"
+                  },
+                  {
+                    "ENGTEXT": "do one's hair",
+                    "RUSTEXT": "  Делать прическу",
+                    "TRANSCRIPT": "ˈduː wʌn heə"
+                  },
+                  {
+                    "ENGTEXT": "perm",
+                    "RUSTEXT": "  Делать завивку",
+                    "TRANSCRIPT": "pɜːm"
+                  }
+                ]
               },
               {
                 "title": "Болеть",
-                "items": [
-                    {"ENGTEXT": "be sick","RUSTEXT":"Болеть","TRANSCRIPT" : "ˈbiː sɪk"},
-{"ENGTEXT": "be ill","RUSTEXT":"Болеть","TRANSCRIPT" : "ˈbiː ɪl"},
-{"ENGTEXT": "ache","RUSTEXT":"Причинять боль / болеть","TRANSCRIPT" : "ˈeɪk"},
-{"ENGTEXT": "catch a cold","RUSTEXT":"Простудиться","TRANSCRIPT" : "kæʧ kəuld"},
-{"ENGTEXT": "cough","RUSTEXT":"Кашлять","TRANSCRIPT" : "kɔf"},
-{"ENGTEXT": "sneeze","RUSTEXT":"Чихать","TRANSCRIPT" : "ˈsniːz"},
-{"ENGTEXT": "treat","RUSTEXT":"Лечить","TRANSCRIPT" : "ˈtriːt"},
-{"ENGTEXT": "cure","RUSTEXT":"Излечивать","TRANSCRIPT" : "kjuə"},
-{"ENGTEXT": "recover","RUSTEXT":"Выздоравливать","TRANSCRIPT" : "rɪ'kʌvə"},
-{"ENGTEXT": "weaken","RUSTEXT":"Слабеть","TRANSCRIPT" : "wiːk(ə)n"},
-{"ENGTEXT": "die","RUSTEXT":"Умирать","TRANSCRIPT" : "ˈdaɪ"},
-{"ENGTEXT": "bury","RUSTEXT":"Хоронить","TRANSCRIPT" : "ˈberiː"},
-{"ENGTEXT": "heal","RUSTEXT":"Заживать / заживлять","TRANSCRIPT" : "ˈhiːl"}
-                    
-                
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "be sick",
+                    "RUSTEXT": "Болеть",
+                    "TRANSCRIPT": "ˈbiː sɪk"
+                  },
+                  {
+                    "ENGTEXT": "be ill",
+                    "RUSTEXT": "Болеть",
+                    "TRANSCRIPT": "ˈbiː ɪl"
+                  },
+                  {
+                    "ENGTEXT": "ache",
+                    "RUSTEXT": "Причинять боль / болеть",
+                    "TRANSCRIPT": "ˈeɪk"
+                  },
+                  {
+                    "ENGTEXT": "catch a cold",
+                    "RUSTEXT": "Простудиться",
+                    "TRANSCRIPT": "kæʧ kəuld"
+                  },
+                  {
+                    "ENGTEXT": "cough",
+                    "RUSTEXT": "Кашлять",
+                    "TRANSCRIPT": "kɔf"
+                  },
+                  {
+                    "ENGTEXT": "sneeze",
+                    "RUSTEXT": "Чихать",
+                    "TRANSCRIPT": "ˈsniːz"
+                  },
+                  {
+                    "ENGTEXT": "treat",
+                    "RUSTEXT": "Лечить",
+                    "TRANSCRIPT": "ˈtriːt"
+                  },
+                  {
+                    "ENGTEXT": "cure",
+                    "RUSTEXT": "Излечивать",
+                    "TRANSCRIPT": "kjuə"
+                  },
+                  {
+                    "ENGTEXT": "recover",
+                    "RUSTEXT": "Выздоравливать",
+                    "TRANSCRIPT": "rɪ'kʌvə"
+                  },
+                  {
+                    "ENGTEXT": "weaken",
+                    "RUSTEXT": "Слабеть",
+                    "TRANSCRIPT": "wiːk(ə)n"
+                  },
+                  {
+                    "ENGTEXT": "die",
+                    "RUSTEXT": "Умирать",
+                    "TRANSCRIPT": "ˈdaɪ"
+                  },
+                  {
+                    "ENGTEXT": "bury",
+                    "RUSTEXT": "Хоронить",
+                    "TRANSCRIPT": "ˈberiː"
+                  },
+                  {
+                    "ENGTEXT": "heal",
+                    "RUSTEXT": "Заживать / заживлять",
+                    "TRANSCRIPT": "ˈhiːl"
+                  }
+                ]
               }
             ]
           },
@@ -8338,107 +9260,373 @@
             "items": [
               {
                 "title": "Хорошее отношение",
-                "items": [
-                    {"ENGTEXT": "fall in love","RUSTEXT":"Влюбиться","TRANSCRIPT" : "fɔːl ɪn lʌv"},
-{"ENGTEXT": "love","RUSTEXT":"любить","TRANSCRIPT" : "lʌv"},
-{"ENGTEXT": "be fond of","RUSTEXT":"любить","TRANSCRIPT" : "ˈbiːfɔnd  ɔv"},
-{"ENGTEXT": "like","RUSTEXT":"любить / нравиться","TRANSCRIPT" : "ˈlaɪk"},
-{"ENGTEXT": "prefer","RUSTEXT":"предпочитать","TRANSCRIPT" : "prɪ'fɜː"},
-{"ENGTEXT": "respect","RUSTEXT":"уважать","TRANSCRIPT" : "rɪˈspekt"},
-{"ENGTEXT": "esteem","RUSTEXT":"ценить","TRANSCRIPT" : "ɪˈstiːm"},
-{"ENGTEXT": "praise","RUSTEXT":"хвалить","TRANSCRIPT" : "preɪz"}
-                    
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "fall in love",
+                    "RUSTEXT": "Влюбиться",
+                    "TRANSCRIPT": "fɔːl ɪn lʌv"
+                  },
+                  {
+                    "ENGTEXT": "love",
+                    "RUSTEXT": "любить",
+                    "TRANSCRIPT": "lʌv"
+                  },
+                  {
+                    "ENGTEXT": "be fond of",
+                    "RUSTEXT": "любить",
+                    "TRANSCRIPT": "ˈbiːfɔnd  ɔv"
+                  },
+                  {
+                    "ENGTEXT": "like",
+                    "RUSTEXT": "любить / нравиться",
+                    "TRANSCRIPT": "ˈlaɪk"
+                  },
+                  {
+                    "ENGTEXT": "prefer",
+                    "RUSTEXT": "предпочитать",
+                    "TRANSCRIPT": "prɪ'fɜː"
+                  },
+                  {
+                    "ENGTEXT": "respect",
+                    "RUSTEXT": "уважать",
+                    "TRANSCRIPT": "rɪˈspekt"
+                  },
+                  {
+                    "ENGTEXT": "esteem",
+                    "RUSTEXT": "ценить",
+                    "TRANSCRIPT": "ɪˈstiːm"
+                  },
+                  {
+                    "ENGTEXT": "praise",
+                    "RUSTEXT": "хвалить",
+                    "TRANSCRIPT": "preɪz"
+                  }
+                ]
               },
               {
                 "title": "Плохое отношение",
-                "items": [
-                    {"ENGTEXT": "hate","RUSTEXT":" ненавидеть","TRANSCRIPT" : "ˈheɪt"},
-{"ENGTEXT": "detest","RUSTEXT":" ненавидеть","TRANSCRIPT" : "dɪˈtest"},
-{"ENGTEXT": "dislike","RUSTEXT":" не любить","TRANSCRIPT" : "dɪsˈlaɪk"},
-{"ENGTEXT": "disregard","RUSTEXT":" не обращать внимания","TRANSCRIPT" : "ˌdɪsrɪ'gɑːd"},
-{"ENGTEXT": "scold","RUSTEXT":" бранить","TRANSCRIPT" : "skəuld"},
-{"ENGTEXT": "quarrel","RUSTEXT":" ссориться","TRANSCRIPT" : "kwɔr(ə)l"},
-{"ENGTEXT": "reproach","RUSTEXT":" упрекать","TRANSCRIPT" : "rɪ'prəuʧ"},
-{"ENGTEXT": "accuse","RUSTEXT":" обвинять","TRANSCRIPT" : "ə'kjuːz"},
-{"ENGTEXT": "envy","RUSTEXT":" завидовать","TRANSCRIPT" : "envɪ"}
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "hate",
+                    "RUSTEXT": " ненавидеть",
+                    "TRANSCRIPT": "ˈheɪt"
+                  },
+                  {
+                    "ENGTEXT": "detest",
+                    "RUSTEXT": " ненавидеть",
+                    "TRANSCRIPT": "dɪˈtest"
+                  },
+                  {
+                    "ENGTEXT": "dislike",
+                    "RUSTEXT": " не любить",
+                    "TRANSCRIPT": "dɪsˈlaɪk"
+                  },
+                  {
+                    "ENGTEXT": "disregard",
+                    "RUSTEXT": " не обращать внимания",
+                    "TRANSCRIPT": "ˌdɪsrɪ'gɑːd"
+                  },
+                  {
+                    "ENGTEXT": "scold",
+                    "RUSTEXT": " бранить",
+                    "TRANSCRIPT": "skəuld"
+                  },
+                  {
+                    "ENGTEXT": "quarrel",
+                    "RUSTEXT": " ссориться",
+                    "TRANSCRIPT": "kwɔr(ə)l"
+                  },
+                  {
+                    "ENGTEXT": "reproach",
+                    "RUSTEXT": " упрекать",
+                    "TRANSCRIPT": "rɪ'prəuʧ"
+                  },
+                  {
+                    "ENGTEXT": "accuse",
+                    "RUSTEXT": " обвинять",
+                    "TRANSCRIPT": "ə'kjuːz"
+                  },
+                  {
+                    "ENGTEXT": "envy",
+                    "RUSTEXT": " завидовать",
+                    "TRANSCRIPT": "envɪ"
+                  }
+                ]
               },
               {
                 "title": "Горе-радость",
-                "items": [
-                    
-                    {"ENGTEXT": "suffer","RUSTEXT":" страдать","TRANSCRIPT" : "sʌfə"},
-{"ENGTEXT": "endure","RUSTEXT":" терпеть","TRANSCRIPT" : "ɪn'djuə"},
-{"ENGTEXT": "bear","RUSTEXT":" вынести","TRANSCRIPT" : "ˈber"},
-{"ENGTEXT": "stand","RUSTEXT":" выстоять","TRANSCRIPT" : "stænd"},
-{"ENGTEXT": "give up /in","RUSTEXT":" сдаваться","TRANSCRIPT" : "ˈgɪv ʌp/ˈɪn"},
-{"ENGTEXT": "surrender","RUSTEXT":" капитулировать","TRANSCRIPT" : "sə'rendə"},
-{"ENGTEXT": "complain","RUSTEXT":" жаловаться","TRANSCRIPT" : "kəm'pleɪn"},
-{"ENGTEXT": "cry","RUSTEXT":" плакать / кричать","TRANSCRIPT" : "ˈkraɪ"},
-{"ENGTEXT": "weep","RUSTEXT":" плакать","TRANSCRIPT" : "ˈwiːp"},
-{"ENGTEXT": "worry","RUSTEXT":" беспокоиться","TRANSCRIPT" : "wʌrɪ"},
-{"ENGTEXT": "comfort","RUSTEXT":" утешать","TRANSCRIPT" : "kʌmfət"},
-{"ENGTEXT": "calm oneself","RUSTEXT":" успокоиться","TRANSCRIPT" : "kɑːm wʌn'self"},
-{"ENGTEXT": "smile","RUSTEXT":" улыбаться","TRANSCRIPT" : "ˈsmaɪ"},
-{"ENGTEXT": "laugh","RUSTEXT":" смеяться","TRANSCRIPT" : "lɑːf"},
-{"ENGTEXT": "rejoice","RUSTEXT":" радоваться","TRANSCRIPT" : "rɪ'ʤɔɪs"},
-{"ENGTEXT": "enjoy","RUSTEXT":" наслаждаться","TRANSCRIPT" : "ɪn'ʤɔɪ"}
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "suffer",
+                    "RUSTEXT": " страдать",
+                    "TRANSCRIPT": "sʌfə"
+                  },
+                  {
+                    "ENGTEXT": "endure",
+                    "RUSTEXT": " терпеть",
+                    "TRANSCRIPT": "ɪn'djuə"
+                  },
+                  {
+                    "ENGTEXT": "bear",
+                    "RUSTEXT": " вынести",
+                    "TRANSCRIPT": "ˈber"
+                  },
+                  {
+                    "ENGTEXT": "stand",
+                    "RUSTEXT": " выстоять",
+                    "TRANSCRIPT": "stænd"
+                  },
+                  {
+                    "ENGTEXT": "give up /in",
+                    "RUSTEXT": " сдаваться",
+                    "TRANSCRIPT": "ˈgɪv ʌp/ˈɪn"
+                  },
+                  {
+                    "ENGTEXT": "surrender",
+                    "RUSTEXT": " капитулировать",
+                    "TRANSCRIPT": "sə'rendə"
+                  },
+                  {
+                    "ENGTEXT": "complain",
+                    "RUSTEXT": " жаловаться",
+                    "TRANSCRIPT": "kəm'pleɪn"
+                  },
+                  {
+                    "ENGTEXT": "cry",
+                    "RUSTEXT": " плакать / кричать",
+                    "TRANSCRIPT": "ˈkraɪ"
+                  },
+                  {
+                    "ENGTEXT": "weep",
+                    "RUSTEXT": " плакать",
+                    "TRANSCRIPT": "ˈwiːp"
+                  },
+                  {
+                    "ENGTEXT": "worry",
+                    "RUSTEXT": " беспокоиться",
+                    "TRANSCRIPT": "wʌrɪ"
+                  },
+                  {
+                    "ENGTEXT": "comfort",
+                    "RUSTEXT": " утешать",
+                    "TRANSCRIPT": "kʌmfət"
+                  },
+                  {
+                    "ENGTEXT": "calm oneself",
+                    "RUSTEXT": " успокоиться",
+                    "TRANSCRIPT": "kɑːm wʌn'self"
+                  },
+                  {
+                    "ENGTEXT": "smile",
+                    "RUSTEXT": " улыбаться",
+                    "TRANSCRIPT": "ˈsmaɪ"
+                  },
+                  {
+                    "ENGTEXT": "laugh",
+                    "RUSTEXT": " смеяться",
+                    "TRANSCRIPT": "lɑːf"
+                  },
+                  {
+                    "ENGTEXT": "rejoice",
+                    "RUSTEXT": " радоваться",
+                    "TRANSCRIPT": "rɪ'ʤɔɪs"
+                  },
+                  {
+                    "ENGTEXT": "enjoy",
+                    "RUSTEXT": " наслаждаться",
+                    "TRANSCRIPT": "ɪn'ʤɔɪ"
+                  }
+                ]
               },
               {
                 "title": "Гордость-скромность",
-                "items": [
-                    {"ENGTEXT": "be proud","RUSTEXT":"  гордиться","TRANSCRIPT" : "ˈbiː praud"},
-{"ENGTEXT": "boast","RUSTEXT":"  хвастаться","TRANSCRIPT" : "bəust"},
-{"ENGTEXT": "put on airs","RUSTEXT":"  зазнаваться","TRANSCRIPT" : "put ɔn  eə"},
-{"ENGTEXT": "be shy","RUSTEXT":"  робеть","TRANSCRIPT" : "ˈbiːʃaɪ"},
-{"ENGTEXT": "be modest","RUSTEXT":"  скромничать","TRANSCRIPT" : "ˈbiː 'mɔdɪst"},
-{"ENGTEXT": "be insolent","RUSTEXT":" быть наглым","TRANSCRIPT" : "ˈbiː 'ɪns(ə)lənt"},
-{"ENGTEXT": "be impudent","RUSTEXT":" наглеть","TRANSCRIPT" : "ˈbiː'ɪmpjud(ə)nt"}
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "be proud",
+                    "RUSTEXT": "  гордиться",
+                    "TRANSCRIPT": "ˈbiː praud"
+                  },
+                  {
+                    "ENGTEXT": "boast",
+                    "RUSTEXT": "  хвастаться",
+                    "TRANSCRIPT": "bəust"
+                  },
+                  {
+                    "ENGTEXT": "put on airs",
+                    "RUSTEXT": "  зазнаваться",
+                    "TRANSCRIPT": "put ɔn  eə"
+                  },
+                  {
+                    "ENGTEXT": "be shy",
+                    "RUSTEXT": "  робеть",
+                    "TRANSCRIPT": "ˈbiːʃaɪ"
+                  },
+                  {
+                    "ENGTEXT": "be modest",
+                    "RUSTEXT": "  скромничать",
+                    "TRANSCRIPT": "ˈbiː 'mɔdɪst"
+                  },
+                  {
+                    "ENGTEXT": "be insolent",
+                    "RUSTEXT": " быть наглым",
+                    "TRANSCRIPT": "ˈbiː 'ɪns(ə)lənt"
+                  },
+                  {
+                    "ENGTEXT": "be impudent",
+                    "RUSTEXT": " наглеть",
+                    "TRANSCRIPT": "ˈbiː'ɪmpjud(ə)nt"
+                  }
+                ]
               },
               {
                 "title": "Уверенность / сомнение",
-                "items": [
-                    {"ENGTEXT": "be sure","RUSTEXT":"  быть уверенным","TRANSCRIPT" : "ˈbiː ʃuə"},
-{"ENGTEXT": "hope","RUSTEXT":" надеяться","TRANSCRIPT" : "həup"},
-{"ENGTEXT": "believe","RUSTEXT":" верить","TRANSCRIPT" : "bɪ'liːv"},
-{"ENGTEXT": "rely","RUSTEXT":" полагаться","TRANSCRIPT" : "rɪˈlaɪ"},
-{"ENGTEXT": "doubt","RUSTEXT":" сомневаться","TRANSCRIPT" : "daut"},
-{"ENGTEXT": "hesitate","RUSTEXT":" колебаться","TRANSCRIPT" : "hezɪteɪt"},
-{"ENGTEXT": "suspect","RUSTEXT":" подозревать","TRANSCRIPT" : "sʌspekt"}
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "be sure",
+                    "RUSTEXT": "  быть уверенным",
+                    "TRANSCRIPT": "ˈbiː ʃuə"
+                  },
+                  {
+                    "ENGTEXT": "hope",
+                    "RUSTEXT": " надеяться",
+                    "TRANSCRIPT": "həup"
+                  },
+                  {
+                    "ENGTEXT": "believe",
+                    "RUSTEXT": " верить",
+                    "TRANSCRIPT": "bɪ'liːv"
+                  },
+                  {
+                    "ENGTEXT": "rely",
+                    "RUSTEXT": " полагаться",
+                    "TRANSCRIPT": "rɪˈlaɪ"
+                  },
+                  {
+                    "ENGTEXT": "doubt",
+                    "RUSTEXT": " сомневаться",
+                    "TRANSCRIPT": "daut"
+                  },
+                  {
+                    "ENGTEXT": "hesitate",
+                    "RUSTEXT": " колебаться",
+                    "TRANSCRIPT": "hezɪteɪt"
+                  },
+                  {
+                    "ENGTEXT": "suspect",
+                    "RUSTEXT": " подозревать",
+                    "TRANSCRIPT": "sʌspekt"
+                  }
+                ]
               },
               {
                 "title": "Старание / лень",
-                "items": [
-                    {"ENGTEXT": "care","RUSTEXT":" заботиться","TRANSCRIPT" : "ˈker"},
-{"ENGTEXT": "neglect","RUSTEXT":" не заботиться","TRANSCRIPT" : "nɪˈglekt"},
-{"ENGTEXT": "shirk","RUSTEXT":" увиливать","TRANSCRIPT" : "ʃɜːk"},
-{"ENGTEXT": "try to do one’s best","RUSTEXT":" стараться сделать все возможное","TRANSCRIPT" : "traɪ tuː duː wʌn best"},
-{"ENGTEXT": "get tired","RUSTEXT":" уставать","TRANSCRIPT" : "ˈget  'taɪəd"},
-{"ENGTEXT": "be lazy","RUSTEXT":" лениться","TRANSCRIPT" : "ˈbiː'leɪzɪ"},
-{"ENGTEXT": "be tired","RUSTEXT":" уставать","TRANSCRIPT" : "ˈbiː'taɪəd"}
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "care",
+                    "RUSTEXT": " заботиться",
+                    "TRANSCRIPT": "ˈker"
+                  },
+                  {
+                    "ENGTEXT": "neglect",
+                    "RUSTEXT": " не заботиться",
+                    "TRANSCRIPT": "nɪˈglekt"
+                  },
+                  {
+                    "ENGTEXT": "shirk",
+                    "RUSTEXT": " увиливать",
+                    "TRANSCRIPT": "ʃɜːk"
+                  },
+                  {
+                    "ENGTEXT": "try to do one’s best",
+                    "RUSTEXT": " стараться сделать все возможное",
+                    "TRANSCRIPT": "traɪ tuː duː wʌn best"
+                  },
+                  {
+                    "ENGTEXT": "get tired",
+                    "RUSTEXT": " уставать",
+                    "TRANSCRIPT": "ˈget  'taɪəd"
+                  },
+                  {
+                    "ENGTEXT": "be lazy",
+                    "RUSTEXT": " лениться",
+                    "TRANSCRIPT": "ˈbiː'leɪzɪ"
+                  },
+                  {
+                    "ENGTEXT": "be tired",
+                    "RUSTEXT": " уставать",
+                    "TRANSCRIPT": "ˈbiː'taɪəd"
+                  }
+                ]
               },
               {
                 "title": "Оттенки эмоций",
-                "items": [
-                    {"ENGTEXT": "agitate","RUSTEXT":" волновать","TRANSCRIPT" : "æʤɪteɪt"},
-{"ENGTEXT": "excite","RUSTEXT":" возбуждать","TRANSCRIPT" : "ɪkˈsaɪt"},
-{"ENGTEXT": "move","RUSTEXT":" глубоко тронуть","TRANSCRIPT" : "ˈmuːv"},
-{"ENGTEXT": "fear","RUSTEXT":" бояться","TRANSCRIPT" : "ˈfɪr"},
-{"ENGTEXT": "scare","RUSTEXT":" пугать","TRANSCRIPT" : "ˈsker"},
-{"ENGTEXT": "frighten","RUSTEXT":" пугать","TRANSCRIPT" : "fraɪt(ə)n"},
-{"ENGTEXT": "astonish","RUSTEXT":" удивлять","TRANSCRIPT" : "ə'stɔnɪʃ"},
-{"ENGTEXT": "surprise","RUSTEXT":" удивлять","TRANSCRIPT" : "sə'praɪz"},
-{"ENGTEXT": "amaze","RUSTEXT":" удивлять","TRANSCRIPT" : "əˈmeɪz"},
-{"ENGTEXT": "hurt","RUSTEXT":" обижать","TRANSCRIPT" : "ˈhərt"},
-{"ENGTEXT": "offend","RUSTEXT":" оскорблять","TRANSCRIPT" : "ə'fend"},
-{"ENGTEXT": "wound","RUSTEXT":" ранить","TRANSCRIPT" : "wuːnd"},
-{"ENGTEXT": "be angry","RUSTEXT":" быть сердитым","TRANSCRIPT" : "ˈbiː 'æŋgrɪ"}
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "agitate",
+                    "RUSTEXT": " волновать",
+                    "TRANSCRIPT": "æʤɪteɪt"
+                  },
+                  {
+                    "ENGTEXT": "excite",
+                    "RUSTEXT": " возбуждать",
+                    "TRANSCRIPT": "ɪkˈsaɪt"
+                  },
+                  {
+                    "ENGTEXT": "move",
+                    "RUSTEXT": " глубоко тронуть",
+                    "TRANSCRIPT": "ˈmuːv"
+                  },
+                  {
+                    "ENGTEXT": "fear",
+                    "RUSTEXT": " бояться",
+                    "TRANSCRIPT": "ˈfɪr"
+                  },
+                  {
+                    "ENGTEXT": "scare",
+                    "RUSTEXT": " пугать",
+                    "TRANSCRIPT": "ˈsker"
+                  },
+                  {
+                    "ENGTEXT": "frighten",
+                    "RUSTEXT": " пугать",
+                    "TRANSCRIPT": "fraɪt(ə)n"
+                  },
+                  {
+                    "ENGTEXT": "astonish",
+                    "RUSTEXT": " удивлять",
+                    "TRANSCRIPT": "ə'stɔnɪʃ"
+                  },
+                  {
+                    "ENGTEXT": "surprise",
+                    "RUSTEXT": " удивлять",
+                    "TRANSCRIPT": "sə'praɪz"
+                  },
+                  {
+                    "ENGTEXT": "amaze",
+                    "RUSTEXT": " удивлять",
+                    "TRANSCRIPT": "əˈmeɪz"
+                  },
+                  {
+                    "ENGTEXT": "hurt",
+                    "RUSTEXT": " обижать",
+                    "TRANSCRIPT": "ˈhərt"
+                  },
+                  {
+                    "ENGTEXT": "offend",
+                    "RUSTEXT": " оскорблять",
+                    "TRANSCRIPT": "ə'fend"
+                  },
+                  {
+                    "ENGTEXT": "wound",
+                    "RUSTEXT": " ранить",
+                    "TRANSCRIPT": "wuːnd"
+                  },
+                  {
+                    "ENGTEXT": "be angry",
+                    "RUSTEXT": " быть сердитым",
+                    "TRANSCRIPT": "ˈbiː 'æŋgrɪ"
+                  }
+                ]
               }
             ]
           },
@@ -8447,210 +9635,778 @@
             "items": [
               {
                 "title": "Восприятие мира",
-                "items": [
-                    {"ENGTEXT": "see","RUSTEXT":" видеть","TRANSCRIPT" : "ˈsiː"},
-{"ENGTEXT": "look","RUSTEXT":" смотреть","TRANSCRIPT" : "luk"},
-{"ENGTEXT": "hear","RUSTEXT":" слышать","TRANSCRIPT" : "ˈhɪr"},
-{"ENGTEXT": "listen","RUSTEXT":" слушать","TRANSCRIPT" : "lɪs(ə)n"},
-{"ENGTEXT": "think","RUSTEXT":" думать","TRANSCRIPT" : "θɪŋk"},
-{"ENGTEXT": "observe","RUSTEXT":" наблюдать","TRANSCRIPT" : "əb'zɜːv"},
-{"ENGTEXT": "recognize","RUSTEXT":" узнавать","TRANSCRIPT" : "rekəgnaɪz"},
-{"ENGTEXT": "feel","RUSTEXT":": чувствовать","TRANSCRIPT" : "ˈfiːl"},
-{"ENGTEXT": "imagine","RUSTEXT":" представлять себе","TRANSCRIPT" : "ɪ'mæʤɪn"},
-{"ENGTEXT": "watch","RUSTEXT":" следить","TRANSCRIPT" : "ˈwɑtʃ"},
-{"ENGTEXT": "distinguish","RUSTEXT":" различать","TRANSCRIPT" : "dɪ'stɪŋgwɪʃ"}
-                    
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "see",
+                    "RUSTEXT": " видеть",
+                    "TRANSCRIPT": "ˈsiː"
+                  },
+                  {
+                    "ENGTEXT": "look",
+                    "RUSTEXT": " смотреть",
+                    "TRANSCRIPT": "luk"
+                  },
+                  {
+                    "ENGTEXT": "hear",
+                    "RUSTEXT": " слышать",
+                    "TRANSCRIPT": "ˈhɪr"
+                  },
+                  {
+                    "ENGTEXT": "listen",
+                    "RUSTEXT": " слушать",
+                    "TRANSCRIPT": "lɪs(ə)n"
+                  },
+                  {
+                    "ENGTEXT": "think",
+                    "RUSTEXT": " думать",
+                    "TRANSCRIPT": "θɪŋk"
+                  },
+                  {
+                    "ENGTEXT": "observe",
+                    "RUSTEXT": " наблюдать",
+                    "TRANSCRIPT": "əb'zɜːv"
+                  },
+                  {
+                    "ENGTEXT": "recognize",
+                    "RUSTEXT": " узнавать",
+                    "TRANSCRIPT": "rekəgnaɪz"
+                  },
+                  {
+                    "ENGTEXT": "feel",
+                    "RUSTEXT": ": чувствовать",
+                    "TRANSCRIPT": "ˈfiːl"
+                  },
+                  {
+                    "ENGTEXT": "imagine",
+                    "RUSTEXT": " представлять себе",
+                    "TRANSCRIPT": "ɪ'mæʤɪn"
+                  },
+                  {
+                    "ENGTEXT": "watch",
+                    "RUSTEXT": " следить",
+                    "TRANSCRIPT": "ˈwɑtʃ"
+                  },
+                  {
+                    "ENGTEXT": "distinguish",
+                    "RUSTEXT": " различать",
+                    "TRANSCRIPT": "dɪ'stɪŋgwɪʃ"
+                  }
+                ]
               },
               {
                 "title": "Обучение",
-                "items": [
-                    {"ENGTEXT": "study","RUSTEXT":" изучать","TRANSCRIPT" : "ˈstədiː"},
-{"ENGTEXT": "","RUSTEXT":" изучать","TRANSCRIPT" : ""},
-{"ENGTEXT": "understand","RUSTEXT":" понимать","TRANSCRIPT" : "ˌʌndə'stænd"},
-{"ENGTEXT": "train","RUSTEXT":" обучать","TRANSCRIPT" : "ˈtreɪn"},
-{"ENGTEXT": "teach","RUSTEXT":" обучать","TRANSCRIPT" : "tiːʧ"},
-{"ENGTEXT": "explain","RUSTEXT":" объяснять","TRANSCRIPT" : "ɪk'spleɪn"},
-{"ENGTEXT": "memorize","RUSTEXT":" заучивать","TRANSCRIPT" : "mem(ə)raɪz"},
-{"ENGTEXT": "learn by heart","RUSTEXT":" учить наизусть","TRANSCRIPT" : "lɜːn baɪ hɑːt"},
-{"ENGTEXT": "remember","RUSTEXT":" помнить","TRANSCRIPT" : "rɪˈmembər"},
-{"ENGTEXT": "bear in mind","RUSTEXT":" помнить","TRANSCRIPT" : "beə ˈɪn ˈmaɪnd"},
-{"ENGTEXT": "know","RUSTEXT":" знать","TRANSCRIPT" : "nəu"},
-{"ENGTEXT": "mean","RUSTEXT":" значить","TRANSCRIPT" : "ˈmiːn"},
-{"ENGTEXT": "forget","RUSTEXT":" забывать","TRANSCRIPT" : "fə'get"},
-{"ENGTEXT": "mistake","RUSTEXT":" ошибаться","TRANSCRIPT" : "mɪ'steɪk"},
-{"ENGTEXT": "err","RUSTEXT":" ошибаться","TRANSCRIPT" : "ˈer"},
-{"ENGTEXT": "examine","RUSTEXT":" проверять","TRANSCRIPT" : "ɪgˈzæmən"},
-{"ENGTEXT": "correct","RUSTEXT":" исправлять","TRANSCRIPT" : "kə'rekt"}
-                    
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "study",
+                    "RUSTEXT": " изучать",
+                    "TRANSCRIPT": "ˈstədiː"
+                  },
+                  {
+                    "ENGTEXT": "",
+                    "RUSTEXT": " изучать",
+                    "TRANSCRIPT": ""
+                  },
+                  {
+                    "ENGTEXT": "understand",
+                    "RUSTEXT": " понимать",
+                    "TRANSCRIPT": "ˌʌndə'stænd"
+                  },
+                  {
+                    "ENGTEXT": "train",
+                    "RUSTEXT": " обучать",
+                    "TRANSCRIPT": "ˈtreɪn"
+                  },
+                  {
+                    "ENGTEXT": "teach",
+                    "RUSTEXT": " обучать",
+                    "TRANSCRIPT": "tiːʧ"
+                  },
+                  {
+                    "ENGTEXT": "explain",
+                    "RUSTEXT": " объяснять",
+                    "TRANSCRIPT": "ɪk'spleɪn"
+                  },
+                  {
+                    "ENGTEXT": "memorize",
+                    "RUSTEXT": " заучивать",
+                    "TRANSCRIPT": "mem(ə)raɪz"
+                  },
+                  {
+                    "ENGTEXT": "learn by heart",
+                    "RUSTEXT": " учить наизусть",
+                    "TRANSCRIPT": "lɜːn baɪ hɑːt"
+                  },
+                  {
+                    "ENGTEXT": "remember",
+                    "RUSTEXT": " помнить",
+                    "TRANSCRIPT": "rɪˈmembər"
+                  },
+                  {
+                    "ENGTEXT": "bear in mind",
+                    "RUSTEXT": " помнить",
+                    "TRANSCRIPT": "beə ˈɪn ˈmaɪnd"
+                  },
+                  {
+                    "ENGTEXT": "know",
+                    "RUSTEXT": " знать",
+                    "TRANSCRIPT": "nəu"
+                  },
+                  {
+                    "ENGTEXT": "mean",
+                    "RUSTEXT": " значить",
+                    "TRANSCRIPT": "ˈmiːn"
+                  },
+                  {
+                    "ENGTEXT": "forget",
+                    "RUSTEXT": " забывать",
+                    "TRANSCRIPT": "fə'get"
+                  },
+                  {
+                    "ENGTEXT": "mistake",
+                    "RUSTEXT": " ошибаться",
+                    "TRANSCRIPT": "mɪ'steɪk"
+                  },
+                  {
+                    "ENGTEXT": "err",
+                    "RUSTEXT": " ошибаться",
+                    "TRANSCRIPT": "ˈer"
+                  },
+                  {
+                    "ENGTEXT": "examine",
+                    "RUSTEXT": " проверять",
+                    "TRANSCRIPT": "ɪgˈzæmən"
+                  },
+                  {
+                    "ENGTEXT": "correct",
+                    "RUSTEXT": " исправлять",
+                    "TRANSCRIPT": "kə'rekt"
+                  }
+                ]
               },
               {
                 "title": "Учебные операции",
-                "items": [
-                    {"ENGTEXT": "read","RUSTEXT":"  читать","TRANSCRIPT" : "ˈriːd"},
-{"ENGTEXT": "write","RUSTEXT":"  писать","TRANSCRIPT" : "ˈraɪt"},
-{"ENGTEXT": "add","RUSTEXT":"  складывать","TRANSCRIPT" : "æd"},
-{"ENGTEXT": "subtract","RUSTEXT":"  вычитать","TRANSCRIPT" : "səb'trækt"},
-{"ENGTEXT": "multiply","RUSTEXT":"  умножать","TRANSCRIPT" : "mʌltɪplaɪ"},
-{"ENGTEXT": "divide","RUSTEXT":"  делить","TRANSCRIPT" : "dɪ'vaɪd"},
-{"ENGTEXT": "count","RUSTEXT":"  считать","TRANSCRIPT" : "kaunt"},
-{"ENGTEXT": "calculate","RUSTEXT":"  вычислять","TRANSCRIPT" : "kælkjuleɪt"},
-{"ENGTEXT": "express","RUSTEXT":"  выражать","TRANSCRIPT" : "ɪk'spres"},
-{"ENGTEXT": "describe","RUSTEXT":" описывать","TRANSCRIPT" : "dɪˈskraɪb"},
-{"ENGTEXT": "relate","RUSTEXT":"  рассказывать","TRANSCRIPT" : "rɪˈleɪt"},
-{"ENGTEXT": "retell","RUSTEXT":"  пересказать","TRANSCRIPT" : "riːˈtel"},
-{"ENGTEXT": "translate","RUSTEXT":"  переводить","TRANSCRIPT" : "trænz'leɪt"}
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "read",
+                    "RUSTEXT": "  читать",
+                    "TRANSCRIPT": "ˈriːd"
+                  },
+                  {
+                    "ENGTEXT": "write",
+                    "RUSTEXT": "  писать",
+                    "TRANSCRIPT": "ˈraɪt"
+                  },
+                  {
+                    "ENGTEXT": "add",
+                    "RUSTEXT": "  складывать",
+                    "TRANSCRIPT": "æd"
+                  },
+                  {
+                    "ENGTEXT": "subtract",
+                    "RUSTEXT": "  вычитать",
+                    "TRANSCRIPT": "səb'trækt"
+                  },
+                  {
+                    "ENGTEXT": "multiply",
+                    "RUSTEXT": "  умножать",
+                    "TRANSCRIPT": "mʌltɪplaɪ"
+                  },
+                  {
+                    "ENGTEXT": "divide",
+                    "RUSTEXT": "  делить",
+                    "TRANSCRIPT": "dɪ'vaɪd"
+                  },
+                  {
+                    "ENGTEXT": "count",
+                    "RUSTEXT": "  считать",
+                    "TRANSCRIPT": "kaunt"
+                  },
+                  {
+                    "ENGTEXT": "calculate",
+                    "RUSTEXT": "  вычислять",
+                    "TRANSCRIPT": "kælkjuleɪt"
+                  },
+                  {
+                    "ENGTEXT": "express",
+                    "RUSTEXT": "  выражать",
+                    "TRANSCRIPT": "ɪk'spres"
+                  },
+                  {
+                    "ENGTEXT": "describe",
+                    "RUSTEXT": " описывать",
+                    "TRANSCRIPT": "dɪˈskraɪb"
+                  },
+                  {
+                    "ENGTEXT": "relate",
+                    "RUSTEXT": "  рассказывать",
+                    "TRANSCRIPT": "rɪˈleɪt"
+                  },
+                  {
+                    "ENGTEXT": "retell",
+                    "RUSTEXT": "  пересказать",
+                    "TRANSCRIPT": "riːˈtel"
+                  },
+                  {
+                    "ENGTEXT": "translate",
+                    "RUSTEXT": "  переводить",
+                    "TRANSCRIPT": "trænz'leɪt"
+                  }
+                ]
               },
               {
                 "title": " Логические операции",
-                "items": [  
-                    {"ENGTEXT": "consider","RUSTEXT":" рассматривать","TRANSCRIPT" : "kən'sɪdə"},
-{"ENGTEXT": "suppose","RUSTEXT":" предполагать","TRANSCRIPT" : "sə'pəuz"},
-{"ENGTEXT": "expect","RUSTEXT":" ожидать","TRANSCRIPT" : "ɪkˈspekt"},
-{"ENGTEXT": "inquire","RUSTEXT":" расследовать","TRANSCRIPT" : "ɪnˈkwaɪr"},
-{"ENGTEXT": "decide","RUSTEXT":" решать","TRANSCRIPT" : "dɪˈsaɪd"},
-{"ENGTEXT": "research","RUSTEXT":" исследовать","TRANSCRIPT" : "rɪ'sɜːʧ"},
-{"ENGTEXT": "discover","RUSTEXT":" открывать","TRANSCRIPT" : "dɪ'skʌvə"},
-{"ENGTEXT": "findout","RUSTEXT":" выяснять","TRANSCRIPT" : "findout"},
-{"ENGTEXT": "compare","RUSTEXT":" сравнивать","TRANSCRIPT" : "kəm'peə"},
-{"ENGTEXT": "prove","RUSTEXT":" доказывать","TRANSCRIPT" : "ˈpruːv"},
-{"ENGTEXT": "convince","RUSTEXT":" убеждать","TRANSCRIPT" : "kən'vɪn(t)s"},
-{"ENGTEXT": "conclude","RUSTEXT":" делать вывод","TRANSCRIPT" : "kən'kluːd"},
-{"ENGTEXT": "invent","RUSTEXT":" изобретать","TRANSCRIPT" : "ɪnˈvent"},
-{"ENGTEXT": "develop","RUSTEXT":" разработать","TRANSCRIPT" : "dɪ'veləp"},
-{"ENGTEXT": "take into account","RUSTEXT":" принимать во внимание","TRANSCRIPT" : "teɪk 'ɪntə ə'kaunt"},
-{"ENGTEXT": "make up one's mind","RUSTEXT":" настроиться","TRANSCRIPT" : "meɪk ʌp wʌn maɪnd"},
-{"ENGTEXT": "change one's mind","RUSTEXT":" передумать","TRANSCRIPT" : "ʧeɪnʤ wʌn maɪnd"},
-{"ENGTEXT": "experiment","RUSTEXT":" экспериментировать","TRANSCRIPT" : "ɪkˈsperəmənt"},
-{"ENGTEXT": "analyze","RUSTEXT":" анализировать","TRANSCRIPT" : "æn(ə)laɪz"},
-{"ENGTEXT": "process data","RUSTEXT":" обрабатывать данные","TRANSCRIPT" : "prəuses  'deɪtə"}
-                    
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "consider",
+                    "RUSTEXT": " рассматривать",
+                    "TRANSCRIPT": "kən'sɪdə"
+                  },
+                  {
+                    "ENGTEXT": "suppose",
+                    "RUSTEXT": " предполагать",
+                    "TRANSCRIPT": "sə'pəuz"
+                  },
+                  {
+                    "ENGTEXT": "expect",
+                    "RUSTEXT": " ожидать",
+                    "TRANSCRIPT": "ɪkˈspekt"
+                  },
+                  {
+                    "ENGTEXT": "inquire",
+                    "RUSTEXT": " расследовать",
+                    "TRANSCRIPT": "ɪnˈkwaɪr"
+                  },
+                  {
+                    "ENGTEXT": "decide",
+                    "RUSTEXT": " решать",
+                    "TRANSCRIPT": "dɪˈsaɪd"
+                  },
+                  {
+                    "ENGTEXT": "research",
+                    "RUSTEXT": " исследовать",
+                    "TRANSCRIPT": "rɪ'sɜːʧ"
+                  },
+                  {
+                    "ENGTEXT": "discover",
+                    "RUSTEXT": " открывать",
+                    "TRANSCRIPT": "dɪ'skʌvə"
+                  },
+                  {
+                    "ENGTEXT": "findout",
+                    "RUSTEXT": " выяснять",
+                    "TRANSCRIPT": "findout"
+                  },
+                  {
+                    "ENGTEXT": "compare",
+                    "RUSTEXT": " сравнивать",
+                    "TRANSCRIPT": "kəm'peə"
+                  },
+                  {
+                    "ENGTEXT": "prove",
+                    "RUSTEXT": " доказывать",
+                    "TRANSCRIPT": "ˈpruːv"
+                  },
+                  {
+                    "ENGTEXT": "convince",
+                    "RUSTEXT": " убеждать",
+                    "TRANSCRIPT": "kən'vɪn(t)s"
+                  },
+                  {
+                    "ENGTEXT": "conclude",
+                    "RUSTEXT": " делать вывод",
+                    "TRANSCRIPT": "kən'kluːd"
+                  },
+                  {
+                    "ENGTEXT": "invent",
+                    "RUSTEXT": " изобретать",
+                    "TRANSCRIPT": "ɪnˈvent"
+                  },
+                  {
+                    "ENGTEXT": "develop",
+                    "RUSTEXT": " разработать",
+                    "TRANSCRIPT": "dɪ'veləp"
+                  },
+                  {
+                    "ENGTEXT": "take into account",
+                    "RUSTEXT": " принимать во внимание",
+                    "TRANSCRIPT": "teɪk 'ɪntə ə'kaunt"
+                  },
+                  {
+                    "ENGTEXT": "make up one's mind",
+                    "RUSTEXT": " настроиться",
+                    "TRANSCRIPT": "meɪk ʌp wʌn maɪnd"
+                  },
+                  {
+                    "ENGTEXT": "change one's mind",
+                    "RUSTEXT": " передумать",
+                    "TRANSCRIPT": "ʧeɪnʤ wʌn maɪnd"
+                  },
+                  {
+                    "ENGTEXT": "experiment",
+                    "RUSTEXT": " экспериментировать",
+                    "TRANSCRIPT": "ɪkˈsperəmənt"
+                  },
+                  {
+                    "ENGTEXT": "analyze",
+                    "RUSTEXT": " анализировать",
+                    "TRANSCRIPT": "æn(ə)laɪz"
+                  },
+                  {
+                    "ENGTEXT": "process data",
+                    "RUSTEXT": " обрабатывать данные",
+                    "TRANSCRIPT": "prəuses  'deɪtə"
+                  }
+                ]
               }
             ]
           },
           {
             "title": "Рабочие операции",
-            "items": [
+            "words": [
               {
                 "title": "Работать/делать",
                 "items": [
-                    {"ENGTEXT": "work","RUSTEXT":" работать","TRANSCRIPT" : "wɜːk"},
-{"ENGTEXT": "do","RUSTEXT":" делать","TRANSCRIPT" : "ˈduː"},
-{"ENGTEXT": "make","RUSTEXT":" делать","TRANSCRIPT" : "meɪk"},
-{"ENGTEXT": "manufacture","RUSTEXT":" изготовлять","TRANSCRIPT" : "ˌmænjə'fækʧəˌˌmænju'fækʧə"},
-{"ENGTEXT": "produce","RUSTEXT":" производить","TRANSCRIPT" : "prɔdjuːs"},
-{"ENGTEXT": "perform","RUSTEXT":" выполнять","TRANSCRIPT" : "pə'fɔːm"},
-{"ENGTEXT": "carry out","RUSTEXT":" выполнять","TRANSCRIPT" : "kærɪ aut"},
-{"ENGTEXT": "fulfill","RUSTEXT":" выполнять","TRANSCRIPT" : "ful'fɪl"},
-{"ENGTEXT": "conduct","RUSTEXT":" проводить","TRANSCRIPT" : "kɔndʌkt"}
-                    
-                    ]
+                  {
+                    "ENGTEXT": "work",
+                    "RUSTEXT": " работать",
+                    "TRANSCRIPT": "wɜːk"
+                  },
+                  {
+                    "ENGTEXT": "do",
+                    "RUSTEXT": " делать",
+                    "TRANSCRIPT": "ˈduː"
+                  },
+                  {
+                    "ENGTEXT": "make",
+                    "RUSTEXT": " делать",
+                    "TRANSCRIPT": "meɪk"
+                  },
+                  {
+                    "ENGTEXT": "manufacture",
+                    "RUSTEXT": " изготовлять",
+                    "TRANSCRIPT": "ˌmænjə'fækʧəˌˌmænju'fækʧə"
+                  },
+                  {
+                    "ENGTEXT": "produce",
+                    "RUSTEXT": " производить",
+                    "TRANSCRIPT": "prɔdjuːs"
+                  },
+                  {
+                    "ENGTEXT": "perform",
+                    "RUSTEXT": " выполнять",
+                    "TRANSCRIPT": "pə'fɔːm"
+                  },
+                  {
+                    "ENGTEXT": "carry out",
+                    "RUSTEXT": " выполнять",
+                    "TRANSCRIPT": "kærɪ aut"
+                  },
+                  {
+                    "ENGTEXT": "fulfill",
+                    "RUSTEXT": " выполнять",
+                    "TRANSCRIPT": "ful'fɪl"
+                  },
+                  {
+                    "ENGTEXT": "conduct",
+                    "RUSTEXT": " проводить",
+                    "TRANSCRIPT": "kɔndʌkt"
+                  }
+                ]
               },
               {
                 "title": "Готовить/проверять",
                 "items": [
-                    {"ENGTEXT": "prepare","RUSTEXT":" готовить","TRANSCRIPT" : "prɪˈper"},
-{"ENGTEXT": "repair","RUSTEXT":" ремонтировать","TRANSCRIPT" : "rɪˈper"},
-{"ENGTEXT": "fit","RUSTEXT":" настраивать","TRANSCRIPT" : "ˈfɪt"},
-{"ENGTEXT": "adjust","RUSTEXT":" настраивать","TRANSCRIPT" : "ə'ʤʌst"},
-{"ENGTEXT": "test","RUSTEXT":" испытывать","TRANSCRIPT" : "ˈtest"},
-{"ENGTEXT": "verify","RUSTEXT":"перепроверять","TRANSCRIPT" : "ˈverəˌfaɪ"},
-{"ENGTEXT": "control","RUSTEXT":"проверять","TRANSCRIPT" : "kən'trəul"},
-{"ENGTEXT": "replace","RUSTEXT":"заменять","TRANSCRIPT" : "rɪˈpleɪs"},
-{"ENGTEXT": "substitute","RUSTEXT":" ставить вместо","TRANSCRIPT" : "sʌbstɪtjuːt"},
-{"ENGTEXT": "assemble","RUSTEXT":" собирать","TRANSCRIPT" : "əˈsembəl"},
-{"ENGTEXT": "disassemble","RUSTEXT":"  разбирать","TRANSCRIPT" : "ˌdɪsəˈsembəl"},
-{"ENGTEXT": "use","RUSTEXT":"  использовать","TRANSCRIPT" : "ˈjuːs"},
-{"ENGTEXT": "apply","RUSTEXT":"  применять","TRANSCRIPT" : "ə'plaɪ"},
-{"ENGTEXT": "act","RUSTEXT":"  действовать","TRANSCRIPT" : "ækt"},
-{"ENGTEXT": "function","RUSTEXT":" функционировать","TRANSCRIPT" : "fʌŋkʃ(ə)n"}
-                    ]
+                  {
+                    "ENGTEXT": "prepare",
+                    "RUSTEXT": " готовить",
+                    "TRANSCRIPT": "prɪˈper"
+                  },
+                  {
+                    "ENGTEXT": "repair",
+                    "RUSTEXT": " ремонтировать",
+                    "TRANSCRIPT": "rɪˈper"
+                  },
+                  {
+                    "ENGTEXT": "fit",
+                    "RUSTEXT": " настраивать",
+                    "TRANSCRIPT": "ˈfɪt"
+                  },
+                  {
+                    "ENGTEXT": "adjust",
+                    "RUSTEXT": " настраивать",
+                    "TRANSCRIPT": "ə'ʤʌst"
+                  },
+                  {
+                    "ENGTEXT": "test",
+                    "RUSTEXT": " испытывать",
+                    "TRANSCRIPT": "ˈtest"
+                  },
+                  {
+                    "ENGTEXT": "verify",
+                    "RUSTEXT": "перепроверять",
+                    "TRANSCRIPT": "ˈverəˌfaɪ"
+                  },
+                  {
+                    "ENGTEXT": "control",
+                    "RUSTEXT": "проверять",
+                    "TRANSCRIPT": "kən'trəul"
+                  },
+                  {
+                    "ENGTEXT": "replace",
+                    "RUSTEXT": "заменять",
+                    "TRANSCRIPT": "rɪˈpleɪs"
+                  },
+                  {
+                    "ENGTEXT": "substitute",
+                    "RUSTEXT": " ставить вместо",
+                    "TRANSCRIPT": "sʌbstɪtjuːt"
+                  },
+                  {
+                    "ENGTEXT": "assemble",
+                    "RUSTEXT": " собирать",
+                    "TRANSCRIPT": "əˈsembəl"
+                  },
+                  {
+                    "ENGTEXT": "disassemble",
+                    "RUSTEXT": "  разбирать",
+                    "TRANSCRIPT": "ˌdɪsəˈsembəl"
+                  },
+                  {
+                    "ENGTEXT": "use",
+                    "RUSTEXT": "  использовать",
+                    "TRANSCRIPT": "ˈjuːs"
+                  },
+                  {
+                    "ENGTEXT": "apply",
+                    "RUSTEXT": "  применять",
+                    "TRANSCRIPT": "ə'plaɪ"
+                  },
+                  {
+                    "ENGTEXT": "act",
+                    "RUSTEXT": "  действовать",
+                    "TRANSCRIPT": "ækt"
+                  },
+                  {
+                    "ENGTEXT": "function",
+                    "RUSTEXT": " функционировать",
+                    "TRANSCRIPT": "fʌŋkʃ(ə)n"
+                  }
+                ]
               },
               {
                 "title": "Брать и другие операции рукой",
                 "items": [
-                   {"ENGTEXT": "take","RUSTEXT":" брать","TRANSCRIPT" : "ˈteɪk"},
-{"ENGTEXT": "seize","RUSTEXT":" хватать","TRANSCRIPT" : "ˈsiːz"},
-{"ENGTEXT": "catch","RUSTEXT":" хватать","TRANSCRIPT" : "kæʧ"},
-{"ENGTEXT": "keep","RUSTEXT":" держать","TRANSCRIPT" : "ˈkiːp"},
-{"ENGTEXT": "hold","RUSTEXT":" держать","TRANSCRIPT" : "həuld"},
-{"ENGTEXT": "touch","RUSTEXT":" касаться","TRANSCRIPT" : "ˈtətʃ"},
-{"ENGTEXT": "pick up","RUSTEXT":" поднять (с пола)","TRANSCRIPT" : "pɪk ʌp"},
-{"ENGTEXT": "pull","RUSTEXT":" тянуть","TRANSCRIPT" : "pul"},
-{"ENGTEXT": "push","RUSTEXT":" толкать","TRANSCRIPT" : "puʃ"},
-{"ENGTEXT": "drop","RUSTEXT":" ронять","TRANSCRIPT" : "ˈdrɑp"},
-{"ENGTEXT": "let fall","RUSTEXT":" ронять","TRANSCRIPT" : "let fɔːl"},
-{"ENGTEXT": "throw","RUSTEXT":" бросать","TRANSCRIPT" : "θrəu"},
-{"ENGTEXT": "cast","RUSTEXT":" бросать","TRANSCRIPT" : "kɑːst"},
-{"ENGTEXT": "scatter","RUSTEXT":" разбрасывать","TRANSCRIPT" : "skætə"}
-                    ]
+                  {
+                    "ENGTEXT": "take",
+                    "RUSTEXT": " брать",
+                    "TRANSCRIPT": "ˈteɪk"
+                  },
+                  {
+                    "ENGTEXT": "seize",
+                    "RUSTEXT": " хватать",
+                    "TRANSCRIPT": "ˈsiːz"
+                  },
+                  {
+                    "ENGTEXT": "catch",
+                    "RUSTEXT": " хватать",
+                    "TRANSCRIPT": "kæʧ"
+                  },
+                  {
+                    "ENGTEXT": "keep",
+                    "RUSTEXT": " держать",
+                    "TRANSCRIPT": "ˈkiːp"
+                  },
+                  {
+                    "ENGTEXT": "hold",
+                    "RUSTEXT": " держать",
+                    "TRANSCRIPT": "həuld"
+                  },
+                  {
+                    "ENGTEXT": "touch",
+                    "RUSTEXT": " касаться",
+                    "TRANSCRIPT": "ˈtətʃ"
+                  },
+                  {
+                    "ENGTEXT": "pick up",
+                    "RUSTEXT": " поднять (с пола)",
+                    "TRANSCRIPT": "pɪk ʌp"
+                  },
+                  {
+                    "ENGTEXT": "pull",
+                    "RUSTEXT": " тянуть",
+                    "TRANSCRIPT": "pul"
+                  },
+                  {
+                    "ENGTEXT": "push",
+                    "RUSTEXT": " толкать",
+                    "TRANSCRIPT": "puʃ"
+                  },
+                  {
+                    "ENGTEXT": "drop",
+                    "RUSTEXT": " ронять",
+                    "TRANSCRIPT": "ˈdrɑp"
+                  },
+                  {
+                    "ENGTEXT": "let fall",
+                    "RUSTEXT": " ронять",
+                    "TRANSCRIPT": "let fɔːl"
+                  },
+                  {
+                    "ENGTEXT": "throw",
+                    "RUSTEXT": " бросать",
+                    "TRANSCRIPT": "θrəu"
+                  },
+                  {
+                    "ENGTEXT": "cast",
+                    "RUSTEXT": " бросать",
+                    "TRANSCRIPT": "kɑːst"
+                  },
+                  {
+                    "ENGTEXT": "scatter",
+                    "RUSTEXT": " разбрасывать",
+                    "TRANSCRIPT": "skætə"
+                  }
+                ]
               },
               {
                 "title": "Соединять",
                 "items": [
-                   {"ENGTEXT": "connect","RUSTEXT":" соединять","TRANSCRIPT" : "kəˈnekt"},
-{"ENGTEXT": "fix","RUSTEXT":" закреплять","TRANSCRIPT" : "ˈfɪks"},
-{"ENGTEXT": "attach","RUSTEXT":" присоединять","TRANSCRIPT" : "ə'tæʧ"},
-{"ENGTEXT": "bind","RUSTEXT":" привязывать","TRANSCRIPT" : "ˈbaɪnd"},
-{"ENGTEXT": "tie","RUSTEXT":" завязывать","TRANSCRIPT" : "ˈtaɪ"},
-{"ENGTEXT": "screw","RUSTEXT":" прикручивать (гайкой)","TRANSCRIPT" : "ˈskruː"},
-{"ENGTEXT": "stick","RUSTEXT":" приклеить","TRANSCRIPT" : "ˈstɪk"},
-{"ENGTEXT": "weld","RUSTEXT":" приварить","TRANSCRIPT" : "ˈweld"},
-{"ENGTEXT": "nail","RUSTEXT":" прибить гвоздем","TRANSCRIPT" : "ˈneɪl"},
-{"ENGTEXT": "undo","RUSTEXT":" отсоединить / развязать","TRANSCRIPT" : "ʌn'duː"},
-{"ENGTEXT": "unfasten","RUSTEXT":" отвязать","TRANSCRIPT" : "unfasten"}
-                    ]
+                  {
+                    "ENGTEXT": "connect",
+                    "RUSTEXT": " соединять",
+                    "TRANSCRIPT": "kəˈnekt"
+                  },
+                  {
+                    "ENGTEXT": "fix",
+                    "RUSTEXT": " закреплять",
+                    "TRANSCRIPT": "ˈfɪks"
+                  },
+                  {
+                    "ENGTEXT": "attach",
+                    "RUSTEXT": " присоединять",
+                    "TRANSCRIPT": "ə'tæʧ"
+                  },
+                  {
+                    "ENGTEXT": "bind",
+                    "RUSTEXT": " привязывать",
+                    "TRANSCRIPT": "ˈbaɪnd"
+                  },
+                  {
+                    "ENGTEXT": "tie",
+                    "RUSTEXT": " завязывать",
+                    "TRANSCRIPT": "ˈtaɪ"
+                  },
+                  {
+                    "ENGTEXT": "screw",
+                    "RUSTEXT": " прикручивать (гайкой)",
+                    "TRANSCRIPT": "ˈskruː"
+                  },
+                  {
+                    "ENGTEXT": "stick",
+                    "RUSTEXT": " приклеить",
+                    "TRANSCRIPT": "ˈstɪk"
+                  },
+                  {
+                    "ENGTEXT": "weld",
+                    "RUSTEXT": " приварить",
+                    "TRANSCRIPT": "ˈweld"
+                  },
+                  {
+                    "ENGTEXT": "nail",
+                    "RUSTEXT": " прибить гвоздем",
+                    "TRANSCRIPT": "ˈneɪl"
+                  },
+                  {
+                    "ENGTEXT": "undo",
+                    "RUSTEXT": " отсоединить / развязать",
+                    "TRANSCRIPT": "ʌn'duː"
+                  },
+                  {
+                    "ENGTEXT": "unfasten",
+                    "RUSTEXT": " отвязать",
+                    "TRANSCRIPT": "unfasten"
+                  }
+                ]
               },
               {
                 "title": "Закрывать / открывать",
                 "items": [
-                    {"ENGTEXT": "close","RUSTEXT":" закрывать","TRANSCRIPT" : "kləuz"},
-{"ENGTEXT": "shut","RUSTEXT":" закрывать","TRANSCRIPT" : "ʃʌt"},
-{"ENGTEXT": "cover","RUSTEXT":" накрывать","TRANSCRIPT" : "kʌvə"},
-{"ENGTEXT": "open","RUSTEXT":" открывать","TRANSCRIPT" : "əup(ə)n"},
-{"ENGTEXT": "lock","RUSTEXT":" запирать","TRANSCRIPT" : "ˈlɑk"},
-{"ENGTEXT": "envelop","RUSTEXT":" завернуть","TRANSCRIPT" : "ɪnˈveləp"},
-{"ENGTEXT": "wrap","RUSTEXT":" завернуть","TRANSCRIPT" : "ræp"},
-{"ENGTEXT": "hide","RUSTEXT":" прятать","TRANSCRIPT" : "ˈhaɪd"},
-{"ENGTEXT": "put away","RUSTEXT":" убрать","TRANSCRIPT" : "put ə'weɪ"},
-{"ENGTEXT": "search","RUSTEXT":" искать","TRANSCRIPT" : "ˈsərtʃ"},
-{"ENGTEXT": "find","RUSTEXT":" находить","TRANSCRIPT" : "ˈfaɪnd"}
-                    ]
+                  {
+                    "ENGTEXT": "close",
+                    "RUSTEXT": " закрывать",
+                    "TRANSCRIPT": "kləuz"
+                  },
+                  {
+                    "ENGTEXT": "shut",
+                    "RUSTEXT": " закрывать",
+                    "TRANSCRIPT": "ʃʌt"
+                  },
+                  {
+                    "ENGTEXT": "cover",
+                    "RUSTEXT": " накрывать",
+                    "TRANSCRIPT": "kʌvə"
+                  },
+                  {
+                    "ENGTEXT": "open",
+                    "RUSTEXT": " открывать",
+                    "TRANSCRIPT": "əup(ə)n"
+                  },
+                  {
+                    "ENGTEXT": "lock",
+                    "RUSTEXT": " запирать",
+                    "TRANSCRIPT": "ˈlɑk"
+                  },
+                  {
+                    "ENGTEXT": "envelop",
+                    "RUSTEXT": " завернуть",
+                    "TRANSCRIPT": "ɪnˈveləp"
+                  },
+                  {
+                    "ENGTEXT": "wrap",
+                    "RUSTEXT": " завернуть",
+                    "TRANSCRIPT": "ræp"
+                  },
+                  {
+                    "ENGTEXT": "hide",
+                    "RUSTEXT": " прятать",
+                    "TRANSCRIPT": "ˈhaɪd"
+                  },
+                  {
+                    "ENGTEXT": "put away",
+                    "RUSTEXT": " убрать",
+                    "TRANSCRIPT": "put ə'weɪ"
+                  },
+                  {
+                    "ENGTEXT": "search",
+                    "RUSTEXT": " искать",
+                    "TRANSCRIPT": "ˈsərtʃ"
+                  },
+                  {
+                    "ENGTEXT": "find",
+                    "RUSTEXT": " находить",
+                    "TRANSCRIPT": "ˈfaɪnd"
+                  }
+                ]
               },
               {
                 "title": "Разрушать",
                 "items": [
-                    {"ENGTEXT": "break","RUSTEXT":" ломать","TRANSCRIPT" : "ˈbreɪk"},
-{"ENGTEXT": "destroy","RUSTEXT":" разрушать","TRANSCRIPT" : "dɪ'strɔɪ"},
-{"ENGTEXT": "demolish","RUSTEXT":" разрушать","TRANSCRIPT" : "dɪˈmɑlɪʃ"},
-{"ENGTEXT": "tear","RUSTEXT":" рвать","TRANSCRIPT" : "    ˈtɪr"},
-{"ENGTEXT": "cut","RUSTEXT":" резать","TRANSCRIPT" : "kʌt"},
-{"ENGTEXT": "saw","RUSTEXT":" пилить","TRANSCRIPT" : "sɔː"},
-{"ENGTEXT": "split","RUSTEXT":" раскалывать","TRANSCRIPT" : "ˈsplɪt"},
-{"ENGTEXT": "scrape","RUSTEXT":" скрести","TRANSCRIPT" : "ˈskreɪp"},
-{"ENGTEXT": "scratch","RUSTEXT":" царапать","TRANSCRIPT" : "skræʧ"},
-{"ENGTEXT": "rub","RUSTEXT":" тереть","TRANSCRIPT" : "ˈrəb"},
-{"ENGTEXT": "grind","RUSTEXT":" молоть / шлифовать","TRANSCRIPT" : "ˈgraɪnd"}
-                    ]
+                  {
+                    "ENGTEXT": "break",
+                    "RUSTEXT": " ломать",
+                    "TRANSCRIPT": "ˈbreɪk"
+                  },
+                  {
+                    "ENGTEXT": "destroy",
+                    "RUSTEXT": " разрушать",
+                    "TRANSCRIPT": "dɪ'strɔɪ"
+                  },
+                  {
+                    "ENGTEXT": "demolish",
+                    "RUSTEXT": " разрушать",
+                    "TRANSCRIPT": "dɪˈmɑlɪʃ"
+                  },
+                  {
+                    "ENGTEXT": "tear",
+                    "RUSTEXT": " рвать",
+                    "TRANSCRIPT": "    ˈtɪr"
+                  },
+                  {
+                    "ENGTEXT": "cut",
+                    "RUSTEXT": " резать",
+                    "TRANSCRIPT": "kʌt"
+                  },
+                  {
+                    "ENGTEXT": "saw",
+                    "RUSTEXT": " пилить",
+                    "TRANSCRIPT": "sɔː"
+                  },
+                  {
+                    "ENGTEXT": "split",
+                    "RUSTEXT": " раскалывать",
+                    "TRANSCRIPT": "ˈsplɪt"
+                  },
+                  {
+                    "ENGTEXT": "scrape",
+                    "RUSTEXT": " скрести",
+                    "TRANSCRIPT": "ˈskreɪp"
+                  },
+                  {
+                    "ENGTEXT": "scratch",
+                    "RUSTEXT": " царапать",
+                    "TRANSCRIPT": "skræʧ"
+                  },
+                  {
+                    "ENGTEXT": "rub",
+                    "RUSTEXT": " тереть",
+                    "TRANSCRIPT": "ˈrəb"
+                  },
+                  {
+                    "ENGTEXT": "grind",
+                    "RUSTEXT": " молоть / шлифовать",
+                    "TRANSCRIPT": "ˈgraɪnd"
+                  }
+                ]
               },
               {
                 "title": "Операции с водой",
                 "items": [
-                    {"ENGTEXT": "pour","RUSTEXT":" лить","TRANSCRIPT" : "pɔː"},
-{"ENGTEXT": "spill","RUSTEXT":" проливать / просыпать","TRANSCRIPT" : "ˈspɪl"},
-{"ENGTEXT": "water","RUSTEXT":" поливать","TRANSCRIPT" : "wɔːtə"},
-{"ENGTEXT": "moisten","RUSTEXT":" смачивать","TRANSCRIPT" : "mɔɪs(ə)n"},
-{"ENGTEXT": "wash","RUSTEXT":" мыть","TRANSCRIPT" : "ˈwɔʃ"},
-{"ENGTEXT": "wring","RUSTEXT":" выкручивать","TRANSCRIPT" : "ˈrɪŋ"},
-{"ENGTEXT": "dry","RUSTEXT":" сушить","TRANSCRIPT" : "ˈdraɪ"},
-{"ENGTEXT": "dissolve","RUSTEXT":" растворять","TRANSCRIPT" : "dɪ'zɔlv"},
-{"ENGTEXT": "dilute","RUSTEXT":" разбавлять","TRANSCRIPT" : "daɪˈluːt"},
-{"ENGTEXT": "mix","RUSTEXT":" смешивать","TRANSCRIPT" : "ˈmɪks"},
-{"ENGTEXT": "fitter","RUSTEXT":" фильтровать","TRANSCRIPT" : "fitter"}
-                    ]
+                  {
+                    "ENGTEXT": "pour",
+                    "RUSTEXT": " лить",
+                    "TRANSCRIPT": "pɔː"
+                  },
+                  {
+                    "ENGTEXT": "spill",
+                    "RUSTEXT": " проливать / просыпать",
+                    "TRANSCRIPT": "ˈspɪl"
+                  },
+                  {
+                    "ENGTEXT": "water",
+                    "RUSTEXT": " поливать",
+                    "TRANSCRIPT": "wɔːtə"
+                  },
+                  {
+                    "ENGTEXT": "moisten",
+                    "RUSTEXT": " смачивать",
+                    "TRANSCRIPT": "mɔɪs(ə)n"
+                  },
+                  {
+                    "ENGTEXT": "wash",
+                    "RUSTEXT": " мыть",
+                    "TRANSCRIPT": "ˈwɔʃ"
+                  },
+                  {
+                    "ENGTEXT": "wring",
+                    "RUSTEXT": " выкручивать",
+                    "TRANSCRIPT": "ˈrɪŋ"
+                  },
+                  {
+                    "ENGTEXT": "dry",
+                    "RUSTEXT": " сушить",
+                    "TRANSCRIPT": "ˈdraɪ"
+                  },
+                  {
+                    "ENGTEXT": "dissolve",
+                    "RUSTEXT": " растворять",
+                    "TRANSCRIPT": "dɪ'zɔlv"
+                  },
+                  {
+                    "ENGTEXT": "dilute",
+                    "RUSTEXT": " разбавлять",
+                    "TRANSCRIPT": "daɪˈluːt"
+                  },
+                  {
+                    "ENGTEXT": "mix",
+                    "RUSTEXT": " смешивать",
+                    "TRANSCRIPT": "ˈmɪks"
+                  },
+                  {
+                    "ENGTEXT": "fitter",
+                    "RUSTEXT": " фильтровать",
+                    "TRANSCRIPT": "fitter"
+                  }
+                ]
               }
             ]
           },
@@ -8659,125 +10415,488 @@
             "items": [
               {
                 "title": "Говорить",
-                "items": [
-                    {"ENGTEXT": "speak","RUSTEXT":" говорить","TRANSCRIPT" : "spiːk"},
-{"ENGTEXT": "talk","RUSTEXT":" говорить","TRANSCRIPT" : "tɔːk"},
-{"ENGTEXT": "say","RUSTEXT":" сказать","TRANSCRIPT" : "ˈseɪ"},
-{"ENGTEXT": "tell","RUSTEXT":" сказать","TRANSCRIPT" : "ˈtel"},
-{"ENGTEXT": "whisper","RUSTEXT":" шептать","TRANSCRIPT" : "ˈwɪspər"},
-{"ENGTEXT": "cry","RUSTEXT":" кричать","TRANSCRIPT" : "    ˈkraɪ"},
-{"ENGTEXT": "be silent","RUSTEXT":" молчать","TRANSCRIPT" : "ˈbiː 'saɪlənt"},
-{"ENGTEXT": "pronounce","RUSTEXT":" произносить","TRANSCRIPT" : "prə'naun(t)s"},
-{"ENGTEXT": "stammer","RUSTEXT":" заикаться","TRANSCRIPT" : "stæmə"}
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "speak",
+                    "RUSTEXT": " говорить",
+                    "TRANSCRIPT": "spiːk"
+                  },
+                  {
+                    "ENGTEXT": "talk",
+                    "RUSTEXT": " говорить",
+                    "TRANSCRIPT": "tɔːk"
+                  },
+                  {
+                    "ENGTEXT": "say",
+                    "RUSTEXT": " сказать",
+                    "TRANSCRIPT": "ˈseɪ"
+                  },
+                  {
+                    "ENGTEXT": "tell",
+                    "RUSTEXT": " сказать",
+                    "TRANSCRIPT": "ˈtel"
+                  },
+                  {
+                    "ENGTEXT": "whisper",
+                    "RUSTEXT": " шептать",
+                    "TRANSCRIPT": "ˈwɪspər"
+                  },
+                  {
+                    "ENGTEXT": "cry",
+                    "RUSTEXT": " кричать",
+                    "TRANSCRIPT": "    ˈkraɪ"
+                  },
+                  {
+                    "ENGTEXT": "be silent",
+                    "RUSTEXT": " молчать",
+                    "TRANSCRIPT": "ˈbiː 'saɪlənt"
+                  },
+                  {
+                    "ENGTEXT": "pronounce",
+                    "RUSTEXT": " произносить",
+                    "TRANSCRIPT": "prə'naun(t)s"
+                  },
+                  {
+                    "ENGTEXT": "stammer",
+                    "RUSTEXT": " заикаться",
+                    "TRANSCRIPT": "stæmə"
+                  }
+                ]
               },
               {
                 "title": "Обращаться",
-                "items": [
-                    {"ENGTEXT": "address","RUSTEXT":" обращаться","TRANSCRIPT" : "əˈdres"},
-{"ENGTEXT": "have a conversation","RUSTEXT":" беседовать","TRANSCRIPT" : "hævˌkɔnvə'seɪʃ(ə)n"},
-{"ENGTEXT": "inform","RUSTEXT":" информировать","TRANSCRIPT" : "ɪnˈfɔrm"},
-{"ENGTEXT": "state","RUSTEXT":" заявлять","TRANSCRIPT" : "ˈsteɪt"},
-{"ENGTEXT": "with hold","RUSTEXT":" умалчивать","TRANSCRIPT" : "wɪð həuld"},
-{"ENGTEXT": "announce","RUSTEXT":" объявлять","TRANSCRIPT" : "ə'naun(t)s"},
-{"ENGTEXT": "ask","RUSTEXT":" спрашивать / просить","TRANSCRIPT" : "ɑːsk"},
-{"ENGTEXT": "request","RUSTEXT":" просить / запрашивать","TRANSCRIPT" : "rɪˈkwest"},
-{"ENGTEXT": "beg","RUSTEXT":" просить","TRANSCRIPT" : "ˈbeg"},
-{"ENGTEXT": "demand","RUSTEXT":" требовать","TRANSCRIPT" : "dɪˈmænd"},
-{"ENGTEXT": "order","RUSTEXT":" приказывать","TRANSCRIPT" : "ɔːdə"}
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "address",
+                    "RUSTEXT": " обращаться",
+                    "TRANSCRIPT": "əˈdres"
+                  },
+                  {
+                    "ENGTEXT": "have a conversation",
+                    "RUSTEXT": " беседовать",
+                    "TRANSCRIPT": "hævˌkɔnvə'seɪʃ(ə)n"
+                  },
+                  {
+                    "ENGTEXT": "inform",
+                    "RUSTEXT": " информировать",
+                    "TRANSCRIPT": "ɪnˈfɔrm"
+                  },
+                  {
+                    "ENGTEXT": "state",
+                    "RUSTEXT": " заявлять",
+                    "TRANSCRIPT": "ˈsteɪt"
+                  },
+                  {
+                    "ENGTEXT": "with hold",
+                    "RUSTEXT": " умалчивать",
+                    "TRANSCRIPT": "wɪð həuld"
+                  },
+                  {
+                    "ENGTEXT": "announce",
+                    "RUSTEXT": " объявлять",
+                    "TRANSCRIPT": "ə'naun(t)s"
+                  },
+                  {
+                    "ENGTEXT": "ask",
+                    "RUSTEXT": " спрашивать / просить",
+                    "TRANSCRIPT": "ɑːsk"
+                  },
+                  {
+                    "ENGTEXT": "request",
+                    "RUSTEXT": " просить / запрашивать",
+                    "TRANSCRIPT": "rɪˈkwest"
+                  },
+                  {
+                    "ENGTEXT": "beg",
+                    "RUSTEXT": " просить",
+                    "TRANSCRIPT": "ˈbeg"
+                  },
+                  {
+                    "ENGTEXT": "demand",
+                    "RUSTEXT": " требовать",
+                    "TRANSCRIPT": "dɪˈmænd"
+                  },
+                  {
+                    "ENGTEXT": "order",
+                    "RUSTEXT": " приказывать",
+                    "TRANSCRIPT": "ɔːdə"
+                  }
+                ]
               },
               {
                 "title": "Отвечать",
-                "items": [
-                    
-                    {"ENGTEXT": "answer","RUSTEXT":" отвечать","TRANSCRIPT" : "ˈænsər"},
-{"ENGTEXT": "reply","RUSTEXT":" отвечать","TRANSCRIPT" : "rɪˈplaɪ"},
-{"ENGTEXT": "explain","RUSTEXT":" объяснять","TRANSCRIPT" : "ɪkˈspleɪn"},
-{"ENGTEXT": "advise","RUSTEXT":" советовать","TRANSCRIPT" : "əd'vaɪz"},
-{"ENGTEXT": "show","RUSTEXT":" показывать","TRANSCRIPT" : "ʃəu"},
-{"ENGTEXT": "warn","RUSTEXT":" предупреждать","TRANSCRIPT" : "wɔːn"},
-{"ENGTEXT": "help","RUSTEXT":" помогать","TRANSCRIPT" : "ˈhelp"},
-{"ENGTEXT": "assist","RUSTEXT":" помогать","TRANSCRIPT" : "əˈsɪst"},
-{"ENGTEXT": "suggest","RUSTEXT":" предлагать (идею)","TRANSCRIPT" : "sə'ʤest"},
-{"ENGTEXT": "propose","RUSTEXT":" предлагать","TRANSCRIPT" : "prə'pəuz"},
-{"ENGTEXT": "contribute (вклад)","RUSTEXT":" способствовать / вносить","TRANSCRIPT" : "kən'trɪbjuːt (вклад)"},
-{"ENGTEXT": "prohibit","RUSTEXT":" запрещать","TRANSCRIPT" : "prə'hɪbɪt"},
-{"ENGTEXT": "forbid","RUSTEXT":" запрещать","TRANSCRIPT" : "fə'bɪd"},
-{"ENGTEXT": "order","RUSTEXT":" приказывать","TRANSCRIPT" : "ɔːdə"}
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "answer",
+                    "RUSTEXT": " отвечать",
+                    "TRANSCRIPT": "ˈænsər"
+                  },
+                  {
+                    "ENGTEXT": "reply",
+                    "RUSTEXT": " отвечать",
+                    "TRANSCRIPT": "rɪˈplaɪ"
+                  },
+                  {
+                    "ENGTEXT": "explain",
+                    "RUSTEXT": " объяснять",
+                    "TRANSCRIPT": "ɪkˈspleɪn"
+                  },
+                  {
+                    "ENGTEXT": "advise",
+                    "RUSTEXT": " советовать",
+                    "TRANSCRIPT": "əd'vaɪz"
+                  },
+                  {
+                    "ENGTEXT": "show",
+                    "RUSTEXT": " показывать",
+                    "TRANSCRIPT": "ʃəu"
+                  },
+                  {
+                    "ENGTEXT": "warn",
+                    "RUSTEXT": " предупреждать",
+                    "TRANSCRIPT": "wɔːn"
+                  },
+                  {
+                    "ENGTEXT": "help",
+                    "RUSTEXT": " помогать",
+                    "TRANSCRIPT": "ˈhelp"
+                  },
+                  {
+                    "ENGTEXT": "assist",
+                    "RUSTEXT": " помогать",
+                    "TRANSCRIPT": "əˈsɪst"
+                  },
+                  {
+                    "ENGTEXT": "suggest",
+                    "RUSTEXT": " предлагать (идею)",
+                    "TRANSCRIPT": "sə'ʤest"
+                  },
+                  {
+                    "ENGTEXT": "propose",
+                    "RUSTEXT": " предлагать",
+                    "TRANSCRIPT": "prə'pəuz"
+                  },
+                  {
+                    "ENGTEXT": "contribute (вклад)",
+                    "RUSTEXT": " способствовать / вносить",
+                    "TRANSCRIPT": "kən'trɪbjuːt (вклад)"
+                  },
+                  {
+                    "ENGTEXT": "prohibit",
+                    "RUSTEXT": " запрещать",
+                    "TRANSCRIPT": "prə'hɪbɪt"
+                  },
+                  {
+                    "ENGTEXT": "forbid",
+                    "RUSTEXT": " запрещать",
+                    "TRANSCRIPT": "fə'bɪd"
+                  },
+                  {
+                    "ENGTEXT": "order",
+                    "RUSTEXT": " приказывать",
+                    "TRANSCRIPT": "ɔːdə"
+                  }
+                ]
               },
               {
                 "title": "Брать/давать",
-                "items": [
-                    {"ENGTEXT": "take","RUSTEXT":" брать","TRANSCRIPT" : "ˈteɪk"},
-{"ENGTEXT": "accept","RUSTEXT":" принимать","TRANSCRIPT" : "ɪkˈsept"},
-{"ENGTEXT": "get","RUSTEXT":" получать","TRANSCRIPT" : "ˈget"},
-{"ENGTEXT": "receive","RUSTEXT":" получать","TRANSCRIPT" : "rɪˈsiːv"},
-{"ENGTEXT": "borrow","RUSTEXT":" брать взаймы","TRANSCRIPT" : "bɔrəu"},
-{"ENGTEXT": "hire","RUSTEXT":" нанимать","TRANSCRIPT" : "ˈhaɪr"},
-{"ENGTEXT": "lease","RUSTEXT":" брать или давать напрокат","TRANSCRIPT" : "ˈliːs"},
-{"ENGTEXT": "rent","RUSTEXT":" давать и брать в аренду","TRANSCRIPT" : "ˈrent"},
-{"ENGTEXT": "present (with)","RUSTEXT":" дарить","TRANSCRIPT" : "ˈprezənt wɪð"},
-{"ENGTEXT": "bribe","RUSTEXT":" подкупать","TRANSCRIPT" : "ˈbraɪb"},
-{"ENGTEXT": "buy","RUSTEXT":" покупать","TRANSCRIPT" : "ˈbaɪ"},
-{"ENGTEXT": "give","RUSTEXT":" давать","TRANSCRIPT" : "    ˈgɪv"},
-{"ENGTEXT": "offer","RUSTEXT":" предлагать","TRANSCRIPT" : "ɔfə"},
-{"ENGTEXT": "lend","RUSTEXT":" давать на время","TRANSCRIPT" : "ˈlend"},
-{"ENGTEXT": "sell","RUSTEXT":" продавать","TRANSCRIPT" : "ˈsel"},
-{"ENGTEXT": "reject","RUSTEXT":" отвергать","TRANSCRIPT" : "rɪ'ʤekt"},
-{"ENGTEXT": "provide","RUSTEXT":" снабжать","TRANSCRIPT" : "prə'vaɪd"},
-{"ENGTEXT": "supply","RUSTEXT":" снабжать","TRANSCRIPT" : "sə'plaɪ"}
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "take",
+                    "RUSTEXT": " брать",
+                    "TRANSCRIPT": "ˈteɪk"
+                  },
+                  {
+                    "ENGTEXT": "accept",
+                    "RUSTEXT": " принимать",
+                    "TRANSCRIPT": "ɪkˈsept"
+                  },
+                  {
+                    "ENGTEXT": "get",
+                    "RUSTEXT": " получать",
+                    "TRANSCRIPT": "ˈget"
+                  },
+                  {
+                    "ENGTEXT": "receive",
+                    "RUSTEXT": " получать",
+                    "TRANSCRIPT": "rɪˈsiːv"
+                  },
+                  {
+                    "ENGTEXT": "borrow",
+                    "RUSTEXT": " брать взаймы",
+                    "TRANSCRIPT": "bɔrəu"
+                  },
+                  {
+                    "ENGTEXT": "hire",
+                    "RUSTEXT": " нанимать",
+                    "TRANSCRIPT": "ˈhaɪr"
+                  },
+                  {
+                    "ENGTEXT": "lease",
+                    "RUSTEXT": " брать или давать напрокат",
+                    "TRANSCRIPT": "ˈliːs"
+                  },
+                  {
+                    "ENGTEXT": "rent",
+                    "RUSTEXT": " давать и брать в аренду",
+                    "TRANSCRIPT": "ˈrent"
+                  },
+                  {
+                    "ENGTEXT": "present (with)",
+                    "RUSTEXT": " дарить",
+                    "TRANSCRIPT": "ˈprezənt wɪð"
+                  },
+                  {
+                    "ENGTEXT": "bribe",
+                    "RUSTEXT": " подкупать",
+                    "TRANSCRIPT": "ˈbraɪb"
+                  },
+                  {
+                    "ENGTEXT": "buy",
+                    "RUSTEXT": " покупать",
+                    "TRANSCRIPT": "ˈbaɪ"
+                  },
+                  {
+                    "ENGTEXT": "give",
+                    "RUSTEXT": " давать",
+                    "TRANSCRIPT": "    ˈgɪv"
+                  },
+                  {
+                    "ENGTEXT": "offer",
+                    "RUSTEXT": " предлагать",
+                    "TRANSCRIPT": "ɔfə"
+                  },
+                  {
+                    "ENGTEXT": "lend",
+                    "RUSTEXT": " давать на время",
+                    "TRANSCRIPT": "ˈlend"
+                  },
+                  {
+                    "ENGTEXT": "sell",
+                    "RUSTEXT": " продавать",
+                    "TRANSCRIPT": "ˈsel"
+                  },
+                  {
+                    "ENGTEXT": "reject",
+                    "RUSTEXT": " отвергать",
+                    "TRANSCRIPT": "rɪ'ʤekt"
+                  },
+                  {
+                    "ENGTEXT": "provide",
+                    "RUSTEXT": " снабжать",
+                    "TRANSCRIPT": "prə'vaɪd"
+                  },
+                  {
+                    "ENGTEXT": "supply",
+                    "RUSTEXT": " снабжать",
+                    "TRANSCRIPT": "sə'plaɪ"
+                  }
+                ]
               },
               {
                 "title": "Визит и глаголы этикета",
-                "items": [
-                    {"ENGTEXT": "call","RUSTEXT":" звать","TRANSCRIPT" : "ˈkɔl"},
-{"ENGTEXT": "invite","RUSTEXT":" приглашать","TRANSCRIPT" : "ɪnˈvaɪt"},
-{"ENGTEXT": "visit","RUSTEXT":" посещать","TRANSCRIPT" : "vɪzɪt"},
-{"ENGTEXT": "greet","RUSTEXT":" приветствовать","TRANSCRIPT" : "ˈgriːt"},
-{"ENGTEXT": "congratulate","RUSTEXT":" поздравлять","TRANSCRIPT" : "kən'græʧuleɪt"},
-{"ENGTEXT": "wait","RUSTEXT":" ждать","TRANSCRIPT" : "ˈweɪt"},
-{"ENGTEXT": "welcome","RUSTEXT":" тепло встречать","TRANSCRIPT" : "welkəm"},
-{"ENGTEXT": "receive","RUSTEXT":" принимать (гостей)","TRANSCRIPT" : "rɪˈsiːv"},
-{"ENGTEXT": "take leave","RUSTEXT":" уходить (из гостей)","TRANSCRIPT" : "teɪk liːv"},
-{"ENGTEXT": "see home","RUSTEXT":" провожать домой","TRANSCRIPT" : "siː həum"},
-{"ENGTEXT": "shake hands","RUSTEXT":" пожать руку","TRANSCRIPT" : "ʃeɪk hænd"},
-{"ENGTEXT": "apologize","RUSTEXT":" извиняться","TRANSCRIPT" : "ə'pɔləʤaɪz"},
-{"ENGTEXT": "thank","RUSTEXT":" благодарить","TRANSCRIPT" : "θæŋk"},
-{"ENGTEXT": "forgive","RUSTEXT":" прощать","TRANSCRIPT" : "fə'gɪv"},
-{"ENGTEXT": "pardon","RUSTEXT":" прощать","TRANSCRIPT" : "    ˈpɑrdən"},
-{"ENGTEXT": "excuse","RUSTEXT":" извинять","TRANSCRIPT" : "ɪkˈskjuːz"},
-{"ENGTEXT": "introduce","RUSTEXT":" представлять","TRANSCRIPT" : "ˌɪntrəˈduːs"},
-{"ENGTEXT": "present (to)","RUSTEXT":" представлять","TRANSCRIPT" : "prez(ə)nt tuː"},
-{"ENGTEXT": "make acquaintance","RUSTEXT":" знакомиться","TRANSCRIPT" : "meɪk ə'kweɪnt(ə)n(t)s"},
-{"ENGTEXT": "be acquainted","RUSTEXT":" бытьзнакомым","TRANSCRIPT" : "ˈbiː ə'kweɪntɪd"},
-{"ENGTEXT": "say good bye","RUSTEXT":" прощаться","TRANSCRIPT" : "seɪ gud baɪ"}
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "call",
+                    "RUSTEXT": " звать",
+                    "TRANSCRIPT": "ˈkɔl"
+                  },
+                  {
+                    "ENGTEXT": "invite",
+                    "RUSTEXT": " приглашать",
+                    "TRANSCRIPT": "ɪnˈvaɪt"
+                  },
+                  {
+                    "ENGTEXT": "visit",
+                    "RUSTEXT": " посещать",
+                    "TRANSCRIPT": "vɪzɪt"
+                  },
+                  {
+                    "ENGTEXT": "greet",
+                    "RUSTEXT": " приветствовать",
+                    "TRANSCRIPT": "ˈgriːt"
+                  },
+                  {
+                    "ENGTEXT": "congratulate",
+                    "RUSTEXT": " поздравлять",
+                    "TRANSCRIPT": "kən'græʧuleɪt"
+                  },
+                  {
+                    "ENGTEXT": "wait",
+                    "RUSTEXT": " ждать",
+                    "TRANSCRIPT": "ˈweɪt"
+                  },
+                  {
+                    "ENGTEXT": "welcome",
+                    "RUSTEXT": " тепло встречать",
+                    "TRANSCRIPT": "welkəm"
+                  },
+                  {
+                    "ENGTEXT": "receive",
+                    "RUSTEXT": " принимать (гостей)",
+                    "TRANSCRIPT": "rɪˈsiːv"
+                  },
+                  {
+                    "ENGTEXT": "take leave",
+                    "RUSTEXT": " уходить (из гостей)",
+                    "TRANSCRIPT": "teɪk liːv"
+                  },
+                  {
+                    "ENGTEXT": "see home",
+                    "RUSTEXT": " провожать домой",
+                    "TRANSCRIPT": "siː həum"
+                  },
+                  {
+                    "ENGTEXT": "shake hands",
+                    "RUSTEXT": " пожать руку",
+                    "TRANSCRIPT": "ʃeɪk hænd"
+                  },
+                  {
+                    "ENGTEXT": "apologize",
+                    "RUSTEXT": " извиняться",
+                    "TRANSCRIPT": "ə'pɔləʤaɪz"
+                  },
+                  {
+                    "ENGTEXT": "thank",
+                    "RUSTEXT": " благодарить",
+                    "TRANSCRIPT": "θæŋk"
+                  },
+                  {
+                    "ENGTEXT": "forgive",
+                    "RUSTEXT": " прощать",
+                    "TRANSCRIPT": "fə'gɪv"
+                  },
+                  {
+                    "ENGTEXT": "pardon",
+                    "RUSTEXT": " прощать",
+                    "TRANSCRIPT": "    ˈpɑrdən"
+                  },
+                  {
+                    "ENGTEXT": "excuse",
+                    "RUSTEXT": " извинять",
+                    "TRANSCRIPT": "ɪkˈskjuːz"
+                  },
+                  {
+                    "ENGTEXT": "introduce",
+                    "RUSTEXT": " представлять",
+                    "TRANSCRIPT": "ˌɪntrəˈduːs"
+                  },
+                  {
+                    "ENGTEXT": "present (to)",
+                    "RUSTEXT": " представлять",
+                    "TRANSCRIPT": "prez(ə)nt tuː"
+                  },
+                  {
+                    "ENGTEXT": "make acquaintance",
+                    "RUSTEXT": " знакомиться",
+                    "TRANSCRIPT": "meɪk ə'kweɪnt(ə)n(t)s"
+                  },
+                  {
+                    "ENGTEXT": "be acquainted",
+                    "RUSTEXT": " бытьзнакомым",
+                    "TRANSCRIPT": "ˈbiː ə'kweɪntɪd"
+                  },
+                  {
+                    "ENGTEXT": "say good bye",
+                    "RUSTEXT": " прощаться",
+                    "TRANSCRIPT": "seɪ gud baɪ"
+                  }
+                ]
               },
               {
                 "title": "Нарушение этикета / наказание",
-                "items": [
-                    {"ENGTEXT": "disturb","RUSTEXT":" мешать/беспокоить","TRANSCRIPT" : "dɪˈstərb"},
-{"ENGTEXT": "trouble","RUSTEXT":" беспокоить","TRANSCRIPT" : "trʌbl"},
-{"ENGTEXT": "bother","RUSTEXT":" беспокоить","TRANSCRIPT" : "bɔðə"},
-{"ENGTEXT": "hurt","RUSTEXT":" обижать","TRANSCRIPT" : "hɜːt"},
-{"ENGTEXT": "offend","RUSTEXT":" оскорблять","TRANSCRIPT" : "ə'fend"},
-{"ENGTEXT": "steal","RUSTEXT":" воровать","TRANSCRIPT" : "ˈstiːl"},
-{"ENGTEXT": "cause losses","RUSTEXT":" причинятьущерб","TRANSCRIPT" : "kɔːz lɔs"},
-{"ENGTEXT": "slander","RUSTEXT":" клеветать","TRANSCRIPT" : "slɑːndə"},
-{"ENGTEXT": "lie","RUSTEXT":" лгать","TRANSCRIPT" : "ˈlaɪ"},
-{"ENGTEXT": "punish","RUSTEXT":" наказывать","TRANSCRIPT" : "ˈpənɪʃ"},
-{"ENGTEXT": "bring to trial","RUSTEXT":" подавать в суд","TRANSCRIPT" : "brɪŋtuː'traɪəl"},
-{"ENGTEXT": "judge","RUSTEXT":" судить","TRANSCRIPT" : "ʤʌʤ"},
-{"ENGTEXT": "investigate","RUSTEXT":" расследовать","TRANSCRIPT" : "ɪn'vestɪgeɪt"},
-{"ENGTEXT": "convict","RUSTEXT":" признать виновным","TRANSCRIPT" : "kɔnvɪkt"},
-{"ENGTEXT": "sentence","RUSTEXT":" выносить приговор","TRANSCRIPT" : "sentən(t)s"},
-{"ENGTEXT": "acquit","RUSTEXT":" оправдать","TRANSCRIPT" : "ə'kwɪt"},
-{"ENGTEXT": "give evidence","RUSTEXT":" давать показания","TRANSCRIPT" : "ˈgɪv 'evɪd(ə)n(t)s"},
-{"ENGTEXT": "confine","RUSTEXT":" сажать в тюрьму","TRANSCRIPT" : "kɔnfaɪn"}
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "disturb",
+                    "RUSTEXT": " мешать/беспокоить",
+                    "TRANSCRIPT": "dɪˈstərb"
+                  },
+                  {
+                    "ENGTEXT": "trouble",
+                    "RUSTEXT": " беспокоить",
+                    "TRANSCRIPT": "trʌbl"
+                  },
+                  {
+                    "ENGTEXT": "bother",
+                    "RUSTEXT": " беспокоить",
+                    "TRANSCRIPT": "bɔðə"
+                  },
+                  {
+                    "ENGTEXT": "hurt",
+                    "RUSTEXT": " обижать",
+                    "TRANSCRIPT": "hɜːt"
+                  },
+                  {
+                    "ENGTEXT": "offend",
+                    "RUSTEXT": " оскорблять",
+                    "TRANSCRIPT": "ə'fend"
+                  },
+                  {
+                    "ENGTEXT": "steal",
+                    "RUSTEXT": " воровать",
+                    "TRANSCRIPT": "ˈstiːl"
+                  },
+                  {
+                    "ENGTEXT": "cause losses",
+                    "RUSTEXT": " причинятьущерб",
+                    "TRANSCRIPT": "kɔːz lɔs"
+                  },
+                  {
+                    "ENGTEXT": "slander",
+                    "RUSTEXT": " клеветать",
+                    "TRANSCRIPT": "slɑːndə"
+                  },
+                  {
+                    "ENGTEXT": "lie",
+                    "RUSTEXT": " лгать",
+                    "TRANSCRIPT": "ˈlaɪ"
+                  },
+                  {
+                    "ENGTEXT": "punish",
+                    "RUSTEXT": " наказывать",
+                    "TRANSCRIPT": "ˈpənɪʃ"
+                  },
+                  {
+                    "ENGTEXT": "bring to trial",
+                    "RUSTEXT": " подавать в суд",
+                    "TRANSCRIPT": "brɪŋtuː'traɪəl"
+                  },
+                  {
+                    "ENGTEXT": "judge",
+                    "RUSTEXT": " судить",
+                    "TRANSCRIPT": "ʤʌʤ"
+                  },
+                  {
+                    "ENGTEXT": "investigate",
+                    "RUSTEXT": " расследовать",
+                    "TRANSCRIPT": "ɪn'vestɪgeɪt"
+                  },
+                  {
+                    "ENGTEXT": "convict",
+                    "RUSTEXT": " признать виновным",
+                    "TRANSCRIPT": "kɔnvɪkt"
+                  },
+                  {
+                    "ENGTEXT": "sentence",
+                    "RUSTEXT": " выносить приговор",
+                    "TRANSCRIPT": "sentən(t)s"
+                  },
+                  {
+                    "ENGTEXT": "acquit",
+                    "RUSTEXT": " оправдать",
+                    "TRANSCRIPT": "ə'kwɪt"
+                  },
+                  {
+                    "ENGTEXT": "give evidence",
+                    "RUSTEXT": " давать показания",
+                    "TRANSCRIPT": "ˈgɪv 'evɪd(ə)n(t)s"
+                  },
+                  {
+                    "ENGTEXT": "confine",
+                    "RUSTEXT": " сажать в тюрьму",
+                    "TRANSCRIPT": "kɔnfaɪn"
+                  }
+                ]
               }
             ]
           },
@@ -8786,72 +10905,263 @@
             "items": [
               {
                 "title": "Нападать",
-                "items": [
-                    {"ENGTEXT": "threaten","RUSTEXT":" угрожать","TRANSCRIPT" : "θret(ə)n"},
-{"ENGTEXT": "menace","RUSTEXT":" угрожать","TRANSCRIPT" : "ˈmenəs"},
-{"ENGTEXT": "arm oneself","RUSTEXT":" вооружаться","TRANSCRIPT" : "ɑːm wʌn'self"},
-{"ENGTEXT": "disarm","RUSTEXT":" разоружать","TRANSCRIPT" : "dɪsˈɑrm"},
-{"ENGTEXT": "wage war","RUSTEXT":" вести войну","TRANSCRIPT" : "weɪʤ"},
-{"ENGTEXT": "unleash war","RUSTEXT":" развязать войну","TRANSCRIPT" : "unleash wɔː"},
-{"ENGTEXT": "be at war","RUSTEXT":" быть в состоянии войны","TRANSCRIPT" : "ˈbiː ət wɔː"},
-{"ENGTEXT": "attack","RUSTEXT":" нападать","TRANSCRIPT" : "ə'tæk"},
-{"ENGTEXT": "invade","RUSTEXT":" вторгаться","TRANSCRIPT" : "ɪnˈveɪd"},
-{"ENGTEXT": "conquer","RUSTEXT":" завоевывать","TRANSCRIPT" : "ˈkɑŋkər"},
-{"ENGTEXT": "occupy","RUSTEXT":" оккупировать","TRANSCRIPT" : "ɔkjəpaɪ"},
-{"ENGTEXT": "subjugate","RUSTEXT":" покорять","TRANSCRIPT" : "sʌbʤəgeɪt"},
-{"ENGTEXT": "subdue","RUSTEXT":" покорять","TRANSCRIPT" : "səb'd(j)uː"},
-{"ENGTEXT": "submit","RUSTEXT":" покориться","TRANSCRIPT" : "səbˈmɪt"},
-{"ENGTEXT": "yield","RUSTEXT":" поддаться","TRANSCRIPT" : "ˈjiːld"}
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "threaten",
+                    "RUSTEXT": " угрожать",
+                    "TRANSCRIPT": "θret(ə)n"
+                  },
+                  {
+                    "ENGTEXT": "menace",
+                    "RUSTEXT": " угрожать",
+                    "TRANSCRIPT": "ˈmenəs"
+                  },
+                  {
+                    "ENGTEXT": "arm oneself",
+                    "RUSTEXT": " вооружаться",
+                    "TRANSCRIPT": "ɑːm wʌn'self"
+                  },
+                  {
+                    "ENGTEXT": "disarm",
+                    "RUSTEXT": " разоружать",
+                    "TRANSCRIPT": "dɪsˈɑrm"
+                  },
+                  {
+                    "ENGTEXT": "wage war",
+                    "RUSTEXT": " вести войну",
+                    "TRANSCRIPT": "weɪʤ"
+                  },
+                  {
+                    "ENGTEXT": "unleash war",
+                    "RUSTEXT": " развязать войну",
+                    "TRANSCRIPT": "unleash wɔː"
+                  },
+                  {
+                    "ENGTEXT": "be at war",
+                    "RUSTEXT": " быть в состоянии войны",
+                    "TRANSCRIPT": "ˈbiː ət wɔː"
+                  },
+                  {
+                    "ENGTEXT": "attack",
+                    "RUSTEXT": " нападать",
+                    "TRANSCRIPT": "ə'tæk"
+                  },
+                  {
+                    "ENGTEXT": "invade",
+                    "RUSTEXT": " вторгаться",
+                    "TRANSCRIPT": "ɪnˈveɪd"
+                  },
+                  {
+                    "ENGTEXT": "conquer",
+                    "RUSTEXT": " завоевывать",
+                    "TRANSCRIPT": "ˈkɑŋkər"
+                  },
+                  {
+                    "ENGTEXT": "occupy",
+                    "RUSTEXT": " оккупировать",
+                    "TRANSCRIPT": "ɔkjəpaɪ"
+                  },
+                  {
+                    "ENGTEXT": "subjugate",
+                    "RUSTEXT": " покорять",
+                    "TRANSCRIPT": "sʌbʤəgeɪt"
+                  },
+                  {
+                    "ENGTEXT": "subdue",
+                    "RUSTEXT": " покорять",
+                    "TRANSCRIPT": "səb'd(j)uː"
+                  },
+                  {
+                    "ENGTEXT": "submit",
+                    "RUSTEXT": " покориться",
+                    "TRANSCRIPT": "səbˈmɪt"
+                  },
+                  {
+                    "ENGTEXT": "yield",
+                    "RUSTEXT": " поддаться",
+                    "TRANSCRIPT": "ˈjiːld"
+                  }
+                ]
               },
               {
                 "title": "Защищаться",
-                "items": [
-                    {"ENGTEXT": "struggle","RUSTEXT":"бороться","TRANSCRIPT" : "strʌgl"},
-{"ENGTEXT": "fight","RUSTEXT":"сражаться","TRANSCRIPT" : "ˈfaɪt"},
-{"ENGTEXT": "resist","RUSTEXT":"сопротивляться","TRANSCRIPT" : "rɪˈzɪst"},
-{"ENGTEXT": "defend","RUSTEXT":"защищать","TRANSCRIPT" : "dɪˈfend"},
-{"ENGTEXT": "save","RUSTEXT":"спасать","TRANSCRIPT" : "ˈseɪv"},
-{"ENGTEXT": "rescue","RUSTEXT":"спасать","TRANSCRIPT" : "ˈreskjuː"},
-{"ENGTEXT": "liberate","RUSTEXT":"освобождать","TRANSCRIPT" : "lɪb(ə)reɪt"},
-{"ENGTEXT": "expel","RUSTEXT":"изгнать","TRANSCRIPT" : "ɪkˈspel"},
-{"ENGTEXT": "drive out","RUSTEXT":"изгнать","TRANSCRIPT" : "ˈdraɪv  aut"}
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "struggle",
+                    "RUSTEXT": "бороться",
+                    "TRANSCRIPT": "strʌgl"
+                  },
+                  {
+                    "ENGTEXT": "fight",
+                    "RUSTEXT": "сражаться",
+                    "TRANSCRIPT": "ˈfaɪt"
+                  },
+                  {
+                    "ENGTEXT": "resist",
+                    "RUSTEXT": "сопротивляться",
+                    "TRANSCRIPT": "rɪˈzɪst"
+                  },
+                  {
+                    "ENGTEXT": "defend",
+                    "RUSTEXT": "защищать",
+                    "TRANSCRIPT": "dɪˈfend"
+                  },
+                  {
+                    "ENGTEXT": "save",
+                    "RUSTEXT": "спасать",
+                    "TRANSCRIPT": "ˈseɪv"
+                  },
+                  {
+                    "ENGTEXT": "rescue",
+                    "RUSTEXT": "спасать",
+                    "TRANSCRIPT": "ˈreskjuː"
+                  },
+                  {
+                    "ENGTEXT": "liberate",
+                    "RUSTEXT": "освобождать",
+                    "TRANSCRIPT": "lɪb(ə)reɪt"
+                  },
+                  {
+                    "ENGTEXT": "expel",
+                    "RUSTEXT": "изгнать",
+                    "TRANSCRIPT": "ɪkˈspel"
+                  },
+                  {
+                    "ENGTEXT": "drive out",
+                    "RUSTEXT": "изгнать",
+                    "TRANSCRIPT": "ˈdraɪv  aut"
+                  }
+                ]
               },
               {
                 "title": "Операции на войне",
-                "items": [
-                    {"ENGTEXT": "defeat","RUSTEXT":"нанести поражение","TRANSCRIPT" : "dɪˈfiːt"},
-{"ENGTEXT": "win","RUSTEXT":"победить / выиграть","TRANSCRIPT" : "ˈwɪn"},
-{"ENGTEXT": "overcome","RUSTEXT":"преодолеть","TRANSCRIPT" : "ˌəuvə'kʌm"},
-{"ENGTEXT": "be superior","RUSTEXT":"превосходить","TRANSCRIPT" : "ˈbiː s(j)uː'pɪərɪə"},
-{"ENGTEXT": "be inferior","RUSTEXT":"уступать","TRANSCRIPT" : "ˈbiː ɪn'fɪərɪə"},
-{"ENGTEXT": "lose","RUSTEXT":"проигрывать","TRANSCRIPT" : "ˈluːz"},
-{"ENGTEXT": "be defeated","RUSTEXT":"терпеть поражение","TRANSCRIPT" : "ˈbiː dɪ'fiːt"},
-{"ENGTEXT": "suffer defeat","RUSTEXT":"терпеть поражение","TRANSCRIPT" : "sʌfə dɪ'fiːt"},
-{"ENGTEXT": "surrender","RUSTEXT":"сдаться","TRANSCRIPT" : "sə'rendə"},
-{"ENGTEXT": "be encircled","RUSTEXT":"  быть окруженным","TRANSCRIPT" : "ˈbiː ɪnˈsərkəld"},
-{"ENGTEXT": "capture","RUSTEXT":"   захватить","TRANSCRIPT" : "kæpʧə"},
-{"ENGTEXT": "be a prisoner of war","RUSTEXT":"быть военнопленным","TRANSCRIPT" : "ˈbiː 'prɪz(ə)nə ɔv wɔː"}
-                    
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "defeat",
+                    "RUSTEXT": "нанести поражение",
+                    "TRANSCRIPT": "dɪˈfiːt"
+                  },
+                  {
+                    "ENGTEXT": "win",
+                    "RUSTEXT": "победить / выиграть",
+                    "TRANSCRIPT": "ˈwɪn"
+                  },
+                  {
+                    "ENGTEXT": "overcome",
+                    "RUSTEXT": "преодолеть",
+                    "TRANSCRIPT": "ˌəuvə'kʌm"
+                  },
+                  {
+                    "ENGTEXT": "be superior",
+                    "RUSTEXT": "превосходить",
+                    "TRANSCRIPT": "ˈbiː s(j)uː'pɪərɪə"
+                  },
+                  {
+                    "ENGTEXT": "be inferior",
+                    "RUSTEXT": "уступать",
+                    "TRANSCRIPT": "ˈbiː ɪn'fɪərɪə"
+                  },
+                  {
+                    "ENGTEXT": "lose",
+                    "RUSTEXT": "проигрывать",
+                    "TRANSCRIPT": "ˈluːz"
+                  },
+                  {
+                    "ENGTEXT": "be defeated",
+                    "RUSTEXT": "терпеть поражение",
+                    "TRANSCRIPT": "ˈbiː dɪ'fiːt"
+                  },
+                  {
+                    "ENGTEXT": "suffer defeat",
+                    "RUSTEXT": "терпеть поражение",
+                    "TRANSCRIPT": "sʌfə dɪ'fiːt"
+                  },
+                  {
+                    "ENGTEXT": "surrender",
+                    "RUSTEXT": "сдаться",
+                    "TRANSCRIPT": "sə'rendə"
+                  },
+                  {
+                    "ENGTEXT": "be encircled",
+                    "RUSTEXT": "  быть окруженным",
+                    "TRANSCRIPT": "ˈbiː ɪnˈsərkəld"
+                  },
+                  {
+                    "ENGTEXT": "capture",
+                    "RUSTEXT": "   захватить",
+                    "TRANSCRIPT": "kæpʧə"
+                  },
+                  {
+                    "ENGTEXT": "be a prisoner of war",
+                    "RUSTEXT": "быть военнопленным",
+                    "TRANSCRIPT": "ˈbiː 'prɪz(ə)nə ɔv wɔː"
+                  }
+                ]
               },
               {
                 "title": "Результат борьбы",
-                "items": [
-                    {"ENGTEXT": "shoot","RUSTEXT":"стрелять","TRANSCRIPT" : "ˈʃuːt"},
-{"ENGTEXT": "aim","RUSTEXT":"целиться","TRANSCRIPT" : "ˈeɪm"},
-{"ENGTEXT": "point","RUSTEXT":"направлять","TRANSCRIPT" : "ˈpɔɪnt"},
-{"ENGTEXT": "his","RUSTEXT":"попасть","TRANSCRIPT" : "hɪz"},
-{"ENGTEXT": "miss","RUSTEXT":"промахнуться","TRANSCRIPT" : "ˈmɪs"},
-{"ENGTEXT": "wound","RUSTEXT":"ранить","TRANSCRIPT" : "wuːnd"},
-{"ENGTEXT": "kill","RUSTEXT":"убить","TRANSCRIPT" : "ˈkɪl"},
-{"ENGTEXT": "burst","RUSTEXT":"взрываться","TRANSCRIPT" : "bɜːst"},
-{"ENGTEXT": "explode","RUSTEXT":"взрываться","TRANSCRIPT" : "ɪk'spləud"},
-{"ENGTEXT": "blow up","RUSTEXT":"  взрывать","TRANSCRIPT" : "bləu ʌp"},
-{"ENGTEXT": "fire (shells)","RUSTEXT":"обстреливать","TRANSCRIPT" : "ˈfɪr ʃel"},
-{"ENGTEXT": "bomb","RUSTEXT":"бомбить","TRANSCRIPT" : "bɔm"}
-                    ]
+                "words": [
+                  {
+                    "ENGTEXT": "shoot",
+                    "RUSTEXT": "стрелять",
+                    "TRANSCRIPT": "ˈʃuːt"
+                  },
+                  {
+                    "ENGTEXT": "aim",
+                    "RUSTEXT": "целиться",
+                    "TRANSCRIPT": "ˈeɪm"
+                  },
+                  {
+                    "ENGTEXT": "point",
+                    "RUSTEXT": "направлять",
+                    "TRANSCRIPT": "ˈpɔɪnt"
+                  },
+                  {
+                    "ENGTEXT": "his",
+                    "RUSTEXT": "попасть",
+                    "TRANSCRIPT": "hɪz"
+                  },
+                  {
+                    "ENGTEXT": "miss",
+                    "RUSTEXT": "промахнуться",
+                    "TRANSCRIPT": "ˈmɪs"
+                  },
+                  {
+                    "ENGTEXT": "wound",
+                    "RUSTEXT": "ранить",
+                    "TRANSCRIPT": "wuːnd"
+                  },
+                  {
+                    "ENGTEXT": "kill",
+                    "RUSTEXT": "убить",
+                    "TRANSCRIPT": "ˈkɪl"
+                  },
+                  {
+                    "ENGTEXT": "burst",
+                    "RUSTEXT": "взрываться",
+                    "TRANSCRIPT": "bɜːst"
+                  },
+                  {
+                    "ENGTEXT": "explode",
+                    "RUSTEXT": "взрываться",
+                    "TRANSCRIPT": "ɪk'spləud"
+                  },
+                  {
+                    "ENGTEXT": "blow up",
+                    "RUSTEXT": "  взрывать",
+                    "TRANSCRIPT": "bləu ʌp"
+                  },
+                  {
+                    "ENGTEXT": "fire (shells)",
+                    "RUSTEXT": "обстреливать",
+                    "TRANSCRIPT": "ˈfɪr ʃel"
+                  },
+                  {
+                    "ENGTEXT": "bomb",
+                    "RUSTEXT": "бомбить",
+                    "TRANSCRIPT": "bɔm"
+                  }
+                ]
               }
             ]
           }
