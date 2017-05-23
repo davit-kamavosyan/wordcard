@@ -6,22 +6,16 @@
         "title": "ru_en",
         "ruen": [
           {
-            "Title": "существительные английского",
-            "URI": "http://wordcards.000webhostapp.com/ruseng/obroznie.txt",
-            "KEY": "sushestvitelnie eng",
-	"COUNT":"1000"	
-          },
-          {
-            "Title": "глаголы английского",
-            "URI": "http://wordcards.000webhostapp.com/ruseng/glagoli.txt",
-            "KEY": "glagoli eng",
-"COUNT":"1000"
+            "Title": "3500 Слов",
+            "URI": "https://davit-kamavosyan.github.io/wordcard/ruseng/3500-words.txt",
+            "KEY": "3500 Words",
+	"COUNT":"3500 Слов"	
           },
           {
             "Title": "Уровень Starter",
-            "URI": "http://wordcards.000webhostapp.com/ruseng/starter.txt",
+            "URI": "https://davit-kamavosyan.github.io/wordcard/ruseng/starter.txt",
             "KEY": "english starter",
-"COUNT":"1000"
+"COUNT":"1150 Слов"
           }
         ]
       }
