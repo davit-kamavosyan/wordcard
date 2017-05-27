@@ -16,7 +16,7 @@
             "URI": "https://davit-kamavosyan.github.io/wordcard/ruseng/starter.txt",
             "KEY": "english starter",
 "COUNT":"1150 Слов"
-          }
+          },
 {
             "Title": "Уровень Elementary",
             "URI": "https://davit-kamavosyan.github.io/wordcard/ruseng/elementary.txt",
