@@ -1,0 +1,23 @@
+{
+  "libs": {
+    "title": "libs",
+    "items": [
+      {
+        "id": "",
+        "name": "",
+        "ownerName": "",
+        "imageUrl": "",
+        "adsName": "",
+        "packageName":""
+      },
+      {
+        "id": "",
+        "name": "",
+        "ownerName": "",
+        "imageUrl": "",
+        "adsName": "",
+        "packageName":""
+      }
+    ]
+  }
+}
