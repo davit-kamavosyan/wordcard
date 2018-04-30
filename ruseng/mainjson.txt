@@ -4,7 +4,7 @@
     "items": [
       {
         "id": "",
-        "name": "",
+        "name": "name 1",
         "ownerName": "",
         "imageUrl": "",
         "adsName": "",
@@ -12,7 +12,7 @@
       },
       {
         "id": "",
-        "name": "",
+        "name": "name 2",
         "ownerName": "",
         "imageUrl": "",
         "adsName": "",
