@@ -4,6 +4,7 @@
     "items": [
       {
         "id": 1,
+	"dayInterval":2
         "name": "Doberman 2048",
         "ownerName": "Davit",
         "imageUrl": "",
@@ -11,9 +12,11 @@
 	"playstoreId":"com.doberman.game2048",
         "packageName":"com.doberman.game2048",
 	"classname":"com.doberman.game2048.SplashActivity"
+
       },
       {
-        "id": 2,
+	"id": 2,
+	"dayInterval":2
         "name": "Doberman 2048",
         "ownerName": "Davit",
         "imageUrl": "",
