@@ -4,7 +4,7 @@
     "items": [
       {
         "id": 1,
-	"dayInterval":2
+	"dayInterval":2,
         "name": "Doberman 2048",
         "ownerName": "Davit",
         "imageUrl": "",
@@ -16,7 +16,7 @@
       },
       {
 	"id": 2,
-	"dayInterval":2
+	"dayInterval":2,
         "name": "Doberman 2048",
         "ownerName": "Davit",
         "imageUrl": "",
