@@ -17,13 +17,13 @@
       {
 	"id": 2,
 	"dayInterval":2,
-        "name": "Doberman 2048",
-        "ownerName": "Davit",
-        "imageUrl": "https://lh3.googleusercontent.com/JCqDjyKzu5tysZxlnx1eBUWcJCeQue-JNXwCI_63VQf3xZTDyFtS78S_et2_D2g_g4QW=s180",
+        "name": "Fox 2048",
+        "ownerName": "Saqo",
+        "imageUrl": "https://lh3.googleusercontent.com/kC0hsy1ysf1cGCpu0rZ-_G5T3aB-m4plrrfXaHdiq3TFNbhgTB7UnVu9WIcwAKLqZKFM=s180",
         "adsName": "Admob",
-	"playstoreId":"com.doberman.game2048",
-        "packageName":"com.doberman.game2048",
-	"classname":"com.doberman.game2048.SplashActivity"
+	"playstoreId":"com.foxgame.game2048",
+        "packageName":"com.foxgame.game2048",
+	"classname":"com.fox.game2048.SplashActivity"
       }
     ]
   }
