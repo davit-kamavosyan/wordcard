@@ -4,7 +4,7 @@
     "items": [
       {
         "id": 1,
-	"dayInterval":1,
+	"dayInterval":2,
         "name": "Doberman 2048",
         "ownerName": "Davit",
         "imageUrl": "https://lh3.googleusercontent.com/JCqDjyKzu5tysZxlnx1eBUWcJCeQue-JNXwCI_63VQf3xZTDyFtS78S_et2_D2g_g4QW=s180",
@@ -15,7 +15,7 @@
       },
       {
 	"id": 2,
-	"dayInterval":1,
+	"dayInterval":2,
         "name": "Fox 2048",
         "ownerName": "Saqo",
         "imageUrl": "https://lh3.googleusercontent.com/kC0hsy1ysf1cGCpu0rZ-_G5T3aB-m4plrrfXaHdiq3TFNbhgTB7UnVu9WIcwAKLqZKFM=s180",
@@ -26,8 +26,8 @@
       },
       {
 	"id": 3,
-	"dayInterval":1,
-        "name": "TIIDA Club Armeina 2048",
+	"dayInterval":2,
+        "name": "TIIDA 2048",
         "ownerName": "Arsen",
         "imageUrl": "https://lh3.googleusercontent.com/8rHZbwUzoA95kzFOAmhZjyZFEGTm3ZHMtGzgwBX59Bx_OP_M67ZGLjX10lYgCiro1VE=s180",
         "adsName": "Admob",
@@ -48,7 +48,7 @@
       },
       {
 	"id": 5,
-	"dayInterval":1,
+	"dayInterval":2,
         "name": "Zeus 2048",
         "ownerName": "Arsen",
         "imageUrl": "https://lh3.googleusercontent.com/JZ6dKbbD85eCLlTtbkZw3NsqXbqNYDNhYkKrt-nWrOeJd1donotyzMTUvgt_WY_N12Dy=s180",
@@ -59,7 +59,7 @@
       },
 	{
 	"id": 6,
-	"dayInterval":1,
+	"dayInterval":2,
         "name": "AMG 2048",
         "ownerName": "Arsen",
         "imageUrl": "https://lh3.googleusercontent.com/clMf_WQ2JmgFD8wBLTRA8s5WYhafKG8vImRbWVUfzHKFdS0ylHFN3tjFnHfZaDnMzXY=s180",
@@ -70,7 +70,7 @@
       },
 	{
 	"id": 7,
-	"dayInterval":1,
+	"dayInterval":2,
         "name": "Winter 2048",
         "ownerName": "Davit",
         "imageUrl": "https://lh3.googleusercontent.com/PR-w_2utilHAESnEJXbOXCTBXodF05MbHfs1WwbGzk62d_iYyiUcnCBkNXwWMtMD_Q=s180",
@@ -81,7 +81,7 @@
       },
 	{
 	"id": 8,
-	"dayInterval":1,
+	"dayInterval":2,
         "name": "Cats 2048",
         "ownerName": "Davit",
         "imageUrl": "https://lh3.googleusercontent.com/sZisOaWVPcuh39fa4kklIo3EV2s9npmzywURUUqTLHzJncGB2cCZAWUJcGUr1moZyg=s180",
@@ -92,7 +92,7 @@
       },
 	{
 	"id": 9,
-	"dayInterval":1,
+	"dayInterval":2,
         "name": "BMW 5er 2048",
         "ownerName": "Davit",
         "imageUrl": "https://lh3.googleusercontent.com/tmODjujtmf1BiclO1yvPeBuQHDYcVDV4osaxYFoYM1wbL-ZnMX-GHwpxK7Qy7-rqK7XO=s180",
@@ -103,7 +103,7 @@
       },
 	{
 	"id": 10,
-	"dayInterval":1,
+	"dayInterval":2,
         "name": "help me buy bmw",
         "ownerName": "Davit",
         "imageUrl": "https://lh3.googleusercontent.com/z4uTo5BVstZ57AStHs6CIkpTaSmKdVzT57DI7-K1hwi0JtX9gUVwRNqTMYkGd_FtF08=s180",
@@ -112,13 +112,6 @@
         "packageName":"com.davit.helpmebuybmw",
 	"classname":"com.example.davit.helpmetobuybmw.MainActivity"
       }
-
-
-
-
-
-
-
 
     ]
   }
