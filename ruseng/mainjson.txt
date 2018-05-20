@@ -67,7 +67,57 @@
 	"playstoreId":"amg.game2048",
         "packageName":"amg.game2048",
 	"classname":"com.tpcstld.twozerogame.SplashActivity"
+      },
+	{
+	"id": 7,
+	"dayInterval":5,
+        "name": "Winter 2048",
+        "ownerName": "Davit",
+        "imageUrl": "https://lh3.googleusercontent.com/PR-w_2utilHAESnEJXbOXCTBXodF05MbHfs1WwbGzk62d_iYyiUcnCBkNXwWMtMD_Q=s180",
+        "adsName": "Unity",
+	"playstoreId":"winter.game2048",
+        "packageName":"winter.game2048",
+	"classname":"com.tpcstld.twozerogame.SplashActivity"
+      },
+	{
+	"id": 8,
+	"dayInterval":5,
+        "name": "Cats 2048",
+        "ownerName": "Davit",
+        "imageUrl": "https://lh3.googleusercontent.com/sZisOaWVPcuh39fa4kklIo3EV2s9npmzywURUUqTLHzJncGB2cCZAWUJcGUr1moZyg=s180",
+        "adsName": "Unity",
+	"playstoreId":"cats2048.game",
+        "packageName":"cats2048.game",
+	"classname":"com.tpcstld.twozerogame.SplashActivity"
+      },
+	{
+	"id": 9,
+	"dayInterval":3,
+        "name": "BMW 5er 2048",
+        "ownerName": "Davit",
+        "imageUrl": "https://lh3.googleusercontent.com/tmODjujtmf1BiclO1yvPeBuQHDYcVDV4osaxYFoYM1wbL-ZnMX-GHwpxK7Qy7-rqK7XO=s180",
+        "adsName": "Admob",
+	"playstoreId":"bmw.five.series.game",
+        "packageName":"bmw.five.series.game",
+	"classname":"com.tpcstld.twozerogame.MainActivity"
+      },
+	{
+	"id": 10,
+	"dayInterval":4,
+        "name": "help me buy bmw",
+        "ownerName": "Davit",
+        "imageUrl": "https://lh3.googleusercontent.com/z4uTo5BVstZ57AStHs6CIkpTaSmKdVzT57DI7-K1hwi0JtX9gUVwRNqTMYkGd_FtF08=s180",
+        "adsName": "Admob",
+	"playstoreId":"com.davit.helpmebuybmw",
+        "packageName":"com.davit.helpmebuybmw",
+	"classname":"com.example.davit.helpmetobuybmw.MainActivity"
       }
+
+
+
+
+
+
 
 
     ]
