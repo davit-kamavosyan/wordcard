@@ -12,7 +12,6 @@
 	"playstoreId":"com.doberman.game2048",
         "packageName":"com.doberman.game2048",
 	"classname":"com.doberman.game2048.SplashActivity"
-
       },
       {
 	"id": 2,
@@ -46,7 +45,31 @@
 	"playstoreId":"com.dogs.game2048",
         "packageName":"com.dogs.game2048",
 	"classname":"com.tpcstld.twozerogame.SplashActivity"
+      },
+      {
+	"id": 5,
+	"dayInterval":2,
+        "name": "Zeus 2048",
+        "ownerName": "Arsen",
+        "imageUrl": "https://lh3.googleusercontent.com/JZ6dKbbD85eCLlTtbkZw3NsqXbqNYDNhYkKrt-nWrOeJd1donotyzMTUvgt_WY_N12Dy=s180",
+        "adsName": "Admob",
+	"playstoreId":"zeus.dog.training.school.game2048",
+        "packageName":"zeus.dog.training.school.game2048",
+	"classname":"com.tpcstld.twozerogame.SplashActivity"
+      },
+	{
+	"id": 6,
+	"dayInterval":2,
+        "name": "AMG 2048",
+        "ownerName": "Arsen",
+        "imageUrl": "https://lh3.googleusercontent.com/clMf_WQ2JmgFD8wBLTRA8s5WYhafKG8vImRbWVUfzHKFdS0ylHFN3tjFnHfZaDnMzXY=s180",
+        "adsName": "Admob",
+	"playstoreId":"amg.game2048",
+        "packageName":"amg.game2048",
+	"classname":"com.tpcstld.twozerogame.SplashActivity"
       }
+
+
     ]
   }
 }
