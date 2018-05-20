@@ -24,6 +24,28 @@
 	"playstoreId":"com.foxgame.game2048",
         "packageName":"com.foxgame.game2048",
 	"classname":"com.fox.game2048.SplashActivity"
+      },
+      {
+	"id": 3,
+	"dayInterval":2,
+        "name": "TIIDA Club Armeina 2048",
+        "ownerName": "Arsen",
+        "imageUrl": "https://lh3.googleusercontent.com/8rHZbwUzoA95kzFOAmhZjyZFEGTm3ZHMtGzgwBX59Bx_OP_M67ZGLjX10lYgCiro1VE=s180",
+        "adsName": "Admob",
+	"playstoreId":"tiida.club.armenia.game2048",
+        "packageName":"tiida.club.armenia.game2048",
+	"classname":"com.tpcstld.twozerogame.SplashActivity"
+      },
+      {
+	"id": 4,
+	"dayInterval":2,
+        "name": "Dogs 2048",
+        "ownerName": "Arsen",
+        "imageUrl": "https://lh3.googleusercontent.com/qKHTCt0CdiQGy1dcx4Od2D8h4-tMfplJS5yHpnjuljZiti5M2SkYZle1_omh1qzqenCu=s180",
+        "adsName": "Admob",
+	"playstoreId":"com.dogs.game2048",
+        "packageName":"com.dogs.game2048",
+	"classname":"com.tpcstld.twozerogame.SplashActivity"
       }
     ]
   }
