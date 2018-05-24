@@ -111,6 +111,17 @@
 	"playstoreId":"com.davit.helpmebuybmw",
         "packageName":"com.davit.helpmebuybmw",
 	"classname":"com.example.davit.helpmetobuybmw.MainActivity"
+      },
+	{
+	"id": 11,
+	"dayInterval":3,
+        "name": "Picasso 2048",
+        "ownerName": "Saqo",
+        "imageUrl": "https://lh3.googleusercontent.com/uGUnTGBhAu3oAHVW7fCapvVpzUhMDIzDnhG6wzp3MbjfRWjBr6qVcODMatlhO6Rtz_fl=s180",
+        "adsName": "Admob",
+	"playstoreId":"com.picasso.artists.game2048",
+        "packageName":"com.picasso.artists.game2048",
+	"classname":"com.tpcstld.twozerogame.SplashActivity"
       }
 
     ]
