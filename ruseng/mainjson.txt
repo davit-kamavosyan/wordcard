@@ -135,6 +135,19 @@
         "packageName":"com.bekon.artists.game2048",
 	"classname":"com.tpcstld.twozerogame.SplashActivity"
       }
+,
+	{
+	"id": 13,
+	"dayInterval":10,
+        "name": "Modigliani 2048",
+        "ownerName": "Davit",
+        "imageUrl": "https://lh3.googleusercontent.com/ClCo6s7h3jaVY_HlfDlFqD6FfVV9s-Vha8nG7z7kKhW_LjHJHLkQqWjjqHCoZLiODfQg=s180",
+        "adsName": "Unity",
+	"playstoreId":"com.modigliani.artists.game2048",
+        "packageName":"com.modigliani.artists.game2048",
+	"classname":"com.tpcstld.twozerogame.SplashActivity"
+      }
+
 
     ]
   }
