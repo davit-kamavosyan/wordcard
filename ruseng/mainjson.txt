@@ -114,13 +114,25 @@
       },
 	{
 	"id": 11,
-	"dayInterval":3,
+	"dayInterval":5,
         "name": "Picasso 2048",
         "ownerName": "Saqo",
         "imageUrl": "https://lh3.googleusercontent.com/uGUnTGBhAu3oAHVW7fCapvVpzUhMDIzDnhG6wzp3MbjfRWjBr6qVcODMatlhO6Rtz_fl=s180",
         "adsName": "Admob",
 	"playstoreId":"com.picasso.artists.game2048",
         "packageName":"com.picasso.artists.game2048",
+	"classname":"com.tpcstld.twozerogame.SplashActivity"
+      }
+,
+	{
+	"id": 12,
+	"dayInterval":8,
+        "name": "Bekon 2048",
+        "ownerName": "Davit",
+        "imageUrl": "https://lh3.googleusercontent.com/8SVBaJMm0kOY1pt9ILxCmQpG6h2HoNDW64pf7mm_4s0ZBe1waQBqMrBf0Gyy0PMiMeg=s180",
+        "adsName": "Unity",
+	"playstoreId":"com.bekon.artists.game2048",
+        "packageName":"com.bekon.artists.game2048",
 	"classname":"com.tpcstld.twozerogame.SplashActivity"
       }
 
