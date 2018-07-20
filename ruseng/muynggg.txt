@@ -1,0 +1,154 @@
+{
+  "libs": {
+    "title": "libs",
+    "items": [
+      {
+        "id": 1,
+	"dayInterval":2,
+        "name": "Doberman 2048",
+        "ownerName": "Davit",
+        "imageUrl": "https://lh3.googleusercontent.com/JCqDjyKzu5tysZxlnx1eBUWcJCeQue-JNXwCI_63VQf3xZTDyFtS78S_et2_D2g_g4QW=s180",
+        "adsName": "Admob",
+	"playstoreId":"com.doberman.game2048",
+        "packageName":"com.doberman.game2048",
+	"classname":"com.doberman.game2048.SplashActivity"
+      },
+      {
+	"id": 2,
+	"dayInterval":2,
+        "name": "Fox 2048",
+        "ownerName": "Saqo",
+        "imageUrl": "https://lh3.googleusercontent.com/kC0hsy1ysf1cGCpu0rZ-_G5T3aB-m4plrrfXaHdiq3TFNbhgTB7UnVu9WIcwAKLqZKFM=s180",
+        "adsName": "Admob",
+	"playstoreId":"com.foxgame.game2048",
+        "packageName":"com.foxgame.game2048",
+	"classname":"com.fox.game2048.SplashActivity"
+      },
+      {
+	"id": 3,
+	"dayInterval":2,
+        "name": "TIIDA 2048",
+        "ownerName": "Arsen",
+        "imageUrl": "https://lh3.googleusercontent.com/8rHZbwUzoA95kzFOAmhZjyZFEGTm3ZHMtGzgwBX59Bx_OP_M67ZGLjX10lYgCiro1VE=s180",
+        "adsName": "Admob",
+	"playstoreId":"tiida.club.armenia.game2048",
+        "packageName":"tiida.club.armenia.game2048",
+	"classname":"com.tpcstld.twozerogame.SplashActivity"
+      },
+      {
+	"id": 4,
+	"dayInterval":1,
+        "name": "Dogs 2048",
+        "ownerName": "Arsen",
+        "imageUrl": "https://lh3.googleusercontent.com/qKHTCt0CdiQGy1dcx4Od2D8h4-tMfplJS5yHpnjuljZiti5M2SkYZle1_omh1qzqenCu=s180",
+        "adsName": "Admob",
+	"playstoreId":"com.dogs.game2048",
+        "packageName":"com.dogs.game2048",
+	"classname":"com.tpcstld.twozerogame.SplashActivity"
+      },
+      {
+	"id": 5,
+	"dayInterval":2,
+        "name": "Zeus 2048",
+        "ownerName": "Arsen",
+        "imageUrl": "https://lh3.googleusercontent.com/JZ6dKbbD85eCLlTtbkZw3NsqXbqNYDNhYkKrt-nWrOeJd1donotyzMTUvgt_WY_N12Dy=s180",
+        "adsName": "Admob",
+	"playstoreId":"zeus.dog.training.school.game2048",
+        "packageName":"zeus.dog.training.school.game2048",
+	"classname":"com.tpcstld.twozerogame.SplashActivity"
+      },
+	{
+	"id": 6,
+	"dayInterval":2,
+        "name": "AMG 2048",
+        "ownerName": "Arsen",
+        "imageUrl": "https://lh3.googleusercontent.com/clMf_WQ2JmgFD8wBLTRA8s5WYhafKG8vImRbWVUfzHKFdS0ylHFN3tjFnHfZaDnMzXY=s180",
+        "adsName": "Admob",
+	"playstoreId":"amg.game2048",
+        "packageName":"amg.game2048",
+	"classname":"com.tpcstld.twozerogame.SplashActivity"
+      },
+	{
+	"id": 7,
+	"dayInterval":2,
+        "name": "Winter 2048",
+        "ownerName": "Davit",
+        "imageUrl": "https://lh3.googleusercontent.com/PR-w_2utilHAESnEJXbOXCTBXodF05MbHfs1WwbGzk62d_iYyiUcnCBkNXwWMtMD_Q=s180",
+        "adsName": "Unity",
+	"playstoreId":"winter.game2048",
+        "packageName":"winter.game2048",
+	"classname":"com.tpcstld.twozerogame.SplashActivity"
+      },
+	{
+	"id": 8,
+	"dayInterval":2,
+        "name": "Cats 2048",
+        "ownerName": "Davit",
+        "imageUrl": "https://lh3.googleusercontent.com/sZisOaWVPcuh39fa4kklIo3EV2s9npmzywURUUqTLHzJncGB2cCZAWUJcGUr1moZyg=s180",
+        "adsName": "Unity",
+	"playstoreId":"cats2048.game",
+        "packageName":"cats2048.game",
+	"classname":"com.tpcstld.twozerogame.SplashActivity"
+      },
+	{
+	"id": 9,
+	"dayInterval":2,
+        "name": "BMW 5er 2048",
+        "ownerName": "Davit",
+        "imageUrl": "https://lh3.googleusercontent.com/tmODjujtmf1BiclO1yvPeBuQHDYcVDV4osaxYFoYM1wbL-ZnMX-GHwpxK7Qy7-rqK7XO=s180",
+        "adsName": "Admob",
+	"playstoreId":"bmw.five.series.game",
+        "packageName":"bmw.five.series.game",
+	"classname":"com.tpcstld.twozerogame.MainActivity"
+      },
+	{
+	"id": 10,
+	"dayInterval":2,
+        "name": "help me buy bmw",
+        "ownerName": "Davit",
+        "imageUrl": "https://lh3.googleusercontent.com/z4uTo5BVstZ57AStHs6CIkpTaSmKdVzT57DI7-K1hwi0JtX9gUVwRNqTMYkGd_FtF08=s180",
+        "adsName": "Admob",
+	"playstoreId":"com.davit.helpmebuybmw",
+        "packageName":"com.davit.helpmebuybmw",
+	"classname":"com.example.davit.helpmetobuybmw.MainActivity"
+      },
+	{
+	"id": 11,
+	"dayInterval":5,
+        "name": "Picasso 2048",
+        "ownerName": "Saqo",
+        "imageUrl": "https://lh3.googleusercontent.com/uGUnTGBhAu3oAHVW7fCapvVpzUhMDIzDnhG6wzp3MbjfRWjBr6qVcODMatlhO6Rtz_fl=s180",
+        "adsName": "Admob",
+	"playstoreId":"com.picasso.artists.game2048",
+        "packageName":"com.picasso.artists.game2048",
+	"classname":"com.tpcstld.twozerogame.SplashActivity"
+      }
+,
+	{
+	"id": 12,
+	"dayInterval":8,
+        "name": "Bekon 2048",
+        "ownerName": "Davit",
+        "imageUrl": "https://lh3.googleusercontent.com/8SVBaJMm0kOY1pt9ILxCmQpG6h2HoNDW64pf7mm_4s0ZBe1waQBqMrBf0Gyy0PMiMeg=s180",
+        "adsName": "Unity",
+	"playstoreId":"com.bekon.artists.game2048",
+        "packageName":"com.bekon.artists.game2048",
+	"classname":"com.tpcstld.twozerogame.SplashActivity"
+      }
+,
+	{
+	"id": 13,
+	"dayInterval":10,
+        "name": "Modigliani 2048",
+        "ownerName": "Davit",
+        "imageUrl": "https://lh3.googleusercontent.com/ClCo6s7h3jaVY_HlfDlFqD6FfVV9s-Vha8nG7z7kKhW_LjHJHLkQqWjjqHCoZLiODfQg=s180",
+        "adsName": "Unity",
+	"playstoreId":"com.modigliani.artists.game2048",
+        "packageName":"com.modigliani.artists.game2048",
+	"classname":"com.tpcstld.twozerogame.SplashActivity"
+      }
+
+
+    ]
+  }
+}
