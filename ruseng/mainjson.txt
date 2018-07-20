@@ -5,6 +5,7 @@
       {
         "id": 1,
 	"dayInterval":2,
+	"status":true,
         "name": "Doberman 2048",
         "ownerName": "Davit",
         "imageUrl": "https://lh3.googleusercontent.com/JCqDjyKzu5tysZxlnx1eBUWcJCeQue-JNXwCI_63VQf3xZTDyFtS78S_et2_D2g_g4QW=s180",
@@ -16,6 +17,7 @@
       {
 	"id": 2,
 	"dayInterval":2,
+	"status":true,
         "name": "Fox 2048",
         "ownerName": "Saqo",
         "imageUrl": "https://lh3.googleusercontent.com/kC0hsy1ysf1cGCpu0rZ-_G5T3aB-m4plrrfXaHdiq3TFNbhgTB7UnVu9WIcwAKLqZKFM=s180",
@@ -27,6 +29,7 @@
       {
 	"id": 3,
 	"dayInterval":2,
+	"status":true,
         "name": "TIIDA 2048",
         "ownerName": "Arsen",
         "imageUrl": "https://lh3.googleusercontent.com/8rHZbwUzoA95kzFOAmhZjyZFEGTm3ZHMtGzgwBX59Bx_OP_M67ZGLjX10lYgCiro1VE=s180",
