@@ -17,7 +17,7 @@
       {
 	"id": 2,
 	"dayInterval":2,
-	"status":false,
+	"status":true,
         "name": "Fox 2048",
         "ownerName": "Saqo",
         "imageUrl": "https://lh3.googleusercontent.com/kC0hsy1ysf1cGCpu0rZ-_G5T3aB-m4plrrfXaHdiq3TFNbhgTB7UnVu9WIcwAKLqZKFM=s180",
