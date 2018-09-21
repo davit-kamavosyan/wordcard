@@ -1,801 +1,801 @@
 {
   "mainItem": {
-    "dictionaryGroups": [
-      {
-        "title": "title",
-        "lib": {
-          "items": [
-            {
-              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
-              "title": "Овощи",
-              "words": [
-                {
-                  "ENGTEXT": "tomato",
-                  "RUSTEXT": "помидор",
-                  "TRANSCRIPT": "tə.ˈmɑː.təʊ"
-                },
-                {
-                  "ENGTEXT": "cucumber",
-                  "RUSTEXT": "огурец",
-                  "TRANSCRIPT": "ˈkjuːk.ʌm.bə"
-                },
-                {
-                  "ENGTEXT": "carrot",
-                  "RUSTEXT": "морковь",
-                  "TRANSCRIPT": "ˈkæ.rət"
-                },
-                {
-                  "ENGTEXT": "potato",
-                  "RUSTEXT": "картофель",
-                  "TRANSCRIPT": "pə.ˈteɪ.təʊ"
-                },
-                {
-                  "ENGTEXT": "onion",
-                  "RUSTEXT": "лук (луковица)",
-                  "TRANSCRIPT": "    ˈʌn.jən"
-                },
-                {
-                  "ENGTEXT": "garlic",
-                  "RUSTEXT": "чеснок",
-                  "TRANSCRIPT": "ˈɡɑː.lɪk"
-                },
-                {
-                  "ENGTEXT": "cabbage",
-                  "RUSTEXT": "капуста",
-                  "TRANSCRIPT": "ˈkæ.bɪdʒ"
-                },
-                {
-                  "ENGTEXT": "beetroot",
-                  "RUSTEXT": "свёкла",
-                  "TRANSCRIPT": "ˈbiː.truːt"
-                },
-                {
-                  "ENGTEXT": "eggplant",
-                  "RUSTEXT": "баклажан",
-                  "TRANSCRIPT": "ˈeɡ.plɑːnt"
-                },
-                {
-                  "ENGTEXT": "squash",
-                  "RUSTEXT": "кабачок",
-                  "TRANSCRIPT": "skwɒʃ"
-                },
-                {
-                  "ENGTEXT": "pumpkin",
-                  "RUSTEXT": "тыква",
-                  "TRANSCRIPT": "ˈpʌmpkɪn"
-                },
-                {
-                  "ENGTEXT": "turnip",
-                  "RUSTEXT": "репа",
-                  "TRANSCRIPT": "ˈtɜː.nɪp"
-                },
-                {
-                  "ENGTEXT": "parsley",
-                  "RUSTEXT": "петрушка",
-                  "TRANSCRIPT": "ˈpɑː.sli"
-                },
-                {
-                  "ENGTEXT": "dill",
-                  "RUSTEXT": "укроп",
-                  "TRANSCRIPT": "dɪl"
-                },
-                {
-                  "ENGTEXT": "lettuce",
-                  "RUSTEXT": "салат",
-                  "TRANSCRIPT": "ˈle.tɪs"
-                },
-                {
-                  "ENGTEXT": "pea",
-                  "RUSTEXT": "горох",
-                  "TRANSCRIPT": "piː"
-                },
-                {
-                  "ENGTEXT": "corn",
-                  "RUSTEXT": "кукуруза",
-                  "TRANSCRIPT": "kɔːn"
-                },
-                {
-                  "ENGTEXT": "kidney bean",
-                  "RUSTEXT": "фасоль",
-                  "TRANSCRIPT": "ˈkɪd.ni.biːn"
-                }
-              ]
-            },
-            {
-              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
-              "title": "Приправы",
-              "words": [
-                {
-                  "ENGTEXT": "salt",
-                  "RUSTEXT": "соль",
-                  "TRANSCRIPT": "sɔːlt"
-                },
-                {
-                  "ENGTEXT": "pepper",
-                  "RUSTEXT": "перец",
-                  "TRANSCRIPT": "    ˈpe.pə"
-                },
-                {
-                  "ENGTEXT": "mustard",
-                  "RUSTEXT": "горчица",
-                  "TRANSCRIPT": "ˈmʌ.stəd"
-                },
-                {
-                  "ENGTEXT": "horseradish",
-                  "RUSTEXT": "хрен",
-                  "TRANSCRIPT": "ˈhɔː.sræ.dɪʃ"
-                },
-                {
-                  "ENGTEXT": "oil",
-                  "RUSTEXT": "масло растительное",
-                  "TRANSCRIPT": "ɔɪl"
-                },
-                {
-                  "ENGTEXT": "sunflower oil",
-                  "RUSTEXT": "подсолнечное масло",
-                  "TRANSCRIPT": "ˈsʌn.flaʊər.ɔɪl"
-                },
-                {
-                  "ENGTEXT": "olive oil",
-                  "RUSTEXT": "масло оливковое",
-                  "TRANSCRIPT": "ˈɒ.lɪv.ɔɪl"
-                },
-                {
-                  "ENGTEXT": "butter",
-                  "RUSTEXT": "сливочное масло",
-                  "TRANSCRIPT": "ˈbʌt.ə"
-                },
-                {
-                  "ENGTEXT": "vinegar",
-                  "RUSTEXT": "уксус",
-                  "TRANSCRIPT": "ˈvɪ.nɪ.ɡə"
-                }
-              ]
-            },
-            {
-              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
-              "title": "Семья",
-              "words": [
-                {
-                  "ENGTEXT": "aunt",
-                  "RUSTEXT": "тётя",
-                  "TRANSCRIPT": "[ænt]"
-                },
-                {
-                  "ENGTEXT": "bachelor",
-                  "RUSTEXT": "холостяк",
-                  "TRANSCRIPT": "[ˈbæʧələr]"
-                },
-                {
-                  "ENGTEXT": "blood relative",
-                  "RUSTEXT": "родственник по крови",
-                  "TRANSCRIPT": "[blʌd ˈrɛlətɪv] "
-                },
-                {
-                  "ENGTEXT": "bride",
-                  "TRANSCRIPT": "[braɪd] ",
-                  "RUSTEXT": "невеста"
-                },
-                {
-                  "ENGTEXT": "brother",
-                  "TRANSCRIPT": "[ˈbrʌðər] ",
-                  "RUSTEXT": "брат"
-                },
-                {
-                  "ENGTEXT": "brotherhood",
-                  "TRANSCRIPT": "[ˈbrʌðərˌhʊd] ",
-                  "RUSTEXT": "братство"
-                },
-                {
-                  "ENGTEXT": "child",
-                  "TRANSCRIPT": "[ʧaɪld] ",
-                  "RUSTEXT": "ребёнок"
-                },
-                {
-                  "ENGTEXT": "clan",
-                  "TRANSCRIPT": "[klæn] ",
-                  "RUSTEXT": "клан"
-                },
-                {
-                  "ENGTEXT": "connection",
-                  "TRANSCRIPT": "[kəˈnɛkʃən] ",
-                  "RUSTEXT": "родство"
-                },
-                {
-                  "ENGTEXT": "cousin",
-                  "TRANSCRIPT": "[ˈkʌzən] ",
-                  "RUSTEXT": "двоюродный брат, сестра"
-                },
-                {
-                  "ENGTEXT": "dad",
-                  "TRANSCRIPT": "[dæd] ",
-                  "RUSTEXT": "папа"
-                },
-                {
-                  "ENGTEXT": "daughter",
-                  "TRANSCRIPT": "[ˈdɔtər] ",
-                  "RUSTEXT": "дочь"
-                },
-                {
-                  "ENGTEXT": "descendant",
-                  "TRANSCRIPT": "[dɪˈsɛndənt] ",
-                  "RUSTEXT": "потомок"
-                },
-                {
-                  "ENGTEXT": "devoted",
-                  "TRANSCRIPT": "[dɪˈvoʊtəd]",
-                  "RUSTEXT": "любящий"
-                },
-                {
-                  "ENGTEXT": "engaged",
-                  "TRANSCRIPT": "[ɛnˈgeɪʤd] ",
-                  "RUSTEXT": "помолвленный"
-                },
-                {
-                  "ENGTEXT": "engagement",
-                  "TRANSCRIPT": "[ɛnˈgeɪʤmənt] ",
-                  "RUSTEXT": "обручение"
-                },
-                {
-                  "ENGTEXT": "ex-husband",
-                  "TRANSCRIPT": "[ɛks ˈhʌzbənd] ",
-                  "RUSTEXT": "бывший муж"
-                },
-                {
-                  "ENGTEXT": "ex-wife",
-                  "TRANSCRIPT": "[ɛks-waɪf] ",
-                  "RUSTEXT": "бывшая жена"
-                },
-                {
-                  "ENGTEXT": "family tree",
-                  "TRANSCRIPT": "[ˈfæməli tri] ",
-                  "RUSTEXT": "генеалогическое древо"
-                },
-                {
-                  "ENGTEXT": "father",
-                  "TRANSCRIPT": "[ˈfɑðər] ",
-                  "RUSTEXT": "отец"
-                },
-                {
-                  "ENGTEXT": "female",
-                  "TRANSCRIPT": "[ˈfiˌmeɪl] ",
-                  "RUSTEXT": "женщина"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "title": "title",
-        "lib": {
-          "items": [
-            {
-              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
-              "title": "Овощи",
-              "words": [
-                {
-                  "ENGTEXT": "tomato",
-                  "RUSTEXT": "помидор",
-                  "TRANSCRIPT": "tə.ˈmɑː.təʊ"
-                },
-                {
-                  "ENGTEXT": "cucumber",
-                  "RUSTEXT": "огурец",
-                  "TRANSCRIPT": "ˈkjuːk.ʌm.bə"
-                },
-                {
-                  "ENGTEXT": "carrot",
-                  "RUSTEXT": "морковь",
-                  "TRANSCRIPT": "ˈkæ.rət"
-                },
-                {
-                  "ENGTEXT": "potato",
-                  "RUSTEXT": "картофель",
-                  "TRANSCRIPT": "pə.ˈteɪ.təʊ"
-                },
-                {
-                  "ENGTEXT": "onion",
-                  "RUSTEXT": "лук (луковица)",
-                  "TRANSCRIPT": "    ˈʌn.jən"
-                },
-                {
-                  "ENGTEXT": "garlic",
-                  "RUSTEXT": "чеснок",
-                  "TRANSCRIPT": "ˈɡɑː.lɪk"
-                },
-                {
-                  "ENGTEXT": "cabbage",
-                  "RUSTEXT": "капуста",
-                  "TRANSCRIPT": "ˈkæ.bɪdʒ"
-                },
-                {
-                  "ENGTEXT": "beetroot",
-                  "RUSTEXT": "свёкла",
-                  "TRANSCRIPT": "ˈbiː.truːt"
-                },
-                {
-                  "ENGTEXT": "eggplant",
-                  "RUSTEXT": "баклажан",
-                  "TRANSCRIPT": "ˈeɡ.plɑːnt"
-                },
-                {
-                  "ENGTEXT": "squash",
-                  "RUSTEXT": "кабачок",
-                  "TRANSCRIPT": "skwɒʃ"
-                },
-                {
-                  "ENGTEXT": "pumpkin",
-                  "RUSTEXT": "тыква",
-                  "TRANSCRIPT": "ˈpʌmpkɪn"
-                },
-                {
-                  "ENGTEXT": "turnip",
-                  "RUSTEXT": "репа",
-                  "TRANSCRIPT": "ˈtɜː.nɪp"
-                },
-                {
-                  "ENGTEXT": "parsley",
-                  "RUSTEXT": "петрушка",
-                  "TRANSCRIPT": "ˈpɑː.sli"
-                },
-                {
-                  "ENGTEXT": "dill",
-                  "RUSTEXT": "укроп",
-                  "TRANSCRIPT": "dɪl"
-                },
-                {
-                  "ENGTEXT": "lettuce",
-                  "RUSTEXT": "салат",
-                  "TRANSCRIPT": "ˈle.tɪs"
-                },
-                {
-                  "ENGTEXT": "pea",
-                  "RUSTEXT": "горох",
-                  "TRANSCRIPT": "piː"
-                },
-                {
-                  "ENGTEXT": "corn",
-                  "RUSTEXT": "кукуруза",
-                  "TRANSCRIPT": "kɔːn"
-                },
-                {
-                  "ENGTEXT": "kidney bean",
-                  "RUSTEXT": "фасоль",
-                  "TRANSCRIPT": "ˈkɪd.ni.biːn"
-                }
-              ]
-            },
-            {
-              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
-              "title": "Приправы",
-              "words": [
-                {
-                  "ENGTEXT": "salt",
-                  "RUSTEXT": "соль",
-                  "TRANSCRIPT": "sɔːlt"
-                },
-                {
-                  "ENGTEXT": "pepper",
-                  "RUSTEXT": "перец",
-                  "TRANSCRIPT": "    ˈpe.pə"
-                },
-                {
-                  "ENGTEXT": "mustard",
-                  "RUSTEXT": "горчица",
-                  "TRANSCRIPT": "ˈmʌ.stəd"
-                },
-                {
-                  "ENGTEXT": "horseradish",
-                  "RUSTEXT": "хрен",
-                  "TRANSCRIPT": "ˈhɔː.sræ.dɪʃ"
-                },
-                {
-                  "ENGTEXT": "oil",
-                  "RUSTEXT": "масло растительное",
-                  "TRANSCRIPT": "ɔɪl"
-                },
-                {
-                  "ENGTEXT": "sunflower oil",
-                  "RUSTEXT": "подсолнечное масло",
-                  "TRANSCRIPT": "ˈsʌn.flaʊər.ɔɪl"
-                },
-                {
-                  "ENGTEXT": "olive oil",
-                  "RUSTEXT": "масло оливковое",
-                  "TRANSCRIPT": "ˈɒ.lɪv.ɔɪl"
-                },
-                {
-                  "ENGTEXT": "butter",
-                  "RUSTEXT": "сливочное масло",
-                  "TRANSCRIPT": "ˈbʌt.ə"
-                },
-                {
-                  "ENGTEXT": "vinegar",
-                  "RUSTEXT": "уксус",
-                  "TRANSCRIPT": "ˈvɪ.nɪ.ɡə"
-                }
-              ]
-            },
-            {
-              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
-              "title": "Семья",
-              "words": [
-                {
-                  "ENGTEXT": "aunt",
-                  "RUSTEXT": "тётя",
-                  "TRANSCRIPT": "[ænt]"
-                },
-                {
-                  "ENGTEXT": "bachelor",
-                  "RUSTEXT": "холостяк",
-                  "TRANSCRIPT": "[ˈbæʧələr]"
-                },
-                {
-                  "ENGTEXT": "blood relative",
-                  "RUSTEXT": "родственник по крови",
-                  "TRANSCRIPT": "[blʌd ˈrɛlətɪv] "
-                },
-                {
-                  "ENGTEXT": "bride",
-                  "TRANSCRIPT": "[braɪd] ",
-                  "RUSTEXT": "невеста"
-                },
-                {
-                  "ENGTEXT": "brother",
-                  "TRANSCRIPT": "[ˈbrʌðər] ",
-                  "RUSTEXT": "брат"
-                },
-                {
-                  "ENGTEXT": "brotherhood",
-                  "TRANSCRIPT": "[ˈbrʌðərˌhʊd] ",
-                  "RUSTEXT": "братство"
-                },
-                {
-                  "ENGTEXT": "child",
-                  "TRANSCRIPT": "[ʧaɪld] ",
-                  "RUSTEXT": "ребёнок"
-                },
-                {
-                  "ENGTEXT": "clan",
-                  "TRANSCRIPT": "[klæn] ",
-                  "RUSTEXT": "клан"
-                },
-                {
-                  "ENGTEXT": "connection",
-                  "TRANSCRIPT": "[kəˈnɛkʃən] ",
-                  "RUSTEXT": "родство"
-                },
-                {
-                  "ENGTEXT": "cousin",
-                  "TRANSCRIPT": "[ˈkʌzən] ",
-                  "RUSTEXT": "двоюродный брат, сестра"
-                },
-                {
-                  "ENGTEXT": "dad",
-                  "TRANSCRIPT": "[dæd] ",
-                  "RUSTEXT": "папа"
-                },
-                {
-                  "ENGTEXT": "daughter",
-                  "TRANSCRIPT": "[ˈdɔtər] ",
-                  "RUSTEXT": "дочь"
-                },
-                {
-                  "ENGTEXT": "descendant",
-                  "TRANSCRIPT": "[dɪˈsɛndənt] ",
-                  "RUSTEXT": "потомок"
-                },
-                {
-                  "ENGTEXT": "devoted",
-                  "TRANSCRIPT": "[dɪˈvoʊtəd]",
-                  "RUSTEXT": "любящий"
-                },
-                {
-                  "ENGTEXT": "engaged",
-                  "TRANSCRIPT": "[ɛnˈgeɪʤd] ",
-                  "RUSTEXT": "помолвленный"
-                },
-                {
-                  "ENGTEXT": "engagement",
-                  "TRANSCRIPT": "[ɛnˈgeɪʤmənt] ",
-                  "RUSTEXT": "обручение"
-                },
-                {
-                  "ENGTEXT": "ex-husband",
-                  "TRANSCRIPT": "[ɛks ˈhʌzbənd] ",
-                  "RUSTEXT": "бывший муж"
-                },
-                {
-                  "ENGTEXT": "ex-wife",
-                  "TRANSCRIPT": "[ɛks-waɪf] ",
-                  "RUSTEXT": "бывшая жена"
-                },
-                {
-                  "ENGTEXT": "family tree",
-                  "TRANSCRIPT": "[ˈfæməli tri] ",
-                  "RUSTEXT": "генеалогическое древо"
-                },
-                {
-                  "ENGTEXT": "father",
-                  "TRANSCRIPT": "[ˈfɑðər] ",
-                  "RUSTEXT": "отец"
-                },
-                {
-                  "ENGTEXT": "female",
-                  "TRANSCRIPT": "[ˈfiˌmeɪl] ",
-                  "RUSTEXT": "женщина"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "title": "title",
-        "lib": {
-          "items": [
-            {
-              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
-              "title": "Овощи",
-              "words": [
-                {
-                  "ENGTEXT": "tomato",
-                  "RUSTEXT": "помидор",
-                  "TRANSCRIPT": "tə.ˈmɑː.təʊ"
-                },
-                {
-                  "ENGTEXT": "cucumber",
-                  "RUSTEXT": "огурец",
-                  "TRANSCRIPT": "ˈkjuːk.ʌm.bə"
-                },
-                {
-                  "ENGTEXT": "carrot",
-                  "RUSTEXT": "морковь",
-                  "TRANSCRIPT": "ˈkæ.rət"
-                },
-                {
-                  "ENGTEXT": "potato",
-                  "RUSTEXT": "картофель",
-                  "TRANSCRIPT": "pə.ˈteɪ.təʊ"
-                },
-                {
-                  "ENGTEXT": "onion",
-                  "RUSTEXT": "лук (луковица)",
-                  "TRANSCRIPT": "    ˈʌn.jən"
-                },
-                {
-                  "ENGTEXT": "garlic",
-                  "RUSTEXT": "чеснок",
-                  "TRANSCRIPT": "ˈɡɑː.lɪk"
-                },
-                {
-                  "ENGTEXT": "cabbage",
-                  "RUSTEXT": "капуста",
-                  "TRANSCRIPT": "ˈkæ.bɪdʒ"
-                },
-                {
-                  "ENGTEXT": "beetroot",
-                  "RUSTEXT": "свёкла",
-                  "TRANSCRIPT": "ˈbiː.truːt"
-                },
-                {
-                  "ENGTEXT": "eggplant",
-                  "RUSTEXT": "баклажан",
-                  "TRANSCRIPT": "ˈeɡ.plɑːnt"
-                },
-                {
-                  "ENGTEXT": "squash",
-                  "RUSTEXT": "кабачок",
-                  "TRANSCRIPT": "skwɒʃ"
-                },
-                {
-                  "ENGTEXT": "pumpkin",
-                  "RUSTEXT": "тыква",
-                  "TRANSCRIPT": "ˈpʌmpkɪn"
-                },
-                {
-                  "ENGTEXT": "turnip",
-                  "RUSTEXT": "репа",
-                  "TRANSCRIPT": "ˈtɜː.nɪp"
-                },
-                {
-                  "ENGTEXT": "parsley",
-                  "RUSTEXT": "петрушка",
-                  "TRANSCRIPT": "ˈpɑː.sli"
-                },
-                {
-                  "ENGTEXT": "dill",
-                  "RUSTEXT": "укроп",
-                  "TRANSCRIPT": "dɪl"
-                },
-                {
-                  "ENGTEXT": "lettuce",
-                  "RUSTEXT": "салат",
-                  "TRANSCRIPT": "ˈle.tɪs"
-                },
-                {
-                  "ENGTEXT": "pea",
-                  "RUSTEXT": "горох",
-                  "TRANSCRIPT": "piː"
-                },
-                {
-                  "ENGTEXT": "corn",
-                  "RUSTEXT": "кукуруза",
-                  "TRANSCRIPT": "kɔːn"
-                },
-                {
-                  "ENGTEXT": "kidney bean",
-                  "RUSTEXT": "фасоль",
-                  "TRANSCRIPT": "ˈkɪd.ni.biːn"
-                }
-              ]
-            },
-            {
-              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
-              "title": "Приправы",
-              "words": [
-                {
-                  "ENGTEXT": "salt",
-                  "RUSTEXT": "соль",
-                  "TRANSCRIPT": "sɔːlt"
-                },
-                {
-                  "ENGTEXT": "pepper",
-                  "RUSTEXT": "перец",
-                  "TRANSCRIPT": "    ˈpe.pə"
-                },
-                {
-                  "ENGTEXT": "mustard",
-                  "RUSTEXT": "горчица",
-                  "TRANSCRIPT": "ˈmʌ.stəd"
-                },
-                {
-                  "ENGTEXT": "horseradish",
-                  "RUSTEXT": "хрен",
-                  "TRANSCRIPT": "ˈhɔː.sræ.dɪʃ"
-                },
-                {
-                  "ENGTEXT": "oil",
-                  "RUSTEXT": "масло растительное",
-                  "TRANSCRIPT": "ɔɪl"
-                },
-                {
-                  "ENGTEXT": "sunflower oil",
-                  "RUSTEXT": "подсолнечное масло",
-                  "TRANSCRIPT": "ˈsʌn.flaʊər.ɔɪl"
-                },
-                {
-                  "ENGTEXT": "olive oil",
-                  "RUSTEXT": "масло оливковое",
-                  "TRANSCRIPT": "ˈɒ.lɪv.ɔɪl"
-                },
-                {
-                  "ENGTEXT": "butter",
-                  "RUSTEXT": "сливочное масло",
-                  "TRANSCRIPT": "ˈbʌt.ə"
-                },
-                {
-                  "ENGTEXT": "vinegar",
-                  "RUSTEXT": "уксус",
-                  "TRANSCRIPT": "ˈvɪ.nɪ.ɡə"
-                }
-              ]
-            },
-            {
-              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
-              "title": "Семья",
-              "words": [
-                {
-                  "ENGTEXT": "aunt",
-                  "RUSTEXT": "тётя",
-                  "TRANSCRIPT": "[ænt]"
-                },
-                {
-                  "ENGTEXT": "bachelor",
-                  "RUSTEXT": "холостяк",
-                  "TRANSCRIPT": "[ˈbæʧələr]"
-                },
-                {
-                  "ENGTEXT": "blood relative",
-                  "RUSTEXT": "родственник по крови",
-                  "TRANSCRIPT": "[blʌd ˈrɛlətɪv] "
-                },
-                {
-                  "ENGTEXT": "bride",
-                  "TRANSCRIPT": "[braɪd] ",
-                  "RUSTEXT": "невеста"
-                },
-                {
-                  "ENGTEXT": "brother",
-                  "TRANSCRIPT": "[ˈbrʌðər] ",
-                  "RUSTEXT": "брат"
-                },
-                {
-                  "ENGTEXT": "brotherhood",
-                  "TRANSCRIPT": "[ˈbrʌðərˌhʊd] ",
-                  "RUSTEXT": "братство"
-                },
-                {
-                  "ENGTEXT": "child",
-                  "TRANSCRIPT": "[ʧaɪld] ",
-                  "RUSTEXT": "ребёнок"
-                },
-                {
-                  "ENGTEXT": "clan",
-                  "TRANSCRIPT": "[klæn] ",
-                  "RUSTEXT": "клан"
-                },
-                {
-                  "ENGTEXT": "connection",
-                  "TRANSCRIPT": "[kəˈnɛkʃən] ",
-                  "RUSTEXT": "родство"
-                },
-                {
-                  "ENGTEXT": "cousin",
-                  "TRANSCRIPT": "[ˈkʌzən] ",
-                  "RUSTEXT": "двоюродный брат, сестра"
-                },
-                {
-                  "ENGTEXT": "dad",
-                  "TRANSCRIPT": "[dæd] ",
-                  "RUSTEXT": "папа"
-                },
-                {
-                  "ENGTEXT": "daughter",
-                  "TRANSCRIPT": "[ˈdɔtər] ",
-                  "RUSTEXT": "дочь"
-                },
-                {
-                  "ENGTEXT": "descendant",
-                  "TRANSCRIPT": "[dɪˈsɛndənt] ",
-                  "RUSTEXT": "потомок"
-                },
-                {
-                  "ENGTEXT": "devoted",
-                  "TRANSCRIPT": "[dɪˈvoʊtəd]",
-                  "RUSTEXT": "любящий"
-                },
-                {
-                  "ENGTEXT": "engaged",
-                  "TRANSCRIPT": "[ɛnˈgeɪʤd] ",
-                  "RUSTEXT": "помолвленный"
-                },
-                {
-                  "ENGTEXT": "engagement",
-                  "TRANSCRIPT": "[ɛnˈgeɪʤmənt] ",
-                  "RUSTEXT": "обручение"
-                },
-                {
-                  "ENGTEXT": "ex-husband",
-                  "TRANSCRIPT": "[ɛks ˈhʌzbənd] ",
-                  "RUSTEXT": "бывший муж"
-                },
-                {
-                  "ENGTEXT": "ex-wife",
-                  "TRANSCRIPT": "[ɛks-waɪf] ",
-                  "RUSTEXT": "бывшая жена"
-                },
-                {
-                  "ENGTEXT": "family tree",
-                  "TRANSCRIPT": "[ˈfæməli tri] ",
-                  "RUSTEXT": "генеалогическое древо"
-                },
-                {
-                  "ENGTEXT": "father",
-                  "TRANSCRIPT": "[ˈfɑðər] ",
-                  "RUSTEXT": "отец"
-                },
-                {
-                  "ENGTEXT": "female",
-                  "TRANSCRIPT": "[ˈfiˌmeɪl] ",
-                  "RUSTEXT": "женщина"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    ]
+"dictionaryGroups": [
+  {
+"title": "title",
+"lib": {
+  "items": [
+{
+  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+  "title": "Овощи",
+  "words": [
+{
+  "ENGTEXT": "tomato",
+  "RUSTEXT": "помидор",
+  "TRANSCRIPT": "tə.ˈmɑː.təʊ"
+},
+{
+  "ENGTEXT": "cucumber",
+  "RUSTEXT": "огурец",
+  "TRANSCRIPT": "ˈkjuːk.ʌm.bə"
+},
+{
+  "ENGTEXT": "carrot",
+  "RUSTEXT": "морковь",
+  "TRANSCRIPT": "ˈkæ.rət"
+},
+{
+  "ENGTEXT": "potato",
+  "RUSTEXT": "картофель",
+  "TRANSCRIPT": "pə.ˈteɪ.təʊ"
+},
+{
+  "ENGTEXT": "onion",
+  "RUSTEXT": "лук (луковица)",
+  "TRANSCRIPT": "ˈʌn.jən"
+},
+{
+  "ENGTEXT": "garlic",
+  "RUSTEXT": "чеснок",
+  "TRANSCRIPT": "ˈɡɑː.lɪk"
+},
+{
+  "ENGTEXT": "cabbage",
+  "RUSTEXT": "капуста",
+  "TRANSCRIPT": "ˈkæ.bɪdʒ"
+},
+{
+  "ENGTEXT": "beetroot",
+  "RUSTEXT": "свёкла",
+  "TRANSCRIPT": "ˈbiː.truːt"
+},
+{
+  "ENGTEXT": "eggplant",
+  "RUSTEXT": "баклажан",
+  "TRANSCRIPT": "ˈeɡ.plɑːnt"
+},
+{
+  "ENGTEXT": "squash",
+  "RUSTEXT": "кабачок",
+  "TRANSCRIPT": "skwɒʃ"
+},
+{
+  "ENGTEXT": "pumpkin",
+  "RUSTEXT": "тыква",
+  "TRANSCRIPT": "ˈpʌmpkɪn"
+},
+{
+  "ENGTEXT": "turnip",
+  "RUSTEXT": "репа",
+  "TRANSCRIPT": "ˈtɜː.nɪp"
+},
+{
+  "ENGTEXT": "parsley",
+  "RUSTEXT": "петрушка",
+  "TRANSCRIPT": "ˈpɑː.sli"
+},
+{
+  "ENGTEXT": "dill",
+  "RUSTEXT": "укроп",
+  "TRANSCRIPT": "dɪl"
+},
+{
+  "ENGTEXT": "lettuce",
+  "RUSTEXT": "салат",
+  "TRANSCRIPT": "ˈle.tɪs"
+},
+{
+  "ENGTEXT": "pea",
+  "RUSTEXT": "горох",
+  "TRANSCRIPT": "piː"
+},
+{
+  "ENGTEXT": "corn",
+  "RUSTEXT": "кукуруза",
+  "TRANSCRIPT": "kɔːn"
+},
+{
+  "ENGTEXT": "kidney bean",
+  "RUSTEXT": "фасоль",
+  "TRANSCRIPT": "ˈkɪd.ni.biːn"
+}
+  ]
+},
+{
+  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+  "title": "Приправы",
+  "words": [
+{
+  "ENGTEXT": "salt",
+  "RUSTEXT": "соль",
+  "TRANSCRIPT": "sɔːlt"
+},
+{
+  "ENGTEXT": "pepper",
+  "RUSTEXT": "перец",
+  "TRANSCRIPT": "ˈpe.pə"
+},
+{
+  "ENGTEXT": "mustard",
+  "RUSTEXT": "горчица",
+  "TRANSCRIPT": "ˈmʌ.stəd"
+},
+{
+  "ENGTEXT": "horseradish",
+  "RUSTEXT": "хрен",
+  "TRANSCRIPT": "ˈhɔː.sræ.dɪʃ"
+},
+{
+  "ENGTEXT": "oil",
+  "RUSTEXT": "масло растительное",
+  "TRANSCRIPT": "ɔɪl"
+},
+{
+  "ENGTEXT": "sunflower oil",
+  "RUSTEXT": "подсолнечное масло",
+  "TRANSCRIPT": "ˈsʌn.flaʊər.ɔɪl"
+},
+{
+  "ENGTEXT": "olive oil",
+  "RUSTEXT": "масло оливковое",
+  "TRANSCRIPT": "ˈɒ.lɪv.ɔɪl"
+},
+{
+  "ENGTEXT": "butter",
+  "RUSTEXT": "сливочное масло",
+  "TRANSCRIPT": "ˈbʌt.ə"
+},
+{
+  "ENGTEXT": "vinegar",
+  "RUSTEXT": "уксус",
+  "TRANSCRIPT": "ˈvɪ.nɪ.ɡə"
+}
+  ]
+},
+{
+  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+  "title": "Семья",
+  "words": [
+{
+  "ENGTEXT": "aunt",
+  "RUSTEXT": "тётя",
+  "TRANSCRIPT": "[ænt]"
+},
+{
+  "ENGTEXT": "bachelor",
+  "RUSTEXT": "холостяк",
+  "TRANSCRIPT": "[ˈbæʧələr]"
+},
+{
+  "ENGTEXT": "blood relative",
+  "RUSTEXT": "родственник по крови",
+  "TRANSCRIPT": "[blʌd ˈrɛlətɪv] "
+},
+{
+  "ENGTEXT": "bride",
+  "TRANSCRIPT": "[braɪd] ",
+  "RUSTEXT": "невеста"
+},
+{
+  "ENGTEXT": "brother",
+  "TRANSCRIPT": "[ˈbrʌðər] ",
+  "RUSTEXT": "брат"
+},
+{
+  "ENGTEXT": "brotherhood",
+  "TRANSCRIPT": "[ˈbrʌðərˌhʊd] ",
+  "RUSTEXT": "братство"
+},
+{
+  "ENGTEXT": "child",
+  "TRANSCRIPT": "[ʧaɪld] ",
+  "RUSTEXT": "ребёнок"
+},
+{
+  "ENGTEXT": "clan",
+  "TRANSCRIPT": "[klæn] ",
+  "RUSTEXT": "клан"
+},
+{
+  "ENGTEXT": "connection",
+  "TRANSCRIPT": "[kəˈnɛkʃən] ",
+  "RUSTEXT": "родство"
+},
+{
+  "ENGTEXT": "cousin",
+  "TRANSCRIPT": "[ˈkʌzən] ",
+  "RUSTEXT": "двоюродный брат, сестра"
+},
+{
+  "ENGTEXT": "dad",
+  "TRANSCRIPT": "[dæd] ",
+  "RUSTEXT": "папа"
+},
+{
+  "ENGTEXT": "daughter",
+  "TRANSCRIPT": "[ˈdɔtər] ",
+  "RUSTEXT": "дочь"
+},
+{
+  "ENGTEXT": "descendant",
+  "TRANSCRIPT": "[dɪˈsɛndənt] ",
+  "RUSTEXT": "потомок"
+},
+{
+  "ENGTEXT": "devoted",
+  "TRANSCRIPT": "[dɪˈvoʊtəd]",
+  "RUSTEXT": "любящий"
+},
+{
+  "ENGTEXT": "engaged",
+  "TRANSCRIPT": "[ɛnˈgeɪʤd] ",
+  "RUSTEXT": "помолвленный"
+},
+{
+  "ENGTEXT": "engagement",
+  "TRANSCRIPT": "[ɛnˈgeɪʤmənt] ",
+  "RUSTEXT": "обручение"
+},
+{
+  "ENGTEXT": "ex-husband",
+  "TRANSCRIPT": "[ɛks ˈhʌzbənd] ",
+  "RUSTEXT": "бывший муж"
+},
+{
+  "ENGTEXT": "ex-wife",
+  "TRANSCRIPT": "[ɛks-waɪf] ",
+  "RUSTEXT": "бывшая жена"
+},
+{
+  "ENGTEXT": "family tree",
+  "TRANSCRIPT": "[ˈfæməli tri] ",
+  "RUSTEXT": "генеалогическое древо"
+},
+{
+  "ENGTEXT": "father",
+  "TRANSCRIPT": "[ˈfɑðər] ",
+  "RUSTEXT": "отец"
+},
+{
+  "ENGTEXT": "female",
+  "TRANSCRIPT": "[ˈfiˌmeɪl] ",
+  "RUSTEXT": "женщина"
+}
+  ]
+}
+  ]
+}
+  },
+  {
+"title": "title",
+"lib": {
+  "items": [
+{
+  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+  "title": "Овощи",
+  "words": [
+{
+  "ENGTEXT": "tomato",
+  "RUSTEXT": "помидор",
+  "TRANSCRIPT": "tə.ˈmɑː.təʊ"
+},
+{
+  "ENGTEXT": "cucumber",
+  "RUSTEXT": "огурец",
+  "TRANSCRIPT": "ˈkjuːk.ʌm.bə"
+},
+{
+  "ENGTEXT": "carrot",
+  "RUSTEXT": "морковь",
+  "TRANSCRIPT": "ˈkæ.rət"
+},
+{
+  "ENGTEXT": "potato",
+  "RUSTEXT": "картофель",
+  "TRANSCRIPT": "pə.ˈteɪ.təʊ"
+},
+{
+  "ENGTEXT": "onion",
+  "RUSTEXT": "лук (луковица)",
+  "TRANSCRIPT": "ˈʌn.jən"
+},
+{
+  "ENGTEXT": "garlic",
+  "RUSTEXT": "чеснок",
+  "TRANSCRIPT": "ˈɡɑː.lɪk"
+},
+{
+  "ENGTEXT": "cabbage",
+  "RUSTEXT": "капуста",
+  "TRANSCRIPT": "ˈkæ.bɪdʒ"
+},
+{
+  "ENGTEXT": "beetroot",
+  "RUSTEXT": "свёкла",
+  "TRANSCRIPT": "ˈbiː.truːt"
+},
+{
+  "ENGTEXT": "eggplant",
+  "RUSTEXT": "баклажан",
+  "TRANSCRIPT": "ˈeɡ.plɑːnt"
+},
+{
+  "ENGTEXT": "squash",
+  "RUSTEXT": "кабачок",
+  "TRANSCRIPT": "skwɒʃ"
+},
+{
+  "ENGTEXT": "pumpkin",
+  "RUSTEXT": "тыква",
+  "TRANSCRIPT": "ˈpʌmpkɪn"
+},
+{
+  "ENGTEXT": "turnip",
+  "RUSTEXT": "репа",
+  "TRANSCRIPT": "ˈtɜː.nɪp"
+},
+{
+  "ENGTEXT": "parsley",
+  "RUSTEXT": "петрушка",
+  "TRANSCRIPT": "ˈpɑː.sli"
+},
+{
+  "ENGTEXT": "dill",
+  "RUSTEXT": "укроп",
+  "TRANSCRIPT": "dɪl"
+},
+{
+  "ENGTEXT": "lettuce",
+  "RUSTEXT": "салат",
+  "TRANSCRIPT": "ˈle.tɪs"
+},
+{
+  "ENGTEXT": "pea",
+  "RUSTEXT": "горох",
+  "TRANSCRIPT": "piː"
+},
+{
+  "ENGTEXT": "corn",
+  "RUSTEXT": "кукуруза",
+  "TRANSCRIPT": "kɔːn"
+},
+{
+  "ENGTEXT": "kidney bean",
+  "RUSTEXT": "фасоль",
+  "TRANSCRIPT": "ˈkɪd.ni.biːn"
+}
+  ]
+},
+{
+  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+  "title": "Приправы",
+  "words": [
+{
+  "ENGTEXT": "salt",
+  "RUSTEXT": "соль",
+  "TRANSCRIPT": "sɔːlt"
+},
+{
+  "ENGTEXT": "pepper",
+  "RUSTEXT": "перец",
+  "TRANSCRIPT": "ˈpe.pə"
+},
+{
+  "ENGTEXT": "mustard",
+  "RUSTEXT": "горчица",
+  "TRANSCRIPT": "ˈmʌ.stəd"
+},
+{
+  "ENGTEXT": "horseradish",
+  "RUSTEXT": "хрен",
+  "TRANSCRIPT": "ˈhɔː.sræ.dɪʃ"
+},
+{
+  "ENGTEXT": "oil",
+  "RUSTEXT": "масло растительное",
+  "TRANSCRIPT": "ɔɪl"
+},
+{
+  "ENGTEXT": "sunflower oil",
+  "RUSTEXT": "подсолнечное масло",
+  "TRANSCRIPT": "ˈsʌn.flaʊər.ɔɪl"
+},
+{
+  "ENGTEXT": "olive oil",
+  "RUSTEXT": "масло оливковое",
+  "TRANSCRIPT": "ˈɒ.lɪv.ɔɪl"
+},
+{
+  "ENGTEXT": "butter",
+  "RUSTEXT": "сливочное масло",
+  "TRANSCRIPT": "ˈbʌt.ə"
+},
+{
+  "ENGTEXT": "vinegar",
+  "RUSTEXT": "уксус",
+  "TRANSCRIPT": "ˈvɪ.nɪ.ɡə"
+}
+  ]
+},
+{
+  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+  "title": "Семья",
+  "words": [
+{
+  "ENGTEXT": "aunt",
+  "RUSTEXT": "тётя",
+  "TRANSCRIPT": "[ænt]"
+},
+{
+  "ENGTEXT": "bachelor",
+  "RUSTEXT": "холостяк",
+  "TRANSCRIPT": "[ˈbæʧələr]"
+},
+{
+  "ENGTEXT": "blood relative",
+  "RUSTEXT": "родственник по крови",
+  "TRANSCRIPT": "[blʌd ˈrɛlətɪv] "
+},
+{
+  "ENGTEXT": "bride",
+  "TRANSCRIPT": "[braɪd] ",
+  "RUSTEXT": "невеста"
+},
+{
+  "ENGTEXT": "brother",
+  "TRANSCRIPT": "[ˈbrʌðər] ",
+  "RUSTEXT": "брат"
+},
+{
+  "ENGTEXT": "brotherhood",
+  "TRANSCRIPT": "[ˈbrʌðərˌhʊd] ",
+  "RUSTEXT": "братство"
+},
+{
+  "ENGTEXT": "child",
+  "TRANSCRIPT": "[ʧaɪld] ",
+  "RUSTEXT": "ребёнок"
+},
+{
+  "ENGTEXT": "clan",
+  "TRANSCRIPT": "[klæn] ",
+  "RUSTEXT": "клан"
+},
+{
+  "ENGTEXT": "connection",
+  "TRANSCRIPT": "[kəˈnɛkʃən] ",
+  "RUSTEXT": "родство"
+},
+{
+  "ENGTEXT": "cousin",
+  "TRANSCRIPT": "[ˈkʌzən] ",
+  "RUSTEXT": "двоюродный брат, сестра"
+},
+{
+  "ENGTEXT": "dad",
+  "TRANSCRIPT": "[dæd] ",
+  "RUSTEXT": "папа"
+},
+{
+  "ENGTEXT": "daughter",
+  "TRANSCRIPT": "[ˈdɔtər] ",
+  "RUSTEXT": "дочь"
+},
+{
+  "ENGTEXT": "descendant",
+  "TRANSCRIPT": "[dɪˈsɛndənt] ",
+  "RUSTEXT": "потомок"
+},
+{
+  "ENGTEXT": "devoted",
+  "TRANSCRIPT": "[dɪˈvoʊtəd]",
+  "RUSTEXT": "любящий"
+},
+{
+  "ENGTEXT": "engaged",
+  "TRANSCRIPT": "[ɛnˈgeɪʤd] ",
+  "RUSTEXT": "помолвленный"
+},
+{
+  "ENGTEXT": "engagement",
+  "TRANSCRIPT": "[ɛnˈgeɪʤmənt] ",
+  "RUSTEXT": "обручение"
+},
+{
+  "ENGTEXT": "ex-husband",
+  "TRANSCRIPT": "[ɛks ˈhʌzbənd] ",
+  "RUSTEXT": "бывший муж"
+},
+{
+  "ENGTEXT": "ex-wife",
+  "TRANSCRIPT": "[ɛks-waɪf] ",
+  "RUSTEXT": "бывшая жена"
+},
+{
+  "ENGTEXT": "family tree",
+  "TRANSCRIPT": "[ˈfæməli tri] ",
+  "RUSTEXT": "генеалогическое древо"
+},
+{
+  "ENGTEXT": "father",
+  "TRANSCRIPT": "[ˈfɑðər] ",
+  "RUSTEXT": "отец"
+},
+{
+  "ENGTEXT": "female",
+  "TRANSCRIPT": "[ˈfiˌmeɪl] ",
+  "RUSTEXT": "женщина"
+}
+  ]
+}
+  ]
+}
+  },
+  {
+"title": "title",
+"lib": {
+  "items": [
+{
+  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+  "title": "Овощи",
+  "words": [
+{
+  "ENGTEXT": "tomato",
+  "RUSTEXT": "помидор",
+  "TRANSCRIPT": "tə.ˈmɑː.təʊ"
+},
+{
+  "ENGTEXT": "cucumber",
+  "RUSTEXT": "огурец",
+  "TRANSCRIPT": "ˈkjuːk.ʌm.bə"
+},
+{
+  "ENGTEXT": "carrot",
+  "RUSTEXT": "морковь",
+  "TRANSCRIPT": "ˈkæ.rət"
+},
+{
+  "ENGTEXT": "potato",
+  "RUSTEXT": "картофель",
+  "TRANSCRIPT": "pə.ˈteɪ.təʊ"
+},
+{
+  "ENGTEXT": "onion",
+  "RUSTEXT": "лук (луковица)",
+  "TRANSCRIPT": "ˈʌn.jən"
+},
+{
+  "ENGTEXT": "garlic",
+  "RUSTEXT": "чеснок",
+  "TRANSCRIPT": "ˈɡɑː.lɪk"
+},
+{
+  "ENGTEXT": "cabbage",
+  "RUSTEXT": "капуста",
+  "TRANSCRIPT": "ˈkæ.bɪdʒ"
+},
+{
+  "ENGTEXT": "beetroot",
+  "RUSTEXT": "свёкла",
+  "TRANSCRIPT": "ˈbiː.truːt"
+},
+{
+  "ENGTEXT": "eggplant",
+  "RUSTEXT": "баклажан",
+  "TRANSCRIPT": "ˈeɡ.plɑːnt"
+},
+{
+  "ENGTEXT": "squash",
+  "RUSTEXT": "кабачок",
+  "TRANSCRIPT": "skwɒʃ"
+},
+{
+  "ENGTEXT": "pumpkin",
+  "RUSTEXT": "тыква",
+  "TRANSCRIPT": "ˈpʌmpkɪn"
+},
+{
+  "ENGTEXT": "turnip",
+  "RUSTEXT": "репа",
+  "TRANSCRIPT": "ˈtɜː.nɪp"
+},
+{
+  "ENGTEXT": "parsley",
+  "RUSTEXT": "петрушка",
+  "TRANSCRIPT": "ˈpɑː.sli"
+},
+{
+  "ENGTEXT": "dill",
+  "RUSTEXT": "укроп",
+  "TRANSCRIPT": "dɪl"
+},
+{
+  "ENGTEXT": "lettuce",
+  "RUSTEXT": "салат",
+  "TRANSCRIPT": "ˈle.tɪs"
+},
+{
+  "ENGTEXT": "pea",
+  "RUSTEXT": "горох",
+  "TRANSCRIPT": "piː"
+},
+{
+  "ENGTEXT": "corn",
+  "RUSTEXT": "кукуруза",
+  "TRANSCRIPT": "kɔːn"
+},
+{
+  "ENGTEXT": "kidney bean",
+  "RUSTEXT": "фасоль",
+  "TRANSCRIPT": "ˈkɪd.ni.biːn"
+}
+  ]
+},
+{
+  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+  "title": "Приправы",
+  "words": [
+{
+  "ENGTEXT": "salt",
+  "RUSTEXT": "соль",
+  "TRANSCRIPT": "sɔːlt"
+},
+{
+  "ENGTEXT": "pepper",
+  "RUSTEXT": "перец",
+  "TRANSCRIPT": "ˈpe.pə"
+},
+{
+  "ENGTEXT": "mustard",
+  "RUSTEXT": "горчица",
+  "TRANSCRIPT": "ˈmʌ.stəd"
+},
+{
+  "ENGTEXT": "horseradish",
+  "RUSTEXT": "хрен",
+  "TRANSCRIPT": "ˈhɔː.sræ.dɪʃ"
+},
+{
+  "ENGTEXT": "oil",
+  "RUSTEXT": "масло растительное",
+  "TRANSCRIPT": "ɔɪl"
+},
+{
+  "ENGTEXT": "sunflower oil",
+  "RUSTEXT": "подсолнечное масло",
+  "TRANSCRIPT": "ˈsʌn.flaʊər.ɔɪl"
+},
+{
+  "ENGTEXT": "olive oil",
+  "RUSTEXT": "масло оливковое",
+  "TRANSCRIPT": "ˈɒ.lɪv.ɔɪl"
+},
+{
+  "ENGTEXT": "butter",
+  "RUSTEXT": "сливочное масло",
+  "TRANSCRIPT": "ˈbʌt.ə"
+},
+{
+  "ENGTEXT": "vinegar",
+  "RUSTEXT": "уксус",
+  "TRANSCRIPT": "ˈvɪ.nɪ.ɡə"
+}
+  ]
+},
+{
+  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+  "title": "Семья",
+  "words": [
+{
+  "ENGTEXT": "aunt",
+  "RUSTEXT": "тётя",
+  "TRANSCRIPT": "[ænt]"
+},
+{
+  "ENGTEXT": "bachelor",
+  "RUSTEXT": "холостяк",
+  "TRANSCRIPT": "[ˈbæʧələr]"
+},
+{
+  "ENGTEXT": "blood relative",
+  "RUSTEXT": "родственник по крови",
+  "TRANSCRIPT": "[blʌd ˈrɛlətɪv] "
+},
+{
+  "ENGTEXT": "bride",
+  "TRANSCRIPT": "[braɪd] ",
+  "RUSTEXT": "невеста"
+},
+{
+  "ENGTEXT": "brother",
+  "TRANSCRIPT": "[ˈbrʌðər] ",
+  "RUSTEXT": "брат"
+},
+{
+  "ENGTEXT": "brotherhood",
+  "TRANSCRIPT": "[ˈbrʌðərˌhʊd] ",
+  "RUSTEXT": "братство"
+},
+{
+  "ENGTEXT": "child",
+  "TRANSCRIPT": "[ʧaɪld] ",
+  "RUSTEXT": "ребёнок"
+},
+{
+  "ENGTEXT": "clan",
+  "TRANSCRIPT": "[klæn] ",
+  "RUSTEXT": "клан"
+},
+{
+  "ENGTEXT": "connection",
+  "TRANSCRIPT": "[kəˈnɛkʃən] ",
+  "RUSTEXT": "родство"
+},
+{
+  "ENGTEXT": "cousin",
+  "TRANSCRIPT": "[ˈkʌzən] ",
+  "RUSTEXT": "двоюродный брат, сестра"
+},
+{
+  "ENGTEXT": "dad",
+  "TRANSCRIPT": "[dæd] ",
+  "RUSTEXT": "папа"
+},
+{
+  "ENGTEXT": "daughter",
+  "TRANSCRIPT": "[ˈdɔtər] ",
+  "RUSTEXT": "дочь"
+},
+{
+  "ENGTEXT": "descendant",
+  "TRANSCRIPT": "[dɪˈsɛndənt] ",
+  "RUSTEXT": "потомок"
+},
+{
+  "ENGTEXT": "devoted",
+  "TRANSCRIPT": "[dɪˈvoʊtəd]",
+  "RUSTEXT": "любящий"
+},
+{
+  "ENGTEXT": "engaged",
+  "TRANSCRIPT": "[ɛnˈgeɪʤd] ",
+  "RUSTEXT": "помолвленный"
+},
+{
+  "ENGTEXT": "engagement",
+  "TRANSCRIPT": "[ɛnˈgeɪʤmənt] ",
+  "RUSTEXT": "обручение"
+},
+{
+  "ENGTEXT": "ex-husband",
+  "TRANSCRIPT": "[ɛks ˈhʌzbənd] ",
+  "RUSTEXT": "бывший муж"
+},
+{
+  "ENGTEXT": "ex-wife",
+  "TRANSCRIPT": "[ɛks-waɪf] ",
+  "RUSTEXT": "бывшая жена"
+},
+{
+  "ENGTEXT": "family tree",
+  "TRANSCRIPT": "[ˈfæməli tri] ",
+  "RUSTEXT": "генеалогическое древо"
+},
+{
+  "ENGTEXT": "father",
+  "TRANSCRIPT": "[ˈfɑðər] ",
+  "RUSTEXT": "отец"
+},
+{
+  "ENGTEXT": "female",
+  "TRANSCRIPT": "[ˈfiˌmeɪl] ",
+  "RUSTEXT": "женщина"
+}
+  ]
+}
+  ]
+}
+  }
+]
   }
 }
