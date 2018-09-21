@@ -7,31 +7,31 @@
           "items": [
             {
               "title": "Овощи",
-              "wordsUrl": "",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
               "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
               "description": "Овощи"
             },
             {
               "title": "Овощи",
-              "wordsUrl": "",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
               "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
               "description": "Овощи"
             },
             {
               "title": "Овощи",
-              "wordsUrl": "",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
               "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
               "description": "Овощи"
             },
             {
               "title": "Овощи",
-              "wordsUrl": "",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
               "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
               "description": "Овощи"
             },
             {
               "title": "Овощи",
-              "wordsUrl": "",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
               "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
               "description": "Овощи"
             }
