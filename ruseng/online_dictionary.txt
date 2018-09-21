@@ -1,0 +1,191 @@
+{
+  "mainItem": {
+    "dictionaryGroups": [
+      {
+        "title": "title",
+        "lib": {
+          "items": [
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            },
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            },
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            },
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            },
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            }
+          ]
+        }
+      },
+      {
+        "title": "title",
+        "lib": {
+          "items": [
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            },
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            },
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            },
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            },
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            }
+          ]
+        }
+      },
+      {
+        "title": "title",
+        "lib": {
+          "items": [
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            },
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            },
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            },
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            },
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            }
+          ]
+        }
+      },
+      {
+        "title": "title",
+        "lib": {
+          "items": [
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            },
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            },
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            },
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            },
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            }
+          ]
+        }
+      },
+      {
+        "title": "title",
+        "lib": {
+          "items": [
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            },
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            },
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            },
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            },
+            {
+              "title": "Овощи",
+              "wordsUrl": "",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
+              "description": "Овощи"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
