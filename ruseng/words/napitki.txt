@@ -1,0 +1,207 @@
+{
+  "onlineId": 1,
+  "title": "НАПИТКИ",
+  "description": "100 слов",
+  "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0003.jpg",
+  "words": [
+    {ENGTEXT: "alcoholic drink",RUSTEXT: "алкогольный напиток",TRANSCRIPT:"ˌælkəˈhɑlɪk drɪŋk"}, 
+
+{ENGTEXT: "americano ",RUSTEXT: "американо",TRANSCRIPT:"əˌmɛrɪˈkɑnoʊ"}, 
+
+{ENGTEXT: "aperitif  ",RUSTEXT: "аперитив",TRANSCRIPT:"əˌpɛrəˈtif"}, 
+
+{ENGTEXT: "apple cider  ",RUSTEXT: "яблочный сидр",TRANSCRIPT:"ˈæpəl ˈsaɪdər"}, 
+
+{ENGTEXT: "apple juice  ",RUSTEXT: "яблочный сок",TRANSCRIPT:"ˈæpəl ʤus"}, 
+
+{ENGTEXT: "banana smoothie  ",RUSTEXT: "банановый смузи",TRANSCRIPT:"bəˈnænə smoothie"}, 
+
+{ENGTEXT: "beverage  ",RUSTEXT: "напиток",TRANSCRIPT:"ˈbɛvərɪʤ"}, 
+
+{ENGTEXT: "black coffee  ",RUSTEXT: "черный кофе",TRANSCRIPT:"blæk ˈkɑfi"}, 
+
+{ENGTEXT: "black tea  ",RUSTEXT: "чёрный чай",TRANSCRIPT:"blæk ti"}, 
+
+{ENGTEXT: "blueberry juice  ",RUSTEXT: "черничный сок",TRANSCRIPT:"ˈbluˌbɛri ʤus"}, 
+
+{ENGTEXT: "bottled drinks  ",RUSTEXT: "бутилированные напитки",TRANSCRIPT:"ˈbɑtəld drɪŋks"}, 
+
+{ENGTEXT: "bottled water ",RUSTEXT: "бутилированная вода",TRANSCRIPT:"ˈbɑtəld ˈwɔtər"}, 
+
+{ENGTEXT: "butter tea  ",RUSTEXT: "тибетский чай",TRANSCRIPT:"ˈbʌtər ti"}, 
+
+{ENGTEXT: "cappuccino  ",RUSTEXT: "капучино",TRANSCRIPT:"ˌkæˌpuˈʧinoʊ"}, 
+
+{ENGTEXT: "caramel macchiato ",RUSTEXT: "карамельный маккиато",TRANSCRIPT:"ˈkɛrəməl macchiato"}, 
+
+{ENGTEXT: "chamomile tea ",RUSTEXT: "ромашковый чай",TRANSCRIPT:"kˈæməmaɪːl tˈiː"}, 
+
+{ENGTEXT: "champagne  ",RUSTEXT: "шампанское",TRANSCRIPT:"ʃæmˈpeɪn"}, 
+
+{ENGTEXT: "cherry syrup  ",RUSTEXT: "вишневый сироп",TRANSCRIPT:"ˈʧɛri ˈsɜrəp"}, 
+
+{ENGTEXT: "chocolate  ",RUSTEXT: "шоколад",TRANSCRIPT:"'ˈtʃɑːklət"}, 
+
+{ENGTEXT: "chocolate cappuccino ",RUSTEXT: "шоколадный капучино",TRANSCRIPT:"ˈʧɔklət ˌkæˌpuˈʧinoʊ"}, 
+
+{ENGTEXT: "cider  ",RUSTEXT: "сидр",TRANSCRIPT:"ˈsaɪdər"}, 
+
+{ENGTEXT: "cocktail  ",RUSTEXT: "коктейль",TRANSCRIPT:"ˈkɑkˌteɪl"}, 
+
+{ENGTEXT: "cocoa  ",RUSTEXT: "какао",TRANSCRIPT:"ˈkoʊkoʊ"}, 
+
+{ENGTEXT: "cocoa with marshmallows ",RUSTEXT: "какао с маршмэллоу",TRANSCRIPT:" "}, 
+
+{ENGTEXT: "coffee  ",RUSTEXT: "кофе",TRANSCRIPT:"ˈkɑfi"}, 
+
+{ENGTEXT: "cold  ",RUSTEXT: "холодный",TRANSCRIPT:"koʊld"}, 
+
+{ENGTEXT: "cold beverages  ",RUSTEXT: "холодные напитки",TRANSCRIPT:"koʊld ˈbɛvrɪʤɪz"}, 
+
+{ENGTEXT: "cranberry juice  ",RUSTEXT: "клюквенный сок",TRANSCRIPT:"ˈkrænˌbɛri ʤus"}, 
+
+{ENGTEXT: "cranberry punch  ",RUSTEXT: "клюквенный пунш",TRANSCRIPT:"ˈkrænˌbɛri pʌnʧ"}, 
+
+{ENGTEXT: "decaffeinated coffee  ",RUSTEXT: "кофе без кофеина",TRANSCRIPT:"diˈkæfəˌneɪtɪd ˈkɑfi"}, 
+
+{ENGTEXT: "drinking water  ",RUSTEXT: "питьевая вода",TRANSCRIPT:"ˈdrɪŋkɪŋ ˈwɔtər"}, 
+
+{ENGTEXT: "earl grey  ",RUSTEXT: "эрл грей",TRANSCRIPT:"ɜrl greɪ"}, 
+
+{ENGTEXT: "eggnog  ",RUSTEXT: "эггног",TRANSCRIPT:"ˈɛgˌnɔg"}, 
+
+{ENGTEXT: "espresso  ",RUSTEXT: "эспрессо",TRANSCRIPT:"ˌɛˈsprɛsoʊ"}, 
+
+{ENGTEXT: "fresh  ",RUSTEXT: "свежевыжатый",TRANSCRIPT:"frɛʃ"}, 
+
+{ENGTEXT: "fruit drink  ",RUSTEXT: "морс",TRANSCRIPT:"frut drɪŋk"}, 
+
+{ENGTEXT: "fruit juices  ",RUSTEXT: "фруктовые соки",TRANSCRIPT:"frut ˈʤusəz"}, 
+
+{ENGTEXT: "fruit nectars  ",RUSTEXT: "фруктовые нектары",TRANSCRIPT:"frut ˈnɛktərz"}, 
+
+{ENGTEXT: "fruit syrups  ",RUSTEXT: "фруктовые сиропы",TRANSCRIPT:"frut ˈsɜrəps"}, 
+
+{ENGTEXT: "fruit tea  ",RUSTEXT: "фруктовый чай",TRANSCRIPT:"frut ti"}, 
+
+{ENGTEXT: "ginger ale  ",RUSTEXT: "имбирный эль",TRANSCRIPT:"ˈʤɪnʤər eɪl"}, 
+
+{ENGTEXT: "ginger tea  ",RUSTEXT: "имбирный чай",TRANSCRIPT:"ˈʤɪnʤər ti"}, 
+
+{ENGTEXT: "ginger wine  ",RUSTEXT: "имбирное вино",TRANSCRIPT:"ˈʤɪnʤər waɪn"}, 
+
+{ENGTEXT: "green tea  ",RUSTEXT: "зелёный чай",TRANSCRIPT:"grin ti"}, 
+
+{ENGTEXT: "herbal tea  ",RUSTEXT: "травяной чай",TRANSCRIPT:"ˈɜrbəl ti"}, 
+
+{ENGTEXT: "hibiscus tea  ",RUSTEXT: "каркаде",TRANSCRIPT:"hɪbˈɪskəs tˈiː"}, 
+
+{ENGTEXT: "honey  ",RUSTEXT: "мёд",TRANSCRIPT:"ˈhʌni"}, 
+
+{ENGTEXT: "hot ",RUSTEXT: "горячий",TRANSCRIPT:"hɑ:t"}, 
+
+{ENGTEXT: "hot beverages  ",RUSTEXT: "горячие напитки",TRANSCRIPT:"hɑt ˈbɛvrɪʤɪz"}, 
+
+{ENGTEXT: "hot chocolate ",RUSTEXT: "горячий шоколад",TRANSCRIPT:"hɑt ˈʧɔklət"}, 
+
+{ENGTEXT: "hot cocoa  ",RUSTEXT: "горячее какао",TRANSCRIPT:"hɑt ˈkoʊkoʊ"}, 
+
+{ENGTEXT: "hot toddy  ",RUSTEXT: "горячий пунш",TRANSCRIPT:"hɑt toddy"}, 
+
+{ENGTEXT: "ice coffee  ",RUSTEXT: "глясе",TRANSCRIPT:"aɪs ˈkɑfi"}, 
+
+{ENGTEXT: "ice cubes  ",RUSTEXT: "кубики льда",TRANSCRIPT:"aɪs kjubz"}, 
+
+{ENGTEXT: "ice tea  ",RUSTEXT: "чай со льдом",TRANSCRIPT:"aɪs ti"}, 
+
+{ENGTEXT: "Irish coffee  ",RUSTEXT: "кофе по-ирландски",TRANSCRIPT:"ˈaɪrɪʃ ˈkɑfi"}, 
+
+{ENGTEXT: "jasmine tea  ",RUSTEXT: "жасминовый чай",TRANSCRIPT:"ˈʤæzmən ti"}, 
+
+{ENGTEXT: "juice  ",RUSTEXT: "сок",TRANSCRIPT:"ʤus"}, 
+
+{ENGTEXT: "latte  ",RUSTEXT: "латте",TRANSCRIPT:"ˈlɑˌteɪ"}, 
+
+{ENGTEXT: "lemon juice  ",RUSTEXT: "лимонный сок",TRANSCRIPT:"ˈlɛmən ʤus"}, 
+
+{ENGTEXT: "lemonade ",RUSTEXT: "лимонад",TRANSCRIPT:"ˈlɛməˈneɪd"}, 
+
+{ENGTEXT: "mandarin juice ",RUSTEXT: "мандариновый сок",TRANSCRIPT:"ˈmændərən ʤus"}, 
+
+{ENGTEXT: "mango juice  ",RUSTEXT: "сок манго",TRANSCRIPT:"ˈmæŋgoʊ ʤus"}, 
+
+{ENGTEXT: "masala chai  ",RUSTEXT: "чай со специями",TRANSCRIPT:"məsˈɑːlə kˈæ"}, 
+
+{ENGTEXT: "milk  ",RUSTEXT: "молоко",TRANSCRIPT:"mɪlk"}, 
+
+{ENGTEXT: "milk tea  ",RUSTEXT: "чай с молоком",TRANSCRIPT:"mɪlk ti"}, 
+
+{ENGTEXT: "milkshake  ",RUSTEXT: "молочный коктейль",TRANSCRIPT:"ˈmɪlkˌʃeɪk"}, 
+
+{ENGTEXT: "mint tea  ",RUSTEXT: "мятный чай",TRANSCRIPT:"mɪnt ti"}, 
+
+{ENGTEXT: "mocaccino  ",RUSTEXT: "мокаччино",TRANSCRIPT:"məkəssˈiːnəʊː"}, 
+
+{ENGTEXT: "mojito  ",RUSTEXT: "мохито",TRANSCRIPT:"mə(ʊ)hiːtəʊ"}, 
+
+{ENGTEXT: "mulled wine  ",RUSTEXT: "глинтвейн",TRANSCRIPT:"mʌld waɪn"}, 
+
+{ENGTEXT: "non-alcoholic drink ",RUSTEXT: "безалкогольный напиток",TRANSCRIPT:" "}, 
+
+{ENGTEXT: "orange juice  ",RUSTEXT: "апельсиновый сок",TRANSCRIPT:"ˈɔrənʤ dʒuːs"}, 
+
+{ENGTEXT: "orange smoothie  ",RUSTEXT: "апельсиновый смузи",TRANSCRIPT:"ˈɔrənʤ smoothie"}, 
+
+{ENGTEXT: "peach tea  ",RUSTEXT: "персиковый чай",TRANSCRIPT:"piʧ ti"}, 
+
+{ENGTEXT: "pineapple juice ",RUSTEXT: "ананасовый сок",TRANSCRIPT:"ˈpaɪˌnæpəl ʤus"}, 
+
+{ENGTEXT: "punch  ",RUSTEXT: "пунш",TRANSCRIPT:"pʌnʧ"}, 
+
+{ENGTEXT: "sangria ",RUSTEXT: "сангрия",TRANSCRIPT:"sˈæŋgrɪəː"}, 
+
+{ENGTEXT: "scented tea  ",RUSTEXT: "ароматизированный чай",TRANSCRIPT:"ˈsɛntɪd ti"}, 
+
+{ENGTEXT: "slushie  ",RUSTEXT: "замороженный напиток",TRANSCRIPT:"slˈʌʃi"}, 
+
+{ENGTEXT: "smoothie  ",RUSTEXT: "смузи",TRANSCRIPT:"smu:ti"}, 
+
+{ENGTEXT: "soda  ",RUSTEXT: "сода",TRANSCRIPT:"ˈsoʊdə"}, 
+
+{ENGTEXT: "soft drink  ",RUSTEXT: "безалкогольный напиток",TRANSCRIPT:"sɑft drɪŋk"}, 
+
+{ENGTEXT: "sparkling water ",RUSTEXT: "газированная вода",TRANSCRIPT:"ˈspɑrklɪŋ ˈwɔtər"}, 
+
+{ENGTEXT: "spiced tea ",RUSTEXT: "пряный чай",TRANSCRIPT:"spaɪst ti"}, 
+
+{ENGTEXT: "squash ",RUSTEXT: "сквош",TRANSCRIPT:"skwɑʃ"}, 
+
+{ENGTEXT: "strawberry juice  ",RUSTEXT: "клубничный сок",TRANSCRIPT:"ˈstrɔˌbɛri ʤus"}, 
+
+{ENGTEXT: "strawberry lemonade ",RUSTEXT: "клубничный лимонад",TRANSCRIPT:"ˈstrɔˌbɛri ˈlɛməˈneɪd"}, 
+
+{ENGTEXT: "strong drink ",RUSTEXT: "крепкий напиток",TRANSCRIPT:"strɔŋ drɪŋk"}, 
+
+{ENGTEXT: "tap water  ",RUSTEXT: "водопроводная вода",TRANSCRIPT:"tæp ˈwɔtər"}, 
+
+{ENGTEXT: "tea  ",RUSTEXT: "чай",TRANSCRIPT:"ti"}, 
+
+{ENGTEXT: "tomato juice  ",RUSTEXT: "томатный сок",TRANSCRIPT:"təˈmeɪˌtoʊ ʤus"}, 
+
+{ENGTEXT: "vanilla latte  ",RUSTEXT: "ванильный латте",TRANSCRIPT:"vəˈnɪlə ˈlɑˌteɪ"}, 
+
+{ENGTEXT: "vanilla syrup  ",RUSTEXT: "ванильный сироп",TRANSCRIPT:"vəˈnɪlə ˈsɜrəp"}, 
+
+{ENGTEXT: "water  ",RUSTEXT: "вода",TRANSCRIPT:"ˈwɔtər"}, 
+
+{ENGTEXT: "whipped cream  ",RUSTEXT: "взбитые сливки",TRANSCRIPT:"wɪpt krim"}, 
+
+{ENGTEXT: "white hot chocolate ",RUSTEXT: "белый горячий шоколад",TRANSCRIPT:" "}, 
+
+{ENGTEXT: "wine  ",RUSTEXT: "вино",TRANSCRIPT:"waɪn"}, 
+
+{ENGTEXT: "yoghurt ",RUSTEXT: "йогурт",TRANSCRIPT:"Yogurt"}, 
+
+{ENGTEXT: "yogurt  ",RUSTEXT: "йогурт",TRANSCRIPT:"ˈjoʊɡərt"}
+  ]
+}

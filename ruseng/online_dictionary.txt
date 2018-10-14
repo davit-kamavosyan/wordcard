@@ -7,7 +7,7 @@
           "items": [
             {
               "title": "Напитки",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/napitki.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0003.jpg",
               "description": "100 слов"
             },
