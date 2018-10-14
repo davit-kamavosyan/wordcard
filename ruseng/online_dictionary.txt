@@ -8,32 +8,20 @@
             {
               "title": "Напитки",
               "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
-              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/drink.jpg",
+              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0003.jpg",
               "description": "100 слов"
             },
             {
-              "title": "Овощи",
+              "title": "Еда",
               "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
-              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
-              "description": "Овощи"
+              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0002.jpg",
+              "description": "100 слов"
             },
             {
-              "title": "Овощи",
+              "title": "Одежда и обувь",
               "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
-              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
-              "description": "Овощи"
-            },
-            {
-              "title": "Овощи",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
-              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
-              "description": "Овощи"
-            },
-            {
-              "title": "Овощи",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
-              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunTOvXM90CBwiqjLUTSqPTidz_P8dQ3hMrdkpi1reJq8lxbMc",
-              "description": "Овощи"
+              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0001.jpeg",
+              "description": "100 слов"
             }
           ]
         }
