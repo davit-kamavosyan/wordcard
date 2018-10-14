@@ -25,6 +25,25 @@
             }
           ]
         }
+      },
+      {
+        "title": "БЫТ И ОБРАЗ ЖИЗНИ",
+        "lib": {
+          "items": [
+            {
+              "title": "Фотография",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0001.jpeg",
+              "description": "100 слов"
+            },
+            {
+              "title": "Музыка",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0002.jpeg",
+              "description": "111 слов"
+            }
+          ]
+        }
       }
     ]
   }
