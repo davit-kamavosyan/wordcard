@@ -1,7 +1,7 @@
 {"onlineId":1,
   "title": "Уровень Starter",  
   "description": "1135 слов",
-  "imageUrl": "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/starter.png",
+  "imageUrl":"https://davit-kamavosyan.github.io/wordcard/images/starter.png",
   
             "words": [
               {
