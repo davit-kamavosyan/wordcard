@@ -5,13 +5,7 @@
         "title": "ПОПУЛЯРНОЕ",
         "lib": {
           "items": [
- 	{
-              "title": "Существительные",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/sushesvitelnie.txt",
-              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0003.jpg",
-              "description": "1491 слов"
-            },
-           {
+            {
               "title": "Напитки",
               "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/napitki.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0003.jpg",
@@ -47,6 +41,31 @@
               "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0002.jpeg",
               "description": "111 слов"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Существительные",
+        "lib": {
+          "items": [
+            {
+              "title": "Существительные 1",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/sushesvitelnie_1.txt",
+              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0003.jpg",
+              "description": "500 слов"
+            },
+            {
+              "title": "Существительные 2",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/sushesvitelnie_2.txt",
+              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0003.jpg",
+              "description": "500 слов"
+            },
+            {
+              "title": "Существительные 3",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/sushesvitelnie_3.txt",
+              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0003.jpg",
+              "description": "491 слов"
             }
           ]
         }

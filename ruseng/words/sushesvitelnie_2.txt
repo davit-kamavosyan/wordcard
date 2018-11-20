@@ -1,0 +1,2510 @@
+{
+  "onlineId": 4,
+  "title": "Существительные 2",
+  "description": "500 слов",
+  "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0003.jpg",
+  
+  "words": [
+    
+    {
+      "ENGTEXT": "spark",
+      "RUSTEXT": "искра",
+      "TRANSCRIPT": "spɑːk"
+    },
+    {
+      "ENGTEXT": "torch",
+      "RUSTEXT": "факел",
+      "TRANSCRIPT": "tɔːtʃ"
+    },
+    {
+      "ENGTEXT": "campfire",
+      "RUSTEXT": "костёр",
+      "TRANSCRIPT": "ˈkæmp.faɪə"
+    },
+    {
+      "ENGTEXT": "fire hose",
+      "RUSTEXT": "шланг",
+      "TRANSCRIPT": "ˈfaɪə.həʊz"
+    },
+    {
+      "ENGTEXT": "fire extinguisher",
+      "RUSTEXT": "огнетушитель",
+      "TRANSCRIPT": "ˈfaɪər.ɪk.ˈstɪŋ.wɪ.ʃə"
+    },
+    {
+      "ENGTEXT": "helmet",
+      "RUSTEXT": "каска",
+      "TRANSCRIPT": "ˈhel.mɪt"
+    },
+    {
+      "ENGTEXT": "rescuer",
+      "RUSTEXT": "спасатель",
+      "TRANSCRIPT": "ˈre.skjuːə"
+    },
+    {
+      "ENGTEXT": "accountant",
+      "RUSTEXT": "бухгалтер",
+      "TRANSCRIPT": "əˈk.aʊn.tənt"
+    },
+    {
+      "ENGTEXT": "employee",
+      "RUSTEXT": "сотрудник",
+      "TRANSCRIPT": "ˌemplo.ɪ.ˈiː"
+    },
+    {
+      "ENGTEXT": "furniture",
+      "RUSTEXT": "мебель",
+      "TRANSCRIPT": "ˈfɜː.nɪ.tʃə"
+    },
+    {
+      "ENGTEXT": "desk",
+      "RUSTEXT": "стол",
+      "TRANSCRIPT": "desk"
+    },
+    {
+      "ENGTEXT": "chest of drawers",
+      "RUSTEXT": "тумбочка",
+      "TRANSCRIPT": "tʃest.əv.drɔːz"
+    },
+    {
+      "ENGTEXT": "jacket",
+      "RUSTEXT": "папка",
+      "TRANSCRIPT": "ˈdʒækɪt"
+    },
+    {
+      "ENGTEXT": "lawyer",
+      "RUSTEXT": "юрист",
+      "TRANSCRIPT": "ˈlɔː.jə"
+    },
+    {
+      "ENGTEXT": "plant",
+      "RUSTEXT": "завод",
+      "TRANSCRIPT": "plɑːnt"
+    },
+    {
+      "ENGTEXT": "factory",
+      "RUSTEXT": "фабрика",
+      "TRANSCRIPT": "ˈfæk.tə.ri"
+    },
+    {
+      "ENGTEXT": "team leader",
+      "RUSTEXT": "бригадир",
+      "TRANSCRIPT": "tiːm.ˈliː.də"
+    },
+    {
+      "ENGTEXT": "worker",
+      "RUSTEXT": "рабочий",
+      "TRANSCRIPT": "ˈwɜːk.ə"
+    },
+    {
+      "ENGTEXT": "loader",
+      "RUSTEXT": "грузчик",
+      "TRANSCRIPT": "ˈləʊ.də"
+    },
+    {
+      "ENGTEXT": "freight car",
+      "RUSTEXT": "вагон (товарный)",
+      "TRANSCRIPT": "freɪt.kɑː"
+    },
+    {
+      "ENGTEXT": "truck",
+      "RUSTEXT": "грузовик",
+      "TRANSCRIPT": "trʌk"
+    },
+    {
+      "ENGTEXT": "machine tool",
+      "RUSTEXT": "станок",
+      "TRANSCRIPT": "mə.ˈʃiːn.tuːl"
+    },
+    {
+      "ENGTEXT": "mechanism",
+      "RUSTEXT": "механизм",
+      "TRANSCRIPT": "ˈmek.ə.nɪ.zəm"
+    },
+    {
+      "ENGTEXT": "token",
+      "RUSTEXT": "жетон",
+      "TRANSCRIPT": "ˈtəʊkən"
+    },
+    {
+      "ENGTEXT": "receiver",
+      "RUSTEXT": "трубка (телефонная)",
+      "TRANSCRIPT": "rɪ.ˈsiː.və"
+    },
+    {
+      "ENGTEXT": "operator",
+      "RUSTEXT": "телефонист, -ка",
+      "TRANSCRIPT": "ˈɒ.pə.reɪ.tə"
+    },
+    {
+      "ENGTEXT": "display",
+      "RUSTEXT": "дисплей",
+      "TRANSCRIPT": "dɪ.ˈspleɪ"
+    },
+    {
+      "ENGTEXT": "button",
+      "RUSTEXT": "кнопка",
+      "TRANSCRIPT": "ˈbʌt.ən"
+    },
+    {
+      "ENGTEXT": "loudspeaker",
+      "RUSTEXT": "громкоговоритель",
+      "TRANSCRIPT": "laʊd.ˈspiːkə"
+    },
+    {
+      "ENGTEXT": "earphones",
+      "RUSTEXT": "наушники",
+      "TRANSCRIPT": "ˈɪə.fəʊnz"
+    },
+    {
+      "ENGTEXT": "hands-free kit",
+      "RUSTEXT": "система громкой связи",
+      "TRANSCRIPT": "hændz.friː.kɪt"
+    },
+    {
+      "ENGTEXT": "anchorman",
+      "RUSTEXT": "ведущий (тв)",
+      "TRANSCRIPT": "ˈænk.ə.mən"
+    },
+    {
+      "ENGTEXT": "newsreader",
+      "RUSTEXT": "диктор",
+      "TRANSCRIPT": "ˈnjuːz.riː.də"
+    },
+    {
+      "ENGTEXT": "press photographer",
+      "RUSTEXT": "фотокорреспондент",
+      "TRANSCRIPT": "pres.fə.ˈtɒ.ɡrə.fə"
+    },
+    {
+      "ENGTEXT": "subscriber",
+      "RUSTEXT": "подписчик",
+      "TRANSCRIPT": "səb.ˈskraɪ.bə"
+    },
+    {
+      "ENGTEXT": "reader",
+      "RUSTEXT": "читатель",
+      "TRANSCRIPT": "ˈriːd.ə"
+    },
+    {
+      "ENGTEXT": "builder",
+      "RUSTEXT": "строитель",
+      "TRANSCRIPT": "ˈbɪl.də"
+    },
+    {
+      "ENGTEXT": "architect",
+      "RUSTEXT": "архитектор",
+      "TRANSCRIPT": "ˈɑːk.ɪ.tekt"
+    },
+    {
+      "ENGTEXT": "scoop, bucket",
+      "RUSTEXT": "ковш",
+      "TRANSCRIPT": "skuːp/ˈbʌkɪt"
+    },
+    {
+      "ENGTEXT": "scientist",
+      "RUSTEXT": "учёный",
+      "TRANSCRIPT": "ˈsaɪən.tɪst"
+    },
+    {
+      "ENGTEXT": "bachelor",
+      "RUSTEXT": "бакалавр",
+      "TRANSCRIPT": "ˈbæ.tʃə.lə"
+    },
+    {
+      "ENGTEXT": "associate professor",
+      "RUSTEXT": "доцент",
+      "TRANSCRIPT": "ə.ˈsəʊ.siət.prə.ˈfe.sə"
+    },
+    {
+      "ENGTEXT": "unemployed",
+      "RUSTEXT": "безработный (сущ.)",
+      "TRANSCRIPT": "ˌʌ.nɪmˈplɔɪd"
+    },
+    {
+      "ENGTEXT": "manager",
+      "RUSTEXT": "заведующий",
+      "TRANSCRIPT": "ˈmæ.nɪ.dʒə"
+    },
+    {
+      "ENGTEXT": "boss",
+      "RUSTEXT": "руководитель, шеф",
+      "TRANSCRIPT": "bɒs"
+    },
+    {
+      "ENGTEXT": "chief",
+      "RUSTEXT": "начальник",
+      "TRANSCRIPT": "tʃiːf"
+    },
+    {
+      "ENGTEXT": "president",
+      "RUSTEXT": "президент",
+      "TRANSCRIPT": "ˈpre.zɪ.dənt"
+    },
+    {
+      "ENGTEXT": "chairman",
+      "RUSTEXT": "председатель",
+      "TRANSCRIPT": "ˈtʃeə.mən"
+    },
+    {
+      "ENGTEXT": "deputy",
+      "RUSTEXT": "заместитель",
+      "TRANSCRIPT": "ˈde.pjʊ.ti"
+    },
+    {
+      "ENGTEXT": "assistant",
+      "RUSTEXT": "помощник",
+      "TRANSCRIPT": "ə.ˈsɪ.stənt"
+    },
+    {
+      "ENGTEXT": "entrepreneur",
+      "RUSTEXT": "предприниматель",
+      "TRANSCRIPT": "ˌɒn.trə.prə.ˈnɜː"
+    },
+    {
+      "ENGTEXT": "associate",
+      "RUSTEXT": "учредитель",
+      "TRANSCRIPT": "ə.ˈsəʊ.siət"
+    },
+    {
+      "ENGTEXT": "shareholder",
+      "RUSTEXT": "акционер",
+      "TRANSCRIPT": "    ˈʃeə.həʊl.də"
+    },
+    {
+      "ENGTEXT": "billionaire",
+      "RUSTEXT": "миллиардер",
+      "TRANSCRIPT": "ˌbɪ.ljə.ˈneə"
+    },
+    {
+      "ENGTEXT": "owner",
+      "RUSTEXT": "собственник",
+      "TRANSCRIPT": "ˈəʊ.nə"
+    },
+    {
+      "ENGTEXT": "owner",
+      "RUSTEXT": "владелец",
+      "TRANSCRIPT": "ˈəʊ.nə"
+    },
+    {
+      "ENGTEXT": "landowner",
+      "RUSTEXT": "землевладелец",
+      "TRANSCRIPT": "ˈlæn.dəʊ.nə"
+    },
+    {
+      "ENGTEXT": "buyer",
+      "RUSTEXT": "покупатель",
+      "TRANSCRIPT": "ˈbaɪə"
+    },
+    {
+      "ENGTEXT": "collector",
+      "RUSTEXT": "инкассатор",
+      "TRANSCRIPT": "kə.ˈlek.tə"
+    },
+    {
+      "ENGTEXT": "guard",
+      "RUSTEXT": "охранник",
+      "TRANSCRIPT": "ɡɑːd"
+    },
+    {
+      "ENGTEXT": "borrower",
+      "RUSTEXT": "заёмщик",
+      "TRANSCRIPT": "ˈbɒr.əʊ.ə"
+    },
+    {
+      "ENGTEXT": "middleman",
+      "RUSTEXT": "посредник",
+      "TRANSCRIPT": "ˈmɪd.əl.mæn"
+    },
+    {
+      "ENGTEXT": "representative",
+      "RUSTEXT": "представитель",
+      "TRANSCRIPT": "ˌre.prɪ.ˈzen.tə.tɪv"
+    },
+    {
+      "ENGTEXT": "insurance agent",
+      "RUSTEXT": "страховой агент",
+      "TRANSCRIPT": "ɪn.ˈʃʊə.rəns.ˈeɪ.dʒənt"
+    },
+    {
+      "ENGTEXT": "cook",
+      "RUSTEXT": "повар",
+      "TRANSCRIPT": "kʊk"
+    },
+    {
+      "ENGTEXT": "driver",
+      "RUSTEXT": "шофёр",
+      "TRANSCRIPT": "ˈdraɪ.və"
+    },
+    {
+      "ENGTEXT": "chambermaid",
+      "RUSTEXT": "горничная",
+      "TRANSCRIPT": "ˈtʃeɪm.bə.meɪd"
+    },
+    {
+      "ENGTEXT": "air hostess",
+      "RUSTEXT": "стюардесса",
+      "TRANSCRIPT": "eə.ˈhəʊ.stɪs"
+    },
+    {
+      "ENGTEXT": "teacher",
+      "RUSTEXT": "учитель",
+      "TRANSCRIPT": "ˈtiː.tʃə"
+    },
+    {
+      "ENGTEXT": "hairdresser",
+      "RUSTEXT": "парикмахер",
+      "TRANSCRIPT": "ˈheə.dre.sə"
+    },
+    {
+      "ENGTEXT": "sales clerk",
+      "RUSTEXT": "продавец",
+      "TRANSCRIPT": "seɪlz.klɑːk"
+    },
+    {
+      "ENGTEXT": "gardener",
+      "RUSTEXT": "садовник",
+      "TRANSCRIPT": "ˈɡɑːd.nə"
+    },
+    {
+      "ENGTEXT": "shoemaker",
+      "RUSTEXT": "сапожник",
+      "TRANSCRIPT": "ˈʃuː.meɪkə"
+    },
+    {
+      "ENGTEXT": "tailor",
+      "RUSTEXT": "портной",
+      "TRANSCRIPT": "ˈteɪ.lə"
+    },
+    {
+      "ENGTEXT": "singer",
+      "RUSTEXT": "певец",
+      "TRANSCRIPT": "ˈsɪŋə"
+    },
+    {
+      "ENGTEXT": "dancer",
+      "RUSTEXT": "танцор",
+      "TRANSCRIPT": "ˈdɑːn.sə"
+    },
+    {
+      "ENGTEXT": "drummer",
+      "RUSTEXT": "барабанщик",
+      "TRANSCRIPT": "ˈdrʌ.mə"
+    },
+    {
+      "ENGTEXT": "conductor",
+      "RUSTEXT": "дирижёр",
+      "TRANSCRIPT": "kən.ˈdʌk.tə"
+    },
+    {
+      "ENGTEXT": "artist",
+      "RUSTEXT": "художник",
+      "TRANSCRIPT": "ˈɑː.tɪst"
+    },
+    {
+      "ENGTEXT": "juggler",
+      "RUSTEXT": "жонглёр",
+      "TRANSCRIPT": "ˈdʒʌ.ɡlə"
+    },
+    {
+      "ENGTEXT": "magician",
+      "RUSTEXT": "фокусник",
+      "TRANSCRIPT": "mə.ˈdʒɪʃ.ən"
+    },
+    {
+      "ENGTEXT": "dentist",
+      "RUSTEXT": "стоматолог",
+      "TRANSCRIPT": "ˈden.tɪst"
+    },
+    {
+      "ENGTEXT": "miner",
+      "RUSTEXT": "шахтёр",
+      "TRANSCRIPT": "ˈmaɪ.nə"
+    },
+    {
+      "ENGTEXT": "seaman",
+      "RUSTEXT": "моряк",
+      "TRANSCRIPT": "ˈsiː.mən"
+    },
+    {
+      "ENGTEXT": "firefighter",
+      "RUSTEXT": "пожарник",
+      "TRANSCRIPT": "ˈfaɪə.faɪ.tə"
+    },
+    {
+      "ENGTEXT": "watchman",
+      "RUSTEXT": "сторож",
+      "TRANSCRIPT": "ˈwɒt.ʃmən"
+    },
+    {
+      "ENGTEXT": "detective",
+      "RUSTEXT": "сыщик",
+      "TRANSCRIPT": "dɪ.ˈtek.tɪv"
+    },
+    {
+      "ENGTEXT": "bodyguard",
+      "RUSTEXT": "телохранитель",
+      "TRANSCRIPT": "ˈbɒ.dɪ.ɡɑːd"
+    },
+    {
+      "ENGTEXT": "clothing stylist",
+      "RUSTEXT": "стилист (по одежде)",
+      "TRANSCRIPT": "ˈkləʊ.ðɪŋ.ˈstaɪ.lɪst"
+    },
+    {
+      "ENGTEXT": "make-up artist",
+      "RUSTEXT": "гримёр",
+      "TRANSCRIPT": "ˈmeɪk.ʌp.ˈɑː.tɪst"
+    },
+    {
+      "ENGTEXT": "hair stylist",
+      "RUSTEXT": "стилист (по причёскам)",
+      "TRANSCRIPT": "heə.ˈstaɪ.lɪst"
+    },
+    {
+      "ENGTEXT": "hammer",
+      "RUSTEXT": "молоток",
+      "TRANSCRIPT": "ˈhæ.mə"
+    },
+    {
+      "ENGTEXT": "screwdriver",
+      "RUSTEXT": "отвёртка",
+      "TRANSCRIPT": "ˈskruː.draɪ.və"
+    },
+    {
+      "ENGTEXT": "ax",
+      "RUSTEXT": "топор",
+      "TRANSCRIPT": "æks"
+    },
+    {
+      "ENGTEXT": "saw",
+      "RUSTEXT": "пила",
+      "TRANSCRIPT": "ˈsɔː"
+    },
+    {
+      "ENGTEXT": "electric drill",
+      "RUSTEXT": "дрель",
+      "TRANSCRIPT": "ɪ.ˈlek.trɪk.drɪl"
+    },
+    {
+      "ENGTEXT": "nail",
+      "RUSTEXT": "гвоздь",
+      "TRANSCRIPT": "neɪl"
+    },
+    {
+      "ENGTEXT": "magnifying glass",
+      "RUSTEXT": "лупа",
+      "TRANSCRIPT": "ˈmæɡ.nɪ.faɪ.ɪŋ.ɡlɑːs"
+    },
+    {
+      "ENGTEXT": "microscope",
+      "RUSTEXT": "микроскоп",
+      "TRANSCRIPT": "ˈmaɪk.rə.skəʊp"
+    },
+    {
+      "ENGTEXT": "pump",
+      "RUSTEXT": "насос",
+      "TRANSCRIPT": "pʌmp"
+    },
+    {
+      "ENGTEXT": "spring",
+      "RUSTEXT": "пружина",
+      "TRANSCRIPT": "sprɪŋ"
+    },
+    {
+      "ENGTEXT": "soldering iron",
+      "RUSTEXT": "паяльник",
+      "TRANSCRIPT": "ˈsɒl.dər.ɪŋ.ˈaɪən"
+    },
+    {
+      "ENGTEXT": "plane",
+      "RUSTEXT": "рубанок",
+      "TRANSCRIPT": "pleɪn"
+    },
+    {
+      "ENGTEXT": "file",
+      "RUSTEXT": "напильник",
+      "TRANSCRIPT": "faɪl"
+    },
+    {
+      "ENGTEXT": "carpenter pincers",
+      "RUSTEXT": "клещи",
+      "TRANSCRIPT": "ˈkɑː.pɪn.tə.ˈpɪn.səz"
+    },
+    {
+      "ENGTEXT": "combination pliers",
+      "RUSTEXT": "плоскогубцы",
+      "TRANSCRIPT": "ˌkɒm.bɪ.ˈneɪʃ.ən.ˈplaɪəz"
+    },
+    {
+      "ENGTEXT": "chisel",
+      "RUSTEXT": "стамеска",
+      "TRANSCRIPT": "ˈtʃɪz.əl"
+    },
+    {
+      "ENGTEXT": "drill bit",
+      "RUSTEXT": "сверло",
+      "TRANSCRIPT": "drɪl.bɪt"
+    },
+    {
+      "ENGTEXT": "pocket knife",
+      "RUSTEXT": "карманный нож",
+      "TRANSCRIPT": "ˈpɒkɪt.naɪf"
+    },
+    {
+      "ENGTEXT": "nut",
+      "RUSTEXT": "гайка",
+      "TRANSCRIPT": "nʌt"
+    },
+    {
+      "ENGTEXT": "screw",
+      "RUSTEXT": "шуруп",
+      "TRANSCRIPT": "skruː"
+    },
+    {
+      "ENGTEXT": "tape measure",
+      "RUSTEXT": "рулетка",
+      "TRANSCRIPT": "teɪp.ˈme.ʒə"
+    },
+    {
+      "ENGTEXT": "press",
+      "RUSTEXT": "пресс",
+      "TRANSCRIPT": "pres"
+    },
+    {
+      "ENGTEXT": "laser",
+      "RUSTEXT": "лазер",
+      "TRANSCRIPT": "ˈleɪ.zə"
+    },
+    {
+      "ENGTEXT": "cord",
+      "RUSTEXT": "шнур (верёвка)",
+      "TRANSCRIPT": "kɔːd"
+    },
+    {
+      "ENGTEXT": "cable",
+      "RUSTEXT": "кабель",
+      "TRANSCRIPT": "ˈkeɪb.əl"
+    },
+    {
+      "ENGTEXT": "wire",
+      "RUSTEXT": "проволока",
+      "TRANSCRIPT": "ˈwaɪə"
+    },
+    {
+      "ENGTEXT": "sledgehammer",
+      "RUSTEXT": "кувалда",
+      "TRANSCRIPT": "ˈsledʒ.hæ.mə"
+    },
+    {
+      "ENGTEXT": "crowbar",
+      "RUSTEXT": "лом",
+      "TRANSCRIPT": "ˈkrəʊ.bɑː"
+    },
+    {
+      "ENGTEXT": "ladder",
+      "RUSTEXT": "лестница (переносная)",
+      "TRANSCRIPT": "ˈlæ.də"
+    },
+    {
+      "ENGTEXT": "stepladder",
+      "RUSTEXT": "стремянка",
+      "TRANSCRIPT": "ˈste.plæ.də"
+    },
+    {
+      "ENGTEXT": "rope",
+      "RUSTEXT": "верёвка",
+      "TRANSCRIPT": "rəʊp"
+    },
+    {
+      "ENGTEXT": "baker",
+      "RUSTEXT": "пекарь, булочник",
+      "TRANSCRIPT": "ˈbeɪkə"
+    },
+    {
+      "ENGTEXT": "headwaiter",
+      "RUSTEXT": "метрдотель",
+      "TRANSCRIPT": "<headwaiter>"
+    },
+    {
+      "ENGTEXT": "lawyer",
+      "RUSTEXT": "адвокат",
+      "TRANSCRIPT": "ˈlɔː.jə"
+    },
+    {
+      "ENGTEXT": "electrician",
+      "RUSTEXT": "монтёр (электрик)",
+      "TRANSCRIPT": "ɪ.ˌlek.ˈtrɪʃ.ən"
+    },
+    {
+      "ENGTEXT": "masseur",
+      "RUSTEXT": "массажист",
+      "TRANSCRIPT": "mæ.ˈsɜː"
+    },
+    {
+      "ENGTEXT": "doorman",
+      "RUSTEXT": "портье",
+      "TRANSCRIPT": "ˈdɔː.mæn"
+    },
+    {
+      "ENGTEXT": "librarian",
+      "RUSTEXT": "библиотекарь",
+      "TRANSCRIPT": "laɪ.ˈbreər.ɪən"
+    },
+    {
+      "ENGTEXT": "translator",
+      "RUSTEXT": "переводчик",
+      "TRANSCRIPT": "trænz.ˈleɪ.tə"
+    },
+    {
+      "ENGTEXT": "interpreter",
+      "RUSTEXT": "переводчик (устный)",
+      "TRANSCRIPT": "ɪn.ˈtɜː.prɪ.tə"
+    },
+    {
+      "ENGTEXT": "guide",
+      "RUSTEXT": "гид (экскурсовод)",
+      "TRANSCRIPT": "ɡaɪd"
+    },
+    {
+      "ENGTEXT": "servant",
+      "RUSTEXT": "слуга",
+      "TRANSCRIPT": "ˈsɜː.vənt"
+    },
+    {
+      "ENGTEXT": "maid",
+      "RUSTEXT": "служанка",
+      "TRANSCRIPT": "meɪd"
+    },
+    {
+      "ENGTEXT": "cleaner",
+      "RUSTEXT": "уборщица",
+      "TRANSCRIPT": "ˈkliː.nə"
+    },
+    {
+      "ENGTEXT": "street vendor",
+      "RUSTEXT": "уличный торговец",
+      "TRANSCRIPT": "striːt.ˈven.də"
+    },
+    {
+      "ENGTEXT": "private",
+      "RUSTEXT": "рядовой",
+      "TRANSCRIPT": "ˈpraɪ.vɪt"
+    },
+    {
+      "ENGTEXT": "colonel",
+      "RUSTEXT": "полковник",
+      "TRANSCRIPT": "ˈkɜːn.əl"
+    },
+    {
+      "ENGTEXT": "soldier",
+      "RUSTEXT": "военный",
+      "TRANSCRIPT": "ˈsəʊl.dʒə"
+    },
+    {
+      "ENGTEXT": "soldier",
+      "RUSTEXT": "солдат",
+      "TRANSCRIPT": "ˈsəʊl.dʒə"
+    },
+    {
+      "ENGTEXT": "border guard",
+      "RUSTEXT": "пограничник",
+      "TRANSCRIPT": "ˈbɔː.də.ɡɑːd"
+    },
+    {
+      "ENGTEXT": "radio operator",
+      "RUSTEXT": "радист",
+      "TRANSCRIPT": "ˈreɪ.dɪəʊ.ˈɒ.pə.reɪ.tə"
+    },
+    {
+      "ENGTEXT": "scout",
+      "RUSTEXT": "разведчик",
+      "TRANSCRIPT": "skaʊt"
+    },
+    {
+      "ENGTEXT": "pioneer",
+      "RUSTEXT": "сапёр",
+      "TRANSCRIPT": "ˌpaɪə.ˈnɪə"
+    },
+    {
+      "ENGTEXT": "marksman",
+      "RUSTEXT": "стрелок",
+      "TRANSCRIPT": "ˈmɑːk.smən"
+    },
+    {
+      "ENGTEXT": "navigator",
+      "RUSTEXT": "штурман",
+      "TRANSCRIPT": "ˈnæ.vɪ.ɡeɪ.tə"
+    },
+    {
+      "ENGTEXT": "ambassador",
+      "RUSTEXT": "посол",
+      "TRANSCRIPT": "æm.ˈbæ.sə.də"
+    },
+    {
+      "ENGTEXT": "councilor",
+      "RUSTEXT": "советник",
+      "TRANSCRIPT": "ˈkaʊn.sə.lə"
+    },
+    {
+      "ENGTEXT": "official",
+      "RUSTEXT": "чиновник",
+      "TRANSCRIPT": "ə.ˈfɪʃ.əl"
+    },
+    {
+      "ENGTEXT": "judge",
+      "RUSTEXT": "судья",
+      "TRANSCRIPT": "dʒʌdʒ"
+    },
+    {
+      "ENGTEXT": "rabbi",
+      "RUSTEXT": "раввин",
+      "TRANSCRIPT": "ˈræ.baɪ"
+    },
+    {
+      "ENGTEXT": "beekeeper",
+      "RUSTEXT": "пчеловод",
+      "TRANSCRIPT": "ˈbi:ˌk.iː.pə"
+    },
+    {
+      "ENGTEXT": "winemaker",
+      "RUSTEXT": "винодел",
+      "TRANSCRIPT": "ˈwaɪn.meɪkə"
+    },
+    {
+      "ENGTEXT": "milkmaid",
+      "RUSTEXT": "доярка",
+      "TRANSCRIPT": "ˈmɪlk.meɪd"
+    },
+    {
+      "ENGTEXT": "combine driver",
+      "RUSTEXT": "комбайнер",
+      "TRANSCRIPT": "kəm.ˈbaɪn.ˈdraɪ.və"
+    },
+    {
+      "ENGTEXT": "blacksmith",
+      "RUSTEXT": "кузнец",
+      "TRANSCRIPT": "ˈblæk.smɪθ"
+    },
+    {
+      "ENGTEXT": "cattle breeder",
+      "RUSTEXT": "животновод",
+      "TRANSCRIPT": "ˈkæt.əl.ˈbriː.də"
+    },
+    {
+      "ENGTEXT": "poultry farmer",
+      "RUSTEXT": "птицевод",
+      "TRANSCRIPT": "ˈpəʊl.tri.ˈfɑː.mə"
+    },
+    {
+      "ENGTEXT": "livestock expert",
+      "RUSTEXT": "зоотехник",
+      "TRANSCRIPT": "ˈlaɪv.stɒk.ˈek.spɜːt"
+    },
+    {
+      "ENGTEXT": "pig-tender",
+      "RUSTEXT": "свинарка",
+      "TRANSCRIPT": "pɪɡ.ˈten.də"
+    },
+    {
+      "ENGTEXT": "artisan, craftsman",
+      "RUSTEXT": "ремесленник",
+      "TRANSCRIPT": "ˌɑː.tɪ.ˈzæn/ˈkrɑːft.smən"
+    },
+    {
+      "ENGTEXT": "potter",
+      "RUSTEXT": "гончар",
+      "TRANSCRIPT": "ˈpɒ.tə"
+    },
+    {
+      "ENGTEXT": "forge, smithy",
+      "RUSTEXT": "кузница",
+      "TRANSCRIPT": "fɔːdʒ/ˈsmɪ.ði"
+    },
+    {
+      "ENGTEXT": "stovemaker",
+      "RUSTEXT": "печник",
+      "TRANSCRIPT": "<stovemaker>"
+    },
+    {
+      "ENGTEXT": "stovemaking",
+      "RUSTEXT": "печное дело",
+      "TRANSCRIPT": "<stovemaking>"
+    },
+    {
+      "ENGTEXT": "weaver",
+      "RUSTEXT": "ткач",
+      "TRANSCRIPT": "ˈwiː.və"
+    },
+    {
+      "ENGTEXT": "herdsman",
+      "RUSTEXT": "пастух",
+      "TRANSCRIPT": "ˈhɜːdz.mən"
+    },
+    {
+      "ENGTEXT": "miller",
+      "RUSTEXT": "мельник",
+      "TRANSCRIPT": "ˈmɪ.lə"
+    },
+    {
+      "ENGTEXT": "singer",
+      "RUSTEXT": "певица",
+      "TRANSCRIPT": "ˈsɪŋə"
+    },
+    {
+      "ENGTEXT": "dancer",
+      "RUSTEXT": "танцовщица",
+      "TRANSCRIPT": "ˈdɑːn.sə"
+    },
+    {
+      "ENGTEXT": "movie director",
+      "RUSTEXT": "режиссёр",
+      "TRANSCRIPT": "ˈmuː.vi.dɪ.ˈrek.tə"
+    },
+    {
+      "ENGTEXT": "scriptwriter",
+      "RUSTEXT": "сценарист",
+      "TRANSCRIPT": "ˈskrɪp.traɪ.tə"
+    },
+    {
+      "ENGTEXT": "writer",
+      "RUSTEXT": "писатель",
+      "TRANSCRIPT": "ˈraɪt.ə"
+    },
+    {
+      "ENGTEXT": "lecturer",
+      "RUSTEXT": "преподаватель",
+      "TRANSCRIPT": "ˈlek.tʃə.rə"
+    },
+    {
+      "ENGTEXT": "driver",
+      "RUSTEXT": "водитель",
+      "TRANSCRIPT": "ˈdraɪ.və"
+    },
+    {
+      "ENGTEXT": "driver",
+      "RUSTEXT": "машинист",
+      "TRANSCRIPT": "ˈdraɪ.və"
+    },
+    {
+      "ENGTEXT": "mechanic",
+      "RUSTEXT": "механик",
+      "TRANSCRIPT": "mɪˈk.æ.nɪk"
+    },
+    {
+      "ENGTEXT": "metalworker",
+      "RUSTEXT": "слесарь",
+      "TRANSCRIPT": "ˈmetl.wɜːkə"
+    },
+    {
+      "ENGTEXT": "turner",
+      "RUSTEXT": "токарь",
+      "TRANSCRIPT": "ˈtɜː.nə"
+    },
+    {
+      "ENGTEXT": "welder",
+      "RUSTEXT": "сварщик",
+      "TRANSCRIPT": "ˈwel.də"
+    },
+    {
+      "ENGTEXT": "constructor",
+      "RUSTEXT": "конструктор",
+      "TRANSCRIPT": "kən.ˈstrʌk.tə"
+    },
+    {
+      "ENGTEXT": "historian",
+      "RUSTEXT": "историк",
+      "TRANSCRIPT": "hɪ.ˈstɔː.rɪən"
+    },
+    {
+      "ENGTEXT": "physicist",
+      "RUSTEXT": "физик",
+      "TRANSCRIPT": "ˈfɪ.zɪ.sɪst"
+    },
+    {
+      "ENGTEXT": "chemist",
+      "RUSTEXT": "химик",
+      "TRANSCRIPT": "ˈke.mɪst"
+    },
+    {
+      "ENGTEXT": "researcher",
+      "RUSTEXT": "исследователь",
+      "TRANSCRIPT": "rɪ.ˈsɜː.tʃə"
+    },
+    {
+      "ENGTEXT": "teacher",
+      "RUSTEXT": "воспитатель (в детском саду)",
+      "TRANSCRIPT": "    ˈtiː.tʃə"
+    },
+    {
+      "ENGTEXT": "teacher",
+      "RUSTEXT": "учитель, педагог",
+      "TRANSCRIPT": "ˈtiː.tʃə"
+    },
+    {
+      "ENGTEXT": "typist",
+      "RUSTEXT": "машинистка",
+      "TRANSCRIPT": "ˈtaɪ.pɪst"
+    },
+    {
+      "ENGTEXT": "designer",
+      "RUSTEXT": "дизайнер",
+      "TRANSCRIPT": "dɪ.ˈzaɪ.nə"
+    },
+    {
+      "ENGTEXT": "diver",
+      "RUSTEXT": "водолаз",
+      "TRANSCRIPT": "ˈdaɪ.və"
+    },
+    {
+      "ENGTEXT": "sailor",
+      "RUSTEXT": "матрос",
+      "TRANSCRIPT": "ˈseɪ.lə"
+    },
+    {
+      "ENGTEXT": "rescuer",
+      "RUSTEXT": "спасатель",
+      "TRANSCRIPT": "ˈre.skjuːə"
+    },
+    {
+      "ENGTEXT": "guard",
+      "RUSTEXT": "охранник (напр, в тюрьме)",
+      "TRANSCRIPT": "ɡɑːd"
+    },
+    {
+      "ENGTEXT": "butcher",
+      "RUSTEXT": "мясник",
+      "TRANSCRIPT": "ˈbʊ.tʃə"
+    },
+    {
+      "ENGTEXT": "businessman",
+      "RUSTEXT": "коммерсант",
+      "TRANSCRIPT": "ˈbɪz.nə.smæn"
+    },
+    {
+      "ENGTEXT": "sorcerer",
+      "RUSTEXT": "колдун",
+      "TRANSCRIPT": "ˈsɔː.sə.rə"
+    },
+    {
+      "ENGTEXT": "sorceress",
+      "RUSTEXT": "колдунья",
+      "TRANSCRIPT": "ˈsɔː.sə.rɪs"
+    },
+    {
+      "ENGTEXT": "slave",
+      "RUSTEXT": "раб",
+      "TRANSCRIPT": "sleɪv"
+    },
+    {
+      "ENGTEXT": "savage",
+      "RUSTEXT": "дикарь",
+      "TRANSCRIPT": "ˈsæ.vɪdʒ"
+    },
+    {
+      "ENGTEXT": "inventor",
+      "RUSTEXT": "изобретатель",
+      "TRANSCRIPT": "ɪn.ˈven.tə"
+    },
+    {
+      "ENGTEXT": "retiree",
+      "RUSTEXT": "пенсионер",
+      "TRANSCRIPT": "rɪ.ˌtaɪə.ˈriː"
+    },
+    {
+      "ENGTEXT": "veteran",
+      "RUSTEXT": "ветеран",
+      "TRANSCRIPT": "ˈve.tə.rən"
+    },
+    {
+      "ENGTEXT": "war veteran",
+      "RUSTEXT": "фронтовик (ветеран)",
+      "TRANSCRIPT": "wɔː.ˈve.tə.rən"
+    },
+    {
+      "ENGTEXT": "spy",
+      "RUSTEXT": "шпион",
+      "TRANSCRIPT": "ˈspaɪ"
+    },
+    {
+      "ENGTEXT": "prisoner",
+      "RUSTEXT": "заключённый",
+      "TRANSCRIPT": "ˈprɪz.nə"
+    },
+    {
+      "ENGTEXT": "bureaucrat",
+      "RUSTEXT": "бюрократ",
+      "TRANSCRIPT": "ˈbjʊə.rə.kræt"
+    },
+    {
+      "ENGTEXT": "traveler",
+      "RUSTEXT": "путешественник",
+      "TRANSCRIPT": "ˈtræ.və.lə"
+    },
+    {
+      "ENGTEXT": "hacker",
+      "RUSTEXT": "хакер",
+      "TRANSCRIPT": "ˈhækə"
+    },
+    {
+      "ENGTEXT": "hit man, killer",
+      "RUSTEXT": "наёмный убийца",
+      "TRANSCRIPT": "hɪt.mæn/ˈkɪ.lə"
+    },
+    {
+      "ENGTEXT": "drug addict",
+      "RUSTEXT": "наркоман",
+      "TRANSCRIPT": "drʌɡ.ˈæ.dɪkt"
+    },
+    {
+      "ENGTEXT": "drug dealer",
+      "RUSTEXT": "торговец наркотиками",
+      "TRANSCRIPT": "drʌɡ.ˈdiː.lə"
+    },
+    {
+      "ENGTEXT": "slave",
+      "RUSTEXT": "раб",
+      "TRANSCRIPT": "sleɪv"
+    },
+    {
+      "ENGTEXT": "soccer",
+      "RUSTEXT": "футбол",
+      "TRANSCRIPT": "ˈsɒkə"
+    },
+    {
+      "ENGTEXT": "swimming",
+      "RUSTEXT": "плавание",
+      "TRANSCRIPT": "ˈswɪm.ɪŋ"
+    },
+    {
+      "ENGTEXT": "fencing",
+      "RUSTEXT": "фехтование",
+      "TRANSCRIPT": "ˈfens.ɪŋ"
+    },
+    {
+      "ENGTEXT": "chess",
+      "RUSTEXT": "шахматы",
+      "TRANSCRIPT": "tʃes"
+    },
+    {
+      "ENGTEXT": "alpinism",
+      "RUSTEXT": "альпинизм",
+      "TRANSCRIPT": "ˈæl.pɪn.ˌɪ.zəm"
+    },
+    {
+      "ENGTEXT": "running",
+      "RUSTEXT": "бег",
+      "TRANSCRIPT": "    ˈrʌn.ɪŋ"
+    },
+    {
+      "ENGTEXT": "car racing",
+      "RUSTEXT": "автогонки",
+      "TRANSCRIPT": "kɑː.ˈreɪs.ɪŋ"
+    },
+    {
+      "ENGTEXT": "cycling",
+      "RUSTEXT": "велоспорт",
+      "TRANSCRIPT": "ˈsaɪk.əl.ɪŋ"
+    },
+    {
+      "ENGTEXT": "discus throw",
+      "RUSTEXT": "метание диска",
+      "TRANSCRIPT": "ˈdɪ.skəs.ˈθrəʊ"
+    },
+    {
+      "ENGTEXT": "javelin throw",
+      "RUSTEXT": "метание копья",
+      "TRANSCRIPT": "ˈdʒæ.vlɪn.ˈθrəʊ"
+    },
+    {
+      "ENGTEXT": "hammer throw",
+      "RUSTEXT": "метание молота",
+      "TRANSCRIPT": "ˈhæ.mə.ˈθrəʊ"
+    },
+    {
+      "ENGTEXT": "shot put",
+      "RUSTEXT": "толкание ядра",
+      "TRANSCRIPT": "ʃɒt.ˈpʊt"
+    },
+    {
+      "ENGTEXT": "cross-country skiing",
+      "RUSTEXT": "лыжные гонки",
+      "TRANSCRIPT": "ˈkrɒsˈk.ʌn.trɪ.ˈskiːɪŋ"
+    },
+    {
+      "ENGTEXT": "barbell",
+      "RUSTEXT": "штанга",
+      "TRANSCRIPT": "ˈbɑː.bel"
+    },
+    {
+      "ENGTEXT": "dumbbells",
+      "RUSTEXT": "гантели",
+      "TRANSCRIPT": "ˈdʌm.belz"
+    },
+    {
+      "ENGTEXT": "bicycle trainer",
+      "RUSTEXT": "велотренажёр",
+      "TRANSCRIPT": "ˈbaɪ.sɪk.əl.ˈtreɪ.nə"
+    },
+    {
+      "ENGTEXT": "horizontal bar",
+      "RUSTEXT": "перекладина",
+      "TRANSCRIPT": "ˌhɒ.rɪ.ˈzɒn.təl.bɑː"
+    },
+    {
+      "ENGTEXT": "jumping rope",
+      "RUSTEXT": "скакалка",
+      "TRANSCRIPT": "ˈdʒʌmp.ɪŋ.rəʊp"
+    },
+    {
+      "ENGTEXT": "puck",
+      "RUSTEXT": "шайба",
+      "TRANSCRIPT": "pʌk"
+    },
+    {
+      "ENGTEXT": "hockey stick",
+      "RUSTEXT": "клюшка",
+      "TRANSCRIPT": "ˈhɒk.i.stɪk"
+    },
+    {
+      "ENGTEXT": "ice skates",
+      "RUSTEXT": "коньки",
+      "TRANSCRIPT": "aɪs.skeɪts"
+    },
+    {
+      "ENGTEXT": "goal",
+      "RUSTEXT": "ворота",
+      "TRANSCRIPT": "ɡəʊl"
+    },
+    {
+      "ENGTEXT": "ball",
+      "RUSTEXT": "мяч",
+      "TRANSCRIPT": "bɔːl"
+    },
+    {
+      "ENGTEXT": "whistle",
+      "RUSTEXT": "свисток",
+      "TRANSCRIPT": "ˈwɪs.əl"
+    },
+    {
+      "ENGTEXT": "net",
+      "RUSTEXT": "сетка",
+      "TRANSCRIPT": "net"
+    },
+    {
+      "ENGTEXT": "scuba",
+      "RUSTEXT": "акваланг",
+      "TRANSCRIPT": "ˈskuː.bə.daɪv.ɪŋ"
+    },
+    {
+      "ENGTEXT": "flippers, fins",
+      "RUSTEXT": "ласты",
+      "TRANSCRIPT": "ˈflɪ.pəz/fɪnz"
+    },
+    {
+      "ENGTEXT": "oar",
+      "RUSTEXT": "весло",
+      "TRANSCRIPT": "ɔː"
+    },
+    {
+      "ENGTEXT": "skis",
+      "RUSTEXT": "лыжи",
+      "TRANSCRIPT": "skiːz"
+    },
+    {
+      "ENGTEXT": "toboggan, sled",
+      "RUSTEXT": "сани",
+      "TRANSCRIPT": "tə.ˈbɒ.ɡən/sled"
+    },
+    {
+      "ENGTEXT": "skating rink, ice rink",
+      "RUSTEXT": "каток",
+      "TRANSCRIPT": "ˈskeɪt.ɪŋ.rɪŋk/aɪs.rɪŋk"
+    },
+    {
+      "ENGTEXT": "skate",
+      "RUSTEXT": "конёк",
+      "TRANSCRIPT": "skeɪt"
+    },
+    {
+      "ENGTEXT": "soccer player",
+      "RUSTEXT": "футболист",
+      "TRANSCRIPT": "ˈsɒkə.ˈpleɪə"
+    },
+    {
+      "ENGTEXT": "goalkeeper",
+      "RUSTEXT": "вратарь",
+      "TRANSCRIPT": "ˈɡəʊlk.iː.pə"
+    },
+    {
+      "ENGTEXT": "swimmer",
+      "RUSTEXT": "пловец",
+      "TRANSCRIPT": "ˈswɪ.mə"
+    },
+    {
+      "ENGTEXT": "wrestler",
+      "RUSTEXT": "борец",
+      "TRANSCRIPT": "ˈre.slə"
+    },
+    {
+      "ENGTEXT": "karateka",
+      "RUSTEXT": "каратист",
+      "TRANSCRIPT": "<karateka>"
+    },
+    {
+      "ENGTEXT": "judoist",
+      "RUSTEXT": "дзюдоист",
+      "TRANSCRIPT": "<judoist>"
+    },
+    {
+      "ENGTEXT": "fencer",
+      "RUSTEXT": "фехтовальщик",
+      "TRANSCRIPT": "ˈfen.sə"
+    },
+    {
+      "ENGTEXT": "chess player",
+      "RUSTEXT": "шахматист",
+      "TRANSCRIPT": "tʃes.ˈpleɪə"
+    },
+    {
+      "ENGTEXT": "alpinist",
+      "RUSTEXT": "альпинист",
+      "TRANSCRIPT": "ˈæl.pɪn.ˌɪst"
+    },
+    {
+      "ENGTEXT": "runner",
+      "RUSTEXT": "бегун",
+      "TRANSCRIPT": "ˈrʌ.nə"
+    },
+    {
+      "ENGTEXT": "rider",
+      "RUSTEXT": "наездник",
+      "TRANSCRIPT": "ˈraɪ.də"
+    },
+    {
+      "ENGTEXT": "figure skater",
+      "RUSTEXT": "фигуристка",
+      "TRANSCRIPT": "ˈfɪ.ɡə.ˈskeɪ.tə"
+    },
+    {
+      "ENGTEXT": "weightlifter",
+      "RUSTEXT": "тяжелоатлет, штангист",
+      "TRANSCRIPT": "ˈweɪt.lɪf.tə"
+    },
+    {
+      "ENGTEXT": "racing driver",
+      "RUSTEXT": "гонщик",
+      "TRANSCRIPT": "ˈreɪs.ɪŋ.ˈdraɪ.və"
+    },
+    {
+      "ENGTEXT": "cyclist",
+      "RUSTEXT": "велосипедист",
+      "TRANSCRIPT": "ˈsaɪ.klɪst"
+    },
+    {
+      "ENGTEXT": "jumper",
+      "RUSTEXT": "прыгун",
+      "TRANSCRIPT": "ˈdʒʌm.pə"
+    },
+    {
+      "ENGTEXT": "rugby",
+      "RUSTEXT": "регби",
+      "TRANSCRIPT": "ˈrʌɡ.bi"
+    },
+    {
+      "ENGTEXT": "athletics",
+      "RUSTEXT": "лёгкая атлетика",
+      "TRANSCRIPT": "æθ.ˈle.tɪks"
+    },
+    {
+      "ENGTEXT": "high jumping",
+      "RUSTEXT": "прыжки в высоту",
+      "TRANSCRIPT": "haɪ.ˈdʒʌmp.ɪŋ"
+    },
+    {
+      "ENGTEXT": "long jumping",
+      "RUSTEXT": "прыжки в длину",
+      "TRANSCRIPT": "ˈlɒŋ.ˈdʒʌmp.ɪŋ"
+    },
+    {
+      "ENGTEXT": "ski jumping",
+      "RUSTEXT": "прыжки с трамплина",
+      "TRANSCRIPT": "skiː.ˈdʒʌmp.ɪŋ"
+    },
+    {
+      "ENGTEXT": "pole vaulting",
+      "RUSTEXT": "прыжки с шестом",
+      "TRANSCRIPT": "pəʊl.ˈvɔːlt.ɪŋ"
+    },
+    {
+      "ENGTEXT": "triple jumping",
+      "RUSTEXT": "тройной прыжок",
+      "TRANSCRIPT": "ˈtrɪp.əl.ˈdʒʌmp.ɪŋ"
+    },
+    {
+      "ENGTEXT": "long-distance running",
+      "RUSTEXT": "бег на длинные дистанции",
+      "TRANSCRIPT": "ˈlɒŋ.dɪst.əns.ˈrʌn.ɪŋ"
+    },
+    {
+      "ENGTEXT": "hurdling",
+      "RUSTEXT": "бег с препятствиями",
+      "TRANSCRIPT": "ˈhɜːd.əl.ɪŋ"
+    },
+    {
+      "ENGTEXT": "Greco-Roman wrestling",
+      "RUSTEXT": "греко-римская борьба",
+      "TRANSCRIPT": "ˌɡrekoˈro.mən.ˈres.əl.ɪŋ"
+    },
+    {
+      "ENGTEXT": "freestyle wrestling",
+      "RUSTEXT": "вольная борьба",
+      "TRANSCRIPT": "ˈfriː.staɪl.ˈres.əl.ɪŋ"
+    },
+    {
+      "ENGTEXT": "kick boxing",
+      "RUSTEXT": "кикбоксинг",
+      "TRANSCRIPT": "kɪk.ˈbɒks.ɪŋ"
+    },
+    {
+      "ENGTEXT": "pro wrestling",
+      "RUSTEXT": "рестлинг",
+      "TRANSCRIPT": "prəʊ.ˈres.əl.ɪŋ"
+    },
+    {
+      "ENGTEXT": "alpine skiing",
+      "RUSTEXT": "горнолыжный спорт",
+      "TRANSCRIPT": "ˈæl.paɪn.ˈskiːɪŋ"
+    },
+    {
+      "ENGTEXT": "freestyle skiing",
+      "RUSTEXT": "фристайл",
+      "TRANSCRIPT": "ˈfriː.staɪl.ˈskiːɪŋ"
+    },
+    {
+      "ENGTEXT": "water polo",
+      "RUSTEXT": "водное поло",
+      "TRANSCRIPT": "ˈwɔː.tə.ˈpəʊ.ləʊ"
+    },
+    {
+      "ENGTEXT": "swimming",
+      "RUSTEXT": "плавание",
+      "TRANSCRIPT": "ˈswɪm.ɪŋ"
+    },
+    {
+      "ENGTEXT": "sailing",
+      "RUSTEXT": "парусный спорт",
+      "TRANSCRIPT": "ˈseɪl.ɪŋ"
+    },
+    {
+      "ENGTEXT": "rowing",
+      "RUSTEXT": "гребля",
+      "TRANSCRIPT": "ˈraʊɪŋ"
+    },
+    {
+      "ENGTEXT": "motor racing",
+      "RUSTEXT": "автогонки",
+      "TRANSCRIPT": "ˈməʊ.tə.ˈreɪs.ɪŋ"
+    },
+    {
+      "ENGTEXT": "car racing",
+      "RUSTEXT": "автоспорт",
+      "TRANSCRIPT": "kɑː.ˈreɪs.ɪŋ"
+    },
+    {
+      "ENGTEXT": "cycling",
+      "RUSTEXT": "велоспорт",
+      "TRANSCRIPT": "ˈsaɪk.əl.ɪŋ"
+    },
+    {
+      "ENGTEXT": "mountaineering",
+      "RUSTEXT": "альпинизм",
+      "TRANSCRIPT": "ˌmaʊn.tɪ.ˈnɪər.ɪŋ"
+    },
+    {
+      "ENGTEXT": "rock climbing",
+      "RUSTEXT": "скалолазание",
+      "TRANSCRIPT": "rɒk.ˈklaɪm.ɪŋ"
+    },
+    {
+      "ENGTEXT": "rafting",
+      "RUSTEXT": "спортивный сплав",
+      "TRANSCRIPT": "ˈrɑːft.ɪŋ"
+    },
+    {
+      "ENGTEXT": "ballooning",
+      "RUSTEXT": "воздухоплавание",
+      "TRANSCRIPT": "bə.ˈluːn.ɪŋ"
+    },
+    {
+      "ENGTEXT": "orienteering",
+      "RUSTEXT": "спортивное ориентирование",
+      "TRANSCRIPT": "ˌɔː.riən.ˈtɪər.ɪŋ"
+    },
+    {
+      "ENGTEXT": "ping-pong",
+      "RUSTEXT": "настольный теннис",
+      "TRANSCRIPT": "ˈpɪŋ.pɒŋ"
+    },
+    {
+      "ENGTEXT": "race walking",
+      "RUSTEXT": "спортивная ходьба",
+      "TRANSCRIPT": "reɪs.ˈwɔːk.ɪŋ"
+    },
+    {
+      "ENGTEXT": "shooting",
+      "RUSTEXT": "стрельба",
+      "TRANSCRIPT": "ˈʃuːt.ɪŋ"
+    },
+    {
+      "ENGTEXT": "archery",
+      "RUSTEXT": "стрельба из лука",
+      "TRANSCRIPT": "ˈɑː.tʃə.ri"
+    },
+    {
+      "ENGTEXT": "pool",
+      "RUSTEXT": "американский бильярд",
+      "TRANSCRIPT": "puːl"
+    },
+    {
+      "ENGTEXT": "weightlifting",
+      "RUSTEXT": "тяжелая атлетика",
+      "TRANSCRIPT": "ˈweɪt.lɪft.ɪŋ"
+    },
+    {
+      "ENGTEXT": "arm wrestling",
+      "RUSTEXT": "армрестлинг",
+      "TRANSCRIPT": "ɑːm.ˈres.əl.ɪŋ"
+    },
+    {
+      "ENGTEXT": "parallel bars",
+      "RUSTEXT": "брусья",
+      "TRANSCRIPT": "ˈpæ.rə.lel.bɑːz"
+    },
+    {
+      "ENGTEXT": "vaulting horse",
+      "RUSTEXT": "конь",
+      "TRANSCRIPT": "ˈvɔːlt.ɪŋ.hɔːs"
+    },
+    {
+      "ENGTEXT": "hockey ice",
+      "RUSTEXT": "лёд",
+      "TRANSCRIPT": "ˈhɒk.i.aɪs"
+    },
+    {
+      "ENGTEXT": "on ice",
+      "RUSTEXT": "на льду",
+      "TRANSCRIPT": "ɒn.aɪs"
+    },
+    {
+      "ENGTEXT": "board",
+      "RUSTEXT": "борт",
+      "TRANSCRIPT": "bɔːd"
+    },
+    {
+      "ENGTEXT": "shot",
+      "RUSTEXT": "бросок (хокк.)",
+      "TRANSCRIPT": "ʃɒt"
+    },
+    {
+      "ENGTEXT": "face-off to",
+      "RUSTEXT": "вбрасывание",
+      "TRANSCRIPT": "feɪs.ɒf.tuː"
+    },
+    {
+      "ENGTEXT": "throw in",
+      "RUSTEXT": "вбрасывать",
+      "TRANSCRIPT": "ˈθrəʊ.ɪn"
+    },
+    {
+      "ENGTEXT": "period",
+      "RUSTEXT": "период (хокк.)",
+      "TRANSCRIPT": "ˈpɪə.rɪəd"
+    },
+    {
+      "ENGTEXT": "substitutes bench",
+      "RUSTEXT": "скамейка запасных",
+      "TRANSCRIPT": "    ˈsʌb.stɪ.tjuːts.bentʃ"
+    },
+    {
+      "ENGTEXT": "sending off",
+      "RUSTEXT": "удаление",
+      "TRANSCRIPT": "    ˈsend.ɪŋ.ɒf"
+    },
+    {
+      "ENGTEXT": "major league",
+      "RUSTEXT": "высшая лига",
+      "TRANSCRIPT": "ˈmeɪ.dʒə.liːɡ"
+    },
+    {
+      "ENGTEXT": "soccer club",
+      "RUSTEXT": "футбольный клуб",
+      "TRANSCRIPT": "ˈsɒkə.klʌb"
+    },
+    {
+      "ENGTEXT": "coach",
+      "RUSTEXT": "тренер",
+      "TRANSCRIPT": "kəʊtʃ"
+    },
+    {
+      "ENGTEXT": "team",
+      "RUSTEXT": "команда",
+      "TRANSCRIPT": "tiːm"
+    },
+    {
+      "ENGTEXT": "team captain",
+      "RUSTEXT": "капитан команды",
+      "TRANSCRIPT": "tiːm.ˈkæp.tɪn"
+    },
+    {
+      "ENGTEXT": "player",
+      "RUSTEXT": "игрок",
+      "TRANSCRIPT": "    ˈpleɪə"
+    },
+    {
+      "ENGTEXT": "substitute",
+      "RUSTEXT": "запасной игрок",
+      "TRANSCRIPT": "ˈsʌb.stɪ.tjuːt"
+    },
+    {
+      "ENGTEXT": "forward",
+      "RUSTEXT": "нападающий",
+      "TRANSCRIPT": "ˈfɔː.wəd"
+    },
+    {
+      "ENGTEXT": "central forward",
+      "RUSTEXT": "центральный нападающий",
+      "TRANSCRIPT": "ˈsen.trəl.ˈfɔː.wəd"
+    },
+    {
+      "ENGTEXT": "bombardier",
+      "RUSTEXT": "бомбардир",
+      "TRANSCRIPT": "ˌbɒm.bə.ˈdɪə"
+    },
+    {
+      "ENGTEXT": "defender, back",
+      "RUSTEXT": "защитник",
+      "TRANSCRIPT": "dɪ.ˈfen.də/ˈbæk"
+    },
+    {
+      "ENGTEXT": "halfback",
+      "RUSTEXT": "полузащитник",
+      "TRANSCRIPT": "ˈhɑːf.bæk"
+    },
+    {
+      "ENGTEXT": "semifinal",
+      "RUSTEXT": "полуфинал",
+      "TRANSCRIPT": "ˌse.mɪ.ˈfaɪn.əl"
+    },
+    {
+      "ENGTEXT": "championship",
+      "RUSTEXT": "чемпионат",
+      "TRANSCRIPT": "ˈtʃæm.pɪən.ʃɪp"
+    },
+    {
+      "ENGTEXT": "period, half",
+      "RUSTEXT": "тайм",
+      "TRANSCRIPT": "ˈpɪə.rɪəd/hɑːf"
+    },
+    {
+      "ENGTEXT": "half-time",
+      "RUSTEXT": "перерыв",
+      "TRANSCRIPT": "hɑːf.ˈtaɪm"
+    },
+    {
+      "ENGTEXT": "goalpost",
+      "RUSTEXT": "штанга",
+      "TRANSCRIPT": "ˈɡəʊl.pəʊst"
+    },
+    {
+      "ENGTEXT": "crossbar",
+      "RUSTEXT": "перекладина (ворот)",
+      "TRANSCRIPT": "ˈkrɒs.bɑː"
+    },
+    {
+      "ENGTEXT": "net",
+      "RUSTEXT": "сетка (ворот)",
+      "TRANSCRIPT": "net"
+    },
+    {
+      "ENGTEXT": "kick",
+      "RUSTEXT": "удар",
+      "TRANSCRIPT": "kɪk"
+    },
+    {
+      "ENGTEXT": "penalty kick",
+      "RUSTEXT": "штрафной удар",
+      "TRANSCRIPT": "ˈpenl.ti.kɪk"
+    },
+    {
+      "ENGTEXT": "corner kick",
+      "RUSTEXT": "угловой удар",
+      "TRANSCRIPT": "ˈkɔː.nə.kɪk"
+    },
+    {
+      "ENGTEXT": "referee",
+      "RUSTEXT": "арбитр",
+      "TRANSCRIPT": "ˌre.fə.ˈriː"
+    },
+    {
+      "ENGTEXT": "foul, misconduct",
+      "RUSTEXT": "нарушение",
+      "TRANSCRIPT": "faʊl/ˌmɪ.skən.ˈdʌkt"
+    },
+    {
+      "ENGTEXT": "disqualification",
+      "RUSTEXT": "дисквалификация",
+      "TRANSCRIPT": "dɪs.ˌkwɒ.lɪ.fɪˈk.eɪʃ.ən"
+    },
+    {
+      "ENGTEXT": "penalty kick",
+      "RUSTEXT": "пенальти",
+      "TRANSCRIPT": "ˈpenl.ti.kɪk"
+    },
+    {
+      "ENGTEXT": "wall",
+      "RUSTEXT": "стенка (футб.)",
+      "TRANSCRIPT": "wɔːl"
+    },
+    {
+      "ENGTEXT": "replacement",
+      "RUSTEXT": "замена",
+      "TRANSCRIPT": "rɪ.ˈpleɪ.smənt"
+    },
+    {
+      "ENGTEXT": "rules",
+      "RUSTEXT": "правила",
+      "TRANSCRIPT": "ruːlz"
+    },
+    {
+      "ENGTEXT": "stand",
+      "RUSTEXT": "трибуна (стадиона)",
+      "TRANSCRIPT": "stænd"
+    },
+    {
+      "ENGTEXT": "scoreboard",
+      "RUSTEXT": "табло",
+      "TRANSCRIPT": "ˈskɔː.bɔːd"
+    },
+    {
+      "ENGTEXT": "score",
+      "RUSTEXT": "счёт (спорт.)",
+      "TRANSCRIPT": "skɔː"
+    },
+    {
+      "ENGTEXT": "defeat",
+      "RUSTEXT": "поражение",
+      "TRANSCRIPT": "dɪ.ˈfiːt"
+    },
+    {
+      "ENGTEXT": "draw",
+      "RUSTEXT": "ничья",
+      "TRANSCRIPT": "drɔː"
+    },
+    {
+      "ENGTEXT": "victory",
+      "RUSTEXT": "победа",
+      "TRANSCRIPT": "ˈvɪk.tə.ri"
+    },
+    {
+      "ENGTEXT": "the best",
+      "RUSTEXT": "лучший",
+      "TRANSCRIPT": "ðə.best"
+    },
+    {
+      "ENGTEXT": "broadcast",
+      "RUSTEXT": "трансляция",
+      "TRANSCRIPT": "ˈbrɔːdk.ɑːst"
+    },
+    {
+      "ENGTEXT": "golfer",
+      "RUSTEXT": "игрок в гольф",
+      "TRANSCRIPT": "ˈɡɒl.fə"
+    },
+    {
+      "ENGTEXT": "hole",
+      "RUSTEXT": "лунка",
+      "TRANSCRIPT": "həʊl"
+    },
+    {
+      "ENGTEXT": "club",
+      "RUSTEXT": "клюшка",
+      "TRANSCRIPT": "klʌb"
+    },
+    {
+      "ENGTEXT": "golf cart",
+      "RUSTEXT": "тележка для клюшек",
+      "TRANSCRIPT": "ɡɒlf.kɑːt"
+    },
+    {
+      "ENGTEXT": "serve",
+      "RUSTEXT": "подача",
+      "TRANSCRIPT": "sɜːv"
+    },
+    {
+      "ENGTEXT": "chess",
+      "RUSTEXT": "шахматы (игра)",
+      "TRANSCRIPT": "tʃes"
+    },
+    {
+      "ENGTEXT": "chessmen",
+      "RUSTEXT": "шахматы (фигуры)",
+      "TRANSCRIPT": "ˈtʃe.smen"
+    },
+    {
+      "ENGTEXT": "chessboard",
+      "RUSTEXT": "шахматная доска",
+      "TRANSCRIPT": "ˈtʃes.bɔːd"
+    },
+    {
+      "ENGTEXT": "chessman",
+      "RUSTEXT": "фигура (шахм.)",
+      "TRANSCRIPT": "ˈtʃe.smæn"
+    },
+    {
+      "ENGTEXT": "White",
+      "RUSTEXT": "белые",
+      "TRANSCRIPT": "waɪt"
+    },
+    {
+      "ENGTEXT": "Black",
+      "RUSTEXT": "чёрные",
+      "TRANSCRIPT": "blæk"
+    },
+    {
+      "ENGTEXT": "pawn",
+      "RUSTEXT": "пешка",
+      "TRANSCRIPT": "pɔːn"
+    },
+    {
+      "ENGTEXT": "bishop",
+      "RUSTEXT": "слон",
+      "TRANSCRIPT": "ˈbɪ.ʃəp"
+    },
+    {
+      "ENGTEXT": "knight",
+      "RUSTEXT": "конь",
+      "TRANSCRIPT": "naɪt"
+    },
+    {
+      "ENGTEXT": "castle",
+      "RUSTEXT": "ладья",
+      "TRANSCRIPT": "ˈkɑːs.əl"
+    },
+    {
+      "ENGTEXT": "queen",
+      "RUSTEXT": "ферзь",
+      "TRANSCRIPT": "kwiːn"
+    },
+    {
+      "ENGTEXT": "move",
+      "RUSTEXT": "ход",
+      "TRANSCRIPT": "muːv"
+    },
+    {
+      "ENGTEXT": "castling",
+      "RUSTEXT": "рокировка (шахм.)",
+      "TRANSCRIPT": "/ˈkɑːs.əl.ɪŋ"
+    },
+    {
+      "ENGTEXT": "check",
+      "RUSTEXT": "шах",
+      "TRANSCRIPT": "tʃek"
+    },
+    {
+      "ENGTEXT": "chess tournament",
+      "RUSTEXT": "шахматный турнир",
+      "TRANSCRIPT": "tʃes.ˈtɔː.nə.mənt"
+    },
+    {
+      "ENGTEXT": "Grand Master",
+      "RUSTEXT": "гроссмейстер",
+      "TRANSCRIPT": "ɡrænd.ˈmɑːst.ə"
+    },
+    {
+      "ENGTEXT": "game",
+      "RUSTEXT": "партия",
+      "TRANSCRIPT": "ɡeɪm"
+    },
+    {
+      "ENGTEXT": "checkers",
+      "RUSTEXT": "шашки",
+      "TRANSCRIPT": "ˈtʃekəz"
+    },
+    {
+      "ENGTEXT": "fight",
+      "RUSTEXT": "бой (в боксе)",
+      "TRANSCRIPT": "faɪt"
+    },
+    {
+      "ENGTEXT": "boxing match",
+      "RUSTEXT": "поединок",
+      "TRANSCRIPT": "ˈbɒks.ɪŋ.mætʃ"
+    },
+    {
+      "ENGTEXT": "punch",
+      "RUSTEXT": "удар",
+      "TRANSCRIPT": "pʌntʃ"
+    },
+    {
+      "ENGTEXT": "lightweight",
+      "RUSTEXT": "легкий вес",
+      "TRANSCRIPT": "ˈlaɪ.tweɪt"
+    },
+    {
+      "ENGTEXT": "middleweight",
+      "RUSTEXT": "средний вес",
+      "TRANSCRIPT": "ˈmɪd.əl.weɪt"
+    },
+    {
+      "ENGTEXT": "heavyweight",
+      "RUSTEXT": "тяжелый вес",
+      "TRANSCRIPT": "ˈhe.vɪ.weɪt"
+    },
+    {
+      "ENGTEXT": "stroke",
+      "RUSTEXT": "стиль (в плавании)",
+      "TRANSCRIPT": "strəʊk"
+    },
+    {
+      "ENGTEXT": "breaststroke",
+      "RUSTEXT": "брасс",
+      "TRANSCRIPT": "ˈbres.strəʊk"
+    },
+    {
+      "ENGTEXT": "backstroke",
+      "RUSTEXT": "плавание на спине",
+      "TRANSCRIPT": "    ˈbæk.strəʊk"
+    },
+    {
+      "ENGTEXT": "springboard diving",
+      "RUSTEXT": "прыжки с трамплина",
+      "TRANSCRIPT": "ˈsprɪŋ.bɔːd.ˈdaɪv.ɪŋ"
+    },
+    {
+      "ENGTEXT": "diving tower",
+      "RUSTEXT": "вышка для прыжков",
+      "TRANSCRIPT": "ˈdaɪv.ɪŋ.ˈtaʊə"
+    },
+    {
+      "ENGTEXT": "springboard",
+      "RUSTEXT": "трамплин",
+      "TRANSCRIPT": "ˈsprɪŋ.bɔːd"
+    },
+    {
+      "ENGTEXT": "scuba diver",
+      "RUSTEXT": "дайвер",
+      "TRANSCRIPT": "ˈskuː.bə.daɪv.ɪŋ.ˈdaɪ.və"
+    },
+    {
+      "ENGTEXT": "snorkel",
+      "RUSTEXT": "трубка",
+      "TRANSCRIPT": "ˈsnɔːk.əl"
+    },
+    {
+      "ENGTEXT": "hood",
+      "RUSTEXT": "шлем",
+      "TRANSCRIPT": "hʊd"
+    },
+    {
+      "ENGTEXT": "wet suit",
+      "RUSTEXT": "гидрокостюм",
+      "TRANSCRIPT": "wet.suːt"
+    },
+    {
+      "ENGTEXT": "harpoon gun",
+      "RUSTEXT": "подводное ружьё",
+      "TRANSCRIPT": "hɑː.ˈpuːn.ɡʌn"
+    },
+    {
+      "ENGTEXT": "harpoon",
+      "RUSTEXT": "гарпун",
+      "TRANSCRIPT": "hɑː.ˈpuːn"
+    },
+    {
+      "ENGTEXT": "sailing",
+      "RUSTEXT": "парусный спорт",
+      "TRANSCRIPT": "ˈseɪl.ɪŋ"
+    },
+    {
+      "ENGTEXT": "sailboard",
+      "RUSTEXT": "доска с парусом",
+      "TRANSCRIPT": "<sailboard>"
+    },
+    {
+      "ENGTEXT": "sculling",
+      "RUSTEXT": "парная гребля",
+      "TRANSCRIPT": "ˈskʌl.ɪŋ"
+    },
+    {
+      "ENGTEXT": "water polo",
+      "RUSTEXT": "водное поло",
+      "TRANSCRIPT": "ˈwɔː.tə.ˈpəʊ.ləʊ"
+    },
+    {
+      "ENGTEXT": "ski station",
+      "RUSTEXT": "лыжная станция",
+      "TRANSCRIPT": "skiː.ˈsteɪʃ.ən"
+    },
+    {
+      "ENGTEXT": "alpine skiing",
+      "RUSTEXT": "горные лыжи (спорт)",
+      "TRANSCRIPT": "ˈæl.paɪn.ˈskiːɪŋ"
+    },
+    {
+      "ENGTEXT": "alpine skier",
+      "RUSTEXT": "горнолыжник",
+      "TRANSCRIPT": "ˈæl.paɪn.ˈskiːə"
+    },
+    {
+      "ENGTEXT": "ski lift",
+      "RUSTEXT": "подъёмник",
+      "TRANSCRIPT": "skiː.lɪft"
+    },
+    {
+      "ENGTEXT": "slope",
+      "RUSTEXT": "склон",
+      "TRANSCRIPT": "sləʊp"
+    },
+    {
+      "ENGTEXT": "slalom",
+      "RUSTEXT": "слалом",
+      "TRANSCRIPT": "ˈslɑː.ləm"
+    },
+    {
+      "ENGTEXT": "skates",
+      "RUSTEXT": "коньки",
+      "TRANSCRIPT": "skeɪts"
+    },
+    {
+      "ENGTEXT": "blade",
+      "RUSTEXT": "лезвие",
+      "TRANSCRIPT": "bleɪd"
+    },
+    {
+      "ENGTEXT": "speed skater",
+      "RUSTEXT": "конькобежец",
+      "TRANSCRIPT": "spiːd.ˈskeɪ.tə"
+    },
+    {
+      "ENGTEXT": "skis",
+      "RUSTEXT": "лыжи",
+      "TRANSCRIPT": "skiːz"
+    },
+    {
+      "ENGTEXT": "skier",
+      "RUSTEXT": "лыжник",
+      "TRANSCRIPT": "ˈskiːə"
+    },
+    {
+      "ENGTEXT": "on skis",
+      "RUSTEXT": "на лыжах",
+      "TRANSCRIPT": "ɒn.skiːz"
+    },
+    {
+      "ENGTEXT": "ski run, ski track",
+      "RUSTEXT": "лыжня",
+      "TRANSCRIPT": "skiː.rʌn/skiː.træk"
+    },
+    {
+      "ENGTEXT": "ski wax",
+      "RUSTEXT": "лыжная мазь",
+      "TRANSCRIPT": "skiː.wæks"
+    },
+    {
+      "ENGTEXT": "ski sticks",
+      "RUSTEXT": "палки (лыжные)",
+      "TRANSCRIPT": "skiː.stɪks"
+    },
+    {
+      "ENGTEXT": "ski jump",
+      "RUSTEXT": "трамплин",
+      "TRANSCRIPT": "skiː.dʒʌmp"
+    },
+    {
+      "ENGTEXT": "first place",
+      "RUSTEXT": "первое место",
+      "TRANSCRIPT": "ˈfɜːst.ˈpleɪs"
+    },
+    {
+      "ENGTEXT": "second place",
+      "RUSTEXT": "второе место",
+      "TRANSCRIPT": "ˈsek.ənd.ˈpleɪs"
+    },
+    {
+      "ENGTEXT": "trophy",
+      "RUSTEXT": "трофей",
+      "TRANSCRIPT": "ˈtrəʊ.fi"
+    },
+    {
+      "ENGTEXT": "cup",
+      "RUSTEXT": "кубок",
+      "TRANSCRIPT": "kʌp"
+    },
+    {
+      "ENGTEXT": "main prize",
+      "RUSTEXT": "главный приз",
+      "TRANSCRIPT": "meɪn.praɪz"
+    },
+    {
+      "ENGTEXT": "opponent, rival",
+      "RUSTEXT": "противник",
+      "TRANSCRIPT": "ə.ˈpəʊ.nənt/ˈraɪ.vəl"
+    },
+    {
+      "ENGTEXT": "defeat",
+      "RUSTEXT": "поражение (проигрыш)",
+      "TRANSCRIPT": "dɪ.ˈfiːt"
+    },
+    {
+      "ENGTEXT": "loser",
+      "RUSTEXT": "проигравший",
+      "TRANSCRIPT": "ˈluː.zə"
+    },
+    {
+      "ENGTEXT": "referee",
+      "RUSTEXT": "судья",
+      "TRANSCRIPT": "ˌre.fə.ˈriː"
+    },
+    {
+      "ENGTEXT": "score",
+      "RUSTEXT": "счёт",
+      "TRANSCRIPT": "skɔː"
+    },
+    {
+      "ENGTEXT": "point",
+      "RUSTEXT": "очко",
+      "TRANSCRIPT": "pɔɪnt"
+    },
+    {
+      "ENGTEXT": "period",
+      "RUSTEXT": "тайм,период",
+      "TRANSCRIPT": "ˈpɪə.rɪəd"
+    },
+    {
+      "ENGTEXT": "apparatus",
+      "RUSTEXT": "снаряд (спорт.)",
+      "TRANSCRIPT": "ˌæ.pə.ˈreɪ.təs"
+    },
+    {
+      "ENGTEXT": "javelin",
+      "RUSTEXT": "копьё (спорт.)",
+      "TRANSCRIPT": "ˈdʒæ.vlɪn"
+    },
+    {
+      "ENGTEXT": "shot",
+      "RUSTEXT": "шар (бильярдный и т.п.)",
+      "TRANSCRIPT": "ʃɒt"
+    },
+    {
+      "ENGTEXT": "ball",
+      "RUSTEXT": "цель (при стрельбе)",
+      "TRANSCRIPT": "bɔːl"
+    },
+    {
+      "ENGTEXT": "target",
+      "RUSTEXT": "мишень",
+      "TRANSCRIPT": "ˈtɑː.ɡɪt"
+    },
+    {
+      "ENGTEXT": "precise",
+      "RUSTEXT": "точный (попадание)",
+      "TRANSCRIPT": "prɪ.ˈsaɪs"
+    },
+    {
+      "ENGTEXT": "training",
+      "RUSTEXT": "тренировка",
+      "TRANSCRIPT": "ˈtreɪn.ɪŋ"
+    },
+    {
+      "ENGTEXT": "gym",
+      "RUSTEXT": "спортзал",
+      "TRANSCRIPT": "dʒɪm"
+    },
+    {
+      "ENGTEXT": "exercise",
+      "RUSTEXT": "упражнение",
+      "TRANSCRIPT": "ˈek.sə.saɪz"
+    },
+    {
+      "ENGTEXT": "warm-up",
+      "RUSTEXT": "разминка",
+      "TRANSCRIPT": "ˈwɔː.ˌməp"
+    },
+    {
+      "ENGTEXT": "pupil",
+      "RUSTEXT": "ученик (младших классов)",
+      "TRANSCRIPT": "ˈpjuːp.əl"
+    },
+    {
+      "ENGTEXT": "student",
+      "RUSTEXT": "ученик (старших классов)",
+      "TRANSCRIPT": "ˈstjuːdnt"
+    },
+    {
+      "ENGTEXT": "schoolboy",
+      "RUSTEXT": "школьник",
+      "TRANSCRIPT": "ˈskuːl.bɔɪ"
+    },
+    {
+      "ENGTEXT": "schoolgirl",
+      "RUSTEXT": "школьница",
+      "TRANSCRIPT": "ˈskuːl.ɡɜːl"
+    },
+    {
+      "ENGTEXT": "schoolchildren",
+      "RUSTEXT": "школьники",
+      "TRANSCRIPT": "ˈskuːl.tʃɪl.drən"
+    },
+    {
+      "ENGTEXT": "school boarder",
+      "RUSTEXT": "пансионер",
+      "TRANSCRIPT": "skuːl.ˈbɔː.də"
+    },
+    {
+      "ENGTEXT": "desk",
+      "RUSTEXT": "парта",
+      "TRANSCRIPT": "desk"
+    },
+    {
+      "ENGTEXT": "blackboard",
+      "RUSTEXT": "доска (школьная)",
+      "TRANSCRIPT": "ˈblæk.bɔːd"
+    },
+    {
+      "ENGTEXT": "chalk",
+      "RUSTEXT": "мел",
+      "TRANSCRIPT": "tʃɔːk"
+    },
+    {
+      "ENGTEXT": "piece of chalk",
+      "RUSTEXT": "кусок мела",
+      "TRANSCRIPT": "piːs.əv.tʃɔːk"
+    },
+    {
+      "ENGTEXT": "schoolbag",
+      "RUSTEXT": "портфель",
+      "TRANSCRIPT": "<schoolbag>"
+    },
+    {
+      "ENGTEXT": "exercise book",
+      "RUSTEXT": "тетрадь",
+      "TRANSCRIPT": "ˈek.sə.saɪz.bʊk"
+    },
+    {
+      "ENGTEXT": "textbook",
+      "RUSTEXT": "учебник",
+      "TRANSCRIPT": "ˈteks.bʊk"
+    },
+    {
+      "ENGTEXT": "compasses",
+      "RUSTEXT": "циркуль",
+      "TRANSCRIPT": "ˈkʌm.pə.sɪz"
+    },
+    {
+      "ENGTEXT": "report card",
+      "RUSTEXT": "дневник",
+      "TRANSCRIPT": "rɪ.ˈpɔːt.kɑːd"
+    },
+    {
+      "ENGTEXT": "felt pen",
+      "RUSTEXT": "фломастер",
+      "TRANSCRIPT": "felt.pen"
+    },
+    {
+      "ENGTEXT": "highlighter",
+      "RUSTEXT": "маркер",
+      "TRANSCRIPT": "ˈhaɪ.laɪ.tə"
+    },
+    {
+      "ENGTEXT": "pencil-sharpener",
+      "RUSTEXT": "точилка",
+      "TRANSCRIPT": "ˈpensl.ˌʃɑːp.nə"
+    },
+    {
+      "ENGTEXT": "ticket office",
+      "RUSTEXT": "билетная касса",
+      "TRANSCRIPT": "ˈtɪkɪt.ˈɒf.ɪs"
+    },
+    {
+      "ENGTEXT": "binoculars",
+      "RUSTEXT": "бинокль",
+      "TRANSCRIPT": "bɪ.ˈnɒ.kjʊ.ləz"
+    },
+    {
+      "ENGTEXT": "usher",
+      "RUSTEXT": "контролёр",
+      "TRANSCRIPT": "ˈʌ.ʃə"
+    },
+    {
+      "ENGTEXT": "movies",
+      "RUSTEXT": "кино (искусство)",
+      "TRANSCRIPT": "ˈmuː.vɪz"
+    },
+    {
+      "ENGTEXT": "movie",
+      "RUSTEXT": "кино, фильм",
+      "TRANSCRIPT": "ˈmuː.vi"
+    },
+    {
+      "ENGTEXT": "cameraman",
+      "RUSTEXT": "оператор",
+      "TRANSCRIPT": "ˈkæ.mə.rə.mæn"
+    },
+    {
+      "ENGTEXT": "stuntman",
+      "RUSTEXT": "каскадёр",
+      "TRANSCRIPT": "ˈstʌnt.mæn"
+    },
+    {
+      "ENGTEXT": "make-up man",
+      "RUSTEXT": "гримёр",
+      "TRANSCRIPT": "ˈmeɪk.ʌp.mæn"
+    },
+    {
+      "ENGTEXT": "screen",
+      "RUSTEXT": "экран",
+      "TRANSCRIPT": "skriːn"
+    },
+    {
+      "ENGTEXT": "picture",
+      "RUSTEXT": "картина",
+      "TRANSCRIPT": "ˈpɪk.tʃə"
+    },
+    {
+      "ENGTEXT": "drawing",
+      "RUSTEXT": "рисунок",
+      "TRANSCRIPT": "ˈdrɔːɪŋ"
+    },
+    {
+      "ENGTEXT": "stained-glass",
+      "RUSTEXT": "витраж",
+      "TRANSCRIPT": "steɪnd.ɡlɑːs"
+    },
+    {
+      "ENGTEXT": "engraving",
+      "RUSTEXT": "гравюра",
+      "TRANSCRIPT": "ɪn.ˈɡreɪv.ɪŋ"
+    },
+    {
+      "ENGTEXT": "landscape",
+      "RUSTEXT": "пейзаж (картина)",
+      "TRANSCRIPT": "ˈlænd.skeɪp"
+    },
+    {
+      "ENGTEXT": "still life",
+      "RUSTEXT": "натюрморт",
+      "TRANSCRIPT": "stɪl.laɪf"
+    },
+    {
+      "ENGTEXT": "caricature",
+      "RUSTEXT": "карикатура",
+      "TRANSCRIPT": "ˈkæ.rɪk.ə.tʃʊə"
+    },
+    {
+      "ENGTEXT": "sketch",
+      "RUSTEXT": "набросок, эскиз",
+      "TRANSCRIPT": "sketʃ"
+    },
+    {
+      "ENGTEXT": "watercolor",
+      "RUSTEXT": "акварель (краска)",
+      "TRANSCRIPT": "ˈwɒ.tərˌk.ə.lə"
+    },
+    {
+      "ENGTEXT": "Indian ink",
+      "RUSTEXT": "тушь (для письма, рисования)",
+      "TRANSCRIPT": "ˈɪn.dɪən.ɪŋk"
+    },
+    {
+      "ENGTEXT": "charcoal",
+      "RUSTEXT": "уголь",
+      "TRANSCRIPT": "ˈtʃɑːk.əʊl"
+    },
+    {
+      "ENGTEXT": "artist's model",
+      "RUSTEXT": "натурщик",
+      "TRANSCRIPT": "ˈɑː.təsts.ˈmɒd.əl"
+    },
+    {
+      "ENGTEXT": "artist's model",
+      "RUSTEXT": "натурщица",
+      "TRANSCRIPT": "ˈɑː.təsts.ˈmɒd.əl"
+    },
+    {
+      "ENGTEXT": "easel",
+      "RUSTEXT": "мольберт",
+      "TRANSCRIPT": "ˈiːz.əl"
+    },
+    {
+      "ENGTEXT": "frame",
+      "RUSTEXT": "рама (картины)",
+      "TRANSCRIPT": "freɪm"
+    },
+    {
+      "ENGTEXT": "big top",
+      "RUSTEXT": "цирк-шапито",
+      "TRANSCRIPT": "bɪɡ.tɒp"
+    },
+    {
+      "ENGTEXT": "trampoline",
+      "RUSTEXT": "батут",
+      "TRANSCRIPT": "ˈtræm.pə.liːn"
+    },
+    {
+      "ENGTEXT": "somersault",
+      "RUSTEXT": "сальто",
+      "TRANSCRIPT": "ˈsʌ.mə.sɔːlt"
+    },
+    {
+      "ENGTEXT": "animal-tamer",
+      "RUSTEXT": "укротитель",
+      "TRANSCRIPT": "ˈæ.nɪm.əl.ˈteɪ.mə"
+    },
+    {
+      "ENGTEXT": "animal trainer",
+      "RUSTEXT": "дрессировщик",
+      "TRANSCRIPT": "ˈæ.nɪm.əl.ˈtreɪ.nə"
+    },
+    {
+      "ENGTEXT": "violin",
+      "RUSTEXT": "скрипка",
+      "TRANSCRIPT": "ˌvaɪə.ˈlɪn"
+    },
+    {
+      "ENGTEXT": "drum",
+      "RUSTEXT": "барабан",
+      "TRANSCRIPT": "drʌm"
+    },
+    {
+      "ENGTEXT": "sticks",
+      "RUSTEXT": "палочки",
+      "TRANSCRIPT": "stɪks"
+    },
+    {
+      "ENGTEXT": "harp",
+      "RUSTEXT": "арфа",
+      "TRANSCRIPT": "hɑːp"
+    },
+    {
+      "ENGTEXT": "sheet music",
+      "RUSTEXT": "ноты",
+      "TRANSCRIPT": "ʃiːt.ˈmjuː.zɪk"
+    },
+    {
+      "ENGTEXT": "baton",
+      "RUSTEXT": "палочка (дирижёрская)",
+      "TRANSCRIPT": "ˈbæ.tɒn"
+    },
+    {
+      "ENGTEXT": "bow",
+      "RUSTEXT": "смычок",
+      "TRANSCRIPT": "baʊ"
+    },
+    {
+      "ENGTEXT": "string",
+      "RUSTEXT": "струна",
+      "TRANSCRIPT": "strɪŋ"
+    },
+    {
+      "ENGTEXT": "case",
+      "RUSTEXT": "футляр",
+      "TRANSCRIPT": "keɪs"
+    },
+    {
+      "ENGTEXT": "tuning fork",
+      "RUSTEXT": "камертон",
+      "TRANSCRIPT": "ˈtjuːn.ɪŋ.fɔːk"
+    },
+    {
+      "ENGTEXT": "grand piano",
+      "RUSTEXT": "рояль",
+      "TRANSCRIPT": "ɡrænd.pɪ.ˈæ.nəʊ"
+    },
+    {
+      "ENGTEXT": "bugle",
+      "RUSTEXT": "горн",
+      "TRANSCRIPT": "ˈbjuːɡ.əl"
+    },
+    {
+      "ENGTEXT": "cymbals",
+      "RUSTEXT": "тарелки",
+      "TRANSCRIPT": "ˈsɪm.bəlz"
+    },
+    {
+      "ENGTEXT": "airplane",
+      "RUSTEXT": "самолёт",
+      "TRANSCRIPT": "ˈeə.pleɪn"
+    },
+    {
+      "ENGTEXT": "map",
+      "RUSTEXT": "карта (географ.)",
+      "TRANSCRIPT": "mæp"
+    },
+    {
+      "ENGTEXT": "area",
+      "RUSTEXT": "местность",
+      "TRANSCRIPT": "ˈeə.riə"
+    },
+    {
+      "ENGTEXT": "chambermaid",
+      "RUSTEXT": "горничная",
+      "TRANSCRIPT": "ˈtʃeɪm.bə.meɪd"
+    },
+    {
+      "ENGTEXT": "porter, bellboy",
+      "RUSTEXT": "носильщик",
+      "TRANSCRIPT": "ˈpɔː.tə/ˈbel.bɔɪ"
+    },
+    {
+      "ENGTEXT": "doorman",
+      "RUSTEXT": "портье",
+      "TRANSCRIPT": "ˈdɔː.mæn"
+    },
+    {
+      "ENGTEXT": "elevator operator",
+      "RUSTEXT": "лифтёр (в гостинице)",
+      "TRANSCRIPT": "ˈe.lɪ.veɪ.tər.ˈɒ.pə.reɪ.tə"
+    },
+    {
+      "ENGTEXT": "book",
+      "RUSTEXT": "книга",
+      "TRANSCRIPT": "bʊk"
+    },
+    {
+      "ENGTEXT": "e-book",
+      "RUSTEXT": "электронная книга",
+      "TRANSCRIPT": "iː.bʊk"
+    },
+    {
+      "ENGTEXT": "e-book reader",
+      "RUSTEXT": "букридер",
+      "TRANSCRIPT": "iː.bʊk.ˈriːd.ə"
+    },
+    {
+      "ENGTEXT": "device",
+      "RUSTEXT": "устройство",
+      "TRANSCRIPT": "dɪ.ˈvaɪs"
+    },
+    {
+      "ENGTEXT": "hunter",
+      "RUSTEXT": "охотник",
+      "TRANSCRIPT": "ˈhʌn.tə"
+    },
+    {
+      "ENGTEXT": "rifle",
+      "RUSTEXT": "ружьё",
+      "TRANSCRIPT": "ˈraɪ.fəl"
+    },
+    {
+      "ENGTEXT": "bullet, cartridge",
+      "RUSTEXT": "патрон",
+      "TRANSCRIPT": "ˈbʊ.lɪt/ˈkɑː.trɪdʒ"
+    },
+    {
+      "ENGTEXT": "shot",
+      "RUSTEXT": "дробь",
+      "TRANSCRIPT": "ʃɒt"
+    }
+  ]
+}

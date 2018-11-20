@@ -1,0 +1,2509 @@
+{
+  "onlineId": 3,
+  "title": "Существительные 1",
+  "description": "500 слов",
+  "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0003.jpg",
+  
+  "words": [
+    {
+      "ENGTEXT": "tomato",
+      "RUSTEXT": "помидор",
+      "TRANSCRIPT": "tə.ˈmɑː.təʊ"
+    },
+    {
+      "ENGTEXT": "cucumber",
+      "RUSTEXT": "огурец",
+      "TRANSCRIPT": "ˈkjuːk.ʌm.bə"
+    },
+    {
+      "ENGTEXT": "carrot",
+      "RUSTEXT": "морковь",
+      "TRANSCRIPT": "ˈkæ.rət"
+    },
+    {
+      "ENGTEXT": "potato",
+      "RUSTEXT": "картофель",
+      "TRANSCRIPT": "pə.ˈteɪ.təʊ"
+    },
+    {
+      "ENGTEXT": "onion",
+      "RUSTEXT": "лук (луковица)",
+      "TRANSCRIPT": "    ˈʌn.jən"
+    },
+    {
+      "ENGTEXT": "garlic",
+      "RUSTEXT": "чеснок",
+      "TRANSCRIPT": "ˈɡɑː.lɪk"
+    },
+    {
+      "ENGTEXT": "cabbage",
+      "RUSTEXT": "капуста",
+      "TRANSCRIPT": "ˈkæ.bɪdʒ"
+    },
+    {
+      "ENGTEXT": "beetroot",
+      "RUSTEXT": "свёкла",
+      "TRANSCRIPT": "ˈbiː.truːt"
+    },
+    {
+      "ENGTEXT": "eggplant",
+      "RUSTEXT": "баклажан",
+      "TRANSCRIPT": "ˈeɡ.plɑːnt"
+    },
+    {
+      "ENGTEXT": "squash",
+      "RUSTEXT": "кабачок",
+      "TRANSCRIPT": "skwɒʃ"
+    },
+    {
+      "ENGTEXT": "pumpkin",
+      "RUSTEXT": "тыква",
+      "TRANSCRIPT": "ˈpʌmpkɪn"
+    },
+    {
+      "ENGTEXT": "turnip",
+      "RUSTEXT": "репа",
+      "TRANSCRIPT": "ˈtɜː.nɪp"
+    },
+    {
+      "ENGTEXT": "parsley",
+      "RUSTEXT": "петрушка",
+      "TRANSCRIPT": "ˈpɑː.sli"
+    },
+    {
+      "ENGTEXT": "dill",
+      "RUSTEXT": "укроп",
+      "TRANSCRIPT": "dɪl"
+    },
+    {
+      "ENGTEXT": "lettuce",
+      "RUSTEXT": "салат",
+      "TRANSCRIPT": "ˈle.tɪs"
+    },
+    {
+      "ENGTEXT": "pea",
+      "RUSTEXT": "горох",
+      "TRANSCRIPT": "piː"
+    },
+    {
+      "ENGTEXT": "corn",
+      "RUSTEXT": "кукуруза",
+      "TRANSCRIPT": "kɔːn"
+    },
+    {
+      "ENGTEXT": "kidney bean",
+      "RUSTEXT": "фасоль",
+      "TRANSCRIPT": "ˈkɪd.ni.biːn"
+    },
+    {
+      "ENGTEXT": "salt",
+      "RUSTEXT": "соль",
+      "TRANSCRIPT": "sɔːlt"
+    },
+    {
+      "ENGTEXT": "pepper",
+      "RUSTEXT": "перец",
+      "TRANSCRIPT": "    ˈpe.pə"
+    },
+    {
+      "ENGTEXT": "mustard",
+      "RUSTEXT": "горчица",
+      "TRANSCRIPT": "ˈmʌ.stəd"
+    },
+    {
+      "ENGTEXT": "horseradish",
+      "RUSTEXT": "хрен",
+      "TRANSCRIPT": "ˈhɔː.sræ.dɪʃ"
+    },
+    {
+      "ENGTEXT": "oil",
+      "RUSTEXT": "масло растительное",
+      "TRANSCRIPT": "ɔɪl"
+    },
+    {
+      "ENGTEXT": "sunflower oil",
+      "RUSTEXT": "подсолнечное масло",
+      "TRANSCRIPT": "ˈsʌn.flaʊər.ɔɪl"
+    },
+    {
+      "ENGTEXT": "olive oil",
+      "RUSTEXT": "масло оливковое",
+      "TRANSCRIPT": "ˈɒ.lɪv.ɔɪl"
+    },
+    {
+      "ENGTEXT": "butter",
+      "RUSTEXT": "сливочное масло",
+      "TRANSCRIPT": "ˈbʌt.ə"
+    },
+    {
+      "ENGTEXT": "vinegar",
+      "RUSTEXT": "уксус",
+      "TRANSCRIPT": "ˈvɪ.nɪ.ɡə"
+    },
+    {
+      "ENGTEXT": "cloves",
+      "RUSTEXT": "гвоздика",
+      "TRANSCRIPT": "kləʊvz"
+    },
+    {
+      "ENGTEXT": "ginger",
+      "RUSTEXT": "имбирь",
+      "TRANSCRIPT": "ˈdʒɪn.dʒə"
+    },
+    {
+      "ENGTEXT": "sesame",
+      "RUSTEXT": "кунжут",
+      "TRANSCRIPT": "ˈse.sə.mi"
+    },
+    {
+      "ENGTEXT": "apple",
+      "RUSTEXT": "яблоко",
+      "TRANSCRIPT": "ˈæp.əl"
+    },
+    {
+      "ENGTEXT": "pear",
+      "RUSTEXT": "груша",
+      "TRANSCRIPT": "peə"
+    },
+    {
+      "ENGTEXT": "orange",
+      "RUSTEXT": "апельсин",
+      "TRANSCRIPT": "ˈɒ.rɪndʒ"
+    },
+    {
+      "ENGTEXT": "strawberry",
+      "RUSTEXT": "клубника",
+      "TRANSCRIPT": "ˈstrɔː.bri"
+    },
+    {
+      "ENGTEXT": "plum",
+      "RUSTEXT": "слива",
+      "TRANSCRIPT": "plʌm"
+    },
+    {
+      "ENGTEXT": "peach",
+      "RUSTEXT": "персик",
+      "TRANSCRIPT": "piːtʃ"
+    },
+    {
+      "ENGTEXT": "apricot",
+      "RUSTEXT": "абрикос",
+      "TRANSCRIPT": "ˈeɪ.prɪkɒt"
+    },
+    {
+      "ENGTEXT": "raspberry",
+      "RUSTEXT": "малина",
+      "TRANSCRIPT": "ˈrɑːz.bə.ri"
+    },
+    {
+      "ENGTEXT": "pineapple",
+      "RUSTEXT": "ананас",
+      "TRANSCRIPT": "ˈpaɪ.næp.əl"
+    },
+    {
+      "ENGTEXT": "banana",
+      "RUSTEXT": "банан",
+      "TRANSCRIPT": "bə.ˈnɑː.nə"
+    },
+    {
+      "ENGTEXT": "watermelon",
+      "RUSTEXT": "арбуз",
+      "TRANSCRIPT": "ˈwɔː.tə.me.lən"
+    },
+    {
+      "ENGTEXT": "grapes",
+      "RUSTEXT": "виноград",
+      "TRANSCRIPT": "ɡreɪps"
+    },
+    {
+      "ENGTEXT": "cherry",
+      "RUSTEXT": "черешня",
+      "TRANSCRIPT": "ˈtʃe.ri"
+    },
+    {
+      "ENGTEXT": "cherry",
+      "RUSTEXT": "вишня",
+      "TRANSCRIPT": "ˈtʃe.ri"
+    },
+    {
+      "ENGTEXT": "melon",
+      "RUSTEXT": "дыня",
+      "TRANSCRIPT": "ˈme.lən"
+    },
+    {
+      "ENGTEXT": "pomegranate",
+      "RUSTEXT": "гранат",
+      "TRANSCRIPT": "ˈpɒ.mɪ.ɡræ.nɪt"
+    },
+    {
+      "ENGTEXT": "cowberry",
+      "RUSTEXT": "брусника",
+      "TRANSCRIPT": "ˈkaʊ.bə.rɪ"
+    },
+    {
+      "ENGTEXT": "bilberry",
+      "RUSTEXT": "черника",
+      "TRANSCRIPT": "ˈbɪl.bə.ri"
+    },
+    {
+      "ENGTEXT": "raisin",
+      "RUSTEXT": "изюм",
+      "TRANSCRIPT": "ˈreɪz.ən"
+    },
+    {
+      "ENGTEXT": "fig",
+      "RUSTEXT": "инжир",
+      "TRANSCRIPT": "fɪɡ"
+    },
+    {
+      "ENGTEXT": "date",
+      "RUSTEXT": "финик",
+      "TRANSCRIPT": "deɪt"
+    },
+    {
+      "ENGTEXT": "peanut",
+      "RUSTEXT": "арахис",
+      "TRANSCRIPT": "ˈpiː.nʌt"
+    },
+    {
+      "ENGTEXT": "almond",
+      "RUSTEXT": "миндаль",
+      "TRANSCRIPT": "ˈɑː.mənd"
+    },
+    {
+      "ENGTEXT": "walnut",
+      "RUSTEXT": "орех (грецкий)",
+      "TRANSCRIPT": "ˈwɔːl.nʌt"
+    },
+    {
+      "ENGTEXT": "hazelnut",
+      "RUSTEXT": "орех (лесной)",
+      "TRANSCRIPT": "ˈheɪzl.nʌt"
+    },
+    {
+      "ENGTEXT": "jam, preserve",
+      "RUSTEXT": "варенье",
+      "TRANSCRIPT": "dʒæm/prɪ.ˈzɜːv"
+    },
+    {
+      "ENGTEXT": "candy",
+      "RUSTEXT": "конфета",
+      "TRANSCRIPT": "ˈkæn.di"
+    },
+    {
+      "ENGTEXT": "cookie",
+      "RUSTEXT": "печенье",
+      "TRANSCRIPT": "ˈkʊk.i"
+    },
+    {
+      "ENGTEXT": "pie",
+      "RUSTEXT": "пирог",
+      "TRANSCRIPT": "paɪ"
+    },
+    {
+      "ENGTEXT": "donut",
+      "RUSTEXT": "пончик",
+      "TRANSCRIPT": "ˈdəʊ.nʌt"
+    },
+    {
+      "ENGTEXT": "cake",
+      "RUSTEXT": "пирожное",
+      "TRANSCRIPT": "keɪk"
+    },
+    {
+      "ENGTEXT": "sugar",
+      "RUSTEXT": "сахар",
+      "TRANSCRIPT": "ˈʃʊ.ɡə"
+    },
+    {
+      "ENGTEXT": "ice-cream",
+      "RUSTEXT": "мороженое",
+      "TRANSCRIPT": "aɪs.ˈkriːm"
+    },
+    {
+      "ENGTEXT": "popsicle",
+      "RUSTEXT": "эскимо",
+      "TRANSCRIPT": "ˈpɑːp.sɪkəl"
+    },
+    {
+      "ENGTEXT": "honey",
+      "RUSTEXT": "мёд",
+      "TRANSCRIPT": "ˈhʌ.ni"
+    },
+    {
+      "ENGTEXT": "sugar-candy",
+      "RUSTEXT": "леденец",
+      "TRANSCRIPT": "ˌʃʊ.ɡə.ˈkæn.di"
+    },
+    {
+      "ENGTEXT": "bread",
+      "RUSTEXT": "хлеб",
+      "TRANSCRIPT": "bred"
+    },
+    {
+      "ENGTEXT": "white  bread",
+      "RUSTEXT": "белый хлеб",
+      "TRANSCRIPT": "waɪt.bred"
+    },
+    {
+      "ENGTEXT": "small roll",
+      "RUSTEXT": "булочка",
+      "TRANSCRIPT": "smɔːl.rəʊl"
+    },
+    {
+      "ENGTEXT": "pancake",
+      "RUSTEXT": "блинчик",
+      "TRANSCRIPT": "ˈpænk.eɪk"
+    },
+    {
+      "ENGTEXT": "cheese tart",
+      "RUSTEXT": "ватрушка",
+      "TRANSCRIPT": "tʃiːz.tɑːt"
+    },
+    {
+      "ENGTEXT": "sandwich",
+      "RUSTEXT": "бутерброд",
+      "TRANSCRIPT": "ˈsæn.wɪdʒ"
+    },
+    {
+      "ENGTEXT": "bread roll",
+      "RUSTEXT": "хлебец",
+      "TRANSCRIPT": "bred.rəʊl"
+    },
+    {
+      "ENGTEXT": "oven",
+      "RUSTEXT": "духовка",
+      "TRANSCRIPT": "ˈʌv.ən"
+    },
+    {
+      "ENGTEXT": "microwave oven",
+      "RUSTEXT": "микроволновая печь",
+      "TRANSCRIPT": "ˈmaɪk.rə.weɪv.ˈʌv.ən"
+    },
+    {
+      "ENGTEXT": "fridge",
+      "RUSTEXT": "холодильник",
+      "TRANSCRIPT": "frɪdʒ"
+    },
+    {
+      "ENGTEXT": "freezer",
+      "RUSTEXT": "морозильник",
+      "TRANSCRIPT": "ˈfriː.zə"
+    },
+    {
+      "ENGTEXT": "meat grinder",
+      "RUSTEXT": "мясорубка",
+      "TRANSCRIPT": "miːt.ˈɡraɪn.də"
+    },
+    {
+      "ENGTEXT": "squeezer",
+      "RUSTEXT": "соковыжималка",
+      "TRANSCRIPT": "ˈskwiː.zə"
+    },
+    {
+      "ENGTEXT": "saucepan",
+      "RUSTEXT": "кастрюля",
+      "TRANSCRIPT": "ˈsɔː.spən"
+    },
+    {
+      "ENGTEXT": "fry-pan, skillet",
+      "RUSTEXT": "сковорода",
+      "TRANSCRIPT": "ˈfraɪ.pæn/ˈskɪ.lɪt"
+    },
+    {
+      "ENGTEXT": "sheet pan",
+      "RUSTEXT": "противень",
+      "TRANSCRIPT": "ʃiːt.pæn"
+    },
+    {
+      "ENGTEXT": "sieve, sifter",
+      "RUSTEXT": "сито, ситечко",
+      "TRANSCRIPT": "sɪv/ˈsɪf.tə"
+    },
+    {
+      "ENGTEXT": "funnel",
+      "RUSTEXT": "воронка",
+      "TRANSCRIPT": "ˈfʌn.əl"
+    },
+    {
+      "ENGTEXT": "grater",
+      "RUSTEXT": "тёрка",
+      "TRANSCRIPT": "    ˈɡreɪ.tə"
+    },
+    {
+      "ENGTEXT": "can opener",
+      "RUSTEXT": "консервный нож",
+      "TRANSCRIPT": "kən.ˈəʊ.pə.nə"
+    },
+    {
+      "ENGTEXT": "corkscrew",
+      "RUSTEXT": "штопор",
+      "TRANSCRIPT": "ˈkɔːk.skruː"
+    },
+    {
+      "ENGTEXT": "chopping board",
+      "RUSTEXT": "разделочная доска",
+      "TRANSCRIPT": "ˈtʃɒp.ɪŋ.bɔːd"
+    },
+    {
+      "ENGTEXT": "rolling pin",
+      "RUSTEXT": "скалка",
+      "TRANSCRIPT": "ˈrəʊl.ɪŋ.pɪn"
+    },
+    {
+      "ENGTEXT": "barbecue grill",
+      "RUSTEXT": "гриль, мангал",
+      "TRANSCRIPT": "ˈbɑː.bɪ.kjuː.ɡrɪl"
+    },
+    {
+      "ENGTEXT": "small pot",
+      "RUSTEXT": "горшочек",
+      "TRANSCRIPT": "smɔːl.pɒt"
+    },
+    {
+      "ENGTEXT": "apron",
+      "RUSTEXT": "фартук",
+      "TRANSCRIPT": "ˈeɪ.prən"
+    },
+    {
+      "ENGTEXT": "spoon",
+      "RUSTEXT": "ложка",
+      "TRANSCRIPT": "spuːn"
+    },
+    {
+      "ENGTEXT": "knife",
+      "RUSTEXT": "нож",
+      "TRANSCRIPT": "naɪf"
+    },
+    {
+      "ENGTEXT": "fork",
+      "RUSTEXT": "вилка",
+      "TRANSCRIPT": "fɔːk"
+    },
+    {
+      "ENGTEXT": "plate",
+      "RUSTEXT": "тарелка",
+      "TRANSCRIPT": "pleɪt"
+    },
+    {
+      "ENGTEXT": "saucer",
+      "RUSTEXT": "блюдце",
+      "TRANSCRIPT": "ˈsɔː.sə"
+    },
+    {
+      "ENGTEXT": "salad bowl",
+      "RUSTEXT": "салатница (большая)",
+      "TRANSCRIPT": "ˈsæ.ləd.bəʊl"
+    },
+    {
+      "ENGTEXT": "soup tureen",
+      "RUSTEXT": "супница",
+      "TRANSCRIPT": "suːp.tjʊ.ˈriːn"
+    },
+    {
+      "ENGTEXT": "serving dish",
+      "RUSTEXT": "поднос (овальная тарелка)",
+      "TRANSCRIPT": "ˈsɜːv.ɪŋ.dɪʃ"
+    },
+    {
+      "ENGTEXT": "cup",
+      "RUSTEXT": "чашка",
+      "TRANSCRIPT": "kʌp"
+    },
+    {
+      "ENGTEXT": "glass",
+      "RUSTEXT": "рюмка",
+      "TRANSCRIPT": "ɡlɑːs"
+    },
+    {
+      "ENGTEXT": "butter dish",
+      "RUSTEXT": "маслёнка",
+      "TRANSCRIPT": "ˈbʌt.ə.dɪʃ"
+    },
+    {
+      "ENGTEXT": "sugar bowl",
+      "RUSTEXT": "сахарница",
+      "TRANSCRIPT": "    ˈʃʊ.ɡə.bəʊl"
+    },
+    {
+      "ENGTEXT": "pepper shaker",
+      "RUSTEXT": "перечница",
+      "TRANSCRIPT": "ˈpe.pə.ˈʃeɪkə"
+    },
+    {
+      "ENGTEXT": "salt shaker",
+      "RUSTEXT": "солонка",
+      "TRANSCRIPT": "sɔːlt.ˈʃeɪkə"
+    },
+    {
+      "ENGTEXT": "napkin",
+      "RUSTEXT": "салфетка",
+      "TRANSCRIPT": "ˈnæpkɪn"
+    },
+    {
+      "ENGTEXT": "toothpick",
+      "RUSTEXT": "зубочистка",
+      "TRANSCRIPT": "ˈtuːθ.pɪk"
+    },
+    {
+      "ENGTEXT": "straw",
+      "RUSTEXT": "соломинка",
+      "TRANSCRIPT": "strɔː"
+    },
+    {
+      "ENGTEXT": "meat",
+      "RUSTEXT": "мясо",
+      "TRANSCRIPT": "miːt"
+    },
+    {
+      "ENGTEXT": "chicken",
+      "RUSTEXT": "курица",
+      "TRANSCRIPT": "ˈtʃɪkɪn"
+    },
+    {
+      "ENGTEXT": "sausage",
+      "RUSTEXT": "сосиска",
+      "TRANSCRIPT": "ˈsɒ.sɪdʒ"
+    },
+    {
+      "ENGTEXT": "young chicken",
+      "RUSTEXT": "цыплёнок",
+      "TRANSCRIPT": "jʌŋ.ˈtʃɪkɪn"
+    },
+    {
+      "ENGTEXT": "sausage",
+      "RUSTEXT": "колбаса",
+      "TRANSCRIPT": "ˈsɒ.sɪdʒ"
+    },
+    {
+      "ENGTEXT": "ham",
+      "RUSTEXT": "ветчина",
+      "TRANSCRIPT": "hæm"
+    },
+    {
+      "ENGTEXT": "gammon",
+      "RUSTEXT": "окорок",
+      "TRANSCRIPT": "ˈɡæ.mən"
+    },
+    {
+      "ENGTEXT": "haunch",
+      "RUSTEXT": "окорок",
+      "TRANSCRIPT": "hɔːntʃ"
+    },
+    {
+      "ENGTEXT": "pate",
+      "RUSTEXT": "паштет",
+      "TRANSCRIPT": "peɪt"
+    },
+    {
+      "ENGTEXT": "kidneys",
+      "RUSTEXT": "почки",
+      "TRANSCRIPT": "ˈkɪd.nɪz"
+    },
+    {
+      "ENGTEXT": "winglets",
+      "RUSTEXT": "крылышки",
+      "TRANSCRIPT": "<winglets>"
+    },
+    {
+      "ENGTEXT": "filling",
+      "RUSTEXT": "фарш",
+      "TRANSCRIPT": "    ˈfɪl.ɪŋ"
+    },
+    {
+      "ENGTEXT": "steak",
+      "RUSTEXT": "бифштекс",
+      "TRANSCRIPT": "steɪk"
+    },
+    {
+      "ENGTEXT": "piglet",
+      "RUSTEXT": "поросёнок",
+      "TRANSCRIPT": "ˈpɪ.ɡlɪt"
+    },
+    {
+      "ENGTEXT": "fish",
+      "RUSTEXT": "рыба",
+      "TRANSCRIPT": "fɪʃ"
+    },
+    {
+      "ENGTEXT": "caviar",
+      "RUSTEXT": "икра",
+      "TRANSCRIPT": "ˈkæ.vɪɑː"
+    },
+    {
+      "ENGTEXT": "shark",
+      "RUSTEXT": "акула",
+      "TRANSCRIPT": "ʃɑːk"
+    },
+    {
+      "ENGTEXT": "pike",
+      "RUSTEXT": "щука",
+      "TRANSCRIPT": "paɪk"
+    },
+    {
+      "ENGTEXT": "herring",
+      "RUSTEXT": "сельдь",
+      "TRANSCRIPT": "ˈher.ɪŋ"
+    },
+    {
+      "ENGTEXT": "shrimp",
+      "RUSTEXT": "креветка",
+      "TRANSCRIPT": "ʃrɪmp"
+    },
+    {
+      "ENGTEXT": "squid",
+      "RUSTEXT": "кальмар",
+      "TRANSCRIPT": "skwɪd"
+    },
+    {
+      "ENGTEXT": "octopus",
+      "RUSTEXT": "осьминог",
+      "TRANSCRIPT": "ˈɒk.tə.pəs"
+    },
+    {
+      "ENGTEXT": "mussels",
+      "RUSTEXT": "мидии",
+      "TRANSCRIPT": "ˈmʌs.əlz"
+    },
+    {
+      "ENGTEXT": "eel",
+      "RUSTEXT": "угорь",
+      "TRANSCRIPT": "iːl"
+    },
+    {
+      "ENGTEXT": "trout",
+      "RUSTEXT": "форель",
+      "TRANSCRIPT": "traʊt"
+    },
+    {
+      "ENGTEXT": "oyster",
+      "RUSTEXT": "устрица",
+      "TRANSCRIPT": "ˈɔɪ.stə"
+    },
+    {
+      "ENGTEXT": "milk",
+      "RUSTEXT": "молоко",
+      "TRANSCRIPT": "mɪlk"
+    },
+    {
+      "ENGTEXT": "sour cream",
+      "RUSTEXT": "сметана",
+      "TRANSCRIPT": "ˈsaʊə.kriːm"
+    },
+    {
+      "ENGTEXT": "lactic cheese",
+      "RUSTEXT": "творог",
+      "TRANSCRIPT": "ˈlæk.tɪk.tʃiːz"
+    },
+    {
+      "ENGTEXT": "ice cream",
+      "RUSTEXT": "мороженое",
+      "TRANSCRIPT": "aɪs.kriːm"
+    },
+    {
+      "ENGTEXT": "cheese",
+      "RUSTEXT": "сыр",
+      "TRANSCRIPT": "tʃiːz"
+    },
+    {
+      "ENGTEXT": "egg",
+      "RUSTEXT": "яйцо",
+      "TRANSCRIPT": "eɡ"
+    },
+    {
+      "ENGTEXT": "deep-fried eggs",
+      "RUSTEXT": "яичница",
+      "TRANSCRIPT": "diːp.fraɪd.eɡz"
+    },
+    {
+      "ENGTEXT": "water",
+      "RUSTEXT": "вода",
+      "TRANSCRIPT": "ˈwɔː.tə"
+    },
+    {
+      "ENGTEXT": "ice",
+      "RUSTEXT": "лёд",
+      "TRANSCRIPT": "aɪs"
+    },
+    {
+      "ENGTEXT": "juice",
+      "RUSTEXT": "сок",
+      "TRANSCRIPT": "dʒuːs"
+    },
+    {
+      "ENGTEXT": "lemonade",
+      "RUSTEXT": "лимонад",
+      "TRANSCRIPT": "ˌle.mə.ˈneɪd"
+    },
+    {
+      "ENGTEXT": "tea",
+      "RUSTEXT": "чай",
+      "TRANSCRIPT": "tiː"
+    },
+    {
+      "ENGTEXT": "mulled wine",
+      "RUSTEXT": "глинтвейн",
+      "TRANSCRIPT": "mʌld.waɪn"
+    },
+    {
+      "ENGTEXT": "assorted vegetables",
+      "RUSTEXT": "рагу из овощей",
+      "TRANSCRIPT": "ə.ˈsɔː.tɪd.ˈve.dʒɪ.təb.əlz"
+    },
+    {
+      "ENGTEXT": "Russian salad",
+      "RUSTEXT": "винегрет",
+      "TRANSCRIPT": "ˈrʌ.ʃən.ˈsæ.ləd"
+    },
+    {
+      "ENGTEXT": "lecso",
+      "RUSTEXT": "лечо",
+      "TRANSCRIPT": "<lecso>"
+    },
+    {
+      "ENGTEXT": "clear soup",
+      "RUSTEXT": "бульон",
+      "TRANSCRIPT": "klɪə.suːp"
+    },
+    {
+      "ENGTEXT": "puree, puree",
+      "RUSTEXT": "пюре",
+      "TRANSCRIPT": "ˈpjʊə.reɪ/ˈpjʊə.reɪ"
+    },
+    {
+      "ENGTEXT": "pasta",
+      "RUSTEXT": "макароны",
+      "TRANSCRIPT": "ˈpæ.stə"
+    },
+    {
+      "ENGTEXT": "hot cereal",
+      "RUSTEXT": "каша",
+      "TRANSCRIPT": "hɒt.ˈsɪə.rɪəl"
+    },
+    {
+      "ENGTEXT": "Russian cucumber soup",
+      "RUSTEXT": "рассольник",
+      "TRANSCRIPT": "ˈrʌ.ʃən.ˈkjuːk.ʌm.bə.suːp"
+    },
+    {
+      "ENGTEXT": "noodles",
+      "RUSTEXT": "лапша",
+      "TRANSCRIPT": "ˈnuːd.əlz"
+    },
+    {
+      "ENGTEXT": "waiter",
+      "RUSTEXT": "официант",
+      "TRANSCRIPT": "ˈweɪ.tə"
+    },
+    {
+      "ENGTEXT": "waitress",
+      "RUSTEXT": "официантка",
+      "TRANSCRIPT": "ˈweɪ.trɪs"
+    },
+    {
+      "ENGTEXT": "bartender",
+      "RUSTEXT": "бармен",
+      "TRANSCRIPT": "ˈbɑː.ten.də"
+    },
+    {
+      "ENGTEXT": "wine list",
+      "RUSTEXT": "карта вин",
+      "TRANSCRIPT": "waɪn.lɪst"
+    },
+    {
+      "ENGTEXT": "check",
+      "RUSTEXT": "счёт",
+      "TRANSCRIPT": "tʃek"
+    },
+    {
+      "ENGTEXT": "can",
+      "RUSTEXT": "банка(жестяная)",
+      "TRANSCRIPT": "kæn"
+    },
+    {
+      "ENGTEXT": "bucket",
+      "RUSTEXT": "ведро",
+      "TRANSCRIPT": "ˈbʌkɪt"
+    },
+    {
+      "ENGTEXT": "barrel",
+      "RUSTEXT": "бочка",
+      "TRANSCRIPT": "ˈbæ.rəl"
+    },
+    {
+      "ENGTEXT": "basin",
+      "RUSTEXT": "таз",
+      "TRANSCRIPT": "ˈbeɪs.ən"
+    },
+    {
+      "ENGTEXT": "tank",
+      "RUSTEXT": "бак",
+      "TRANSCRIPT": "tæŋk"
+    },
+    {
+      "ENGTEXT": "flask",
+      "RUSTEXT": "фляжка",
+      "TRANSCRIPT": "flɑːsk"
+    },
+    {
+      "ENGTEXT": "jerry can",
+      "RUSTEXT": "канистра",
+      "TRANSCRIPT": "ˈdʒe.ri.kæn"
+    },
+    {
+      "ENGTEXT": "mug",
+      "RUSTEXT": "кружка",
+      "TRANSCRIPT": "mʌɡ"
+    },
+    {
+      "ENGTEXT": "glass",
+      "RUSTEXT": "бокал",
+      "TRANSCRIPT": "ɡlɑːs"
+    },
+    {
+      "ENGTEXT": "cork",
+      "RUSTEXT": "пробка(винная)",
+      "TRANSCRIPT": "kɔːk"
+    },
+    {
+      "ENGTEXT": "cap",
+      "RUSTEXT": "пробка (пластиковая)",
+      "TRANSCRIPT": "kæp"
+    },
+    {
+      "ENGTEXT": "stopper",
+      "RUSTEXT": "пробка (напр, бочки)",
+      "TRANSCRIPT": "ˈstɒ.pə"
+    },
+    {
+      "ENGTEXT": "carafe",
+      "RUSTEXT": "графин",
+      "TRANSCRIPT": "kə.ˈræf"
+    },
+    {
+      "ENGTEXT": "jug",
+      "RUSTEXT": "кувшин",
+      "TRANSCRIPT": "dʒʌɡ"
+    },
+    {
+      "ENGTEXT": "pot",
+      "RUSTEXT": "горшок",
+      "TRANSCRIPT": "pɒt"
+    },
+    {
+      "ENGTEXT": "bottle",
+      "RUSTEXT": "флакон",
+      "TRANSCRIPT": "ˈbɒt.əl"
+    },
+    {
+      "ENGTEXT": "vial",
+      "RUSTEXT": "пузырёк",
+      "TRANSCRIPT": "ˈvaɪəl"
+    },
+    {
+      "ENGTEXT": "sack",
+      "RUSTEXT": "мешок",
+      "TRANSCRIPT": "sæk"
+    },
+    {
+      "ENGTEXT": "bag",
+      "RUSTEXT": "пакет (мешок)",
+      "TRANSCRIPT": "bæɡ"
+    },
+    {
+      "ENGTEXT": "pack",
+      "RUSTEXT": "пачка (чая, сигарет)",
+      "TRANSCRIPT": "pæk"
+    },
+    {
+      "ENGTEXT": "pack",
+      "RUSTEXT": "упаковка",
+      "TRANSCRIPT": "pæk"
+    },
+    {
+      "ENGTEXT": "box",
+      "RUSTEXT": "коробка",
+      "TRANSCRIPT": "bɒks"
+    },
+    {
+      "ENGTEXT": "box",
+      "RUSTEXT": "ящик",
+      "TRANSCRIPT": "bɒks"
+    },
+    {
+      "ENGTEXT": "basket",
+      "RUSTEXT": "корзина",
+      "TRANSCRIPT": "ˈbɑː.skɪt"
+    },
+    {
+      "ENGTEXT": "dropper",
+      "RUSTEXT": "пипетка",
+      "TRANSCRIPT": "ˈdrɒ.pə"
+    },
+    {
+      "ENGTEXT": "bath",
+      "RUSTEXT": "ванна",
+      "TRANSCRIPT": "bɑːθ"
+    },
+    {
+      "ENGTEXT": "water-tower",
+      "RUSTEXT": "водонапорная башня",
+      "TRANSCRIPT": "ˈwɔː.tə.taʊə"
+    },
+    {
+      "ENGTEXT": "water-butt",
+      "RUSTEXT": "кадка",
+      "TRANSCRIPT": "ˈwɔː.tə.bʌt"
+    },
+    {
+      "ENGTEXT": "well",
+      "RUSTEXT": "колодец",
+      "TRANSCRIPT": "wel"
+    },
+    {
+      "ENGTEXT": "water pump",
+      "RUSTEXT": "водяной насос",
+      "TRANSCRIPT": "ˈwɔː.tə.pʌmp"
+    },
+    {
+      "ENGTEXT": "water-cannon",
+      "RUSTEXT": "брандспойт",
+      "TRANSCRIPT": "ˈwɔː.tək.æ.nən"
+    },
+    {
+      "ENGTEXT": "test tube",
+      "RUSTEXT": "пробирка",
+      "TRANSCRIPT": "test.tjuːb"
+    },
+    {
+      "ENGTEXT": "beaker",
+      "RUSTEXT": "мензурка",
+      "TRANSCRIPT": "ˈbiːkə"
+    },
+    {
+      "ENGTEXT": "flask",
+      "RUSTEXT": "колба",
+      "TRANSCRIPT": "flɑːsk"
+    },
+    {
+      "ENGTEXT": "overcoat",
+      "RUSTEXT": "пальто",
+      "TRANSCRIPT": "ˈəʊ.vək.əʊt"
+    },
+    {
+      "ENGTEXT": "fur coat",
+      "RUSTEXT": "шуба",
+      "TRANSCRIPT": "fɜː.ˈkəʊt"
+    },
+    {
+      "ENGTEXT": "down coat",
+      "RUSTEXT": "пуховик",
+      "TRANSCRIPT": "daʊn.ˈkəʊt"
+    },
+    {
+      "ENGTEXT": "jacket",
+      "RUSTEXT": "куртка (напр, спортивная)",
+      "TRANSCRIPT": "ˈdʒækɪt"
+    },
+    {
+      "ENGTEXT": "raincoat",
+      "RUSTEXT": "плащ",
+      "TRANSCRIPT": "ˈreɪnk.əʊt"
+    },
+    {
+      "ENGTEXT": "shirt",
+      "RUSTEXT": "рубашка",
+      "TRANSCRIPT": "ʃɜːt"
+    },
+    {
+      "ENGTEXT": "pants",
+      "RUSTEXT": "брюки",
+      "TRANSCRIPT": "pænts"
+    },
+    {
+      "ENGTEXT": "jacket",
+      "RUSTEXT": "пиджак",
+      "TRANSCRIPT": "ˈdʒækɪt"
+    },
+    {
+      "ENGTEXT": "suit",
+      "RUSTEXT": "костюм (мужской)",
+      "TRANSCRIPT": "suːt"
+    },
+    {
+      "ENGTEXT": "t-shirt",
+      "RUSTEXT": "футболка",
+      "TRANSCRIPT": "ˈtiː.ʃɜːt"
+    },
+    {
+      "ENGTEXT": "dress",
+      "RUSTEXT": "платье",
+      "TRANSCRIPT": "dres"
+    },
+    {
+      "ENGTEXT": "skirt",
+      "RUSTEXT": "юбка",
+      "TRANSCRIPT": "skɜːt"
+    },
+    {
+      "ENGTEXT": "sweater",
+      "RUSTEXT": "кофта",
+      "TRANSCRIPT": "ˈswe.tə"
+    },
+    {
+      "ENGTEXT": "sundress",
+      "RUSTEXT": "сарафан",
+      "TRANSCRIPT": "<sundress>"
+    },
+    {
+      "ENGTEXT": "tracksuit",
+      "RUSTEXT": "спортивный костюм",
+      "TRANSCRIPT": "ˈtræk.suːt"
+    },
+    {
+      "ENGTEXT": "bathrobe",
+      "RUSTEXT": "халат (махровый)",
+      "TRANSCRIPT": "ˈbɑː.θrəʊb"
+    },
+    {
+      "ENGTEXT": "pajamas",
+      "RUSTEXT": "пижама",
+      "TRANSCRIPT": "pə.ˈdʒɑː.məz"
+    },
+    {
+      "ENGTEXT": "vest",
+      "RUSTEXT": "жилет",
+      "TRANSCRIPT": "vest"
+    },
+    {
+      "ENGTEXT": "tailcoat",
+      "RUSTEXT": "фрак",
+      "TRANSCRIPT": "<tailcoat>"
+    },
+    {
+      "ENGTEXT": "tuxedo",
+      "RUSTEXT": "смокинг",
+      "TRANSCRIPT": "tʌk.ˈsiː.dəʊ"
+    },
+    {
+      "ENGTEXT": "overalls",
+      "RUSTEXT": "комбинезон",
+      "TRANSCRIPT": "ˈəʊ.və.rɔːlz"
+    },
+    {
+      "ENGTEXT": "greatcoat",
+      "RUSTEXT": "шинель",
+      "TRANSCRIPT": "ˈɡreɪt.kəʊt"
+    },
+    {
+      "ENGTEXT": "boxers, underwear",
+      "RUSTEXT": "трусы",
+      "TRANSCRIPT": "ˈbɒks.əz/ˈʌn.də.weə"
+    },
+    {
+      "ENGTEXT": "undershirt",
+      "RUSTEXT": "майка",
+      "TRANSCRIPT": "ˈən.dərˌ.ʃərt"
+    },
+    {
+      "ENGTEXT": "socks",
+      "RUSTEXT": "носки",
+      "TRANSCRIPT": "ˈsɒks"
+    },
+    {
+      "ENGTEXT": "bra",
+      "RUSTEXT": "бюстгальтер",
+      "TRANSCRIPT": "brɑː"
+    },
+    {
+      "ENGTEXT": "tights",
+      "RUSTEXT": "колготки",
+      "TRANSCRIPT": "taɪts"
+    },
+    {
+      "ENGTEXT": "stockings",
+      "RUSTEXT": "чулки",
+      "TRANSCRIPT": "ˈstɒkɪŋz"
+    },
+    {
+      "ENGTEXT": "bathing suit",
+      "RUSTEXT": "купальник",
+      "TRANSCRIPT": "ˈbeɪ.ðɪŋ.suːt"
+    },
+    {
+      "ENGTEXT": "hat",
+      "RUSTEXT": "шапка",
+      "TRANSCRIPT": "hæt"
+    },
+    {
+      "ENGTEXT": "fedora",
+      "RUSTEXT": "шляпа (фетровая)",
+      "TRANSCRIPT": "fɪ.ˈdɔː.rə"
+    },
+    {
+      "ENGTEXT": "cap",
+      "RUSTEXT": "кепка",
+      "TRANSCRIPT": "kæp"
+    },
+    {
+      "ENGTEXT": "hood",
+      "RUSTEXT": "капюшон",
+      "TRANSCRIPT": "hʊd"
+    },
+    {
+      "ENGTEXT": "scarf",
+      "RUSTEXT": "косынка",
+      "TRANSCRIPT": "skɑːf"
+    },
+    {
+      "ENGTEXT": "hard hat",
+      "RUSTEXT": "каска",
+      "TRANSCRIPT": "hɑːd.hæt"
+    },
+    {
+      "ENGTEXT": "helmet",
+      "RUSTEXT": "шлем",
+      "TRANSCRIPT": "ˈhel.mɪt"
+    },
+    {
+      "ENGTEXT": "headscarf",
+      "RUSTEXT": "платок (головной)",
+      "TRANSCRIPT": "ˈhed.skɑːf"
+    },
+    {
+      "ENGTEXT": "women's hat",
+      "RUSTEXT": "шляпка (женская)",
+      "TRANSCRIPT": "ˈwɪ.mɪnz.hæt"
+    },
+    {
+      "ENGTEXT": "turban",
+      "RUSTEXT": "тюрбан",
+      "TRANSCRIPT": "ˈtɜː.bən"
+    },
+    {
+      "ENGTEXT": "top hat",
+      "RUSTEXT": "цилиндр",
+      "TRANSCRIPT": "tɒp.hæt"
+    },
+    {
+      "ENGTEXT": "boots",
+      "RUSTEXT": "ботинки",
+      "TRANSCRIPT": "buːts"
+    },
+    {
+      "ENGTEXT": "shoes",
+      "RUSTEXT": "туфли",
+      "TRANSCRIPT": "ʃuːz"
+    },
+    {
+      "ENGTEXT": "boots",
+      "RUSTEXT": "сапоги",
+      "TRANSCRIPT": "buːts"
+    },
+    {
+      "ENGTEXT": "tennis shoes",
+      "RUSTEXT": "кроссовки",
+      "TRANSCRIPT": "ˈte.nɪs.ʃuːz"
+    },
+    {
+      "ENGTEXT": "sneakers",
+      "RUSTEXT": "кеды",
+      "TRANSCRIPT": "ˈsniːkəz"
+    },
+    {
+      "ENGTEXT": "sandals",
+      "RUSTEXT": "сандалии",
+      "TRANSCRIPT": "ˈsæn.dəlz"
+    },
+    {
+      "ENGTEXT": "slippers",
+      "RUSTEXT": "тапочки",
+      "TRANSCRIPT": "ˈslɪ.pəz"
+    },
+    {
+      "ENGTEXT": "bast shoes, lapti",
+      "RUSTEXT": "лапти",
+      "TRANSCRIPT": "bæst.ʃuːz/<lapti>"
+    },
+    {
+      "ENGTEXT": "gloves",
+      "RUSTEXT": "перчатки",
+      "TRANSCRIPT": "ɡlʌvz"
+    },
+    {
+      "ENGTEXT": "mittens",
+      "RUSTEXT": "варежки",
+      "TRANSCRIPT": "ˈmɪt.ənz"
+    },
+    {
+      "ENGTEXT": "belt",
+      "RUSTEXT": "ремень",
+      "TRANSCRIPT": "belt"
+    },
+    {
+      "ENGTEXT": "glasses",
+      "RUSTEXT": "очки",
+      "TRANSCRIPT": "ˈɡlɑː.sɪz"
+    },
+    {
+      "ENGTEXT": "umbrella",
+      "RUSTEXT": "зонт",
+      "TRANSCRIPT": "ʌm.ˈbre.lə"
+    },
+    {
+      "ENGTEXT": "walking stick",
+      "RUSTEXT": "трость",
+      "TRANSCRIPT": "ˈwɔːk.ɪŋ.stɪk"
+    },
+    {
+      "ENGTEXT": "fan",
+      "RUSTEXT": "веер",
+      "TRANSCRIPT": "fæn"
+    },
+    {
+      "ENGTEXT": "tie",
+      "RUSTEXT": "галстук",
+      "TRANSCRIPT": "taɪ"
+    },
+    {
+      "ENGTEXT": "bow tie",
+      "RUSTEXT": "галстук-бабочка",
+      "TRANSCRIPT": "baʊ.taɪ"
+    },
+    {
+      "ENGTEXT": "suspenders",
+      "RUSTEXT": "подтяжки",
+      "TRANSCRIPT": "sə.ˈspen.dəz"
+    },
+    {
+      "ENGTEXT": "handkerchief",
+      "RUSTEXT": "носовой платок",
+      "TRANSCRIPT": "ˈhæŋk.ə.tʃɪf"
+    },
+    {
+      "ENGTEXT": "cuff-links",
+      "RUSTEXT": "запонки",
+      "TRANSCRIPT": "ˈkʌf.lɪŋks"
+    },
+    {
+      "ENGTEXT": "comb",
+      "RUSTEXT": "расчёска",
+      "TRANSCRIPT": "kəʊm"
+    },
+    {
+      "ENGTEXT": "hair slide",
+      "RUSTEXT": "заколка",
+      "TRANSCRIPT": "heə.slaɪd"
+    },
+    {
+      "ENGTEXT": "buckle",
+      "RUSTEXT": "пряжка",
+      "TRANSCRIPT": "ˈbʌk.əl"
+    },
+    {
+      "ENGTEXT": "bag",
+      "RUSTEXT": "сумка",
+      "TRANSCRIPT": "bæɡ"
+    },
+    {
+      "ENGTEXT": "purse",
+      "RUSTEXT": "сумочка (женская)",
+      "TRANSCRIPT": "pɜːs"
+    },
+    {
+      "ENGTEXT": "school satchel",
+      "RUSTEXT": "ранец (школьный)",
+      "TRANSCRIPT": "skuːl.ˈsæ.tʃəl"
+    },
+    {
+      "ENGTEXT": "backpack",
+      "RUSTEXT": "рюкзак",
+      "TRANSCRIPT": "ˈbæk.pæk"
+    },
+    {
+      "ENGTEXT": "toilet bag",
+      "RUSTEXT": "косметичка",
+      "TRANSCRIPT": "ˈtɔɪ.lɪt.bæɡ"
+    },
+    {
+      "ENGTEXT": "briefcase",
+      "RUSTEXT": "портфель",
+      "TRANSCRIPT": "ˈbriːfk.eɪs"
+    },
+    {
+      "ENGTEXT": "suitcase, luggage",
+      "RUSTEXT": "чемодан",
+      "TRANSCRIPT": "ˈsuːtk.eɪs/ˈlʌ.ɡɪdʒ"
+    },
+    {
+      "ENGTEXT": "toothpaste",
+      "RUSTEXT": "зубная паста",
+      "TRANSCRIPT": "ˈtuːθ.peɪst"
+    },
+    {
+      "ENGTEXT": "toothbrush",
+      "RUSTEXT": "зубная щетка",
+      "TRANSCRIPT": "ˈtuːθ.brʌʃ"
+    },
+    {
+      "ENGTEXT": "soap",
+      "RUSTEXT": "мыло",
+      "TRANSCRIPT": "səʊp"
+    },
+    {
+      "ENGTEXT": "scissors",
+      "RUSTEXT": "ножницы",
+      "TRANSCRIPT": "ˈsɪ.zəz"
+    },
+    {
+      "ENGTEXT": "nail file",
+      "RUSTEXT": "пилочка для ногтей",
+      "TRANSCRIPT": "neɪl.faɪl"
+    },
+    {
+      "ENGTEXT": "nail clippers",
+      "RUSTEXT": "щипчики (для ногтей)",
+      "TRANSCRIPT": "neɪl.ˈklɪ.pəz"
+    },
+    {
+      "ENGTEXT": "tweezers",
+      "RUSTEXT": "пинцет",
+      "TRANSCRIPT": "ˈtwiː.zəz"
+    },
+    {
+      "ENGTEXT": "razor",
+      "RUSTEXT": "бритва",
+      "TRANSCRIPT": "    ˈreɪ.zə"
+    },
+    {
+      "ENGTEXT": "hair dryer",
+      "RUSTEXT": "фен",
+      "TRANSCRIPT": "heə.ˈdraɪə"
+    },
+    {
+      "ENGTEXT": "powder compact",
+      "RUSTEXT": "пудреница",
+      "TRANSCRIPT": "ˈpaʊ.də.kəm.ˈpækt"
+    },
+    {
+      "ENGTEXT": "lipstick",
+      "RUSTEXT": "губная помада",
+      "TRANSCRIPT": "ˈlɪp.stɪk"
+    },
+    {
+      "ENGTEXT": "perfume",
+      "RUSTEXT": "духи",
+      "TRANSCRIPT": "pə.ˈfjuːm"
+    },
+    {
+      "ENGTEXT": "eyeliner",
+      "RUSTEXT": "карандаш для глаз",
+      "TRANSCRIPT": "ˈaɪ.laɪ.nə"
+    },
+    {
+      "ENGTEXT": "mascara",
+      "RUSTEXT": "тушь (для ресниц)",
+      "TRANSCRIPT": "mæ.ˈskɑː.rə"
+    },
+    {
+      "ENGTEXT": "shaving cream",
+      "RUSTEXT": "крем для бритья",
+      "TRANSCRIPT": "ˈʃeɪv.ɪŋ.kriːm"
+    },
+    {
+      "ENGTEXT": "electric razor",
+      "RUSTEXT": "электробритва",
+      "TRANSCRIPT": "ɪ.ˈlek.trɪk.ˈreɪ.zə"
+    },
+    {
+      "ENGTEXT": "nail polish",
+      "RUSTEXT": "лак для ногтей",
+      "TRANSCRIPT": "neɪl.ˈpɒl.ɪʃ"
+    },
+    {
+      "ENGTEXT": "hairspray",
+      "RUSTEXT": "лак для волос",
+      "TRANSCRIPT": "ˈheə.spreɪ"
+    },
+    {
+      "ENGTEXT": "ring",
+      "RUSTEXT": "кольцо",
+      "TRANSCRIPT": "rɪŋ"
+    },
+    {
+      "ENGTEXT": "wedding ring",
+      "RUSTEXT": "обручальное кольцо",
+      "TRANSCRIPT": "ˈwed.ɪŋ.rɪŋ"
+    },
+    {
+      "ENGTEXT": "ring",
+      "RUSTEXT": "перстень",
+      "TRANSCRIPT": "rɪŋ"
+    },
+    {
+      "ENGTEXT": "earrings",
+      "RUSTEXT": "серьги",
+      "TRANSCRIPT": "ˈɪə.rɪŋz"
+    },
+    {
+      "ENGTEXT": "brooch",
+      "RUSTEXT": "брошь, брошка",
+      "TRANSCRIPT": "brəʊtʃ"
+    },
+    {
+      "ENGTEXT": "crown",
+      "RUSTEXT": "корона",
+      "TRANSCRIPT": "kraʊn"
+    },
+    {
+      "ENGTEXT": "signet ring",
+      "RUSTEXT": "перстень-печатка",
+      "TRANSCRIPT": "ˈsɪɡ.nɪt.rɪŋ"
+    },
+    {
+      "ENGTEXT": "necklace",
+      "RUSTEXT": "ожерелье",
+      "TRANSCRIPT": "ˈne.kləs"
+    },
+    {
+      "ENGTEXT": "beads",
+      "RUSTEXT": "бусы",
+      "TRANSCRIPT": "biːdz"
+    },
+    {
+      "ENGTEXT": "collar",
+      "RUSTEXT": "воротник",
+      "TRANSCRIPT": "ˈkɒ.lə"
+    },
+    {
+      "ENGTEXT": "pocket",
+      "RUSTEXT": "карман",
+      "TRANSCRIPT": "ˈpɒkɪt"
+    },
+    {
+      "ENGTEXT": "sleeve",
+      "RUSTEXT": "рукав",
+      "TRANSCRIPT": "sliːv"
+    },
+    {
+      "ENGTEXT": "tab, loop",
+      "RUSTEXT": "вешалка (петля)",
+      "TRANSCRIPT": "tæb/luːp"
+    },
+    {
+      "ENGTEXT": "fly",
+      "RUSTEXT": "ширинка",
+      "TRANSCRIPT": "flaɪ"
+    },
+    {
+      "ENGTEXT": "fastener",
+      "RUSTEXT": "застёжка (на одежде)",
+      "TRANSCRIPT": "ˈfɑː.snə"
+    },
+    {
+      "ENGTEXT": "zip",
+      "RUSTEXT": "молния (застежка)",
+      "TRANSCRIPT": "zɪp"
+    },
+    {
+      "ENGTEXT": "button",
+      "RUSTEXT": "пуговица",
+      "TRANSCRIPT": "ˈbʌt.ən"
+    },
+    {
+      "ENGTEXT": "buttonhole",
+      "RUSTEXT": "петля (для пуговицы)",
+      "TRANSCRIPT": "ˈbʌtn.həʊl"
+    },
+    {
+      "ENGTEXT": "embroidery",
+      "RUSTEXT": "вышивка",
+      "TRANSCRIPT": "ɪmˈbro.ɪ.də.ri"
+    },
+    {
+      "ENGTEXT": "patch",
+      "RUSTEXT": "заплата",
+      "TRANSCRIPT": "pætʃ"
+    },
+    {
+      "ENGTEXT": "shoestring, lace",
+      "RUSTEXT": "шнурок",
+      "TRANSCRIPT": "ˈʃuː.strɪŋ/leɪs"
+    },
+    {
+      "ENGTEXT": "diamond",
+      "RUSTEXT": "бриллиант",
+      "TRANSCRIPT": "ˈdaɪə.mənd"
+    },
+    {
+      "ENGTEXT": "emerald",
+      "RUSTEXT": "изумруд",
+      "TRANSCRIPT": "ˈe.mə.rəld"
+    },
+    {
+      "ENGTEXT": "turquoise",
+      "RUSTEXT": "бирюза",
+      "TRANSCRIPT": "ˈtɜːk.wɔɪz"
+    },
+    {
+      "ENGTEXT": "pearl",
+      "RUSTEXT": "жемчуг",
+      "TRANSCRIPT": "pɜːl"
+    },
+    {
+      "ENGTEXT": "amber",
+      "RUSTEXT": "янтарь",
+      "TRANSCRIPT": "    ˈæm.bə"
+    },
+    {
+      "ENGTEXT": "watch",
+      "RUSTEXT": "часы (наручные)",
+      "TRANSCRIPT": "wɒtʃ"
+    },
+    {
+      "ENGTEXT": "bracelet",
+      "RUSTEXT": "браслет (на часах)",
+      "TRANSCRIPT": "ˈbreɪ.slɪt"
+    },
+    {
+      "ENGTEXT": "strap",
+      "RUSTEXT": "ремешок",
+      "TRANSCRIPT": "stræp"
+    },
+    {
+      "ENGTEXT": "chain",
+      "RUSTEXT": "цепочка",
+      "TRANSCRIPT": "tʃeɪn"
+    },
+    {
+      "ENGTEXT": "hand",
+      "RUSTEXT": "стрелка (часов)",
+      "TRANSCRIPT": "hænd"
+    },
+    {
+      "ENGTEXT": "cog wheel",
+      "RUSTEXT": "шестерёнка",
+      "TRANSCRIPT": "    ˈkɒɡ.wiːl"
+    },
+    {
+      "ENGTEXT": "pendulum",
+      "RUSTEXT": "маятник",
+      "TRANSCRIPT": "ˈpen.djʊ.ləm"
+    },
+    {
+      "ENGTEXT": "sandglass",
+      "RUSTEXT": "часы песочные",
+      "TRANSCRIPT": "ˈsænd.ɡlɑːs"
+    },
+    {
+      "ENGTEXT": "battery",
+      "RUSTEXT": "батарейка",
+      "TRANSCRIPT": "ˈbæ.tri"
+    },
+    {
+      "ENGTEXT": "alarm clock",
+      "RUSTEXT": "будильник",
+      "TRANSCRIPT": "ə.ˈlɑːm.ˈklɒk"
+    },
+    {
+      "ENGTEXT": "stopwatch",
+      "RUSTEXT": "секундомер",
+      "TRANSCRIPT": "ˈstɒp.wɒtʃ"
+    },
+    {
+      "ENGTEXT": "timer",
+      "RUSTEXT": "таймер",
+      "TRANSCRIPT": "ˈtaɪm.ə"
+    },
+    {
+      "ENGTEXT": "bus",
+      "RUSTEXT": "автобус",
+      "TRANSCRIPT": "bʌs"
+    },
+    {
+      "ENGTEXT": "streetcar",
+      "RUSTEXT": "трамвай",
+      "TRANSCRIPT": "ˈstriːtk.ɑː"
+    },
+    {
+      "ENGTEXT": "trolleybus",
+      "RUSTEXT": "троллейбус",
+      "TRANSCRIPT": "<trolleybus>"
+    },
+    {
+      "ENGTEXT": "ticket",
+      "RUSTEXT": "билет",
+      "TRANSCRIPT": "ˈtɪkɪt"
+    },
+    {
+      "ENGTEXT": "taxi driver",
+      "RUSTEXT": "таксист",
+      "TRANSCRIPT": "ˈtæk.si.ˈdraɪ.və"
+    },
+    {
+      "ENGTEXT": "house",
+      "RUSTEXT": "дом",
+      "TRANSCRIPT": "ˈhaʊs"
+    },
+    {
+      "ENGTEXT": "shelter of branches",
+      "RUSTEXT": "шалаш",
+      "TRANSCRIPT": "ˈʃel.tər.əv.ˈbrɑːn.tʃɪz"
+    },
+    {
+      "ENGTEXT": "tent",
+      "RUSTEXT": "палатка",
+      "TRANSCRIPT": "tent"
+    },
+    {
+      "ENGTEXT": "elevator",
+      "RUSTEXT": "лифт",
+      "TRANSCRIPT": "ˈe.lɪ.veɪ.tə"
+    },
+    {
+      "ENGTEXT": "janitor",
+      "RUSTEXT": "консьерж",
+      "TRANSCRIPT": "ˈdʒæ.nɪ.tə"
+    },
+    {
+      "ENGTEXT": "door",
+      "RUSTEXT": "дверь",
+      "TRANSCRIPT": "dɔː"
+    },
+    {
+      "ENGTEXT": "key",
+      "RUSTEXT": "ключ",
+      "TRANSCRIPT": "kiː"
+    },
+    {
+      "ENGTEXT": "doormat",
+      "RUSTEXT": "коврик",
+      "TRANSCRIPT": "ˈdɔː.mæt"
+    },
+    {
+      "ENGTEXT": "lock",
+      "RUSTEXT": "замок",
+      "TRANSCRIPT": "lɒk"
+    },
+    {
+      "ENGTEXT": "bolt",
+      "RUSTEXT": "засов, задвижка",
+      "TRANSCRIPT": "bəʊlt"
+    },
+    {
+      "ENGTEXT": "button",
+      "RUSTEXT": "кнопка(звонка)",
+      "TRANSCRIPT": "ˈbʌt.ən"
+    },
+    {
+      "ENGTEXT": "doorbell",
+      "RUSTEXT": "колокольчик",
+      "TRANSCRIPT": "ˈdɔː.bel"
+    },
+    {
+      "ENGTEXT": "door phone",
+      "RUSTEXT": "домофон",
+      "TRANSCRIPT": "dɔː.fəʊn"
+    },
+    {
+      "ENGTEXT": "nameplate",
+      "RUSTEXT": "табличка",
+      "TRANSCRIPT": "ˈneɪm.pleɪt"
+    },
+    {
+      "ENGTEXT": "candle",
+      "RUSTEXT": "свеча",
+      "TRANSCRIPT": "ˈkæn.dəl"
+    },
+    {
+      "ENGTEXT": "candlestick",
+      "RUSTEXT": "подсвечник (настольный)",
+      "TRANSCRIPT": "ˈkændl.stɪk"
+    },
+    {
+      "ENGTEXT": "drapes",
+      "RUSTEXT": "шторы",
+      "TRANSCRIPT": "dreɪps"
+    },
+    {
+      "ENGTEXT": "wallpaper",
+      "RUSTEXT": "обои",
+      "TRANSCRIPT": "ˈwɔːl.peɪ.pə"
+    },
+    {
+      "ENGTEXT": "blinds",
+      "RUSTEXT": "жалюзи",
+      "TRANSCRIPT": "blaɪndz"
+    },
+    {
+      "ENGTEXT": "chandelier",
+      "RUSTEXT": "люстра",
+      "TRANSCRIPT": "ˌʃæn.də.ˈlɪə"
+    },
+    {
+      "ENGTEXT": "pillowcase",
+      "RUSTEXT": "наволочка",
+      "TRANSCRIPT": "ˈpɪ.ləʊk.eɪs"
+    },
+    {
+      "ENGTEXT": "bedspread",
+      "RUSTEXT": "покрывало",
+      "TRANSCRIPT": "ˈbed.spred"
+    },
+    {
+      "ENGTEXT": "iron",
+      "RUSTEXT": "утюг",
+      "TRANSCRIPT": "ˈaɪən"
+    },
+    {
+      "ENGTEXT": "washer",
+      "RUSTEXT": "стиральная машина",
+      "TRANSCRIPT": "ˈwɒ.ʃə"
+    },
+    {
+      "ENGTEXT": "mincer",
+      "RUSTEXT": "мясорубка",
+      "TRANSCRIPT": "ˈmɪn.sə"
+    },
+    {
+      "ENGTEXT": "coffee maker",
+      "RUSTEXT": "кофеварка",
+      "TRANSCRIPT": "ˈkɒ.fi.ˈmeɪk.ə"
+    },
+    {
+      "ENGTEXT": "kettle",
+      "RUSTEXT": "чайник",
+      "TRANSCRIPT": "ˈket.əl"
+    },
+    {
+      "ENGTEXT": "lid",
+      "RUSTEXT": "крышка (чайника и т.п.)",
+      "TRANSCRIPT": "lɪd"
+    },
+    {
+      "ENGTEXT": "tea strainer",
+      "RUSTEXT": "ситечко (для чая)",
+      "TRANSCRIPT": "tiː.ˈstreɪ.nə"
+    },
+    {
+      "ENGTEXT": "glass",
+      "RUSTEXT": "стакан",
+      "TRANSCRIPT": "ɡlɑːs"
+    },
+    {
+      "ENGTEXT": "jar",
+      "RUSTEXT": "банка (стеклянная)",
+      "TRANSCRIPT": "dʒɑː"
+    },
+    {
+      "ENGTEXT": "can",
+      "RUSTEXT": "банка (жестяная)",
+      "TRANSCRIPT": "kæn"
+    },
+    {
+      "ENGTEXT": "bottle opener",
+      "RUSTEXT": "открывалка (для бутылок)",
+      "TRANSCRIPT": "ˈbɒt.əl.ˈəʊ.pə.nə"
+    },
+    {
+      "ENGTEXT": "tap, faucet",
+      "RUSTEXT": "кран",
+      "TRANSCRIPT": "tæp/ˈfɔː.sɪt"
+    },
+    {
+      "ENGTEXT": "bathtub",
+      "RUSTEXT": "ванна",
+      "TRANSCRIPT": "ˈbɑːθ.tʌb"
+    },
+    {
+      "ENGTEXT": "sink",
+      "RUSTEXT": "раковина",
+      "TRANSCRIPT": "sɪŋk"
+    },
+    {
+      "ENGTEXT": "toilet bowl",
+      "RUSTEXT": "унитаз",
+      "TRANSCRIPT": "ˈtɔɪ.lɪt.bəʊl"
+    },
+    {
+      "ENGTEXT": "soapdish",
+      "RUSTEXT": "мыльница",
+      "TRANSCRIPT": "<soapdish>"
+    },
+    {
+      "ENGTEXT": "shower",
+      "RUSTEXT": "душ",
+      "TRANSCRIPT": "ˈʃaʊə"
+    },
+    {
+      "ENGTEXT": "sponge",
+      "RUSTEXT": "губка",
+      "TRANSCRIPT": "spʌndʒ"
+    },
+    {
+      "ENGTEXT": "towel",
+      "RUSTEXT": "полотенце",
+      "TRANSCRIPT": "ˈtaʊəl"
+    },
+    {
+      "ENGTEXT": "TV set",
+      "RUSTEXT": "телевизор",
+      "TRANSCRIPT": "ˌtiː.ˈviː.set"
+    },
+    {
+      "ENGTEXT": "camera",
+      "RUSTEXT": "фотоаппарат",
+      "TRANSCRIPT": "ˈkæ.mə.rə"
+    },
+    {
+      "ENGTEXT": "ironing board",
+      "RUSTEXT": "гладильная доска",
+      "TRANSCRIPT": "ˈaɪən.ɪŋ.bɔːd"
+    },
+    {
+      "ENGTEXT": "typewriter",
+      "RUSTEXT": "машинка (пишущая)",
+      "TRANSCRIPT": "ˈtaɪ.praɪ.tə"
+    },
+    {
+      "ENGTEXT": "sewing machine",
+      "RUSTEXT": "машинка (швейная)",
+      "TRANSCRIPT": "ˈsəʊɪŋ.mə.ˈʃiːn"
+    },
+    {
+      "ENGTEXT": "microphone",
+      "RUSTEXT": "микрофон",
+      "TRANSCRIPT": "ˈmaɪk.rə.fəʊn"
+    },
+    {
+      "ENGTEXT": "headphones",
+      "RUSTEXT": "наушники",
+      "TRANSCRIPT": "ˈhed.fəʊnz"
+    },
+    {
+      "ENGTEXT": "remote control",
+      "RUSTEXT": "пульт",
+      "TRANSCRIPT": "rɪ.ˈməʊt.kən.ˈtrəʊl"
+    },
+    {
+      "ENGTEXT": "compact-disc, CD",
+      "RUSTEXT": "компакт-диск",
+      "TRANSCRIPT": "kəm.ˈpækt.dɪsk/ˌsiː.ˈdiː"
+    },
+    {
+      "ENGTEXT": "Balance",
+      "RUSTEXT": "Весы",
+      "TRANSCRIPT": "    ˈbæ.ləns"
+    },
+    {
+      "ENGTEXT": "pen",
+      "RUSTEXT": "ручка",
+      "TRANSCRIPT": "pen"
+    },
+    {
+      "ENGTEXT": "pencil",
+      "RUSTEXT": "карандаш",
+      "TRANSCRIPT": "ˈpen.səl"
+    },
+    {
+      "ENGTEXT": "felt-tip pen",
+      "RUSTEXT": "фломастер",
+      "TRANSCRIPT": "felt.tɪp.pen"
+    },
+    {
+      "ENGTEXT": "notebook",
+      "RUSTEXT": "блокнот",
+      "TRANSCRIPT": "ˈnəʊt.bʊk"
+    },
+    {
+      "ENGTEXT": "diary",
+      "RUSTEXT": "ежедневник (для записей)",
+      "TRANSCRIPT": "ˈdaɪə.ri"
+    },
+    {
+      "ENGTEXT": "ruler",
+      "RUSTEXT": "линейка",
+      "TRANSCRIPT": "ˈruː.lə"
+    },
+    {
+      "ENGTEXT": "eraser",
+      "RUSTEXT": "ластик",
+      "TRANSCRIPT": "ɪ.ˈreɪ.zə"
+    },
+    {
+      "ENGTEXT": "thumbtack",
+      "RUSTEXT": "кнопка",
+      "TRANSCRIPT": "ˈθʌm.tæk"
+    },
+    {
+      "ENGTEXT": "paper clip",
+      "RUSTEXT": "скрепка",
+      "TRANSCRIPT": "ˈpeɪ.pə.klɪp"
+    },
+    {
+      "ENGTEXT": "glue",
+      "RUSTEXT": "клей",
+      "TRANSCRIPT": "ɡluː"
+    },
+    {
+      "ENGTEXT": "stapler",
+      "RUSTEXT": "степлер",
+      "TRANSCRIPT": "ˈsteɪ.plə"
+    },
+    {
+      "ENGTEXT": "punch",
+      "RUSTEXT": "дырокол",
+      "TRANSCRIPT": "pʌntʃ"
+    },
+    {
+      "ENGTEXT": "pencil sharpener",
+      "RUSTEXT": "точилка",
+      "TRANSCRIPT": "ˈpen.səl.ˈʃɑːp.nə"
+    },
+    {
+      "ENGTEXT": "pointer",
+      "RUSTEXT": "указка",
+      "TRANSCRIPT": "ˈpɔɪn.tə"
+    },
+    {
+      "ENGTEXT": "ballpoint pen",
+      "RUSTEXT": "авторучка (шариковая)",
+      "TRANSCRIPT": "ˈbɔːl.pɔɪnt.pen"
+    },
+    {
+      "ENGTEXT": "fountain pen",
+      "RUSTEXT": "ручка перьевая",
+      "TRANSCRIPT": "ˈfaʊn.tɪn.pen"
+    },
+    {
+      "ENGTEXT": "notebook",
+      "RUSTEXT": "записная книжка",
+      "TRANSCRIPT": "ˈnəʊt.bʊk"
+    },
+    {
+      "ENGTEXT": "card index",
+      "RUSTEXT": "картотека",
+      "TRANSCRIPT": "kɑːd.ˈɪn.deks"
+    },
+    {
+      "ENGTEXT": "label",
+      "RUSTEXT": "этикетка",
+      "TRANSCRIPT": "ˈleɪb.əl"
+    },
+    {
+      "ENGTEXT": "form",
+      "RUSTEXT": "анкета",
+      "TRANSCRIPT": "ˈfɔːm"
+    },
+    {
+      "ENGTEXT": "letterhead",
+      "RUSTEXT": "бланк (фирменный)",
+      "TRANSCRIPT": "ˈle.tə.hed"
+    },
+    {
+      "ENGTEXT": "scythe",
+      "RUSTEXT": "коса (орудие)",
+      "TRANSCRIPT": "saɪð"
+    },
+    {
+      "ENGTEXT": "shovel",
+      "RUSTEXT": "лопата",
+      "TRANSCRIPT": "ˈʃʌv.əl"
+    },
+    {
+      "ENGTEXT": "watering can",
+      "RUSTEXT": "лейка",
+      "TRANSCRIPT": "ˈwɔː.tər.ɪŋ.kæn"
+    },
+    {
+      "ENGTEXT": "pitchfork",
+      "RUSTEXT": "вилы",
+      "TRANSCRIPT": "ˈpɪtʃ.fɔːk"
+    },
+    {
+      "ENGTEXT": "rake",
+      "RUSTEXT": "грабли",
+      "TRANSCRIPT": "reɪk"
+    },
+    {
+      "ENGTEXT": "row",
+      "RUSTEXT": "грядка",
+      "TRANSCRIPT": "raʊ"
+    },
+    {
+      "ENGTEXT": "hothouse",
+      "RUSTEXT": "теплица",
+      "TRANSCRIPT": "ˈhɒt.haʊs"
+    },
+    {
+      "ENGTEXT": "mill",
+      "RUSTEXT": "мельница",
+      "TRANSCRIPT": "mɪl"
+    },
+    {
+      "ENGTEXT": "peasant",
+      "RUSTEXT": "крестьянин / крестьянка",
+      "TRANSCRIPT": "ˈpesnt"
+    },
+    {
+      "ENGTEXT": "hoe",
+      "RUSTEXT": "тяпка",
+      "TRANSCRIPT": "həʊ"
+    },
+    {
+      "ENGTEXT": "bride, fiancee",
+      "RUSTEXT": "невеста",
+      "TRANSCRIPT": "braɪd/fi.ˈɒn.seɪ"
+    },
+    {
+      "ENGTEXT": "pregnant",
+      "RUSTEXT": "беременная",
+      "TRANSCRIPT": "ˈpreɡ.nənt"
+    },
+    {
+      "ENGTEXT": "diaper",
+      "RUSTEXT": "подгузник",
+      "TRANSCRIPT": "ˈdaɪə.pə"
+    },
+    {
+      "ENGTEXT": "cradle",
+      "RUSTEXT": "люлька, колыбель",
+      "TRANSCRIPT": "ˈkreɪd.əl"
+    },
+    {
+      "ENGTEXT": "cradle-song",
+      "RUSTEXT": "колыбельная",
+      "TRANSCRIPT": "ˈkreɪd.əl.sɒŋ"
+    },
+    {
+      "ENGTEXT": "rattle",
+      "RUSTEXT": "погремушка",
+      "TRANSCRIPT": "ˈræt.əl"
+    },
+    {
+      "ENGTEXT": "pacifier",
+      "RUSTEXT": "соска (детск.)",
+      "TRANSCRIPT": "ˈpæ.sɪ.faɪə"
+    },
+    {
+      "ENGTEXT": "baby carriage",
+      "RUSTEXT": "коляска (детская)",
+      "TRANSCRIPT": "ˈbeɪ.bi.ˌkæ.rɪʤ"
+    },
+    {
+      "ENGTEXT": "doll",
+      "RUSTEXT": "кукла",
+      "TRANSCRIPT": "dɒl"
+    },
+    {
+      "ENGTEXT": "toy",
+      "RUSTEXT": "игрушка",
+      "TRANSCRIPT": "tɔɪ"
+    },
+    {
+      "ENGTEXT": "medicine, drug",
+      "RUSTEXT": "лекарство, средство",
+      "TRANSCRIPT": "ˈmed.sən/drʌɡ"
+    },
+    {
+      "ENGTEXT": "drug",
+      "RUSTEXT": "лекарство",
+      "TRANSCRIPT": "drʌɡ"
+    },
+    {
+      "ENGTEXT": "ointment",
+      "RUSTEXT": "мазь",
+      "TRANSCRIPT": "ˈɔɪnt.mənt"
+    },
+    {
+      "ENGTEXT": "ampule",
+      "RUSTEXT": "ампула",
+      "TRANSCRIPT": "ˈæm.pjuːl"
+    },
+    {
+      "ENGTEXT": "pill",
+      "RUSTEXT": "пилюля",
+      "TRANSCRIPT": "pɪl"
+    },
+    {
+      "ENGTEXT": "lozenge",
+      "RUSTEXT": "пастилка",
+      "TRANSCRIPT": "ˈlɒ.zɪndʒ"
+    },
+    {
+      "ENGTEXT": "powder",
+      "RUSTEXT": "порошок",
+      "TRANSCRIPT": "ˈpaʊ.də"
+    },
+    {
+      "ENGTEXT": "bandage",
+      "RUSTEXT": "бинт",
+      "TRANSCRIPT": "    ˈbæn.dɪdʒ"
+    },
+    {
+      "ENGTEXT": "cotton wool",
+      "RUSTEXT": "вата",
+      "TRANSCRIPT": "ˈkɒt.ən.wʊl"
+    },
+    {
+      "ENGTEXT": "sticking plaster",
+      "RUSTEXT": "лейкопластырь",
+      "TRANSCRIPT": "ˈstɪkɪŋ.ˈplɑː.stə"
+    },
+    {
+      "ENGTEXT": "thermometer",
+      "RUSTEXT": "градусник",
+      "TRANSCRIPT": "θə.ˈmɒ.mɪ.tə"
+    },
+    {
+      "ENGTEXT": "syringe",
+      "RUSTEXT": "шприц",
+      "TRANSCRIPT": "sɪ.ˈrɪndʒ"
+    },
+    {
+      "ENGTEXT": "wheelchair",
+      "RUSTEXT": "коляска (инвалидная)",
+      "TRANSCRIPT": "ˈwiːl.tʃeə"
+    },
+    {
+      "ENGTEXT": "crutches",
+      "RUSTEXT": "костыли",
+      "TRANSCRIPT": "ˈkrʌ.tʃɪz"
+    },
+    {
+      "ENGTEXT": "stretcher",
+      "RUSTEXT": "носилки",
+      "TRANSCRIPT": "ˈstre.tʃə"
+    },
+    {
+      "ENGTEXT": "doctor",
+      "RUSTEXT": "врач",
+      "TRANSCRIPT": "ˈdɒk.tə"
+    },
+    {
+      "ENGTEXT": "nurse",
+      "RUSTEXT": "медсестра",
+      "TRANSCRIPT": "nɜːs"
+    },
+    {
+      "ENGTEXT": "dentist",
+      "RUSTEXT": "дантист",
+      "TRANSCRIPT": "ˈden.tɪst"
+    },
+    {
+      "ENGTEXT": "ophthalmologist",
+      "RUSTEXT": "окулист",
+      "TRANSCRIPT": "ˌɒf.θæl.ˈmɒ.lə.dʒɪst"
+    },
+    {
+      "ENGTEXT": "general practitioner",
+      "RUSTEXT": "терапевт",
+      "TRANSCRIPT": "ˈdʒen.r̩ əl.præk.ˈtɪ.ʃə.nə"
+    },
+    {
+      "ENGTEXT": "surgeon",
+      "RUSTEXT": "хирург",
+      "TRANSCRIPT": "ˈsɜː.dʒən"
+    },
+    {
+      "ENGTEXT": "shrink",
+      "RUSTEXT": "психотерапевт (разг.)",
+      "TRANSCRIPT": "ʃrɪŋk"
+    },
+    {
+      "ENGTEXT": "women's doctor",
+      "RUSTEXT": "женский врач, гинеколог",
+      "TRANSCRIPT": "ˈwɪ.mɪnz.ˈdɒk.tə"
+    },
+    {
+      "ENGTEXT": "obstetrician",
+      "RUSTEXT": "акушер, -ка",
+      "TRANSCRIPT": "ˌɒb.stɪ.ˈtrɪʃ.ən"
+    },
+    {
+      "ENGTEXT": "physiotherapist",
+      "RUSTEXT": "физиотерапевт",
+      "TRANSCRIPT": "ˌfɪ.zɪəʊ.ˈθe.rə.pɪst"
+    },
+    {
+      "ENGTEXT": "cigarette",
+      "RUSTEXT": "сигарета",
+      "TRANSCRIPT": "ˌsɪ.ɡə.ˈret"
+    },
+    {
+      "ENGTEXT": "cigar",
+      "RUSTEXT": "сигара",
+      "TRANSCRIPT": "sɪ.ˈɡɑː"
+    },
+    {
+      "ENGTEXT": "pipe",
+      "RUSTEXT": "трубка",
+      "TRANSCRIPT": "paɪp"
+    },
+    {
+      "ENGTEXT": "hookah, waterpipe",
+      "RUSTEXT": "кальян",
+      "TRANSCRIPT": "ˈhʊk.ə/<waterpipe>"
+    },
+    {
+      "ENGTEXT": "cigarette case",
+      "RUSTEXT": "портсигар",
+      "TRANSCRIPT": "ˌsɪ.ɡə.ˈret.keɪs"
+    },
+    {
+      "ENGTEXT": "matches",
+      "RUSTEXT": "спички",
+      "TRANSCRIPT": "ˈmæ.tʃɪz"
+    },
+    {
+      "ENGTEXT": "lighter",
+      "RUSTEXT": "зажигалка",
+      "TRANSCRIPT": "ˈlaɪ.tə"
+    },
+    {
+      "ENGTEXT": "ashtray",
+      "RUSTEXT": "пепельница",
+      "TRANSCRIPT": "ˈæʃ.treɪ"
+    },
+    {
+      "ENGTEXT": "stub, butt",
+      "RUSTEXT": "окурок",
+      "TRANSCRIPT": "stʌb/bʌt"
+    },
+    {
+      "ENGTEXT": "smoke",
+      "RUSTEXT": "дым",
+      "TRANSCRIPT": "sməʊk"
+    },
+    {
+      "ENGTEXT": "cigarette holder",
+      "RUSTEXT": "мундштук",
+      "TRANSCRIPT": "ˌsɪ.ɡə.ˈret.ˈhəʊl.də"
+    },
+    {
+      "ENGTEXT": "filter",
+      "RUSTEXT": "фильтр",
+      "TRANSCRIPT": "ˈfɪl.tə"
+    },
+    {
+      "ENGTEXT": "sign",
+      "RUSTEXT": "вывеска",
+      "TRANSCRIPT": "saɪn"
+    },
+    {
+      "ENGTEXT": "notice, board",
+      "RUSTEXT": "табличка",
+      "TRANSCRIPT": "ˈnəʊ.tɪs/bɔːd"
+    },
+    {
+      "ENGTEXT": "poster",
+      "RUSTEXT": "плакат",
+      "TRANSCRIPT": "ˈpəʊ.stə"
+    },
+    {
+      "ENGTEXT": "cashier",
+      "RUSTEXT": "кассир",
+      "TRANSCRIPT": "kæ.ˈʃɪə"
+    },
+    {
+      "ENGTEXT": "shop assistant",
+      "RUSTEXT": "продавец",
+      "TRANSCRIPT": "ʃɒp.ə.ˈsɪ.stənt"
+    },
+    {
+      "ENGTEXT": "cash desk",
+      "RUSTEXT": "касса (в магазине)",
+      "TRANSCRIPT": "kæʃ.desk"
+    },
+    {
+      "ENGTEXT": "mirror",
+      "RUSTEXT": "зеркало",
+      "TRANSCRIPT": "ˈmɪ.rə"
+    },
+    {
+      "ENGTEXT": "counter",
+      "RUSTEXT": "прилавок",
+      "TRANSCRIPT": "ˈkaʊn.tə"
+    },
+    {
+      "ENGTEXT": "fitting room",
+      "RUSTEXT": "примерочная",
+      "TRANSCRIPT": "ˈfɪt.ɪŋ.ruːm"
+    },
+    {
+      "ENGTEXT": "price tag",
+      "RUSTEXT": "ценник (на одежде и т.п.)",
+      "TRANSCRIPT": "praɪs.tæɡ"
+    },
+    {
+      "ENGTEXT": "money",
+      "RUSTEXT": "деньги",
+      "TRANSCRIPT": "ˈmʌ.ni"
+    },
+    {
+      "ENGTEXT": "coin",
+      "RUSTEXT": "монета",
+      "TRANSCRIPT": "kɔɪn"
+    },
+    {
+      "ENGTEXT": "cash",
+      "RUSTEXT": "наличные деньги",
+      "TRANSCRIPT": "kæʃ"
+    },
+    {
+      "ENGTEXT": "checkbook",
+      "RUSTEXT": "чековая книжка",
+      "TRANSCRIPT": "ˈtʃek.bʊk"
+    },
+    {
+      "ENGTEXT": "wallet",
+      "RUSTEXT": "бумажник, портмоне",
+      "TRANSCRIPT": "ˈwɒ.lɪt"
+    },
+    {
+      "ENGTEXT": "change purse",
+      "RUSTEXT": "кошелёк",
+      "TRANSCRIPT": "tʃeɪndʒ.pɜːs"
+    },
+    {
+      "ENGTEXT": "card",
+      "RUSTEXT": "карточка",
+      "TRANSCRIPT": "kɑːd"
+    },
+    {
+      "ENGTEXT": "cash",
+      "RUSTEXT": "наличные",
+      "TRANSCRIPT": "kæʃ"
+    },
+    {
+      "ENGTEXT": "receipt",
+      "RUSTEXT": "квитанция",
+      "TRANSCRIPT": "rɪ.ˈsiːt"
+    },
+    {
+      "ENGTEXT": "mail",
+      "RUSTEXT": "почта (письма и т.п.)",
+      "TRANSCRIPT": "meɪl"
+    },
+    {
+      "ENGTEXT": "mailman",
+      "RUSTEXT": "почтальон",
+      "TRANSCRIPT": "ˈmeɪl.mæn"
+    },
+    {
+      "ENGTEXT": "letter",
+      "RUSTEXT": "письмо",
+      "TRANSCRIPT": "ˈle.tə"
+    },
+    {
+      "ENGTEXT": "postcard",
+      "RUSTEXT": "открытка",
+      "TRANSCRIPT": "ˈpəʊstk.ɑːd"
+    },
+    {
+      "ENGTEXT": "telegram",
+      "RUSTEXT": "телеграмма",
+      "TRANSCRIPT": "ˈte.lɪ.ɡræm"
+    },
+    {
+      "ENGTEXT": "package",
+      "RUSTEXT": "бандероль",
+      "TRANSCRIPT": "ˈpækɪdʒ"
+    },
+    {
+      "ENGTEXT": "parcel",
+      "RUSTEXT": "посылка",
+      "TRANSCRIPT": "ˈpɑːs.əl"
+    },
+    {
+      "ENGTEXT": "envelope",
+      "RUSTEXT": "конверт",
+      "TRANSCRIPT": "ˈen.və.ləʊp"
+    },
+    {
+      "ENGTEXT": "postage stamp",
+      "RUSTEXT": "марка",
+      "TRANSCRIPT": "ˈpəʊ.stɪdʒ.stæmp"
+    },
+    {
+      "ENGTEXT": "gate",
+      "RUSTEXT": "калитка",
+      "TRANSCRIPT": "ɡeɪt"
+    },
+    {
+      "ENGTEXT": "stove",
+      "RUSTEXT": "печь (предмет)",
+      "TRANSCRIPT": "stəʊv"
+    },
+    {
+      "ENGTEXT": "log",
+      "RUSTEXT": "полено",
+      "TRANSCRIPT": "lɒɡ"
+    },
+    {
+      "ENGTEXT": "front steps",
+      "RUSTEXT": "крыльцо (ступени)",
+      "TRANSCRIPT": "frʌnt.steps"
+    },
+    {
+      "ENGTEXT": "swing",
+      "RUSTEXT": "качели",
+      "TRANSCRIPT": "swɪŋ"
+    },
+    {
+      "ENGTEXT": "garage",
+      "RUSTEXT": "гараж",
+      "TRANSCRIPT": "    ˈɡæ.rɑːʒ"
+    },
+    {
+      "ENGTEXT": "brick",
+      "RUSTEXT": "кирпич",
+      "TRANSCRIPT": "brɪk"
+    },
+    {
+      "ENGTEXT": "tiles",
+      "RUSTEXT": "черепица",
+      "TRANSCRIPT": "taɪlz"
+    },
+    {
+      "ENGTEXT": "framework",
+      "RUSTEXT": "каркас",
+      "TRANSCRIPT": "ˈfreɪm.wɜːk"
+    },
+    {
+      "ENGTEXT": "lumber",
+      "RUSTEXT": "бревно",
+      "TRANSCRIPT": "ˈlʌm.bə"
+    },
+    {
+      "ENGTEXT": "beam",
+      "RUSTEXT": "балка, перекладина",
+      "TRANSCRIPT": "biːm"
+    },
+    {
+      "ENGTEXT": "chimney",
+      "RUSTEXT": "труба",
+      "TRANSCRIPT": "ˈtʃɪm.ni"
+    },
+    {
+      "ENGTEXT": "window",
+      "RUSTEXT": "окно",
+      "TRANSCRIPT": "ˈwɪn.dəʊ"
+    },
+    {
+      "ENGTEXT": "latch",
+      "RUSTEXT": "защёлка",
+      "TRANSCRIPT": "lætʃ"
+    },
+    {
+      "ENGTEXT": "fire",
+      "RUSTEXT": "огонь",
+      "TRANSCRIPT": "ˈfaɪə"
+    },
+    {
+      "ENGTEXT": "flame",
+      "RUSTEXT": "пламя",
+      "TRANSCRIPT": "fleɪm"
+    }
+  ]
+}
