@@ -1,6 +1,6 @@
 {
   "onlineId": 2,
-  "title": "Напитки",
+  "title": "НАПИТКИ",
   "description": "100 слов",
   "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0003.jpg",
   "words": [
