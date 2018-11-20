@@ -46,15 +46,22 @@
         }
       },
       {
-        "title": "Существительные",
+        "title": "По уровню английского",
         "lib": {
           "items": [
             {
               "title": "Уровень Starter",
               "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/starter.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/starter.png",
-              "description": "500 слов"
-            }          ]
+              "description": "1135 слов"
+            },
+{
+              "title": "Уровень Elementary",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/elementary.txt",
+              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/elementary.png",
+              "description": "544 слов"
+            }            
+]
         }
       }
     ]
