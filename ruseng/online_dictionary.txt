@@ -94,25 +94,25 @@
               "title": "Кино и театр",
               "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/life/life6.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0008.jpg",
-              "description": "111 слов"
+              "description": "100 слов"
             },
             {
               "title": "Литература",
               "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/life/life7.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0005.jpg",
-              "description": "111 слов"
+              "description": "100 слов"
             },
             {
               "title": "Архитектура",
               "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/life/life8.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0009.jpg",
-              "description": "111 слов"
+              "description": "99 слов"
             },
             {
               "title": "Образование",
               "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/life/life9.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0003.jpg",
-              "description": "111 слов"
+              "description": "100 слов"
             },
             {
               "title": "Заболевания",
