@@ -118,7 +118,7 @@
               "title": "Заболевания",
               "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/life/life10.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0004.jpg",
-              "description": "111 слов"
+              "description": "100 слов"
             }
           ]
         }
