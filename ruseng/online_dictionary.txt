@@ -1,4 +1,4 @@
-{
+﻿{
   "mainItem": {
     "dictionaryGroups": [
       {
@@ -62,7 +62,7 @@
           "items": [
             {
               "title": "Кухонная утварь",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/life/life1.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0007.jpg",
               "description": "100 слов"
             },

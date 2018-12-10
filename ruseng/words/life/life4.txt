@@ -1,0 +1,18 @@
+﻿{
+"onlineId":1,
+  "title": "Овощи",  
+  "description": "100 слов",
+  "imageUrl": "https://24smi.org/public/media/news/2016/06/02/1464870885-poleznye-ovoshi-i-frukty-dary-prirody-dl_specn_eda.jpg",
+  "words": [
+    {
+      "ENGTEXT": "tomato",
+      "RUSTEXT": "помидор",
+      "TRANSCRIPT": "tə.ˈmɑː.təʊ"
+    },
+    {
+      "ENGTEXT": "cucumber",
+      "RUSTEXT": "огурец",
+      "TRANSCRIPT": "ˈkjuːk.ʌm.bə"
+    }
+  ]
+}
