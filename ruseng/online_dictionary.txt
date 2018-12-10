@@ -80,43 +80,43 @@
             },
             {
               "title": "Музыка",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/life/life4.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0002.jpeg",
               "description": "111 слов"
             },
             {
               "title": "Время",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/life/life5.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0010.jpg",
-              "description": "111 слов"
+              "description": "100 слов"
             },
             {
               "title": "Кино и театр",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/life/life6.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0008.jpg",
               "description": "111 слов"
             },
             {
               "title": "Литература",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/life/life7.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0005.jpg",
               "description": "111 слов"
             },
             {
               "title": "Архитектура",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/life/life8.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0009.jpg",
               "description": "111 слов"
             },
             {
               "title": "Образование",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/life/life9.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0003.jpg",
               "description": "111 слов"
             },
             {
               "title": "Заболевания",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/life/life10.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0004.jpg",
               "description": "111 слов"
             }
