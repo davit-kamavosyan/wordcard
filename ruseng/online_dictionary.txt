@@ -1,4 +1,4 @@
-﻿{
+{
   "mainItem": {
     "dictionaryGroups": [
       {
@@ -128,28 +128,34 @@
         "lib": {
           "items": [
             {
-              "title": "Лондонское метро",
+              "title": "Mетро",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/tour5.jpg",
+"wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour1.txt"
             },
             {
               "title": "Для путешествий",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/tour4.jpg",
+"wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour2.txt"
             },
             {
               "title": "Бронирование апартаментов",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/tour3.jpg",
+"wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour3.txt"
             },
             {
               "title": "Ресторанные блюда",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/tour2.jpg",
+"wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour4.txt"
             },
             {
               "title": "Национальности",
-              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/tour6.jpg",
+              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/tour5.jpg",
+"wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour5.txt"
             },
             {
               "title": "Столицы",
-              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/tour1.jpg",
+              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/tour6.jpg",
+"wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour.txt"
             }
           ]
         }
