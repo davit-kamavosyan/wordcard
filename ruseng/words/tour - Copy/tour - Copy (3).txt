@@ -1,0 +1,18 @@
+﻿{
+"onlineId":1020,
+  "title": " ",  
+  "description": " ",
+  "imageUrl": " ",
+  "words": [
+    {
+      "ENGTEXT": "tomato",
+      "RUSTEXT": "помидор",
+      "TRANSCRIPT": "tə.ˈmɑː.təʊ"
+    },
+    {
+      "ENGTEXT": "cucumber",
+      "RUSTEXT": "огурец",
+      "TRANSCRIPT": "ˈkjuːk.ʌm.bə"
+    }
+  ]
+}

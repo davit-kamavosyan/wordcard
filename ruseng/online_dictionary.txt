@@ -129,39 +129,39 @@
           "items": [
             {
               "title": "Лондонское метро",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour1.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0001.jpeg",
-              "description": "100 слов"
+              "description": "46 слов"
             },
             {
               "title": "Для путешествий",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour2.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0002.jpeg",
-              "description": "111 слов"
+              "description": "100 слов"
             },
             {
               "title": "Бронирование апартаментов",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour3.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0002.jpeg",
-              "description": "111 слов"
+              "description": "100 слов"
             },
             {
               "title": "Ресторанные блюда",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour4.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0002.jpeg",
-              "description": "111 слов"
+              "description": "99 слов"
             },
             {
               "title": "Национальности",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour5.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0002.jpeg",
-              "description": "111 слов"
+              "description": "200 слов"
             },
             {
               "title": "Столицы",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour6.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0002.jpeg",
-              "description": "111 слов"
+              "description": "100 слов"
             }
           ]
         }
