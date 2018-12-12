@@ -1,8 +1,8 @@
-﻿{
+{
 "onlineId":1023,
   "title": "Бронирование апартаментов",  
   "description": "100 слов",
-  "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0002.jpeg",
+  "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/tour3.jpg",
   "words": [
     {ENGTEXT: "a few minutes from",RUSTEXT: "в нескольких минутах от",TRANSCRIPT:""},
 {ENGTEXT: "accommodation",RUSTEXT: "жильё",TRANSCRIPT:"əˌkɑməˈdeɪʃən"},

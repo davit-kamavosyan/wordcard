@@ -1,8 +1,8 @@
-﻿{
+{
 "onlineId":1024,
   "title": "Ресторанные блюда",  
   "description": "99 слов",
-  "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0001.jpeg",
+  "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/tour2.jpg",
   "words": [
     {ENGTEXT: "a cup of cappuccino",RUSTEXT: "чашка капучино",TRANSCRIPT:""},
 {ENGTEXT: "a glass of lemonade",RUSTEXT: "стакан лимонада",TRANSCRIPT:""},

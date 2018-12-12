@@ -1,8 +1,8 @@
-﻿{
+{
 "onlineId":1026,
   "title": "Столицы",  
   "description": "100 слов",
-  "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0002.jpeg",
+  "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/tour1.jpg",
   "words": [
     {ENGTEXT: "Algiers",RUSTEXT: "Алжир",TRANSCRIPT:"ælˈʤɪrz"},
 {ENGTEXT: "Amsterdam",RUSTEXT: "Амстердам",TRANSCRIPT:"ˈæmstərˌdæm"},

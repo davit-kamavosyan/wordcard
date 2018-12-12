@@ -1,8 +1,8 @@
-﻿{
+{
 "onlineId":1021,
   "title": "Mетро",  
   "description": "46 слов",
-  "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0002.jpeg",
+  "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/tour5.jpg",
   "words": [
     {ENGTEXT: "air-raid shelter",RUSTEXT: "бомбоубежище",TRANSCRIPT:""},
 {ENGTEXT: "aka",RUSTEXT: "также называемый",TRANSCRIPT:"ˈɑkə"},

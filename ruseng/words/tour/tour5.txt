@@ -1,8 +1,8 @@
-﻿{
+{
 "onlineId":1025,
   "title": "Национальности",  
   "description": "200 слов",
-  "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0002.jpeg",
+  "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/tour6.jpg",
   "words": [
     {ENGTEXT: "Afghan",RUSTEXT: "афганец, афганка",TRANSCRIPT:"ˈæfˌgæn"},
 {ENGTEXT: "Afghanistan",RUSTEXT: "Афганистан",TRANSCRIPT:"æfˈgænəˌstæn"},

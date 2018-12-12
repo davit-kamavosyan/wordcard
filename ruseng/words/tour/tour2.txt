@@ -1,8 +1,8 @@
-﻿{
+{
 "onlineId":1022,
   "title": "Для путешествий",  
   "description": "100 слов",
-  "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0002.jpeg",
+  "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/tour4.jpg",
   "words": [
     {ENGTEXT: "airplane",RUSTEXT: "самолёт",TRANSCRIPT:"ˈɛrˌpleɪn"},
 {ENGTEXT: "airport",RUSTEXT: "аэропорт",TRANSCRIPT:"ˈɛrˌpɔrt"},
