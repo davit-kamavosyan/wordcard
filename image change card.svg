@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="175px" height="175px" viewBox="0 0 175 175" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="100" height="100" rx="8"></rect>
+        <rect id="path-2" x="0" y="0" width="100" height="100" rx="8"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4">
+            <g id="Group-3">
+                <g id="Group-2">
+                    <g id="Group">
+                        <g id="Rectangle">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#979797" stroke-width="3" x="1.5" y="1.5" width="97" height="97" rx="8"></rect>
+                        </g>
+                        <text id="RU" font-family=".SFNSDisplay-BlackItalic, .SF NS Display" font-size="40" font-style="italic" font-weight="700" fill="#A8A8A8">
+                            <tspan x="21" y="61">RU</tspan>
+                        </text>
+                    </g>
+                    <g id="Group" transform="translate(75.000000, 75.000000)">
+                        <g id="Rectangle">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            <rect stroke="#979797" stroke-width="3" x="1.5" y="1.5" width="97" height="97" rx="8"></rect>
+                        </g>
+                        <text id="EN" font-family=".SFNSDisplay-BlackItalic, .SF NS Display" font-size="40" font-style="italic" font-weight="700" fill="#A8A8A8">
+                            <tspan x="21" y="61">EN</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="baseline-redo-24px" transform="translate(53.220801, 122.220801) scale(-1, -1) rotate(50.000000) translate(-53.220801, -122.220801) translate(28.220801, 97.220801)">
+                <polygon id="Shape" points="0 0 50 0 50 50 0 50"></polygon>
+                <path d="M38.3333333,22.0833333 C34.4791667,18.7291667 29.4791667,16.6666667 23.9583333,16.6666667 C14.2708333,16.6666667 6.08333333,22.9791667 3.20833333,31.7083333 L8.125,33.3333333 C10.3125,26.6875 16.5625,21.875 23.9583333,21.875 C28.0208333,21.875 31.7291667,23.375 34.625,25.7916667 L27.0833333,33.3333333 L45.8333333,33.3333333 L45.8333333,14.5833333 L38.3333333,22.0833333 Z" id="Shape" fill="#A8A8A8" fill-rule="nonzero"></path>
+            </g>
+            <g id="baseline-redo-24px" transform="translate(123.220801, 52.220801) scale(-1, -1) rotate(230.000000) translate(-123.220801, -52.220801) translate(98.220801, 27.220801)">
+                <polygon id="Shape" points="0 0 50 0 50 50 0 50"></polygon>
+                <path d="M38.3333333,22.0833333 C34.4791667,18.7291667 29.4791667,16.6666667 23.9583333,16.6666667 C14.2708333,16.6666667 6.08333333,22.9791667 3.20833333,31.7083333 L8.125,33.3333333 C10.3125,26.6875 16.5625,21.875 23.9583333,21.875 C28.0208333,21.875 31.7291667,23.375 34.625,25.7916667 L27.0833333,33.3333333 L45.8333333,33.3333333 L45.8333333,14.5833333 L38.3333333,22.0833333 Z" id="Shape" fill="#A8A8A8" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
