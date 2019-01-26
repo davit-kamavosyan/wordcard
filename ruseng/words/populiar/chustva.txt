@@ -2,7 +2,7 @@
   "onlineId": 1032,
   "title": "Чувства и эмоции",
   "description": "99 слов",
-  "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0004.jpeg",
+  "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0004.jpeg",
   "words": [
     {
       "ENGTEXT": "acceptance",
