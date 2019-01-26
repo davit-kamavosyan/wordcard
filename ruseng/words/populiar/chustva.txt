@@ -1,0 +1,503 @@
+﻿{
+  "onlineId": 1032,
+  "title": "Чувства и эмоции",
+  "description": "99 слов",
+  "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0002.jpeg",
+  "words": [
+    {
+      "ENGTEXT": "acceptance",
+      "RUSTEXT": "одобрение",
+      "TRANSCRIPT": "ækˈsɛptəns"
+    },
+    {
+      "ENGTEXT": "admiration",
+      "RUSTEXT": "восхищение",
+      "TRANSCRIPT": "ˌædməˈreɪʃən"
+    },
+    {
+      "ENGTEXT": "adoration",
+      "RUSTEXT": "обожание",
+      "TRANSCRIPT": "ˌædəˈreɪʃən"
+    },
+    {
+      "ENGTEXT": "affection",
+      "RUSTEXT": "привязанность",
+      "TRANSCRIPT": "əˈfɛkʃən"
+    },
+    {
+      "ENGTEXT": "ambition",
+      "RUSTEXT": "честолюбие",
+      "TRANSCRIPT": "æmˈbɪʃən"
+    },
+    {
+      "ENGTEXT": "amorousness",
+      "RUSTEXT": "влюблённость",
+      "TRANSCRIPT": "ˈæmərəsnəs"
+    },
+    {
+      "ENGTEXT": "amusement ",
+      "RUSTEXT": "развлечения",
+      "TRANSCRIPT": "əmˈjuzmənt"
+    },
+    {
+      "ENGTEXT": "annoy",
+      "RUSTEXT": "надоедать",
+      "TRANSCRIPT": "əˈnɔɪ"
+    },
+    {
+      "ENGTEXT": "anticipation ",
+      "RUSTEXT": "ожидание",
+      "TRANSCRIPT": "ænˌtɪsəˈpeɪʃən"
+    },
+    {
+      "ENGTEXT": "anxiety",
+      "RUSTEXT": "беспокойство",
+      "TRANSCRIPT": "æŋˈzaɪəti"
+    },
+    {
+      "ENGTEXT": "apathy",
+      "RUSTEXT": "апатия",
+      "TRANSCRIPT": "ˈæpəθi"
+    },
+    {
+      "ENGTEXT": "apprehension ",
+      "RUSTEXT": "опасение",
+      "TRANSCRIPT": "ˌæprɪˈhɛnʃən"
+    },
+    {
+      "ENGTEXT": "ashamed ",
+      "RUSTEXT": "пристыженный",
+      "TRANSCRIPT": "əˈʃeɪmd"
+    },
+    {
+      "ENGTEXT": "attachment ",
+      "RUSTEXT": "верность",
+      "TRANSCRIPT": "əˈtæʧmənt"
+    },
+    {
+      "ENGTEXT": "attraction",
+      "RUSTEXT": "привлекательность",
+      "TRANSCRIPT": "əˈtrækʃən"
+    },
+    {
+      "ENGTEXT": "awe ",
+      "RUSTEXT": "страх",
+      "TRANSCRIPT": "ɑ"
+    },
+    {
+      "ENGTEXT": "bliss",
+      "RUSTEXT": "счастье, блаженство",
+      "TRANSCRIPT": "blɪs"
+    },
+    {
+      "ENGTEXT": "bored ",
+      "RUSTEXT": "скучающий",
+      "TRANSCRIPT": "bɔrd"
+    },
+    {
+      "ENGTEXT": "brave heart ",
+      "RUSTEXT": "смельчак (черта характера)",
+      "TRANSCRIPT": "breɪv hɑrt"
+    },
+    {
+      "ENGTEXT": "calm",
+      "RUSTEXT": "спокойный",
+      "TRANSCRIPT": "kɑm"
+    },
+    {
+      "ENGTEXT": "capricious",
+      "RUSTEXT": "капризный",
+      "TRANSCRIPT": "kəˈprɪʃəs"
+    },
+    {
+      "ENGTEXT": "caress",
+      "RUSTEXT": "ласка",
+      "TRANSCRIPT": "kəˈrɛs"
+    },
+    {
+      "ENGTEXT": "charming personality ",
+      "RUSTEXT": "харизматическая личность",
+      "TRANSCRIPT": "ˈʧɑrmɪŋ ˌpɜrsəˈnælɪti"
+    },
+    {
+      "ENGTEXT": "cheerful",
+      "RUSTEXT": "весёлый",
+      "TRANSCRIPT": "ˈʧɪrfəl"
+    },
+    {
+      "ENGTEXT": "clever",
+      "RUSTEXT": "умный",
+      "TRANSCRIPT": "ˈklevər"
+    },
+    {
+      "ENGTEXT": "concerned ",
+      "RUSTEXT": "встревоженный",
+      "TRANSCRIPT": "kənˈsɜrnd"
+    },
+    {
+      "ENGTEXT": "confused",
+      "RUSTEXT": "смущённый",
+      "TRANSCRIPT": "kənˈfjuzd"
+    },
+    {
+      "ENGTEXT": "curious ",
+      "RUSTEXT": "любопытный",
+      "TRANSCRIPT": "ˈkjʊriəs"
+    },
+    {
+      "ENGTEXT": "delightful ",
+      "RUSTEXT": "очаровательный",
+      "TRANSCRIPT": "dɪˈlaɪtfəl"
+    },
+    {
+      "ENGTEXT": "dependent",
+      "RUSTEXT": "зависимый, несамостоятельный",
+      "TRANSCRIPT": "dɪˈpɛndənt"
+    },
+    {
+      "ENGTEXT": "deranged",
+      "RUSTEXT": "ненормальный",
+      "TRANSCRIPT": "dɪˈreɪnʤd"
+    },
+    {
+      "ENGTEXT": "desire",
+      "RUSTEXT": "желание",
+      "TRANSCRIPT": "dɪˈzaɪər"
+    },
+    {
+      "ENGTEXT": "desperate",
+      "RUSTEXT": "отчаянный",
+      "TRANSCRIPT": "ˈdɛsp(ə)rət"
+    },
+    {
+      "ENGTEXT": "dignity",
+      "RUSTEXT": "достоинство",
+      "TRANSCRIPT": "ˈdɪgnəti"
+    },
+    {
+      "ENGTEXT": "disgustedly",
+      "RUSTEXT": "с отвращением",
+      "TRANSCRIPT": "dɪsˈgʌstədli"
+    },
+    {
+      "ENGTEXT": "dizzy",
+      "RUSTEXT": "чувствующий головокружение",
+      "TRANSCRIPT": "dɪsˈgʌstədli"
+    },
+    {
+      "ENGTEXT": "eager",
+      "RUSTEXT": "страстно желающий, стремящийся",
+      "TRANSCRIPT": "ˈigər"
+    },
+    {
+      "ENGTEXT": "elated by success",
+      "RUSTEXT": "окрылённый успехом",
+      "TRANSCRIPT": ""
+    },
+    {
+      "ENGTEXT": "embarrassed ",
+      "RUSTEXT": "смущённый",
+      "TRANSCRIPT": "ɪm'bærəst"
+    },
+    {
+      "ENGTEXT": "emotional",
+      "RUSTEXT": "взволнованный",
+      "TRANSCRIPT": "ɪˈmoʊʃənəl"
+    },
+    {
+      "ENGTEXT": "energetic ",
+      "RUSTEXT": "энергичный",
+      "TRANSCRIPT": "ˌɛnərˈʤɛtɪk"
+    },
+    {
+      "ENGTEXT": "enthusiastic",
+      "RUSTEXT": "восторженный",
+      "TRANSCRIPT": "ɪnˌθuziˈæstɪk"
+    },
+    {
+      "ENGTEXT": "envious",
+      "RUSTEXT": "завистливый",
+      "TRANSCRIPT": "ˈɛnviəs"
+    },
+    {
+      "ENGTEXT": "euphoria",
+      "RUSTEXT": "радостное настроение",
+      "TRANSCRIPT": "juˈfɔriə"
+    },
+    {
+      "ENGTEXT": "frightened",
+      "RUSTEXT": "испуганный",
+      "TRANSCRIPT": "ˈfrʌɪtnd"
+    },
+    {
+      "ENGTEXT": "fun",
+      "RUSTEXT": "веселье",
+      "TRANSCRIPT": "fʌn"
+    },
+    {
+      "ENGTEXT": "funny",
+      "RUSTEXT": "смешной",
+      "TRANSCRIPT": "ˈfʌni"
+    },
+    {
+      "ENGTEXT": "generous",
+      "RUSTEXT": "великодушный",
+      "TRANSCRIPT": "ˈʤɛnərəs"
+    },
+    {
+      "ENGTEXT": "genuinely",
+      "RUSTEXT": "искренне",
+      "TRANSCRIPT": "ˈdʒenjuɪnli"
+    },
+    {
+      "ENGTEXT": "good",
+      "RUSTEXT": "хороший",
+      "TRANSCRIPT": "gʊd"
+    },
+    {
+      "ENGTEXT": "happy ",
+      "RUSTEXT": "счастливый",
+      "TRANSCRIPT": "ˈhæpi"
+    },
+    {
+      "ENGTEXT": "hate",
+      "RUSTEXT": "ненавидеть",
+      "TRANSCRIPT": "heɪt"
+    },
+    {
+      "ENGTEXT": "healthy",
+      "RUSTEXT": "здоровый",
+      "TRANSCRIPT": "ˈhɛlθi"
+    },
+    {
+      "ENGTEXT": "helpful",
+      "RUSTEXT": "полезный",
+      "TRANSCRIPT": "ˈhɛlpfəl"
+    },
+    {
+      "ENGTEXT": "helpless",
+      "RUSTEXT": "беспомощный",
+      "TRANSCRIPT": "ˈhɛlpləs"
+    },
+    {
+      "ENGTEXT": "hope",
+      "RUSTEXT": "надеяться",
+      "TRANSCRIPT": "hoʊp"
+    },
+    {
+      "ENGTEXT": "hopeful ",
+      "RUSTEXT": "надеющийся",
+      "TRANSCRIPT": "ˈhoʊpfəl"
+    },
+    {
+      "ENGTEXT": "horrible",
+      "RUSTEXT": "ужасный",
+      "TRANSCRIPT": "ˈhɔrəbəl"
+    },
+    {
+      "ENGTEXT": "impatient",
+      "RUSTEXT": "нетерпеливый",
+      "TRANSCRIPT": "ɪmˈpeɪʃənt"
+    },
+    {
+      "ENGTEXT": "inspiration",
+      "RUSTEXT": "вдохновение",
+      "TRANSCRIPT": "ˌɪnspəˈreɪʃən"
+    },
+    {
+      "ENGTEXT": "interest",
+      "RUSTEXT": "интересовать",
+      "TRANSCRIPT": "ˈɪntrəst"
+    },
+    {
+      "ENGTEXT": "irritation",
+      "RUSTEXT": "недовольство",
+      "TRANSCRIPT": "ˌɪrɪˈteɪʃən"
+    },
+    {
+      "ENGTEXT": "jealous",
+      "RUSTEXT": "ревнивый",
+      "TRANSCRIPT": "ˈʤɛləs"
+    },
+    {
+      "ENGTEXT": "jealousy",
+      "RUSTEXT": "ревность",
+      "TRANSCRIPT": "ˈʤɛləsi"
+    },
+    {
+      "ENGTEXT": "joy",
+      "RUSTEXT": "радость",
+      "TRANSCRIPT": "ʤɔɪ"
+    },
+    {
+      "ENGTEXT": "jubilation",
+      "RUSTEXT": "ликование",
+      "TRANSCRIPT": "ˌʤubəˈleɪʃən"
+    },
+    {
+      "ENGTEXT": "kindhearted",
+      "RUSTEXT": "добрый",
+      "TRANSCRIPT": "ˌkaɪnd'hɑːtɪd"
+    },
+    {
+      "ENGTEXT": "lazy",
+      "RUSTEXT": "ленивый",
+      "TRANSCRIPT": "ˈleɪzi"
+    },
+    {
+      "ENGTEXT": "lightness",
+      "RUSTEXT": "лёгкость",
+      "TRANSCRIPT": "ˈlaɪtnəs"
+    },
+    {
+      "ENGTEXT": "longing",
+      "RUSTEXT": "стремление",
+      "TRANSCRIPT": "ˈlɔŋɪŋ"
+    },
+    {
+      "ENGTEXT": "love",
+      "RUSTEXT": "любить",
+      "TRANSCRIPT": "lʌv"
+    },
+    {
+      "ENGTEXT": "melancholy",
+      "RUSTEXT": "меланхоличный",
+      "TRANSCRIPT": "ˈmɛlənˌkɑli"
+    },
+    {
+      "ENGTEXT": "modesty",
+      "RUSTEXT": "скромность",
+      "TRANSCRIPT": "ˈmɑdəsti"
+    },
+    {
+      "ENGTEXT": "mortified",
+      "RUSTEXT": "сгорающий от стыда",
+      "TRANSCRIPT": "ˈmɔrtəˌfaɪd"
+    },
+    {
+      "ENGTEXT": "moved",
+      "RUSTEXT": "растроганный",
+      "TRANSCRIPT": "muvd"
+    },
+    {
+      "ENGTEXT": "pain",
+      "RUSTEXT": "боль",
+      "TRANSCRIPT": "peɪn"
+    },
+    {
+      "ENGTEXT": "pathetic",
+      "RUSTEXT": "жалкий",
+      "TRANSCRIPT": "pəˈθɛtɪk"
+    },
+    {
+      "ENGTEXT": "patient",
+      "RUSTEXT": "терпеливый",
+      "TRANSCRIPT": "ˈpeɪʃənt"
+    },
+    {
+      "ENGTEXT": "pity",
+      "RUSTEXT": "жалость",
+      "TRANSCRIPT": "ˈpɪti"
+    },
+    {
+      "ENGTEXT": "revulsion",
+      "RUSTEXT": "антипатия",
+      "TRANSCRIPT": "rɪˈvʌlʃən"
+    },
+    {
+      "ENGTEXT": "ridiculous ",
+      "RUSTEXT": "нелепый",
+      "TRANSCRIPT": "rɪˈdɪkjələs"
+    },
+    {
+      "ENGTEXT": "sadness",
+      "RUSTEXT": "грусть",
+      "TRANSCRIPT": "ˈsædnɪs"
+    },
+    {
+      "ENGTEXT": "self-conscious",
+      "RUSTEXT": "застенчивый",
+      "TRANSCRIPT": "sɛlf ˈkɑnʃəs"
+    },
+    {
+      "ENGTEXT": "senseless ",
+      "RUSTEXT": "бессмысленный",
+      "TRANSCRIPT": "ˈsɛnsləs"
+    },
+    {
+      "ENGTEXT": "smirk",
+      "RUSTEXT": "ухмыляться",
+      "TRANSCRIPT": "smɜrk"
+    },
+    {
+      "ENGTEXT": "suffering",
+      "RUSTEXT": "страдание",
+      "TRANSCRIPT": "ˈsʌfərɪŋ"
+    },
+    {
+      "ENGTEXT": "sweet",
+      "RUSTEXT": "милый",
+      "TRANSCRIPT": "swit"
+    },
+    {
+      "ENGTEXT": "sympathy",
+      "RUSTEXT": "сочувствие",
+      "TRANSCRIPT": "ˈsɪmpəθi"
+    },
+    {
+      "ENGTEXT": "temptation ",
+      "RUSTEXT": "искушение",
+      "TRANSCRIPT": "tɛmˈteɪʃən"
+    },
+    {
+      "ENGTEXT": "thankful",
+      "RUSTEXT": "благодарный",
+      "TRANSCRIPT": "ˈθæŋkfəl"
+    },
+    {
+      "ENGTEXT": "thrilled ",
+      "RUSTEXT": "потрясённый",
+      "TRANSCRIPT": "θrɪld"
+    },
+    {
+      "ENGTEXT": "troubled ",
+      "RUSTEXT": "беспокойный",
+      "TRANSCRIPT": "ˈtrʌbəld"
+    },
+    {
+      "ENGTEXT": "trust",
+      "RUSTEXT": "доверять",
+      "TRANSCRIPT": "trʌst"
+    },
+    {
+      "ENGTEXT": "twisted",
+      "RUSTEXT": "чудаковатый",
+      "TRANSCRIPT": "ˈtwɪstəd"
+    },
+    {
+      "ENGTEXT": "uncomfortable ",
+      "RUSTEXT": "неудобный",
+      "TRANSCRIPT": "ʌnˈkʌmftəbl"
+    },
+    {
+      "ENGTEXT": "useful",
+      "RUSTEXT": "полезный",
+      "TRANSCRIPT": "ˈjusfəl"
+    },
+    {
+      "ENGTEXT": "useless",
+      "RUSTEXT": "бесполезный",
+      "TRANSCRIPT": "ˈjusləs"
+    },
+    {
+      "ENGTEXT": "witty remark",
+      "RUSTEXT": "остроумное замечание",
+      "TRANSCRIPT": "ˈwɪti rɪˈmɑrk"
+    },
+    {
+      "ENGTEXT": "worried",
+      "RUSTEXT": "озабоченный",
+      "TRANSCRIPT": "ˈwɜrid"
+    }
+  ]
+}
