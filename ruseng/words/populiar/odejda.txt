@@ -2,7 +2,7 @@
   "onlineId": 1033,
   "title": "Одежда и обувь",
   "description": "100 слов",
-  "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0001.jpg",
+  "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0001.jpeg",
   "words": [
     {ENGTEXT: "ankle boots",RUSTEXT: "полусапожки",TRANSCRIPT:"ˈæŋkl bˈuːts"},
 {ENGTEXT: "anorak",RUSTEXT: "анорак",TRANSCRIPT:"ˈænəˌræk"},
