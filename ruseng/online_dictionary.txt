@@ -22,6 +22,12 @@
               "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/populiar/odejda.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0001.jpg",
               "description": "100 слов"
+            },
+            {
+              "title": "Еда",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/populiar/eda.txt",
+              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0002.jpg",
+              "description": "100 слов"
             }
           ]
         }

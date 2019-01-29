@@ -1,0 +1,508 @@
+﻿{
+  "onlineId": 1034,
+  "title": "Еда",
+  "description": "100 слов",
+  "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0002.jpg",
+  "words": [
+    {
+      "ENGTEXT": "apple",
+      "RUSTEXT": "яблоко",
+      "TRANSCRIPT": "ˈæpl"
+    },
+    {
+      "ENGTEXT": "bacon",
+      "RUSTEXT": "бекон",
+      "TRANSCRIPT": "ˈbeɪkən"
+    },
+    {
+      "ENGTEXT": "baguette ",
+      "RUSTEXT": "багет",
+      "TRANSCRIPT": "ˌbæˈgɛt"
+    },
+    {
+      "ENGTEXT": "baked",
+      "RUSTEXT": "печеный",
+      "TRANSCRIPT": "beɪkt"
+    },
+    {
+      "ENGTEXT": "banana ",
+      "RUSTEXT": "банан",
+      "TRANSCRIPT": "bəˈnænə"
+    },
+    {
+      "ENGTEXT": "bar",
+      "RUSTEXT": "бар",
+      "TRANSCRIPT": "bɑr"
+    },
+    {
+      "ENGTEXT": "barbecue ",
+      "RUSTEXT": "барбекю",
+      "TRANSCRIPT": "ˈbɑrbɪˌkju"
+    },
+    {
+      "ENGTEXT": "bean ",
+      "RUSTEXT": "фасоль",
+      "TRANSCRIPT": "bin"
+    },
+    {
+      "ENGTEXT": "biscuit",
+      "RUSTEXT": "печенье",
+      "TRANSCRIPT": "ˈbɪskɪt"
+    },
+    {
+      "ENGTEXT": "bite",
+      "RUSTEXT": "кусать",
+      "TRANSCRIPT": "baɪt"
+    },
+    {
+      "ENGTEXT": "bitter",
+      "RUSTEXT": "горький",
+      "TRANSCRIPT": "ˈbɪtər"
+    },
+    {
+      "ENGTEXT": "bland",
+      "RUSTEXT": "пресный",
+      "TRANSCRIPT": "blænd"
+    },
+    {
+      "ENGTEXT": "boil",
+      "RUSTEXT": "кипеть",
+      "TRANSCRIPT": "bɔɪl"
+    },
+    {
+      "ENGTEXT": "boiled eggs",
+      "RUSTEXT": "вареные яйца",
+      "TRANSCRIPT": "bɔɪld ɛgz"
+    },
+    {
+      "ENGTEXT": "cabbage",
+      "RUSTEXT": "капуста",
+      "TRANSCRIPT": "ˈkæbəʤ"
+    },
+    {
+      "ENGTEXT": "cake",
+      "RUSTEXT": "торт",
+      "TRANSCRIPT": "keɪk"
+    },
+    {
+      "ENGTEXT": "candy",
+      "RUSTEXT": "конфета",
+      "TRANSCRIPT": "ˈkændi"
+    },
+    {
+      "ENGTEXT": "carrot",
+      "RUSTEXT": "морковь",
+      "TRANSCRIPT": "ˈkærət"
+    },
+    {
+      "ENGTEXT": "cereal",
+      "RUSTEXT": "мюсли",
+      "TRANSCRIPT": "ˈsɪriəl"
+    },
+    {
+      "ENGTEXT": "chew ",
+      "RUSTEXT": "жевать",
+      "TRANSCRIPT": "ʧu"
+    },
+    {
+      "ENGTEXT": "chocolate",
+      "RUSTEXT": "шоколад",
+      "TRANSCRIPT": "'ˈtʃɑːklət"
+    },
+    {
+      "ENGTEXT": "coffee",
+      "RUSTEXT": "кофе",
+      "TRANSCRIPT": "ˈkɑfi"
+    },
+    {
+      "ENGTEXT": "cooked",
+      "RUSTEXT": "вареный",
+      "TRANSCRIPT": "kʊkt"
+    },
+    {
+      "ENGTEXT": "cooking",
+      "RUSTEXT": "готовка",
+      "TRANSCRIPT": "ˈkʊkɪŋ"
+    },
+    {
+      "ENGTEXT": "cornflakes",
+      "RUSTEXT": "хлопья",
+      "TRANSCRIPT": "kɔrnfleɪks"
+    },
+    {
+      "ENGTEXT": "cream",
+      "RUSTEXT": "сливки",
+      "TRANSCRIPT": "krim"
+    },
+    {
+      "ENGTEXT": "creamy",
+      "RUSTEXT": "сливочный",
+      "TRANSCRIPT": "ˈkrimi"
+    },
+    {
+      "ENGTEXT": "crisps ",
+      "RUSTEXT": "чипсы",
+      "TRANSCRIPT": "krɪsps"
+    },
+    {
+      "ENGTEXT": "croissant",
+      "RUSTEXT": "круассан",
+      "TRANSCRIPT": "'krwɑːsɑːŋ"
+    },
+    {
+      "ENGTEXT": "dessert ",
+      "RUSTEXT": "десерт",
+      "TRANSCRIPT": "dɪˈzɜrt"
+    },
+    {
+      "ENGTEXT": "dinner ",
+      "RUSTEXT": "ужин",
+      "TRANSCRIPT": "ˈdɪnər"
+    },
+    {
+      "ENGTEXT": "doughnut ",
+      "RUSTEXT": "пончик",
+      "TRANSCRIPT": "ˈdoʊˌnʌt"
+    },
+    {
+      "ENGTEXT": "for breakfast",
+      "RUSTEXT": "на завтрак",
+      "TRANSCRIPT": "fɔr ˈbrɛkfəst"
+    },
+    {
+      "ENGTEXT": "fresh",
+      "RUSTEXT": "свежий",
+      "TRANSCRIPT": "frɛʃ"
+    },
+    {
+      "ENGTEXT": "fry",
+      "RUSTEXT": "жарить",
+      "TRANSCRIPT": "fraɪ"
+    },
+    {
+      "ENGTEXT": "grape",
+      "RUSTEXT": "виноград",
+      "TRANSCRIPT": "greɪp"
+    },
+    {
+      "ENGTEXT": "grill ",
+      "RUSTEXT": "жарить на гриле",
+      "TRANSCRIPT": "grɪl"
+    },
+    {
+      "ENGTEXT": "ham",
+      "RUSTEXT": "ветчина",
+      "TRANSCRIPT": "hæm"
+    },
+    {
+      "ENGTEXT": "have a bite",
+      "RUSTEXT": "перекусить",
+      "TRANSCRIPT": ""
+    },
+    {
+      "ENGTEXT": "honey ",
+      "RUSTEXT": "мёд",
+      "TRANSCRIPT": "ˈhʌni"
+    },
+    {
+      "ENGTEXT": "hot ",
+      "RUSTEXT": "горячий",
+      "TRANSCRIPT": "hɑ:t"
+    },
+    {
+      "ENGTEXT": "ice ",
+      "RUSTEXT": "лед",
+      "TRANSCRIPT": "aɪs"
+    },
+    {
+      "ENGTEXT": "ketchup ",
+      "RUSTEXT": "кетчуп",
+      "TRANSCRIPT": "ˈkɛʧəp"
+    },
+    {
+      "ENGTEXT": "kiwi ",
+      "RUSTEXT": "киви",
+      "TRANSCRIPT": "ˈkiwi"
+    },
+    {
+      "ENGTEXT": "lemon ",
+      "RUSTEXT": "лимон",
+      "TRANSCRIPT": "ˈlɛmən"
+    },
+    {
+      "ENGTEXT": "lemonade ",
+      "RUSTEXT": "лимонад",
+      "TRANSCRIPT": "ˈlɛməˈneɪd"
+    },
+    {
+      "ENGTEXT": "liter",
+      "RUSTEXT": "литр",
+      "TRANSCRIPT": "ˈlitər"
+    },
+    {
+      "ENGTEXT": "loaf ",
+      "RUSTEXT": "буханка",
+      "TRANSCRIPT": "loʊf"
+    },
+    {
+      "ENGTEXT": "lump",
+      "RUSTEXT": "кусок",
+      "TRANSCRIPT": "lʌmp"
+    },
+    {
+      "ENGTEXT": "lunch",
+      "RUSTEXT": "обед",
+      "TRANSCRIPT": "lʌnʧ"
+    },
+    {
+      "ENGTEXT": "marmalade",
+      "RUSTEXT": "повидло",
+      "TRANSCRIPT": "ˈmɑrməˌleɪd"
+    },
+    {
+      "ENGTEXT": "mayonnaise ",
+      "RUSTEXT": "майонез",
+      "TRANSCRIPT": "ˈmeɪəˌneɪz"
+    },
+    {
+      "ENGTEXT": "meal",
+      "RUSTEXT": "еда",
+      "TRANSCRIPT": "mil"
+    },
+    {
+      "ENGTEXT": "menu ",
+      "RUSTEXT": "меню",
+      "TRANSCRIPT": "ˈmɛnju"
+    },
+    {
+      "ENGTEXT": "milk ",
+      "RUSTEXT": "молоко",
+      "TRANSCRIPT": "mɪlk"
+    },
+    {
+      "ENGTEXT": "mushroom",
+      "RUSTEXT": "гриб",
+      "TRANSCRIPT": "ˈmʌʃrum"
+    },
+    {
+      "ENGTEXT": "napkin",
+      "RUSTEXT": "салфетка",
+      "TRANSCRIPT": "ˈnæpkɪn"
+    },
+    {
+      "ENGTEXT": "nibble",
+      "RUSTEXT": "откусывать",
+      "TRANSCRIPT": "ˈnɪbəl"
+    },
+    {
+      "ENGTEXT": "orange",
+      "RUSTEXT": "апельсин",
+      "TRANSCRIPT": "ˈɔrənʤ"
+    },
+    {
+      "ENGTEXT": "pancake ",
+      "RUSTEXT": "блин",
+      "TRANSCRIPT": "ˈpænˌkeɪk"
+    },
+    {
+      "ENGTEXT": "pasta ",
+      "RUSTEXT": "паста (макароны)",
+      "TRANSCRIPT": "ˈpɑstə"
+    },
+    {
+      "ENGTEXT": "peach",
+      "RUSTEXT": "персик",
+      "TRANSCRIPT": "piʧ"
+    },
+    {
+      "ENGTEXT": "pear ",
+      "RUSTEXT": "груша",
+      "TRANSCRIPT": "pɛr"
+    },
+    {
+      "ENGTEXT": "pizza ",
+      "RUSTEXT": "пицца",
+      "TRANSCRIPT": "ˈpitsə"
+    },
+    {
+      "ENGTEXT": "plum ",
+      "RUSTEXT": "слива",
+      "TRANSCRIPT": "plʌm"
+    },
+    {
+      "ENGTEXT": "popcorn ",
+      "RUSTEXT": "попкорн",
+      "TRANSCRIPT": "ˈpɑpˌkɔrn"
+    },
+    {
+      "ENGTEXT": "pork ",
+      "RUSTEXT": "свинина",
+      "TRANSCRIPT": "pɔrk"
+    },
+    {
+      "ENGTEXT": "potato ",
+      "RUSTEXT": "картофель",
+      "TRANSCRIPT": "pəˈteɪˌtoʊ"
+    },
+    {
+      "ENGTEXT": "prawn ",
+      "RUSTEXT": "креветка",
+      "TRANSCRIPT": "prɔːn"
+    },
+    {
+      "ENGTEXT": "pub ",
+      "RUSTEXT": "паб",
+      "TRANSCRIPT": "pʌb"
+    },
+    {
+      "ENGTEXT": "pudding ",
+      "RUSTEXT": "пудинг",
+      "TRANSCRIPT": "ˈpʊdɪŋ"
+    },
+    {
+      "ENGTEXT": "rare ",
+      "RUSTEXT": "непрожаренный",
+      "TRANSCRIPT": "rɛr"
+    },
+    {
+      "ENGTEXT": "raw ",
+      "RUSTEXT": "сырой",
+      "TRANSCRIPT": "rɑ"
+    },
+    {
+      "ENGTEXT": "rice ",
+      "RUSTEXT": "рис",
+      "TRANSCRIPT": "raɪs"
+    },
+    {
+      "ENGTEXT": "ripe ",
+      "RUSTEXT": "спелый",
+      "TRANSCRIPT": "raɪp"
+    },
+    {
+      "ENGTEXT": "roast ",
+      "RUSTEXT": "запекать",
+      "TRANSCRIPT": "roʊst"
+    },
+    {
+      "ENGTEXT": "salad ",
+      "RUSTEXT": "салат",
+      "TRANSCRIPT": "ˈsæləd"
+    },
+    {
+      "ENGTEXT": "salami",
+      "RUSTEXT": "салями",
+      "TRANSCRIPT": "səˈlɑmi"
+    },
+    {
+      "ENGTEXT": "salmon",
+      "RUSTEXT": "лосось",
+      "TRANSCRIPT": "ˈsæmən"
+    },
+    {
+      "ENGTEXT": "salt",
+      "RUSTEXT": "соль",
+      "TRANSCRIPT": "sɔlt"
+    },
+    {
+      "ENGTEXT": "salty",
+      "RUSTEXT": "соленый",
+      "TRANSCRIPT": "ˈsɔlti"
+    },
+    {
+      "ENGTEXT": "sandwich",
+      "RUSTEXT": "сэндвич",
+      "TRANSCRIPT": "ˈsændwɪʧ"
+    },
+    {
+      "ENGTEXT": "sardine",
+      "RUSTEXT": "сардина",
+      "TRANSCRIPT": "sɑrˈdin"
+    },
+    {
+      "ENGTEXT": "sauce",
+      "RUSTEXT": "соус",
+      "TRANSCRIPT": "sɔs"
+    },
+    {
+      "ENGTEXT": "seafood",
+      "RUSTEXT": "морепродукты",
+      "TRANSCRIPT": "ˈsiˌfud"
+    },
+    {
+      "ENGTEXT": "slice",
+      "RUSTEXT": "ломтик",
+      "TRANSCRIPT": "slaɪs"
+    },
+    {
+      "ENGTEXT": "snack",
+      "RUSTEXT": "лёгкая закуска",
+      "TRANSCRIPT": "snæk"
+    },
+    {
+      "ENGTEXT": "soda",
+      "RUSTEXT": "газированная вода",
+      "TRANSCRIPT": "ˈsoʊdə"
+    },
+    {
+      "ENGTEXT": "sorbet ",
+      "RUSTEXT": "сорбет (сорбе)",
+      "TRANSCRIPT": "ˌsɔrˈbeɪ"
+    },
+    {
+      "ENGTEXT": "soup",
+      "RUSTEXT": "суп",
+      "TRANSCRIPT": "suːp"
+    },
+    {
+      "ENGTEXT": "sour",
+      "RUSTEXT": "кислый",
+      "TRANSCRIPT": "ˈsaʊər"
+    },
+    {
+      "ENGTEXT": "spice",
+      "RUSTEXT": "пряность",
+      "TRANSCRIPT": "spaɪs"
+    },
+    {
+      "ENGTEXT": "spicy",
+      "RUSTEXT": "острый",
+      "TRANSCRIPT": "ˈspaɪsi"
+    },
+    {
+      "ENGTEXT": "steak",
+      "RUSTEXT": "стейк",
+      "TRANSCRIPT": "steɪk"
+    },
+    {
+      "ENGTEXT": "stew",
+      "RUSTEXT": "рагу",
+      "TRANSCRIPT": "stjuː"
+    },
+    {
+      "ENGTEXT": "sweet",
+      "RUSTEXT": "сладкий",
+      "TRANSCRIPT": "swit"
+    },
+    {
+      "ENGTEXT": "take a sip",
+      "RUSTEXT": "прихлебнуть",
+      "TRANSCRIPT": ""
+    },
+    {
+      "ENGTEXT": "toast",
+      "RUSTEXT": "гренки",
+      "TRANSCRIPT": "toʊst"
+    },
+    {
+      "ENGTEXT": "trout",
+      "RUSTEXT": "форель",
+      "TRANSCRIPT": "traʊt"
+    },
+    {
+      "ENGTEXT": "tuna",
+      "RUSTEXT": "тунец",
+      "TRANSCRIPT": "ˈtunə"
+    }
+  ]
+}
