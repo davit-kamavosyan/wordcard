@@ -1,4 +1,4 @@
-﻿{
+{
   "mainItem": {
     "dictionaryGroups": [
       {
@@ -6,27 +6,51 @@
         "lib": {
           "items": [
             {
-              "title": "Напитки",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/populiar/napitki.txt",
+              "title": "Уровень Starter",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/starter.txt",
+              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/starter.png",
+              "description": "1135 слов"
+            },
+            {
+              "title": "Для путешествий",
+              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/tour4.jpg",
+"wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour2.txt",              "description": "100 слов"
+
+            },
+            {
+              "title": "Идиомы",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/napitki.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0003.jpg",
               "description": "100 слов"
             },
             {
-              "title": "Чувства и эмоции",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/populiar/chustva.txt",
-              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0004.jpg",
-              "description": "99 слов"
-            },
-            {
-              "title": "Одежда и обувь",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/populiar/odejda.txt",
+              "title": "Еда",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0001.jpeg",
               "description": "100 слов"
             },
             {
-              "title": "Еда",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/populiar/eda.txt",
-              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0002.jpg",
+              "title": "Одежда и обувь",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0001.jpeg",
+              "description": "100 слов"
+            },
+            {
+              "title": "Строение человека",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0001.jpeg",
+              "description": "100 слов"
+            },
+            {
+              "title": "Мебель",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0001.jpeg",
+              "description": "100 слов"
+            },
+            {
+              "title": "Семья",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0001.jpeg",
               "description": "100 слов"
             }
           ]
@@ -78,6 +102,13 @@
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0005.jpg",
               "description": "100 слов"
             },
+            
+            {
+              "title": "Чувства и эмоции",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0001.jpeg",
+              "description": "100 слов"
+            },
             {
               "title": "Архитектура",
               "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/life/life8.txt",
@@ -95,6 +126,12 @@
               "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/life/life10.txt",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/life0004.jpg",
               "description": "100 слов"
+            },
+            {
+              "title": "Напитки",
+              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/ovoshi.txt",
+              "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/populiar0002.jpg",
+              "description": "100 слов"
             }
           ]
         }
@@ -106,38 +143,39 @@
             {
               "title": "Mетро",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/tour5.jpg",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour1.txt",
+"wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour1.txt",
               "description": "46 слов"
+
             },
             {
               "title": "Для путешествий",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/tour4.jpg",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour2.txt",
-              "description": "100 слов"
+"wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour2.txt",              "description": "100 слов"
+
             },
             {
               "title": "Бронирование апартаментов",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/tour3.jpg",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour3.txt",
-              "description": "100 слов"
+"wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour3.txt",              "description": "100 слов"
+
             },
             {
               "title": "Ресторанные блюда",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/tour2.jpg",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour4.txt",
-              "description": "99 слов"
+"wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour4.txt",              "description": "99 слов"
+
             },
             {
               "title": "Национальности",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/tour6.jpg",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour5.txt",
-              "description": "200 слов"
+"wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour5.txt",              "description": "200 слов"
+
             },
             {
               "title": "Столицы",
               "imageUrl": "https://davit-kamavosyan.github.io/wordcard/images/tour1.jpg",
-              "wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour6.txt",
-              "description": "100 слов"
+"wordsUrl": "https://davit-kamavosyan.github.io/wordcard/ruseng/words/tour/tour6.txt",              "description": "100 слов"
+
             }
           ]
         }
