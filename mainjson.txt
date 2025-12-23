@@ -1,4 +1,4 @@
-﻿{
+{
   "wordcardslibs": {
     "title": "libs",
     "libs": [
@@ -13,13 +13,13 @@
           },
           {
             "Title": "Уровень Starter",
-            "URI": "https://davit-kamavosyan.github.io/wordcard/ruseng/starter.txt",
+            "URI": "https://davit-kamavosyan.github.io/wordcard/images2/starter.txt",
             "KEY": "english starter",
 "COUNT":"1150 Слов"
           },
 {
             "Title": "Уровень Elementary",
-            "URI": "https://davit-kamavosyan.github.io/wordcard/ruseng/elementary.txt",
+            "URI": "https://davit-kamavosyan.github.io/wordcard/ruseng/MMP1001.png",
             "KEY": "english elementary",
 "COUNT":"550 Слов"
           }
